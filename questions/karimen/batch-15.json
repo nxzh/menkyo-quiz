@@ -1,0 +1,662 @@
+[
+  {
+    "id": "K1-2-021",
+    "category": "矢印信号",
+    "kp": "1-2-1",
+    "group": "A",
+    "source": "教則 付表1（1）",
+    "question_type": "text",
+    "qf": "QF-1-2-1-A-N-11",
+    "question_ja": "青色の灯火の矢印では、車は黄色や赤色の灯火の信号であっても、矢印の方向に進むことができる。",
+    "answer": true,
+    "explanation_ja": "教則付表1（1）のとおりです。矢印は、その方向についてだけ通行を認めるものです。",
+    "i18n": {
+      "zh": {
+        "question": "绿色灯光箭头时，即使信号灯是黄灯或红灯，车辆也可以向箭头方向行驶。",
+        "explanation": "符合教则附表1（1）的规定。箭头只对该方向认可通行。"
+      },
+      "en": {
+        "question": "On a green arrow light a vehicle may go in the direction of the arrow even though the light is amber or red.",
+        "explanation": "This is Kyosoku Appendix 1(1). The arrow permits movement only in the direction it points."
+      },
+      "vi": {
+        "question": "Khi có đèn mũi tên xanh, xe được đi theo hướng mũi tên ngay cả khi đèn đang vàng hoặc đỏ.",
+        "explanation": "Đúng theo Kyosoku Phụ lục 1(1). Mũi tên chỉ cho phép đi theo đúng hướng nó chỉ."
+      },
+      "pt": {
+        "question": "Na seta verde o veículo pode seguir no sentido indicado mesmo que o sinal esteja amarelo ou vermelho.",
+        "explanation": "É o Kyosoku, Anexo 1(1). A seta permite o movimento apenas no sentido que aponta."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-2-022",
+    "category": "矢印信号",
+    "kp": "1-2-1",
+    "group": "A",
+    "source": "教則 付表1（1）",
+    "question_type": "text",
+    "qf": "QF-1-2-1-A-N-12",
+    "question_ja": "右向きの青色の灯火の矢印が表示されているときは、車は転回することもできる。",
+    "answer": true,
+    "explanation_ja": "教則付表1（1）のとおりです。右向きの矢印だけに認められた扱いです。",
+    "i18n": {
+      "zh": {
+        "question": "显示向右的绿色灯光箭头时，车辆也可以掉头。",
+        "explanation": "符合教则附表1（1）的规定。这是只对向右箭头认可的处理。"
+      },
+      "en": {
+        "question": "When a right-pointing green arrow is shown, a vehicle may also make a U-turn.",
+        "explanation": "This is Kyosoku Appendix 1(1). This applies to the right-pointing arrow alone."
+      },
+      "vi": {
+        "question": "Khi hiển thị đèn mũi tên xanh chỉ sang phải, xe còn được quay đầu.",
+        "explanation": "Đúng theo Kyosoku Phụ lục 1(1). Điều này chỉ áp dụng cho mũi tên chỉ sang phải."
+      },
+      "pt": {
+        "question": "Quando é exibida a seta verde apontando para a direita, o veículo também pode fazer retorno.",
+        "explanation": "É o Kyosoku, Anexo 1(1). Isso vale apenas para a seta voltada à direita."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-2-023",
+    "category": "矢印信号",
+    "kp": "1-2-1",
+    "group": "A",
+    "source": "教則 付表1（1）",
+    "question_type": "text",
+    "qf": "QF-1-2-1-A-N-13",
+    "question_ja": "右向きの青色の灯火の矢印の場合、二段階の右折方法により右折する一般原動機付自転車は、矢印の方向に進むことができない。",
+    "answer": true,
+    "explanation_ja": "教則付表1（1）のとおりです。特定小型原動機付自転車と軽車両も同じ扱いです。",
+    "i18n": {
+      "zh": {
+        "question": "在向右的绿色灯光箭头的情况下，采用二阶段右拐弯方法的一般轻型摩托车不能向箭头方向行驶。",
+        "explanation": "符合教则附表1（1）的规定。特定小型轻型摩托车和轻车辆也是同样的处理。"
+      },
+      "en": {
+        "question": "Where the green arrow points right, a general motorized bicycle (moped) making a two-step right turn may not go in the direction of the arrow.",
+        "explanation": "This is Kyosoku Appendix 1(1). Specified small motorized bicycles and light road vehicles are treated the same way."
+      },
+      "vi": {
+        "question": "Với đèn mũi tên xanh chỉ sang phải, xe gắn máy (原付) rẽ phải theo cách hai bước không được đi theo hướng mũi tên.",
+        "explanation": "Đúng theo Kyosoku Phụ lục 1(1). Xe gắn máy cỡ nhỏ đặc định và xe thô sơ cũng được xử lý như vậy."
+      },
+      "pt": {
+        "question": "Com a seta verde apontando à direita, o ciclomotor que converte em duas etapas não pode seguir no sentido da seta.",
+        "explanation": "É o Kyosoku, Anexo 1(1). Ciclomotores pequenos especificados e veículos leves recebem o mesmo tratamento."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-2-024",
+    "category": "矢印信号",
+    "kp": "1-2-1",
+    "group": "A",
+    "source": "教則 付表1（1）",
+    "question_type": "text",
+    "qf": "QF-1-2-1-A-N-14",
+    "question_ja": "黄色の灯火の矢印では、路面電車は矢印の方向に進むことができるが、歩行者や車は進んではいけない。",
+    "answer": true,
+    "explanation_ja": "教則付表1（1）のとおりです。黄色の矢印は、路面電車だけを対象としています。",
+    "i18n": {
+      "zh": {
+        "question": "黄色灯光箭头时，路面电车可以向箭头方向行驶，但步行者和车辆不得前行。",
+        "explanation": "符合教则附表1（1）的规定。黄色箭头只以路面电车为对象。"
+      },
+      "en": {
+        "question": "On a yellow arrow light a streetcar (tram) may go in the direction of the arrow, but pedestrians and vehicles must not proceed.",
+        "explanation": "This is Kyosoku Appendix 1(1). The yellow arrow is addressed to streetcars alone."
+      },
+      "vi": {
+        "question": "Khi có đèn mũi tên vàng, tàu điện mặt đất được đi theo hướng mũi tên, nhưng người đi bộ và xe cộ thì không được đi.",
+        "explanation": "Đúng theo Kyosoku Phụ lục 1(1). Mũi tên vàng chỉ dành riêng cho tàu điện mặt đất."
+      },
+      "pt": {
+        "question": "Na seta amarela o bonde pode seguir no sentido indicado, mas pedestres e veículos não devem avançar.",
+        "explanation": "É o Kyosoku, Anexo 1(1). A seta amarela se dirige somente aos bondes."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-2-025",
+    "category": "点滅信号",
+    "kp": "1-2-1",
+    "group": "A",
+    "source": "教則 付表1（1）",
+    "question_type": "text",
+    "qf": "QF-1-2-1-A-N-15",
+    "question_ja": "黄色の灯火の点滅では、車や路面電車は、他の交通に注意して進むことができる。",
+    "answer": true,
+    "explanation_ja": "教則付表1（1）のとおりです。歩行者も同じように、他の交通に注意して進むことができます。",
+    "i18n": {
+      "zh": {
+        "question": "黄灯闪烁时，车辆和路面电车可以注意其他交通后通行。",
+        "explanation": "符合教则附表1（1）的规定。步行者同样可以注意其他交通后通行。"
+      },
+      "en": {
+        "question": "On a flashing yellow light a vehicle or streetcar (tram) may proceed with care for other traffic.",
+        "explanation": "This is Kyosoku Appendix 1(1). Pedestrians may likewise proceed with care for other traffic."
+      },
+      "vi": {
+        "question": "Khi đèn vàng nhấp nháy, xe và tàu điện mặt đất được đi tiếp trong khi chú ý các phương tiện khác.",
+        "explanation": "Đúng theo Kyosoku Phụ lục 1(1). Người đi bộ cũng được đi tiếp với sự chú ý tương tự."
+      },
+      "pt": {
+        "question": "Na luz amarela intermitente o veículo ou bonde pode seguir com atenção ao restante do trânsito.",
+        "explanation": "É o Kyosoku, Anexo 1(1). Os pedestres também podem seguir com a mesma atenção."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-2-026",
+    "category": "点滅信号",
+    "kp": "1-2-1",
+    "group": "A",
+    "source": "教則 付表1（1）",
+    "question_type": "text",
+    "qf": "QF-1-2-1-A-N-16",
+    "question_ja": "赤色の灯火の点滅では、車や路面電車は停止位置で一時停止しなければならない。",
+    "answer": true,
+    "explanation_ja": "教則付表1（1）のとおりです。一時停止した後は、安全を確かめてから進みます。",
+    "i18n": {
+      "zh": {
+        "question": "红灯闪烁时，车辆和路面电车必须在停止位置暂停（一時停止）。",
+        "explanation": "符合教则附表1（1）的规定。暂停之后要确认安全再前行。"
+      },
+      "en": {
+        "question": "On a flashing red light a vehicle or streetcar (tram) must come to a complete stop (一時停止) at the stopping position.",
+        "explanation": "This is Kyosoku Appendix 1(1). After stopping you proceed once you have checked that it is safe."
+      },
+      "vi": {
+        "question": "Khi đèn đỏ nhấp nháy, xe và tàu điện mặt đất phải tạm dừng (一時停止) tại vị trí dừng.",
+        "explanation": "Đúng theo Kyosoku Phụ lục 1(1). Sau khi dừng, bạn đi tiếp khi đã kiểm tra an toàn."
+      },
+      "pt": {
+        "question": "Na luz vermelha intermitente o veículo ou bonde deve fazer parada obrigatória (一時停止) na posição de parada.",
+        "explanation": "É o Kyosoku, Anexo 1(1). Depois de parar, você segue quando tiver verificado a segurança."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-2-027",
+    "category": "点滅信号",
+    "kp": "1-2-1",
+    "group": "A",
+    "source": "教則 付表1（1）",
+    "question_type": "text",
+    "qf": "QF-1-2-1-A-N-17",
+    "question_ja": "赤色の灯火の点滅では、歩行者は他の交通に注意して進むことができる。",
+    "answer": true,
+    "explanation_ja": "教則付表1（1）のとおりです。一時停止が求められるのは車や路面電車です。",
+    "i18n": {
+      "zh": {
+        "question": "红灯闪烁时，步行者可以注意其他交通后通行。",
+        "explanation": "符合教则附表1（1）的规定。被要求暂停（一時停止）的是车辆和路面电车。"
+      },
+      "en": {
+        "question": "On a flashing red light a pedestrian may proceed with care for other traffic.",
+        "explanation": "This is Kyosoku Appendix 1(1). It is vehicles and streetcars (trams) that must come to a complete stop (一時停止)."
+      },
+      "vi": {
+        "question": "Khi đèn đỏ nhấp nháy, người đi bộ được đi tiếp trong khi chú ý các phương tiện khác.",
+        "explanation": "Đúng theo Kyosoku Phụ lục 1(1). Xe và tàu điện mặt đất mới là bên phải tạm dừng (一時停止)."
+      },
+      "pt": {
+        "question": "Na luz vermelha intermitente o pedestre pode seguir com atenção ao restante do trânsito.",
+        "explanation": "É o Kyosoku, Anexo 1(1). Quem deve fazer parada obrigatória (一時停止) são os veículos e bondes."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-2-028",
+    "category": "歩行者用信号",
+    "kp": "1-2-1",
+    "group": "A",
+    "source": "教則 付表1（1）",
+    "question_type": "text",
+    "qf": "QF-1-2-1-A-N-18",
+    "question_ja": "人の形の記号がある青色の灯火の点滅では、横断中の歩行者は速やかに横断を終わるか、横断をやめて引き返さなければならない。",
+    "answer": true,
+    "explanation_ja": "教則付表1（1）のとおりです。まだ横断を始めていない歩行者は、横断を始めてはいけません。",
+    "i18n": {
+      "zh": {
+        "question": "有人形符号的绿灯闪烁时，正在横穿的步行者必须迅速完成横穿，或者停止横穿返回。",
+        "explanation": "符合教则附表1（1）的规定。尚未开始横穿的步行者不得开始横穿。"
+      },
+      "en": {
+        "question": "On a flashing green light with a figure symbol, a pedestrian already crossing must finish promptly or give up and turn back.",
+        "explanation": "This is Kyosoku Appendix 1(1). A pedestrian who has not yet started must not begin crossing."
+      },
+      "vi": {
+        "question": "Khi đèn xanh có hình người nhấp nháy, người đi bộ đang băng qua phải nhanh chóng đi hết hoặc bỏ dở và quay lại.",
+        "explanation": "Đúng theo Kyosoku Phụ lục 1(1). Người chưa bắt đầu thì không được bắt đầu băng qua."
+      },
+      "pt": {
+        "question": "Na luz verde intermitente com o símbolo de pedestre, quem já está atravessando deve concluir depressa ou desistir e voltar.",
+        "explanation": "É o Kyosoku, Anexo 1(1). Quem ainda não começou não deve iniciar a travessia."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-2-029",
+    "category": "歩行者・自転車専用",
+    "kp": "1-2-1",
+    "group": "A",
+    "source": "教則 付表1（2）",
+    "question_type": "text",
+    "qf": "QF-1-2-1-A-N-19",
+    "question_ja": "「歩行者・自転車専用」と表示されている信号機の人の形の記号がある青色の灯火では、特定小型原動機付自転車と自転車は直進し、左折することができる。",
+    "answer": true,
+    "explanation_ja": "教則付表1（2）のとおりです。右折するときは、右折する地点まで直進してその地点で向きを変えることまでです。",
+    "i18n": {
+      "zh": {
+        "question": "在标有「步行者・自行车专用」的信号机上，有人形符号的绿灯时，特定小型轻型摩托车和自行车可以直行和左拐弯。",
+        "explanation": "符合教则附表1（2）的规定。右拐弯时只能直行到右拐弯地点并在该地点改变方向。"
+      },
+      "en": {
+        "question": "On a light marked Pedestrians and bicycles only, the green light with a figure symbol lets a specified small motorized bicycle and a bicycle go straight on and turn left.",
+        "explanation": "This is Kyosoku Appendix 1(2). To turn right they go straight to the turning point and change direction there."
+      },
+      "vi": {
+        "question": "Trên đèn có ghi Dành riêng cho người đi bộ và xe đạp, đèn xanh có hình người cho phép xe gắn máy cỡ nhỏ đặc định và xe đạp đi thẳng và rẽ trái.",
+        "explanation": "Đúng theo Kyosoku Phụ lục 1(2). Để rẽ phải, chúng đi thẳng tới điểm rẽ rồi đổi hướng tại đó."
+      },
+      "pt": {
+        "question": "No semáforo marcado Exclusivo para pedestres e bicicletas, a luz verde com símbolo de pedestre permite ao ciclomotor pequeno especificado e à bicicleta seguir em frente e converter à esquerda.",
+        "explanation": "É o Kyosoku, Anexo 1(2). Para converter à direita, seguem reto até o ponto de conversão e mudam de direção ali."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-2-030",
+    "category": "歩行者用信号",
+    "kp": "1-2-1",
+    "group": "A",
+    "source": "教則 付表1（1）",
+    "question_type": "text",
+    "qf": "QF-1-2-1-A-N-20",
+    "question_ja": "人の形の記号がある赤色の灯火では、横断歩道を進行しようとする普通自転車は、横断を始めてはいけない。",
+    "answer": true,
+    "explanation_ja": "教則付表1（1）のとおりです。歩行者は横断してはいけません。",
+    "i18n": {
+      "zh": {
+        "question": "有人形符号的红灯时，准备通行人行横道的普通自行车不得开始横穿。",
+        "explanation": "符合教则附表1（1）的规定。步行者不得横穿。"
+      },
+      "en": {
+        "question": "On a red light with a figure symbol, an ordinary bicycle about to use the pedestrian crossing must not begin crossing.",
+        "explanation": "This is Kyosoku Appendix 1(1). Pedestrians must not cross."
+      },
+      "vi": {
+        "question": "Khi đèn đỏ có hình người, xe đạp thường sắp đi qua vạch sang đường không được bắt đầu băng qua.",
+        "explanation": "Đúng theo Kyosoku Phụ lục 1(1). Người đi bộ thì không được băng qua."
+      },
+      "pt": {
+        "question": "Na luz vermelha com símbolo de pedestre, a bicicleta comum prestes a usar a faixa não deve iniciar a travessia.",
+        "explanation": "É o Kyosoku, Anexo 1(1). Os pedestres não devem atravessar."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-2-031",
+    "category": "点滅信号",
+    "kp": "1-2-1",
+    "group": "A",
+    "source": "教則 付表1（1）",
+    "question_type": "text",
+    "qf": "QF-1-2-1-D-SW-03",
+    "question_ja": "赤色の灯火の点滅では、車は他の交通に注意して進むことができる。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則付表1（1）により、赤色の灯火の点滅では車は停止位置で一時停止しなければなりません。",
+    "i18n": {
+      "zh": {
+        "question": "红灯闪烁时，车辆可以注意其他交通后通行。",
+        "explanation": "错误。根据教则附表1（1），红灯闪烁时车辆必须在停止位置暂停（一時停止）。"
+      },
+      "en": {
+        "question": "On a flashing red light a vehicle may proceed with care for other traffic.",
+        "explanation": "This is wrong. Under Kyosoku Appendix 1(1) a vehicle must come to a complete stop (一時停止) at the stopping position on a flashing red light."
+      },
+      "vi": {
+        "question": "Khi đèn đỏ nhấp nháy, xe được đi tiếp trong khi chú ý các phương tiện khác.",
+        "explanation": "Sai. Theo Kyosoku Phụ lục 1(1), khi đèn đỏ nhấp nháy xe phải tạm dừng (一時停止) tại vị trí dừng."
+      },
+      "pt": {
+        "question": "Na luz vermelha intermitente o veículo pode seguir com atenção ao restante do trânsito.",
+        "explanation": "Está errado. Pelo Kyosoku, Anexo 1(1), na vermelha intermitente o veículo deve fazer parada obrigatória (一時停止) na posição de parada."
+      }
+    },
+    "trap_type": "SW",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-2-032",
+    "category": "点滅信号",
+    "kp": "1-2-1",
+    "group": "A",
+    "source": "教則 付表1（1）",
+    "question_type": "text",
+    "qf": "QF-1-2-1-D-SW-04",
+    "question_ja": "黄色の灯火の点滅では、車は停止位置で一時停止しなければならない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則付表1（1）により、黄色の灯火の点滅では他の交通に注意して進むことができます。",
+    "i18n": {
+      "zh": {
+        "question": "黄灯闪烁时，车辆必须在停止位置暂停（一時停止）。",
+        "explanation": "错误。根据教则附表1（1），黄灯闪烁时可以注意其他交通后通行。"
+      },
+      "en": {
+        "question": "On a flashing yellow light a vehicle must come to a complete stop (一時停止) at the stopping position.",
+        "explanation": "This is wrong. Under Kyosoku Appendix 1(1) you may proceed with care for other traffic on a flashing yellow light."
+      },
+      "vi": {
+        "question": "Khi đèn vàng nhấp nháy, xe phải tạm dừng (一時停止) tại vị trí dừng.",
+        "explanation": "Sai. Theo Kyosoku Phụ lục 1(1), khi đèn vàng nhấp nháy bạn được đi tiếp trong khi chú ý các phương tiện khác."
+      },
+      "pt": {
+        "question": "Na luz amarela intermitente o veículo deve fazer parada obrigatória (一時停止) na posição de parada.",
+        "explanation": "Está errado. Pelo Kyosoku, Anexo 1(1), na amarela intermitente você pode seguir com atenção ao restante do trânsito."
+      }
+    },
+    "trap_type": "SW",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-2-033",
+    "category": "矢印信号",
+    "kp": "1-2-1",
+    "group": "A",
+    "source": "教則 付表1（1）",
+    "question_type": "text",
+    "qf": "QF-1-2-1-D-EI-03",
+    "question_ja": "黄色の灯火の矢印では、車も矢印の方向に進むことができる。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則付表1（1）により、黄色の灯火の矢印で進むことができるのは路面電車だけです。",
+    "i18n": {
+      "zh": {
+        "question": "黄色灯光箭头时，车辆也可以向箭头方向行驶。",
+        "explanation": "错误。根据教则附表1（1），黄色灯光箭头时能够前行的只有路面电车。"
+      },
+      "en": {
+        "question": "On a yellow arrow light a vehicle may also go in the direction of the arrow.",
+        "explanation": "This is wrong. Under Kyosoku Appendix 1(1) only a streetcar (tram) may go in the direction of a yellow arrow."
+      },
+      "vi": {
+        "question": "Khi có đèn mũi tên vàng, xe cũng được đi theo hướng mũi tên.",
+        "explanation": "Sai. Theo Kyosoku Phụ lục 1(1), chỉ tàu điện mặt đất mới được đi theo hướng mũi tên vàng."
+      },
+      "pt": {
+        "question": "Na seta amarela o veículo também pode seguir no sentido indicado.",
+        "explanation": "Está errado. Pelo Kyosoku, Anexo 1(1), apenas o bonde pode seguir no sentido da seta amarela."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-2-034",
+    "category": "矢印信号",
+    "kp": "1-2-1",
+    "group": "A",
+    "source": "教則 付表1（1）",
+    "question_type": "text",
+    "qf": "QF-1-2-1-D-EO-02",
+    "question_ja": "青色の灯火の矢印では、すべての車が矢印の方向に進むことができる。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則付表1（1）により、右向きの矢印の場合は、特定小型原動機付自転車、軽車両や二段階の右折方法により右折する一般原動機付自転車は進むことができません。",
+    "i18n": {
+      "zh": {
+        "question": "绿色灯光箭头时，所有车辆都可以向箭头方向行驶。",
+        "explanation": "错误。根据教则附表1（1），在向右箭头的情况下，特定小型轻型摩托车、轻车辆以及采用二阶段右拐弯方法的一般轻型摩托车不能前行。"
+      },
+      "en": {
+        "question": "On a green arrow light every vehicle may go in the direction of the arrow.",
+        "explanation": "This is wrong. Under Kyosoku Appendix 1(1), where the arrow points right, specified small motorized bicycles, light road vehicles and mopeds making a two-step right turn may not go."
+      },
+      "vi": {
+        "question": "Khi có đèn mũi tên xanh, mọi xe đều được đi theo hướng mũi tên.",
+        "explanation": "Sai. Theo Kyosoku Phụ lục 1(1), với mũi tên chỉ sang phải thì xe gắn máy cỡ nhỏ đặc định, xe thô sơ và xe gắn máy rẽ phải hai bước không được đi."
+      },
+      "pt": {
+        "question": "Na seta verde todo veículo pode seguir no sentido indicado.",
+        "explanation": "Está errado. Pelo Kyosoku, Anexo 1(1), com a seta à direita, ciclomotores pequenos especificados, veículos leves e ciclomotores em conversão de duas etapas não podem seguir."
+      }
+    },
+    "trap_type": "EO",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-2-035",
+    "category": "矢印信号",
+    "kp": "1-2-1",
+    "group": "A",
+    "source": "教則 付表1（1）",
+    "question_type": "text",
+    "qf": "QF-1-2-1-D-NR-02",
+    "question_ja": "右向きの青色の灯火の矢印が表示されていても、車が転回することはできない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則付表1（1）により、右向きの矢印の場合には転回することもできます。",
+    "i18n": {
+      "zh": {
+        "question": "即使显示向右的绿色灯光箭头，车辆也不能掉头。",
+        "explanation": "错误。根据教则附表1（1），向右箭头的情况下也可以掉头。"
+      },
+      "en": {
+        "question": "Even when a right-pointing green arrow is shown, a vehicle may not make a U-turn.",
+        "explanation": "This is wrong. Under Kyosoku Appendix 1(1) a U-turn is also permitted where the arrow points right."
+      },
+      "vi": {
+        "question": "Ngay cả khi hiển thị đèn mũi tên xanh chỉ sang phải, xe vẫn không được quay đầu.",
+        "explanation": "Sai. Theo Kyosoku Phụ lục 1(1), với mũi tên chỉ sang phải thì việc quay đầu cũng được phép."
+      },
+      "pt": {
+        "question": "Mesmo com a seta verde apontando à direita, o veículo não pode fazer retorno.",
+        "explanation": "Está errado. Pelo Kyosoku, Anexo 1(1), com a seta à direita o retorno também é permitido."
+      }
+    },
+    "trap_type": "NR",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-2-036",
+    "category": "点滅信号",
+    "kp": "1-2-1",
+    "group": "A",
+    "source": "教則 付表1（1）",
+    "question_type": "text",
+    "qf": "QF-1-2-1-D-EI-04",
+    "question_ja": "赤色の灯火の点滅では、停止位置で一時停止しさえすれば、交差する道路を通行する車より先に進んでよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。一時停止したうえで安全を確かめる必要があり、交差する道路の車の進行を妨げてはいけません（道交法第43条）。",
+    "i18n": {
+      "zh": {
+        "question": "红灯闪烁时，只要在停止位置暂停（一時停止），就可以抢在交叉道路上行驶的车辆之前通过。",
+        "explanation": "错误。暂停之后还必须确认安全，不得妨碍交叉道路上车辆的通行（道交法第43条）。"
+      },
+      "en": {
+        "question": "On a flashing red light you may go ahead of vehicles on the crossing road as long as you have come to a complete stop (一時停止) at the stopping position.",
+        "explanation": "This is wrong. After stopping you must check that it is safe, and you must not obstruct the progress of vehicles on the crossing road (Road Traffic Act Article 43)."
+      },
+      "vi": {
+        "question": "Khi đèn đỏ nhấp nháy, chỉ cần bạn đã tạm dừng (一時停止) tại vị trí dừng là được đi trước xe trên đường giao cắt.",
+        "explanation": "Sai. Sau khi dừng bạn còn phải kiểm tra an toàn và không được cản trở xe trên đường giao cắt (Điều 43 Luật Giao thông đường bộ)."
+      },
+      "pt": {
+        "question": "Na vermelha intermitente você pode passar à frente dos veículos da via transversal desde que tenha feito parada obrigatória (一時停止) na posição de parada.",
+        "explanation": "Está errado. Depois de parar é preciso verificar a segurança, e não se deve obstruir a passagem dos veículos da via transversal (Artigo 43 da Lei de Trânsito)."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-2-037",
+    "category": "歩行者用信号",
+    "kp": "1-2-1",
+    "group": "A",
+    "source": "教則 付表1（2）",
+    "question_type": "text",
+    "qf": "QF-1-2-1-D-NR-03",
+    "question_ja": "人の形の記号がある信号は歩行者に対するものなので、自転車がこれに従うことはない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則付表1（2）により、その信号機に「歩行者・自転車専用」と表示されている場合は、特定小型原動機付自転車と自転車もその信号に従わなければなりません。",
+    "i18n": {
+      "zh": {
+        "question": "有人形符号的信号是针对步行者的，所以自行车不会需要服从。",
+        "explanation": "错误。根据教则附表1（2），该信号机上标有「步行者・自行车专用」时，特定小型轻型摩托车和自行车也必须服从该信号。"
+      },
+      "en": {
+        "question": "A light with a figure symbol is addressed to pedestrians, so a bicycle never has to follow it.",
+        "explanation": "This is wrong. Under Kyosoku Appendix 1(2), where the light is marked Pedestrians and bicycles only, specified small motorized bicycles and bicycles must follow it too."
+      },
+      "vi": {
+        "question": "Đèn có hình người là dành cho người đi bộ, nên xe đạp không bao giờ phải tuân theo.",
+        "explanation": "Sai. Theo Kyosoku Phụ lục 1(2), khi đèn có ghi Dành riêng cho người đi bộ và xe đạp thì xe gắn máy cỡ nhỏ đặc định và xe đạp cũng phải tuân theo."
+      },
+      "pt": {
+        "question": "A luz com símbolo de pedestre se dirige aos pedestres, então a bicicleta nunca precisa obedecê-la.",
+        "explanation": "Está errado. Pelo Kyosoku, Anexo 1(2), quando o semáforo está marcado Exclusivo para pedestres e bicicletas, ciclomotores pequenos especificados e bicicletas também devem obedecê-lo."
+      }
+    },
+    "trap_type": "NR",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-2-038",
+    "category": "矢印信号",
+    "kp": "1-2-1",
+    "group": "A",
+    "source": "教則 付表1（1）",
+    "question_type": "text",
+    "qf": "QF-1-2-1-D-EI-05",
+    "question_ja": "青色の灯火の矢印が表示されているときは、矢印の方向以外にも進むことができる。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則付表1（1）により、進むことができるのは矢印の方向だけです。",
+    "i18n": {
+      "zh": {
+        "question": "显示绿色灯光箭头时，也可以向箭头方向以外的方向行驶。",
+        "explanation": "错误。根据教则附表1（1），能够行驶的只有箭头所示的方向。"
+      },
+      "en": {
+        "question": "When a green arrow is shown you may also go in directions other than the arrow.",
+        "explanation": "This is wrong. Under Kyosoku Appendix 1(1) you may go only in the direction of the arrow."
+      },
+      "vi": {
+        "question": "Khi hiển thị đèn mũi tên xanh, bạn cũng được đi theo hướng khác ngoài hướng mũi tên.",
+        "explanation": "Sai. Theo Kyosoku Phụ lục 1(1), bạn chỉ được đi theo hướng mũi tên."
+      },
+      "pt": {
+        "question": "Quando a seta verde é exibida você também pode seguir em direções diferentes da indicada.",
+        "explanation": "Está errado. Pelo Kyosoku, Anexo 1(1), só se pode seguir no sentido da seta."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-2-039",
+    "category": "点滅信号",
+    "kp": "1-2-1",
+    "group": "A",
+    "source": "教則 付表1（1）",
+    "question_type": "text",
+    "qf": "QF-1-2-1-D-SC-02",
+    "question_ja": "前方の信号が赤色の灯火の点滅だったが、交差する道路に車が見えなかったので、速度を落としただけで通過した。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則付表1（1）により、赤色の灯火の点滅では停止位置で一時停止しなければなりません。",
+    "i18n": {
+      "zh": {
+        "question": "前方信号灯是红灯闪烁，但因为交叉道路上没看到车辆，就只是减速通过了。",
+        "explanation": "错误。根据教则附表1（1），红灯闪烁时必须在停止位置暂停（一時停止）。"
+      },
+      "en": {
+        "question": "The light ahead was flashing red, but you only slowed down and went through because you saw no vehicles on the crossing road.",
+        "explanation": "This is wrong. Under Kyosoku Appendix 1(1) you must come to a complete stop (一時停止) at the stopping position on a flashing red light."
+      },
+      "vi": {
+        "question": "Đèn phía trước đang đỏ nhấp nháy, nhưng vì không thấy xe nào trên đường giao cắt nên bạn chỉ giảm tốc rồi đi qua.",
+        "explanation": "Sai. Theo Kyosoku Phụ lục 1(1), khi đèn đỏ nhấp nháy bạn phải tạm dừng (一時停止) tại vị trí dừng."
+      },
+      "pt": {
+        "question": "O sinal à frente estava em vermelho intermitente, mas você apenas reduziu e passou porque não via veículos na via transversal.",
+        "explanation": "Está errado. Pelo Kyosoku, Anexo 1(1), na vermelha intermitente é preciso fazer parada obrigatória (一時停止) na posição de parada."
+      }
+    },
+    "trap_type": "SC",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-2-040",
+    "category": "歩行者・自転車専用",
+    "kp": "1-2-1",
+    "group": "A",
+    "source": "教則 付表1（2）",
+    "question_type": "text",
+    "qf": "QF-1-2-1-D-EO-03",
+    "question_ja": "「歩行者・自転車専用」の信号機で人の形の記号がある青色の灯火が点滅しているときは、自転車は横断を始めてはいけない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則付表1（2）により、点滅に変わったときに停止位置に近づいていて安全に停止することができない場合は、そのまま進むことができます。",
+    "i18n": {
+      "zh": {
+        "question": "在「步行者・自行车专用」的信号机上有人形符号的绿灯闪烁时，自行车不得开始横穿。",
+        "explanation": "错误。根据教则附表1（2），变为闪烁时已接近停止位置、无法安全停车的情况下，可以继续前行。"
+      },
+      "en": {
+        "question": "Where the light marked Pedestrians and bicycles only shows a flashing green with a figure symbol, a bicycle must not begin crossing.",
+        "explanation": "This is wrong. Under Kyosoku Appendix 1(2), a bicycle that was close to the stopping position when it began flashing and cannot stop safely may carry on."
+      },
+      "vi": {
+        "question": "Khi đèn Dành riêng cho người đi bộ và xe đạp hiển thị đèn xanh có hình người đang nhấp nháy, xe đạp không được bắt đầu băng qua.",
+        "explanation": "Sai. Theo Kyosoku Phụ lục 1(2), xe đạp đã tới gần vị trí dừng lúc đèn bắt đầu nhấp nháy và không dừng an toàn được thì vẫn đi tiếp."
+      },
+      "pt": {
+        "question": "Quando o semáforo Exclusivo para pedestres e bicicletas mostra verde intermitente com símbolo de pedestre, a bicicleta não deve iniciar a travessia.",
+        "explanation": "Está errado. Pelo Kyosoku, Anexo 1(2), a bicicleta que já estava perto da posição de parada quando começou a piscar e não consegue parar com segurança pode seguir."
+      }
+    },
+    "trap_type": "EO",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免|外免"
+  }
+]

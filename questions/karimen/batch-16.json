@@ -1,0 +1,662 @@
+[
+  {
+    "id": "K1-2-041",
+    "category": "信号の見方",
+    "kp": "1-2-1",
+    "group": "A",
+    "source": "教則 第1章第2節1(2)",
+    "question_type": "text",
+    "qf": "QF-1-2-1-A-N-21",
+    "question_ja": "信号機の信号は前方の信号を見るようにし、横の信号が赤であっても前方の信号が青であるとは限らないことに注意する。",
+    "answer": true,
+    "explanation_ja": "教則第1章第2節1(2)のとおりです。全方向が一時的に赤になる信号もあります。",
+    "i18n": {
+      "zh": {
+        "question": "要看前方的信号灯，并注意即使侧面的信号灯是红灯，前方的信号灯也未必就是绿灯。",
+        "explanation": "符合教则第1章第2节1(2)的规定。也有全方向一时都变红的信号灯。"
+      },
+      "en": {
+        "question": "Watch the light ahead of you, and bear in mind that the light ahead is not necessarily green just because the one to the side has turned red.",
+        "explanation": "This is Kyosoku Chapter 1 Section 2 item 1(2). Some lights turn red in every direction for a moment."
+      },
+      "vi": {
+        "question": "Hãy nhìn đèn phía trước bạn, và nhớ rằng đèn phía trước không nhất thiết đã xanh chỉ vì đèn bên hông đã chuyển đỏ.",
+        "explanation": "Đúng theo Kyosoku Chương 1 Mục 2 điểm 1(2). Có loại đèn chuyển đỏ mọi hướng trong chốc lát."
+      },
+      "pt": {
+        "question": "Observe o sinal à sua frente e lembre-se de que ele não está necessariamente verde só porque o da lateral ficou vermelho.",
+        "explanation": "É o Kyosoku, Capítulo 1, Seção 2, item 1(2). Há semáforos que ficam vermelhos em todos os sentidos por um instante."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-2-042",
+    "category": "信号の見方",
+    "kp": "1-2-1",
+    "group": "A",
+    "source": "教則 第1章第2節1(2)",
+    "question_type": "text",
+    "qf": "QF-1-2-1-A-N-22",
+    "question_ja": "時差式信号機のように、特定の方向の信号が赤に変わる時間をずらせているものもある。",
+    "answer": true,
+    "explanation_ja": "教則第1章第2節1(2)のとおりです。だからこそ、横の信号ではなく前方の信号を見ます。",
+    "i18n": {
+      "zh": {
+        "question": "也有像时差式信号机那样，把特定方向的信号灯变红的时间错开的信号灯。",
+        "explanation": "符合教则第1章第2节1(2)的规定。正因如此，要看的是前方的信号灯而不是侧面的。"
+      },
+      "en": {
+        "question": "Some lights, such as staggered-phase signals, delay the moment when the light for one particular direction turns red.",
+        "explanation": "This is Kyosoku Chapter 1 Section 2 item 1(2). That is exactly why you watch the light ahead rather than the one to the side."
+      },
+      "vi": {
+        "question": "Có loại đèn, như đèn lệch pha, làm chậm thời điểm đèn của một hướng nhất định chuyển đỏ.",
+        "explanation": "Đúng theo Kyosoku Chương 1 Mục 2 điểm 1(2). Chính vì vậy bạn nhìn đèn phía trước chứ không nhìn đèn bên hông."
+      },
+      "pt": {
+        "question": "Há semáforos, como os de fase defasada, que atrasam o momento em que o sinal de um sentido específico fica vermelho.",
+        "explanation": "É o Kyosoku, Capítulo 1, Seção 2, item 1(2). É justamente por isso que se olha o sinal à frente, e não o da lateral."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-2-043",
+    "category": "標示板",
+    "kp": "1-2-1",
+    "group": "A",
+    "source": "教則 第1章第2節1(3)",
+    "question_type": "text",
+    "qf": "QF-1-2-1-A-N-23",
+    "question_ja": "「バス専用」などの標示板のある信号機の信号は、その標示板に示されている車を対象としている。",
+    "answer": true,
+    "explanation_ja": "教則第1章第2節1(3)のとおりです。車や歩行者に対して信号が特定されているときは、その特定された信号に従います。",
+    "i18n": {
+      "zh": {
+        "question": "设有「公交专用」等标示牌的信号机的信号，以该标示牌所示的车辆为对象。",
+        "explanation": "符合教则第1章第2节1(3)的规定。信号被特定为针对某些车辆或步行者时，就要服从该被特定的信号。"
+      },
+      "en": {
+        "question": "A light carrying a plate such as Buses only is addressed to the vehicles named on that plate.",
+        "explanation": "This is Kyosoku Chapter 1 Section 2 item 1(3). Where a light is specified for particular vehicles or pedestrians, you follow that specified light."
+      },
+      "vi": {
+        "question": "Đèn có gắn bảng như Dành riêng cho xe buýt là dành cho loại xe ghi trên bảng đó.",
+        "explanation": "Đúng theo Kyosoku Chương 1 Mục 2 điểm 1(3). Khi đèn được chỉ định riêng cho một số xe hay người đi bộ, bạn tuân theo đèn được chỉ định đó."
+      },
+      "pt": {
+        "question": "O semáforo com placa como Somente ônibus dirige-se aos veículos indicados nessa placa.",
+        "explanation": "É o Kyosoku, Capítulo 1, Seção 2, item 1(3). Quando o sinal é especificado para certos veículos ou pedestres, segue-se o sinal especificado."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-2-044",
+    "category": "左折可",
+    "kp": "1-2-1",
+    "group": "A",
+    "source": "教則 第1章第2節1(4)",
+    "question_type": "text",
+    "qf": "QF-1-2-1-A-N-24",
+    "question_ja": "道路の左端や信号機に白地に青の左向きの矢印の標示板があるときは、車は前方の信号が赤や黄であっても、周りの交通に注意しながら左折することができる。",
+    "answer": true,
+    "explanation_ja": "教則第1章第2節1(4)のとおりです。この標示板は、教則付表2（2）の「左折可」です。",
+    "i18n": {
+      "zh": {
+        "question": "道路左端或信号机上设有白底蓝色左向箭头标示牌时，即使前方信号灯是红灯或黄灯，车辆也可以在注意周围交通的同时左拐弯。",
+        "explanation": "符合教则第1章第2节1(4)的规定。该标示牌是教则附表2（2）的「可以左拐弯」。"
+      },
+      "en": {
+        "question": "Where a plate with a blue left-pointing arrow on white stands at the left edge of the road or on the signal, a vehicle may turn left with care for the surrounding traffic even though the light ahead is red or amber.",
+        "explanation": "This is Kyosoku Chapter 1 Section 2 item 1(4). The plate is the Left turn permitted sign in Kyosoku Appendix 2(2)."
+      },
+      "vi": {
+        "question": "Khi ở mép trái đường hoặc trên cột đèn có bảng mũi tên xanh chỉ sang trái trên nền trắng, xe được rẽ trái trong khi chú ý các phương tiện xung quanh dù đèn phía trước đang đỏ hoặc vàng.",
+        "explanation": "Đúng theo Kyosoku Chương 1 Mục 2 điểm 1(4). Bảng này là biển Được phép rẽ trái ở Kyosoku Phụ lục 2(2)."
+      },
+      "pt": {
+        "question": "Quando há uma placa com seta azul apontando à esquerda sobre fundo branco na borda esquerda da via ou no semáforo, o veículo pode converter à esquerda com atenção ao trânsito ao redor mesmo com o sinal à frente vermelho ou amarelo.",
+        "explanation": "É o Kyosoku, Capítulo 1, Seção 2, item 1(4). Essa placa é a de Conversão à esquerda permitida do Anexo 2(2)."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-2-045",
+    "category": "左折可",
+    "kp": "1-2-1",
+    "group": "A",
+    "source": "教則 第1章第2節1(4)",
+    "question_type": "text",
+    "qf": "QF-1-2-1-A-N-25",
+    "question_ja": "左向きの矢印の標示板によって左折するときは、信号機の信号に従って横断している歩行者や自転車の通行を妨げてはいけない。",
+    "answer": true,
+    "explanation_ja": "教則第1章第2節1(4)のとおりです。左折できるというだけで、優先されるわけではありません。",
+    "i18n": {
+      "zh": {
+        "question": "依据左向箭头标示牌左拐弯时，不得妨碍按信号灯横穿的步行者和自行车通行。",
+        "explanation": "符合教则第1章第2节1(4)的规定。这只是可以左拐弯，并不意味着享有优先。"
+      },
+      "en": {
+        "question": "When you turn left on the strength of the left-arrow plate, you must not obstruct pedestrians or bicycles crossing on the signal.",
+        "explanation": "This is Kyosoku Chapter 1 Section 2 item 1(4). You may turn, but that does not give you priority."
+      },
+      "vi": {
+        "question": "Khi rẽ trái dựa vào bảng mũi tên trái, bạn không được cản trở người đi bộ hay xe đạp đang băng qua theo đèn tín hiệu.",
+        "explanation": "Đúng theo Kyosoku Chương 1 Mục 2 điểm 1(4). Bạn được rẽ, nhưng điều đó không cho bạn quyền ưu tiên."
+      },
+      "pt": {
+        "question": "Ao converter à esquerda com base na placa de seta, você não deve obstruir pedestres ou bicicletas que atravessam conforme o semáforo.",
+        "explanation": "É o Kyosoku, Capítulo 1, Seção 2, item 1(4). Você pode virar, mas isso não lhe dá preferência."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-2-046",
+    "category": "標識の意味",
+    "kp": "1-2-2",
+    "group": "C",
+    "source": "教則 第1章第2節2(1)",
+    "question_type": "text",
+    "qf": "QF-1-2-2-A-N-01",
+    "question_ja": "標識とは交通規制などを示す標示板のことをいい、本標識と補助標識がある。",
+    "answer": true,
+    "explanation_ja": "教則第1章第2節2(1)のとおりです。本標識は、さらに4種類に分かれます。",
+    "i18n": {
+      "zh": {
+        "question": "所谓标识（立牌），是指表示交通规制等的标示牌，分为主标识和辅助标识。",
+        "explanation": "符合教则第1章第2节2(1)的规定。主标识还进一步分为4种。"
+      },
+      "en": {
+        "question": "A road sign is a plate showing a traffic regulation or the like, and there are main signs and auxiliary signs.",
+        "explanation": "This is Kyosoku Chapter 1 Section 2 item 2(1). Main signs divide further into four kinds."
+      },
+      "vi": {
+        "question": "Biển báo giao thông là tấm bảng thể hiện quy định giao thông và những nội dung tương tự, gồm biển báo chính và biển báo phụ.",
+        "explanation": "Đúng theo Kyosoku Chương 1 Mục 2 điểm 2(1). Biển báo chính còn chia thành bốn loại."
+      },
+      "pt": {
+        "question": "A sinalização vertical é uma placa que indica uma regulamentação de trânsito ou algo semelhante, e há placas principais e auxiliares.",
+        "explanation": "É o Kyosoku, Capítulo 1, Seção 2, item 2(1). As principais se dividem ainda em quatro tipos."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-2-047",
+    "category": "標識の意味",
+    "kp": "1-2-2",
+    "group": "C",
+    "source": "教則 第1章第2節2(1)",
+    "question_type": "text",
+    "qf": "QF-1-2-2-A-N-02",
+    "question_ja": "本標識には、規制標識、指示標識、警戒標識、案内標識の4種類がある。",
+    "answer": true,
+    "explanation_ja": "教則第1章第2節2(1)のとおりです。それぞれの意味は教則付表3（1）に定められています。",
+    "i18n": {
+      "zh": {
+        "question": "主标识有限制标识、指示标识、警戒标识、指路标识4种。",
+        "explanation": "符合教则第1章第2节2(1)的规定。各自的含义规定在教则附表3（1）中。"
+      },
+      "en": {
+        "question": "There are four kinds of main road sign: regulatory, indication, warning and guide signs.",
+        "explanation": "This is Kyosoku Chapter 1 Section 2 item 2(1). What each one means is set out in Kyosoku Appendix 3(1)."
+      },
+      "vi": {
+        "question": "Có bốn loại biển báo chính: biển quy chế, biển chỉ dẫn, biển cảnh báo và biển hướng dẫn đường.",
+        "explanation": "Đúng theo Kyosoku Chương 1 Mục 2 điểm 2(1). Ý nghĩa của từng loại được quy định ở Kyosoku Phụ lục 3(1)."
+      },
+      "pt": {
+        "question": "Há quatro tipos de sinalização vertical principal: de regulamentação, de indicação, de advertência e de orientação.",
+        "explanation": "É o Kyosoku, Capítulo 1, Seção 2, item 2(1). O significado de cada uma está no Anexo 3(1)."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-2-048",
+    "category": "標識の意味",
+    "kp": "1-2-2",
+    "group": "C",
+    "source": "教則 第1章第2節2(2)",
+    "question_type": "text",
+    "qf": "QF-1-2-2-A-N-03",
+    "question_ja": "規制標識は、特定の交通方法を禁止したり、特定の方法に従って通行するよう指定したりするものである。",
+    "answer": true,
+    "explanation_ja": "教則第1章第2節2(2)のとおりです。自動車の通行を禁止する標識や最高速度を指定する標識がこれにあたります。",
+    "i18n": {
+      "zh": {
+        "question": "限制标识是禁止特定的交通方法，或者指定按特定方法通行的标识。",
+        "explanation": "符合教则第1章第2节2(2)的规定。禁止汽车通行的标识和指定最高速度的标识属于此类。"
+      },
+      "en": {
+        "question": "A regulatory sign prohibits a particular way of using the road or specifies that you travel in a particular way.",
+        "explanation": "This is Kyosoku Chapter 1 Section 2 item 2(2). The sign closing a road to cars and the sign setting a maximum speed are examples."
+      },
+      "vi": {
+        "question": "Biển báo quy chế cấm một cách sử dụng đường nhất định hoặc chỉ định phải đi theo một cách nhất định.",
+        "explanation": "Đúng theo Kyosoku Chương 1 Mục 2 điểm 2(2). Biển cấm ô tô lưu thông và biển quy định tốc độ tối đa là ví dụ."
+      },
+      "pt": {
+        "question": "A sinalização de regulamentação proíbe uma forma de circular ou determina que se circule de certa maneira.",
+        "explanation": "É o Kyosoku, Capítulo 1, Seção 2, item 2(2). A placa que fecha a via a automóveis e a que fixa a velocidade máxima são exemplos."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-2-049",
+    "category": "標識の意味",
+    "kp": "1-2-2",
+    "group": "C",
+    "source": "教則 第1章第2節2(4)",
+    "question_type": "text",
+    "qf": "QF-1-2-2-A-N-04",
+    "question_ja": "警戒標識は、道路上の危険や注意すべき状況などを前もって道路利用者に知らせて注意を促すものである。",
+    "answer": true,
+    "explanation_ja": "教則第1章第2節2(4)のとおりです。前方に踏切があることを示す標識などがこれにあたります。",
+    "i18n": {
+      "zh": {
+        "question": "警戒标识是事先把道路上的危险或需要注意的状况告知道路使用者、提醒注意的标识。",
+        "explanation": "符合教则第1章第2节2(4)的规定。表示前方有铁路道口的标识等属于此类。"
+      },
+      "en": {
+        "question": "A warning sign gives road users advance notice of a danger or a situation on the road that calls for care.",
+        "explanation": "This is Kyosoku Chapter 1 Section 2 item 2(4). The sign showing a railway crossing ahead is an example."
+      },
+      "vi": {
+        "question": "Biển báo cảnh báo báo trước cho người tham gia giao thông về nguy hiểm hoặc tình huống trên đường cần chú ý.",
+        "explanation": "Đúng theo Kyosoku Chương 1 Mục 2 điểm 2(4). Biển báo phía trước có đường ngang đường sắt là một ví dụ."
+      },
+      "pt": {
+        "question": "A sinalização de advertência avisa antecipadamente os usuários da via sobre um perigo ou situação que exige cuidado.",
+        "explanation": "É o Kyosoku, Capítulo 1, Seção 2, item 2(4). A placa que indica passagem de nível à frente é um exemplo."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-2-050",
+    "category": "標識の意味",
+    "kp": "1-2-2",
+    "group": "C",
+    "source": "教則 第1章第2節2(6)",
+    "question_type": "text",
+    "qf": "QF-1-2-2-A-N-05",
+    "question_ja": "補助標識は普通、本標識の下に取り付けられており、規制の理由を示したり、規制が適用される時間、曜日、自動車の種類などを特定したりする。",
+    "answer": true,
+    "explanation_ja": "教則第1章第2節2(6)のとおりです。車の種類を特定する場合などには、教則付表4のような略称が用いられることがあります。",
+    "i18n": {
+      "zh": {
+        "question": "辅助标识通常安装在主标识下方，用来表示规制的理由，或者特定规制适用的时间、星期、汽车种类等。",
+        "explanation": "符合教则第1章第2节2(6)的规定。在特定车辆种类等情况下，有时会使用教则附表4那样的简称。"
+      },
+      "en": {
+        "question": "An auxiliary sign is normally fitted below the main sign and states the reason for the restriction or specifies the times, days or vehicle types it applies to.",
+        "explanation": "This is Kyosoku Chapter 1 Section 2 item 2(6). Abbreviations such as those in Kyosoku Appendix 4 are sometimes used to name vehicle types."
+      },
+      "vi": {
+        "question": "Biển báo phụ thường được gắn bên dưới biển chính và nêu lý do của quy định hoặc xác định thời gian, ngày trong tuần, loại xe mà quy định áp dụng.",
+        "explanation": "Đúng theo Kyosoku Chương 1 Mục 2 điểm 2(6). Đôi khi người ta dùng các chữ viết tắt như ở Kyosoku Phụ lục 4 để chỉ loại xe."
+      },
+      "pt": {
+        "question": "A sinalização auxiliar costuma ser fixada abaixo da principal e informa o motivo da restrição ou especifica horários, dias e tipos de veículo a que ela se aplica.",
+        "explanation": "É o Kyosoku, Capítulo 1, Seção 2, item 2(6). Às vezes se usam abreviaturas como as do Anexo 4 para nomear os tipos de veículo."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-2-051",
+    "category": "信号の見方",
+    "kp": "1-2-1",
+    "group": "A",
+    "source": "教則 第1章第2節1(2)",
+    "question_type": "text",
+    "qf": "QF-1-2-1-D-AB-01",
+    "question_ja": "横の信号が赤に変わったときは、前方の信号は必ず青になる。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第1章第2節1(2)により、全方向が一時的に赤になる信号や時差式信号機もあるので、前方の信号を見なければなりません。",
+    "i18n": {
+      "zh": {
+        "question": "侧面的信号灯变红时，前方的信号灯必定变绿。",
+        "explanation": "错误。根据教则第1章第2节1(2)，也有全方向一时都变红的信号灯和时差式信号机，所以必须看前方的信号灯。"
+      },
+      "en": {
+        "question": "When the light to the side turns red, the light ahead is bound to turn green.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 1 Section 2 item 1(2) some lights turn red in every direction and some are staggered-phase, so you must watch the light ahead."
+      },
+      "vi": {
+        "question": "Khi đèn bên hông chuyển đỏ thì đèn phía trước chắc chắn sẽ xanh.",
+        "explanation": "Sai. Theo Kyosoku Chương 1 Mục 2 điểm 1(2), có đèn chuyển đỏ mọi hướng và có đèn lệch pha, nên bạn phải nhìn đèn phía trước."
+      },
+      "pt": {
+        "question": "Quando o sinal da lateral fica vermelho, o sinal à frente fica verde sem falta.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 1, Seção 2, item 1(2), há sinais que ficam vermelhos em todos os sentidos e há os de fase defasada, por isso é preciso olhar o sinal à frente."
+      }
+    },
+    "trap_type": "AB",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-2-052",
+    "category": "標識の意味",
+    "kp": "1-2-2",
+    "group": "C",
+    "source": "教則 第1章第2節2(3)",
+    "question_type": "text",
+    "qf": "QF-1-2-2-D-SW-01",
+    "question_ja": "指示標識は、特定の交通方法を禁止したり、特定の方法に従って通行するよう指定したりするものである。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第1章第2節2(3)により、指示標識は特定の交通方法ができることや道路交通上決められた場所などを指示するものです。",
+    "i18n": {
+      "zh": {
+        "question": "指示标识是禁止特定的交通方法，或者指定按特定方法通行的标识。",
+        "explanation": "错误。根据教则第1章第2节2(3)，指示标识是指示可以采取特定交通方法或道路交通上规定的场所等的标识。"
+      },
+      "en": {
+        "question": "An indication sign prohibits a particular way of using the road or specifies that you travel in a particular way.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 1 Section 2 item 2(3) an indication sign shows that a particular way of using the road is allowed, or marks a place fixed by traffic law."
+      },
+      "vi": {
+        "question": "Biển báo chỉ dẫn cấm một cách sử dụng đường nhất định hoặc chỉ định phải đi theo một cách nhất định.",
+        "explanation": "Sai. Theo Kyosoku Chương 1 Mục 2 điểm 2(3), biển báo chỉ dẫn cho biết một cách sử dụng đường được phép, hoặc chỉ ra địa điểm do luật giao thông quy định."
+      },
+      "pt": {
+        "question": "A sinalização de indicação proíbe uma forma de circular ou determina que se circule de certa maneira.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 1, Seção 2, item 2(3), a de indicação mostra que certa forma de circular é permitida ou assinala um local definido pela legislação."
+      }
+    },
+    "trap_type": "SW",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-2-053",
+    "category": "標識の意味",
+    "kp": "1-2-2",
+    "group": "C",
+    "source": "教則 第1章第2節2(5)",
+    "question_type": "text",
+    "qf": "QF-1-2-2-D-SW-02",
+    "question_ja": "案内標識は、道路上の危険や注意すべき状況などを前もって知らせて注意を促すものである。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第1章第2節2(5)により、案内標識は地点の名称、方面、距離などを示して通行の便宜を図るものです。",
+    "i18n": {
+      "zh": {
+        "question": "指路标识是事先告知道路上的危险或需要注意的状况、提醒注意的标识。",
+        "explanation": "错误。根据教则第1章第2节2(5)，指路标识是表示地点名称、方向、距离等以方便通行的标识。"
+      },
+      "en": {
+        "question": "A guide sign gives advance notice of a danger or a situation on the road that calls for care.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 1 Section 2 item 2(5) a guide sign shows place names, directions and distances to make travelling easier."
+      },
+      "vi": {
+        "question": "Biển báo hướng dẫn đường báo trước về nguy hiểm hoặc tình huống trên đường cần chú ý.",
+        "explanation": "Sai. Theo Kyosoku Chương 1 Mục 2 điểm 2(5), biển hướng dẫn đường nêu tên địa điểm, hướng đi và khoảng cách để việc đi lại thuận tiện."
+      },
+      "pt": {
+        "question": "A sinalização de orientação avisa antecipadamente sobre perigo ou situação que exige cuidado na via.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 1, Seção 2, item 2(5), a de orientação indica nomes de lugares, direções e distâncias para facilitar o deslocamento."
+      }
+    },
+    "trap_type": "SW",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-2-054",
+    "category": "標識の意味",
+    "kp": "1-2-2",
+    "group": "C",
+    "source": "教則 第1章第2節2(1)",
+    "question_type": "text",
+    "qf": "QF-1-2-2-D-NR-01",
+    "question_ja": "本標識には、規制標識、指示標識、警戒標識の3種類がある。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第1章第2節2(1)により、これらのほかに案内標識があり、4種類に分かれます。",
+    "i18n": {
+      "zh": {
+        "question": "主标识有限制标识、指示标识、警戒标识3种。",
+        "explanation": "错误。根据教则第1章第2节2(1)，除这些之外还有指路标识，共分4种。"
+      },
+      "en": {
+        "question": "There are three kinds of main road sign: regulatory, indication and warning signs.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 1 Section 2 item 2(1) there is also the guide sign, making four kinds."
+      },
+      "vi": {
+        "question": "Có ba loại biển báo chính: biển quy chế, biển chỉ dẫn và biển cảnh báo.",
+        "explanation": "Sai. Theo Kyosoku Chương 1 Mục 2 điểm 2(1), còn có biển hướng dẫn đường nữa, thành bốn loại."
+      },
+      "pt": {
+        "question": "Há três tipos de sinalização vertical principal: de regulamentação, de indicação e de advertência.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 1, Seção 2, item 2(1), existe também a de orientação, totalizando quatro."
+      }
+    },
+    "trap_type": "NR",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-2-055",
+    "category": "左折可",
+    "kp": "1-2-1",
+    "group": "A",
+    "source": "教則 第1章第2節1(4)",
+    "question_type": "text",
+    "qf": "QF-1-2-1-D-EI-06",
+    "question_ja": "左向きの矢印の標示板があるところでは、前方の信号が赤であっても、横断中の歩行者より先に左折してよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第1章第2節1(4)により、信号機の信号に従って横断している歩行者の通行を妨げてはいけません。",
+    "i18n": {
+      "zh": {
+        "question": "在设有左向箭头标示牌的地方，即使前方信号灯是红灯，也可以抢在横穿中的步行者之前左拐弯。",
+        "explanation": "错误。根据教则第1章第2节1(4)，不得妨碍按信号灯横穿的步行者通行。"
+      },
+      "en": {
+        "question": "Where the left-arrow plate stands you may turn left ahead of pedestrians in the middle of crossing, even on a red light.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 1 Section 2 item 1(4) you must not obstruct pedestrians crossing on the signal."
+      },
+      "vi": {
+        "question": "Ở nơi có bảng mũi tên trái, bạn được rẽ trái trước cả người đi bộ đang băng qua, dù đèn phía trước đang đỏ.",
+        "explanation": "Sai. Theo Kyosoku Chương 1 Mục 2 điểm 1(4), bạn không được cản trở người đi bộ đang băng qua theo đèn tín hiệu."
+      },
+      "pt": {
+        "question": "Onde há a placa de seta à esquerda, você pode virar antes dos pedestres que estão atravessando, mesmo no vermelho.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 1, Seção 2, item 1(4), você não deve obstruir os pedestres que atravessam conforme o semáforo."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-2-056",
+    "category": "左折可",
+    "kp": "1-2-1",
+    "group": "A",
+    "source": "教則 第1章第2節1(4)",
+    "question_type": "text",
+    "qf": "QF-1-2-1-D-EI-07",
+    "question_ja": "左向きの矢印の標示板があるところでは、車は前方の信号が赤であっても直進することができる。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第1章第2節1(4)により、この標示板で認められているのは左折だけです。",
+    "i18n": {
+      "zh": {
+        "question": "在设有左向箭头标示牌的地方，即使前方信号灯是红灯，车辆也可以直行。",
+        "explanation": "错误。根据教则第1章第2节1(4)，该标示牌所认可的只有左拐弯。"
+      },
+      "en": {
+        "question": "Where the left-arrow plate stands a vehicle may also go straight on even though the light ahead is red.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 1 Section 2 item 1(4) the plate permits a left turn only."
+      },
+      "vi": {
+        "question": "Ở nơi có bảng mũi tên trái, xe cũng được đi thẳng dù đèn phía trước đang đỏ.",
+        "explanation": "Sai. Theo Kyosoku Chương 1 Mục 2 điểm 1(4), bảng này chỉ cho phép rẽ trái."
+      },
+      "pt": {
+        "question": "Onde há a placa de seta à esquerda o veículo também pode seguir em frente mesmo com o sinal vermelho.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 1, Seção 2, item 1(4), a placa permite apenas a conversão à esquerda."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-2-057",
+    "category": "標示板",
+    "kp": "1-2-1",
+    "group": "A",
+    "source": "教則 第1章第2節1(3)",
+    "question_type": "text",
+    "qf": "QF-1-2-1-D-EI-08",
+    "question_ja": "「バス専用」の標示板のある信号機の信号には、路線バス以外の車も従わなければならない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第1章第2節1(3)により、その信号はその標示板に示されている車を対象としており、ほかの車は通常の信号に従います。",
+    "i18n": {
+      "zh": {
+        "question": "设有「公交专用」标示牌的信号机的信号，公交车以外的车辆也必须服从。",
+        "explanation": "错误。根据教则第1章第2节1(3)，该信号以标示牌所示的车辆为对象，其他车辆服从通常的信号。"
+      },
+      "en": {
+        "question": "A light carrying a Buses only plate must be obeyed by vehicles other than route buses as well.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 1 Section 2 item 1(3) that light is addressed to the vehicles named on the plate, and other vehicles follow the ordinary light."
+      },
+      "vi": {
+        "question": "Đèn có gắn bảng Dành riêng cho xe buýt cũng phải được các xe ngoài xe buýt tuyến tuân theo.",
+        "explanation": "Sai. Theo Kyosoku Chương 1 Mục 2 điểm 1(3), đèn đó dành cho loại xe ghi trên bảng, còn các xe khác theo đèn thông thường."
+      },
+      "pt": {
+        "question": "O semáforo com placa Somente ônibus deve ser obedecido também pelos veículos que não sejam ônibus de linha.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 1, Seção 2, item 1(3), esse sinal se dirige aos veículos indicados na placa, e os demais seguem o sinal comum."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-2-058",
+    "category": "標識の意味",
+    "kp": "1-2-2",
+    "group": "C",
+    "source": "教則 第1章第2節2(6)",
+    "question_type": "text",
+    "qf": "QF-1-2-2-D-SW-03",
+    "question_ja": "補助標識は普通、本標識の上に取り付けられており、規制の理由だけを示すものである。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第1章第2節2(6)により、補助標識は普通、本標識の下に取り付けられ、規制の時間、曜日、自動車の種類なども特定します。",
+    "i18n": {
+      "zh": {
+        "question": "辅助标识通常安装在主标识上方，只表示规制的理由。",
+        "explanation": "错误。根据教则第1章第2节2(6)，辅助标识通常安装在主标识下方，还会特定规制的时间、星期、汽车种类等。"
+      },
+      "en": {
+        "question": "An auxiliary sign is normally fitted above the main sign and states the reason for the restriction and nothing else.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 1 Section 2 item 2(6) it is normally fitted below the main sign and also specifies times, days and vehicle types."
+      },
+      "vi": {
+        "question": "Biển báo phụ thường được gắn bên trên biển chính và chỉ nêu lý do của quy định.",
+        "explanation": "Sai. Theo Kyosoku Chương 1 Mục 2 điểm 2(6), biển phụ thường gắn bên dưới biển chính và còn xác định thời gian, ngày trong tuần và loại xe."
+      },
+      "pt": {
+        "question": "A sinalização auxiliar costuma ser fixada acima da principal e informa apenas o motivo da restrição.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 1, Seção 2, item 2(6), ela fica normalmente abaixo da principal e também especifica horários, dias e tipos de veículo."
+      }
+    },
+    "trap_type": "SW",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-2-059",
+    "category": "標識の意味",
+    "kp": "1-2-2",
+    "group": "C",
+    "source": "教則 第1章第2節2(1)",
+    "question_type": "text",
+    "qf": "QF-1-2-2-D-NR-02",
+    "question_ja": "標識とは本標識のことをいい、補助標識は標識には含まれない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第1章第2節2(1)により、標識には本標識と補助標識があります。",
+    "i18n": {
+      "zh": {
+        "question": "所谓标识（立牌）指的是主标识，辅助标识不包含在标识之内。",
+        "explanation": "错误。根据教则第1章第2节2(1)，标识分为主标识和辅助标识。"
+      },
+      "en": {
+        "question": "A road sign means the main sign, and auxiliary signs are not counted as road signs.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 1 Section 2 item 2(1) road signs comprise main signs and auxiliary signs."
+      },
+      "vi": {
+        "question": "Biển báo giao thông là biển báo chính, còn biển báo phụ không được tính là biển báo.",
+        "explanation": "Sai. Theo Kyosoku Chương 1 Mục 2 điểm 2(1), biển báo giao thông gồm biển báo chính và biển báo phụ."
+      },
+      "pt": {
+        "question": "Sinalização vertical significa a placa principal, e as auxiliares não contam como sinalização.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 1, Seção 2, item 2(1), a sinalização vertical compreende placas principais e auxiliares."
+      }
+    },
+    "trap_type": "NR",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-2-060",
+    "category": "左折可",
+    "kp": "1-2-1",
+    "group": "A",
+    "source": "教則 第1章第2節1(4)",
+    "question_type": "text",
+    "qf": "QF-1-2-1-D-SC-03",
+    "question_ja": "前方の信号が赤だったが、道路の左端に左向きの矢印の標示板があったので、横断中の歩行者の前を左折した。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第1章第2節1(4)により、この標示板で左折するときも、信号に従って横断している歩行者の通行を妨げてはいけません。",
+    "i18n": {
+      "zh": {
+        "question": "前方信号灯是红灯，但因为道路左端有左向箭头标示牌，就抢在横穿中的步行者前面左拐弯了。",
+        "explanation": "错误。根据教则第1章第2节1(4)，依据该标示牌左拐弯时，也不得妨碍按信号灯横穿的步行者通行。"
+      },
+      "en": {
+        "question": "The light ahead was red, but because a left-arrow plate stood at the left edge of the road you turned left across in front of pedestrians who were crossing.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 1 Section 2 item 1(4), even when turning on that plate you must not obstruct pedestrians crossing on the signal."
+      },
+      "vi": {
+        "question": "Đèn phía trước đang đỏ, nhưng vì ở mép trái đường có bảng mũi tên trái nên bạn rẽ trái cắt ngang trước mặt người đi bộ đang băng qua.",
+        "explanation": "Sai. Theo Kyosoku Chương 1 Mục 2 điểm 1(4), ngay cả khi rẽ theo bảng đó bạn cũng không được cản trở người đi bộ đang băng qua theo đèn."
+      },
+      "pt": {
+        "question": "O sinal à frente estava vermelho, mas como havia uma placa de seta à esquerda na borda da via você virou à esquerda na frente de pedestres que atravessavam.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 1, Seção 2, item 1(4), mesmo virando com essa placa você não deve obstruir os pedestres que atravessam conforme o semáforo."
+      }
+    },
+    "trap_type": "SC",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  }
+]

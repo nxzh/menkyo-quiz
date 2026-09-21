@@ -1,0 +1,662 @@
+[
+  {
+    "id": "K1-2-001",
+    "category": "信号の意味",
+    "kp": "1-2-1",
+    "group": "A",
+    "source": "教則 付表1（1）",
+    "question_type": "text",
+    "qf": "QF-1-2-1-A-N-01",
+    "question_ja": "青色の灯火では、特定小型原動機付自転車と軽車両以外の車は、直進し、左折し、右折することができる。",
+    "answer": true,
+    "explanation_ja": "教則付表1（1）のとおりです。ただし、二段階の右折方法により右折する一般原動機付自転車は別の扱いになります。",
+    "i18n": {
+      "zh": {
+        "question": "绿灯时，特定小型轻型摩托车和轻车辆以外的车辆可以直行、左拐弯、右拐弯。",
+        "explanation": "符合教则附表1（1）的规定。不过，采用二阶段右拐弯方法的一般轻型摩托车另有规定。"
+      },
+      "en": {
+        "question": "On a green light, vehicles other than specified small motorized bicycles and light road vehicles may go straight on, turn left and turn right.",
+        "explanation": "This is Kyosoku Appendix 1(1). A general motorized bicycle (moped) making a two-step right turn is treated separately."
+      },
+      "vi": {
+        "question": "Khi đèn xanh, các xe ngoài xe gắn máy cỡ nhỏ đặc định và xe thô sơ được đi thẳng, rẽ trái và rẽ phải.",
+        "explanation": "Đúng theo Kyosoku Phụ lục 1(1). Xe gắn máy (原付) rẽ phải theo cách hai bước được xử lý riêng."
+      },
+      "pt": {
+        "question": "No sinal verde, os veículos que não sejam ciclomotores pequenos especificados nem veículos leves podem seguir em frente, converter à esquerda e à direita.",
+        "explanation": "É o Kyosoku, Anexo 1(1). O ciclomotor que faz conversão em duas etapas tem tratamento à parte."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-2-002",
+    "category": "信号の意味",
+    "kp": "1-2-1",
+    "group": "A",
+    "source": "教則 付表1（1）",
+    "question_type": "text",
+    "qf": "QF-1-2-1-A-N-02",
+    "question_ja": "青色の灯火でも、二段階の右折方法により右折する一般原動機付自転車は、右折する地点まで直進し、その地点で向きを変えることまでしかできない。",
+    "answer": true,
+    "explanation_ja": "教則付表1（1）のとおりです。青色の灯火であっても、一度で右折することはできません。",
+    "i18n": {
+      "zh": {
+        "question": "即使是绿灯，采用二阶段右拐弯方法的一般轻型摩托车也只能直行到右拐弯地点，并在该地点改变方向。",
+        "explanation": "符合教则附表1（1）的规定。即使是绿灯，也不能一次完成右拐弯。"
+      },
+      "en": {
+        "question": "Even on a green light, a general motorized bicycle (moped) making a two-step right turn may only go straight to the turning point and change direction there.",
+        "explanation": "This is Kyosoku Appendix 1(1). Even on green it cannot complete the right turn in one movement."
+      },
+      "vi": {
+        "question": "Ngay cả khi đèn xanh, xe gắn máy (原付) rẽ phải theo cách hai bước chỉ được đi thẳng tới điểm rẽ rồi đổi hướng tại đó.",
+        "explanation": "Đúng theo Kyosoku Phụ lục 1(1). Dù đèn xanh, xe vẫn không thể rẽ phải trong một lần."
+      },
+      "pt": {
+        "question": "Mesmo no verde, o ciclomotor que converte à direita em duas etapas só pode seguir reto até o ponto de conversão e mudar de direção ali.",
+        "explanation": "É o Kyosoku, Anexo 1(1). Mesmo no verde ele não completa a conversão em um único movimento."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-2-003",
+    "category": "信号の意味",
+    "kp": "1-2-1",
+    "group": "A",
+    "source": "教則 付表1（1）",
+    "question_type": "text",
+    "qf": "QF-1-2-1-A-N-03",
+    "question_ja": "青色の灯火では、軽車両は直進し左折することができ、右折するときは右折する地点まで直進してその地点で向きを変えることまでできる。",
+    "answer": true,
+    "explanation_ja": "教則付表1（1）のとおりです。特定小型原動機付自転車も同じ扱いです。",
+    "i18n": {
+      "zh": {
+        "question": "绿灯时，轻车辆可以直行和左拐弯，右拐弯时可以直行到右拐弯地点并在该地点改变方向。",
+        "explanation": "符合教则附表1（1）的规定。特定小型轻型摩托车也是同样的处理。"
+      },
+      "en": {
+        "question": "On a green light a light road vehicle may go straight on and turn left, and to turn right it may go straight to the turning point and change direction there.",
+        "explanation": "This is Kyosoku Appendix 1(1). A specified small motorized bicycle is treated the same way."
+      },
+      "vi": {
+        "question": "Khi đèn xanh, xe thô sơ được đi thẳng và rẽ trái, còn để rẽ phải thì đi thẳng tới điểm rẽ rồi đổi hướng tại đó.",
+        "explanation": "Đúng theo Kyosoku Phụ lục 1(1). Xe gắn máy cỡ nhỏ đặc định cũng được xử lý như vậy."
+      },
+      "pt": {
+        "question": "No verde o veículo leve pode seguir em frente e converter à esquerda, e para converter à direita segue reto até o ponto de conversão e muda de direção ali.",
+        "explanation": "É o Kyosoku, Anexo 1(1). O ciclomotor pequeno especificado recebe o mesmo tratamento."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-2-004",
+    "category": "信号の意味",
+    "kp": "1-2-1",
+    "group": "A",
+    "source": "教則 付表1（1）",
+    "question_type": "text",
+    "qf": "QF-1-2-1-A-N-04",
+    "question_ja": "黄色の灯火では車は停止位置から先へ進んではいけないが、黄色に変わったときに停止位置に近づいていて安全に停止することができない場合は、そのまま進むことができる。",
+    "answer": true,
+    "explanation_ja": "教則付表1（1）のとおりです。例外はこの場合に限られ、急いでいることは理由になりません。",
+    "i18n": {
+      "zh": {
+        "question": "黄灯时车辆不得驶过停止位置，但变为黄灯时已接近停止位置、无法安全停车的情况下，可以继续前行。",
+        "explanation": "符合教则附表1（1）的规定。例外仅限于这种情况，赶时间不能成为理由。"
+      },
+      "en": {
+        "question": "On an amber light a vehicle must not proceed beyond the stopping position, but if it was already close to that position when the light changed and cannot stop safely, it may carry on.",
+        "explanation": "This is Kyosoku Appendix 1(1). That is the only exception, and being in a hurry is not a reason."
+      },
+      "vi": {
+        "question": "Khi đèn vàng, xe không được đi quá vị trí dừng, nhưng nếu lúc đèn chuyển màu xe đã tới gần vị trí đó và không dừng an toàn được thì được đi tiếp.",
+        "explanation": "Đúng theo Kyosoku Phụ lục 1(1). Đó là ngoại lệ duy nhất, và việc vội vã không phải là lý do."
+      },
+      "pt": {
+        "question": "No amarelo o veículo não deve passar da posição de parada, mas se já estava próximo dela quando o sinal mudou e não consegue parar com segurança, pode seguir.",
+        "explanation": "É o Kyosoku, Anexo 1(1). Essa é a única exceção, e a pressa não é motivo."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-2-005",
+    "category": "信号の意味",
+    "kp": "1-2-1",
+    "group": "A",
+    "source": "教則 付表1（1）",
+    "question_type": "text",
+    "qf": "QF-1-2-1-A-N-05",
+    "question_ja": "黄色の灯火では、横断中の歩行者は速やかに横断を終わるか、横断をやめて引き返さなければならない。",
+    "answer": true,
+    "explanation_ja": "教則付表1（1）のとおりです。まだ横断を始めていない歩行者は、横断を始めてはいけません。",
+    "i18n": {
+      "zh": {
+        "question": "黄灯时，正在横穿的步行者必须迅速完成横穿，或者停止横穿返回。",
+        "explanation": "符合教则附表1（1）的规定。尚未开始横穿的步行者不得开始横穿。"
+      },
+      "en": {
+        "question": "On an amber light a pedestrian already crossing must finish the crossing promptly or give it up and turn back.",
+        "explanation": "This is Kyosoku Appendix 1(1). A pedestrian who has not yet started must not begin crossing."
+      },
+      "vi": {
+        "question": "Khi đèn vàng, người đi bộ đang băng qua phải nhanh chóng đi hết hoặc bỏ dở và quay lại.",
+        "explanation": "Đúng theo Kyosoku Phụ lục 1(1). Người đi bộ chưa bắt đầu thì không được bắt đầu băng qua."
+      },
+      "pt": {
+        "question": "No amarelo o pedestre que já está atravessando deve concluir a travessia depressa ou desistir e voltar.",
+        "explanation": "É o Kyosoku, Anexo 1(1). O pedestre que ainda não começou não deve iniciar a travessia."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-2-006",
+    "category": "信号の意味",
+    "kp": "1-2-1",
+    "group": "A",
+    "source": "教則 付表1（1）",
+    "question_type": "text",
+    "qf": "QF-1-2-1-A-N-06",
+    "question_ja": "赤色の灯火では、車や路面電車は停止位置を越えて進んではいけない。",
+    "answer": true,
+    "explanation_ja": "教則付表1（1）のとおりです。停止位置は、停止線があるところでは停止線の直前です。",
+    "i18n": {
+      "zh": {
+        "question": "红灯时，车辆和路面电车不得越过停止位置前行。",
+        "explanation": "符合教则附表1（1）的规定。停止位置在设有停止线的地方是停止线的正前方。"
+      },
+      "en": {
+        "question": "On a red light a vehicle or streetcar (tram) must not proceed beyond the stopping position.",
+        "explanation": "This is Kyosoku Appendix 1(1). Where there is a stop line, the stopping position is just before it."
+      },
+      "vi": {
+        "question": "Khi đèn đỏ, xe hay tàu điện mặt đất không được đi quá vị trí dừng.",
+        "explanation": "Đúng theo Kyosoku Phụ lục 1(1). Ở nơi có vạch dừng, vị trí dừng là ngay trước vạch đó."
+      },
+      "pt": {
+        "question": "No vermelho o veículo ou bonde não deve passar da posição de parada.",
+        "explanation": "É o Kyosoku, Anexo 1(1). Onde há linha de parada, a posição de parada é logo antes dela."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-2-007",
+    "category": "信号の意味",
+    "kp": "1-2-1",
+    "group": "A",
+    "source": "教則 付表1（1）",
+    "question_type": "text",
+    "qf": "QF-1-2-1-A-N-07",
+    "question_ja": "交差点で既に左折している車は、左折方向の信号が赤であってもそのまま進むことができる。",
+    "answer": true,
+    "explanation_ja": "教則付表1（1）のとおりです。既に交差点に入って左折を始めている車を、途中で止めないための決まりです。",
+    "i18n": {
+      "zh": {
+        "question": "在交叉路口已经在左拐弯的车辆，即使左拐弯方向的信号灯是红灯也可以继续前行。",
+        "explanation": "符合教则附表1（1）的规定。这是为了不让已驶入交叉路口开始左拐弯的车辆中途停住。"
+      },
+      "en": {
+        "question": "A vehicle already turning left at an intersection may carry on even if the light for the direction it is turning into is red.",
+        "explanation": "This is Kyosoku Appendix 1(1). The rule keeps a vehicle that has already entered and begun its turn from stopping midway."
+      },
+      "vi": {
+        "question": "Xe đang rẽ trái tại nút giao thông được đi tiếp ngay cả khi đèn hướng rẽ đã đỏ.",
+        "explanation": "Đúng theo Kyosoku Phụ lục 1(1). Quy định này tránh để xe đã vào nút giao và bắt đầu rẽ phải dừng giữa chừng."
+      },
+      "pt": {
+        "question": "O veículo que já está convertendo à esquerda no cruzamento pode prosseguir mesmo que o sinal do sentido para onde vira esteja vermelho.",
+        "explanation": "É o Kyosoku, Anexo 1(1). A regra evita que um veículo que já entrou e iniciou a conversão pare no meio."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-2-008",
+    "category": "信号の意味",
+    "kp": "1-2-1",
+    "group": "A",
+    "source": "教則 付表1（1）",
+    "question_type": "text",
+    "qf": "QF-1-2-1-A-N-08",
+    "question_ja": "交差点で既に右折している車は右折方向の信号が赤でもそのまま進むことができるが、青色の灯火に従って進んで来る車の進行を妨げてはいけない。",
+    "answer": true,
+    "explanation_ja": "教則付表1（1）のとおりです。進めるというだけで、優先されるわけではありません。",
+    "i18n": {
+      "zh": {
+        "question": "在交叉路口已经在右拐弯的车辆，即使右拐弯方向的信号灯是红灯也可以继续前行，但不得妨碍按绿灯行驶过来的车辆通行。",
+        "explanation": "符合教则附表1（1）的规定。这只是可以前行，并不意味着享有优先。"
+      },
+      "en": {
+        "question": "A vehicle already turning right at an intersection may carry on even if the light for that direction is red, but it must not obstruct vehicles coming through on a green light.",
+        "explanation": "This is Kyosoku Appendix 1(1). It may proceed, but that does not give it priority."
+      },
+      "vi": {
+        "question": "Xe đang rẽ phải tại nút giao thông được đi tiếp ngay cả khi đèn hướng đó đã đỏ, nhưng không được cản trở xe đang đi tới theo đèn xanh.",
+        "explanation": "Đúng theo Kyosoku Phụ lục 1(1). Xe chỉ được đi tiếp, chứ không vì thế mà được ưu tiên."
+      },
+      "pt": {
+        "question": "O veículo que já está convertendo à direita no cruzamento pode prosseguir mesmo com o sinal daquele sentido vermelho, mas não deve obstruir os veículos que avançam no verde.",
+        "explanation": "É o Kyosoku, Anexo 1(1). Ele pode seguir, mas isso não lhe dá preferência."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-2-009",
+    "category": "信号の意味",
+    "kp": "1-2-1",
+    "group": "A",
+    "source": "教則 付表1（1）",
+    "question_type": "text",
+    "qf": "QF-1-2-1-A-N-09",
+    "question_ja": "二段階の右折方法により右折する一般原動機付自転車は、右折方向の信号が赤のときは、その右折している地点で停止していなければならない。",
+    "answer": true,
+    "explanation_ja": "教則付表1（1）のとおりです。特定小型原動機付自転車や軽車両も同じ扱いです。",
+    "i18n": {
+      "zh": {
+        "question": "采用二阶段右拐弯方法的一般轻型摩托车，在右拐弯方向的信号灯为红灯时，必须在该右拐弯地点停住。",
+        "explanation": "符合教则附表1（1）的规定。特定小型轻型摩托车和轻车辆也是同样的处理。"
+      },
+      "en": {
+        "question": "A general motorized bicycle (moped) making a two-step right turn must wait at the turning point while the light for that direction is red.",
+        "explanation": "This is Kyosoku Appendix 1(1). Specified small motorized bicycles and light road vehicles are treated the same way."
+      },
+      "vi": {
+        "question": "Xe gắn máy (原付) rẽ phải theo cách hai bước phải dừng tại điểm rẽ khi đèn hướng đó đang đỏ.",
+        "explanation": "Đúng theo Kyosoku Phụ lục 1(1). Xe gắn máy cỡ nhỏ đặc định và xe thô sơ cũng được xử lý như vậy."
+      },
+      "pt": {
+        "question": "O ciclomotor que converte à direita em duas etapas deve aguardar no ponto de conversão enquanto o sinal daquele sentido estiver vermelho.",
+        "explanation": "É o Kyosoku, Anexo 1(1). Ciclomotores pequenos especificados e veículos leves recebem o mesmo tratamento."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-2-010",
+    "category": "停止位置",
+    "kp": "1-2-1",
+    "group": "A",
+    "source": "教則 付表1（1）備考",
+    "question_type": "text",
+    "qf": "QF-1-2-1-A-N-10",
+    "question_ja": "停止位置とは、停止線があるところでは停止線の直前をいう。",
+    "answer": true,
+    "explanation_ja": "教則付表1（1）の備考のとおりです。停止線がないところの停止位置は、場所ごとに定められています。",
+    "i18n": {
+      "zh": {
+        "question": "所谓停止位置，在设有停止线的地方是指停止线的正前方。",
+        "explanation": "符合教则附表1（1）备注的规定。没有停止线的地方，停止位置按场所分别规定。"
+      },
+      "en": {
+        "question": "The stopping position is the point just before the stop line where there is one.",
+        "explanation": "This is the note to Kyosoku Appendix 1(1). Where there is no stop line, the stopping position is defined for each kind of place."
+      },
+      "vi": {
+        "question": "Vị trí dừng là điểm ngay trước vạch dừng ở nơi có vạch đó.",
+        "explanation": "Đúng theo ghi chú của Kyosoku Phụ lục 1(1). Ở nơi không có vạch dừng, vị trí dừng được quy định theo từng loại địa điểm."
+      },
+      "pt": {
+        "question": "A posição de parada é o ponto logo antes da linha de parada, onde ela existe.",
+        "explanation": "É a nota do Kyosoku, Anexo 1(1). Onde não há linha, a posição de parada é definida para cada tipo de local."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-2-011",
+    "category": "信号の意味",
+    "kp": "1-2-1",
+    "group": "A",
+    "source": "教則 付表1（1）",
+    "question_type": "text",
+    "qf": "QF-1-2-1-D-EX-01",
+    "question_ja": "青色の灯火では、すべての車が直進し、左折し、右折することができる。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則付表1（1）により、特定小型原動機付自転車と軽車両は直進と左折ができるだけで、右折は右折する地点まで直進して向きを変えることまでです。",
+    "i18n": {
+      "zh": {
+        "question": "绿灯时，所有车辆都可以直行、左拐弯、右拐弯。",
+        "explanation": "错误。根据教则附表1（1），特定小型轻型摩托车和轻车辆只能直行和左拐弯，右拐弯只能直行到右拐弯地点并改变方向。"
+      },
+      "en": {
+        "question": "On a green light every vehicle may go straight on, turn left and turn right.",
+        "explanation": "This is wrong. Under Kyosoku Appendix 1(1) a specified small motorized bicycle or light road vehicle may only go straight on and turn left, and turns right by going straight to the turning point and changing direction there."
+      },
+      "vi": {
+        "question": "Khi đèn xanh, mọi xe đều được đi thẳng, rẽ trái và rẽ phải.",
+        "explanation": "Sai. Theo Kyosoku Phụ lục 1(1), xe gắn máy cỡ nhỏ đặc định và xe thô sơ chỉ được đi thẳng và rẽ trái, còn rẽ phải thì đi thẳng tới điểm rẽ rồi đổi hướng tại đó."
+      },
+      "pt": {
+        "question": "No verde todo veículo pode seguir em frente, converter à esquerda e à direita.",
+        "explanation": "Está errado. Pelo Kyosoku, Anexo 1(1), o ciclomotor pequeno especificado e o veículo leve só podem seguir em frente e converter à esquerda, e convertem à direita indo reto até o ponto de conversão e mudando de direção ali."
+      }
+    },
+    "trap_type": "EX",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-2-012",
+    "category": "信号の意味",
+    "kp": "1-2-1",
+    "group": "A",
+    "source": "教則 付表1（1）",
+    "question_type": "text",
+    "qf": "QF-1-2-1-D-EI-01",
+    "question_ja": "黄色の灯火のとき、まだ交差点に入る前であっても、急いでいるときはそのまま進んでよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則付表1（1）により、そのまま進めるのは停止位置に近づいていて安全に停止することができない場合だけです。",
+    "i18n": {
+      "zh": {
+        "question": "黄灯时，即使还没有驶入交叉路口，赶时间的话也可以继续前行。",
+        "explanation": "错误。根据教则附表1（1），能够继续前行的只有已接近停止位置、无法安全停车的情况。"
+      },
+      "en": {
+        "question": "On an amber light you may carry on if you are in a hurry, even before you have entered the intersection.",
+        "explanation": "This is wrong. Under Kyosoku Appendix 1(1) you may carry on only when you are close to the stopping position and cannot stop safely."
+      },
+      "vi": {
+        "question": "Khi đèn vàng, bạn được đi tiếp nếu đang vội, ngay cả khi chưa vào nút giao thông.",
+        "explanation": "Sai. Theo Kyosoku Phụ lục 1(1), bạn chỉ được đi tiếp khi đã tới gần vị trí dừng và không thể dừng an toàn."
+      },
+      "pt": {
+        "question": "No amarelo você pode seguir se estiver com pressa, mesmo antes de ter entrado no cruzamento.",
+        "explanation": "Está errado. Pelo Kyosoku, Anexo 1(1), só se pode seguir quando já se está perto da posição de parada e não dá para parar com segurança."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-2-013",
+    "category": "信号の意味",
+    "kp": "1-2-1",
+    "group": "A",
+    "source": "教則 付表1（1）",
+    "question_type": "text",
+    "qf": "QF-1-2-1-D-SW-01",
+    "question_ja": "赤色の灯火では、車は停止位置の直前で徐行しなければならない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則付表1（1）により、赤色の灯火では車は停止位置を越えて進んではいけません。",
+    "i18n": {
+      "zh": {
+        "question": "红灯时，车辆必须在停止位置的正前方缓行（徐行）。",
+        "explanation": "错误。根据教则附表1（1），红灯时车辆不得越过停止位置前行。"
+      },
+      "en": {
+        "question": "On a red light a vehicle must proceed slowly (徐行) just before the stopping position.",
+        "explanation": "This is wrong. Under Kyosoku Appendix 1(1) a vehicle must not proceed beyond the stopping position on a red light."
+      },
+      "vi": {
+        "question": "Khi đèn đỏ, xe phải lưu thông chậm (徐行) ngay trước vị trí dừng.",
+        "explanation": "Sai. Theo Kyosoku Phụ lục 1(1), khi đèn đỏ xe không được đi quá vị trí dừng."
+      },
+      "pt": {
+        "question": "No vermelho o veículo deve prosseguir lentamente (徐行) logo antes da posição de parada.",
+        "explanation": "Está errado. Pelo Kyosoku, Anexo 1(1), no vermelho o veículo não deve passar da posição de parada."
+      }
+    },
+    "trap_type": "SW",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-2-014",
+    "category": "信号の意味",
+    "kp": "1-2-1",
+    "group": "A",
+    "source": "教則 付表1（1）",
+    "question_type": "text",
+    "qf": "QF-1-2-1-D-EO-01",
+    "question_ja": "交差点で既に右折している車は、右折方向の信号が赤であれば、そのまま進むことができる。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則付表1（1）により、この場合も青色の灯火に従って進んで来る車や路面電車の進行を妨げてはいけません。",
+    "i18n": {
+      "zh": {
+        "question": "在交叉路口已经在右拐弯的车辆，只要右拐弯方向的信号灯是红灯，就可以继续前行。",
+        "explanation": "错误。根据教则附表1（1），这种情况下也不得妨碍按绿灯行驶过来的车辆和路面电车通行。"
+      },
+      "en": {
+        "question": "A vehicle already turning right at an intersection may simply carry on once the light for that direction is red.",
+        "explanation": "This is wrong. Under Kyosoku Appendix 1(1) it must still not obstruct vehicles or streetcars (trams) coming through on a green light."
+      },
+      "vi": {
+        "question": "Xe đang rẽ phải tại nút giao thông cứ thế đi tiếp khi đèn hướng đó đã đỏ.",
+        "explanation": "Sai. Theo Kyosoku Phụ lục 1(1), xe vẫn không được cản trở xe hay tàu điện đang đi tới theo đèn xanh."
+      },
+      "pt": {
+        "question": "O veículo que já está convertendo à direita simplesmente prossegue assim que o sinal daquele sentido fica vermelho.",
+        "explanation": "Está errado. Pelo Kyosoku, Anexo 1(1), ele continua sem poder obstruir veículos ou bondes que avançam no verde."
+      }
+    },
+    "trap_type": "EO",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-2-015",
+    "category": "信号の意味",
+    "kp": "1-2-1",
+    "group": "A",
+    "source": "教則 付表1（1）",
+    "question_type": "text",
+    "qf": "QF-1-2-1-D-AB-01",
+    "question_ja": "黄色の灯火では、車はどんな場合でも停止位置から先へ進んではいけない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則付表1（1）により、黄色に変わったときに停止位置に近づいていて安全に停止することができない場合は、そのまま進むことができます。",
+    "i18n": {
+      "zh": {
+        "question": "黄灯时，车辆在任何情况下都不得驶过停止位置。",
+        "explanation": "错误。根据教则附表1（1），变为黄灯时已接近停止位置、无法安全停车的情况下，可以继续前行。"
+      },
+      "en": {
+        "question": "On an amber light a vehicle must never proceed beyond the stopping position, in any circumstances.",
+        "explanation": "This is wrong. Under Kyosoku Appendix 1(1) a vehicle that was close to the stopping position when the light changed and cannot stop safely may carry on."
+      },
+      "vi": {
+        "question": "Khi đèn vàng, xe không bao giờ được đi quá vị trí dừng, trong mọi hoàn cảnh.",
+        "explanation": "Sai. Theo Kyosoku Phụ lục 1(1), xe đã tới gần vị trí dừng lúc đèn chuyển màu và không dừng an toàn được thì vẫn đi tiếp."
+      },
+      "pt": {
+        "question": "No amarelo o veículo nunca pode passar da posição de parada, em nenhuma circunstância.",
+        "explanation": "Está errado. Pelo Kyosoku, Anexo 1(1), o veículo que já estava perto da posição quando o sinal mudou e não consegue parar com segurança pode seguir."
+      }
+    },
+    "trap_type": "AB",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-2-016",
+    "category": "停止位置",
+    "kp": "1-2-1",
+    "group": "A",
+    "source": "教則 付表1（1）備考",
+    "question_type": "text",
+    "qf": "QF-1-2-1-D-NR-01",
+    "question_ja": "停止位置とは、停止線のないところでは信号機の直前をいう。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則付表1（1）の備考により、交差点ではその直前、交差点以外で横断歩道や踏切があるところではその直前が停止位置になります。",
+    "i18n": {
+      "zh": {
+        "question": "所谓停止位置，在没有停止线的地方是指信号灯的正前方。",
+        "explanation": "错误。根据教则附表1（1）备注，在交叉路口是其正前方，在交叉路口以外设有人行横道或铁路道口的地方是其正前方。"
+      },
+      "en": {
+        "question": "Where there is no stop line, the stopping position is the point just before the traffic light.",
+        "explanation": "This is wrong. Under the note to Kyosoku Appendix 1(1) it is just before the intersection at an intersection, and just before a pedestrian crossing or railway crossing where one lies outside an intersection."
+      },
+      "vi": {
+        "question": "Ở nơi không có vạch dừng, vị trí dừng là ngay trước đèn tín hiệu.",
+        "explanation": "Sai. Theo ghi chú của Kyosoku Phụ lục 1(1), tại nút giao thì đó là ngay trước nút giao, còn ngoài nút giao thì là ngay trước vạch sang đường hoặc đường ngang đường sắt nếu có."
+      },
+      "pt": {
+        "question": "Onde não há linha de parada, a posição de parada é logo antes do semáforo.",
+        "explanation": "Está errado. Pela nota do Kyosoku, Anexo 1(1), no cruzamento é logo antes dele, e fora do cruzamento é logo antes da faixa de pedestres ou da passagem de nível, quando existem."
+      }
+    },
+    "trap_type": "NR",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-2-017",
+    "category": "信号の意味",
+    "kp": "1-2-1",
+    "group": "A",
+    "source": "教則 付表1（1）",
+    "question_type": "text",
+    "qf": "QF-1-2-1-D-SW-02",
+    "question_ja": "青色の灯火では、歩行者は横断を始めてはいけない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則付表1（1）により、青色の灯火では歩行者は進むことができます。横断を始めてはいけないのは黄色の灯火のときです。",
+    "i18n": {
+      "zh": {
+        "question": "绿灯时，步行者不得开始横穿。",
+        "explanation": "错误。根据教则附表1（1），绿灯时步行者可以通行。不得开始横穿的是黄灯的时候。"
+      },
+      "en": {
+        "question": "On a green light a pedestrian must not begin crossing.",
+        "explanation": "This is wrong. Under Kyosoku Appendix 1(1) a pedestrian may go on a green light. It is on an amber light that they must not begin crossing."
+      },
+      "vi": {
+        "question": "Khi đèn xanh, người đi bộ không được bắt đầu băng qua.",
+        "explanation": "Sai. Theo Kyosoku Phụ lục 1(1), khi đèn xanh người đi bộ được đi. Chính khi đèn vàng họ mới không được bắt đầu băng qua."
+      },
+      "pt": {
+        "question": "No verde o pedestre não deve iniciar a travessia.",
+        "explanation": "Está errado. Pelo Kyosoku, Anexo 1(1), no verde o pedestre pode seguir. É no amarelo que ele não deve iniciar a travessia."
+      }
+    },
+    "trap_type": "SW",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-2-018",
+    "category": "信号の意味",
+    "kp": "1-2-1",
+    "group": "A",
+    "source": "教則 付表1（1）",
+    "question_type": "text",
+    "qf": "QF-1-2-1-D-EI-02",
+    "question_ja": "赤色の灯火の交差点でも、右折している途中であれば、対向から青色の灯火に従って進んで来る車より先に進んでよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則付表1（1）により、既に右折している車は進むことができますが、青色の灯火に従って進んで来る車の進行を妨げてはいけません。",
+    "i18n": {
+      "zh": {
+        "question": "即使在红灯的交叉路口，只要正在右拐弯途中，也可以抢在按绿灯从对向驶来的车辆之前通过。",
+        "explanation": "错误。根据教则附表1（1），已经在右拐弯的车辆可以前行，但不得妨碍按绿灯驶来的车辆通行。"
+      },
+      "en": {
+        "question": "At an intersection on a red light, a vehicle midway through a right turn may go ahead of oncoming vehicles coming through on a green light.",
+        "explanation": "This is wrong. Under Kyosoku Appendix 1(1) a vehicle already turning may proceed, but it must not obstruct vehicles coming through on a green light."
+      },
+      "vi": {
+        "question": "Tại nút giao đang đèn đỏ, xe đang rẽ phải dở được đi trước những xe ngược chiều đang tới theo đèn xanh.",
+        "explanation": "Sai. Theo Kyosoku Phụ lục 1(1), xe đang rẽ được đi tiếp, nhưng không được cản trở xe đang tới theo đèn xanh."
+      },
+      "pt": {
+        "question": "No cruzamento com sinal vermelho, o veículo no meio da conversão à direita pode passar à frente dos que vêm em sentido contrário no verde.",
+        "explanation": "Está errado. Pelo Kyosoku, Anexo 1(1), o veículo que já converte pode prosseguir, mas não deve obstruir os que avançam no verde."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-2-019",
+    "category": "信号の意味",
+    "kp": "1-2-1",
+    "group": "A",
+    "source": "教則 付表1（1）",
+    "question_type": "text",
+    "qf": "QF-1-2-1-D-SC-01",
+    "question_ja": "前方の信号が黄色に変わったが、停止位置まではまだ距離があったので、加速して交差点に入った。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則付表1（1）により、安全に停止することができる場合は停止位置から先へ進んではいけません。",
+    "i18n": {
+      "zh": {
+        "question": "前方信号灯变成了黄灯，但离停止位置还有距离，于是加速驶入了交叉路口。",
+        "explanation": "错误。根据教则附表1（1），能够安全停车的情况下不得驶过停止位置。"
+      },
+      "en": {
+        "question": "The light ahead turned amber but you were still some way from the stopping position, so you accelerated into the intersection.",
+        "explanation": "This is wrong. Under Kyosoku Appendix 1(1), if you can stop safely you must not proceed beyond the stopping position."
+      },
+      "vi": {
+        "question": "Đèn phía trước chuyển vàng nhưng bạn còn cách vị trí dừng một đoạn, nên bạn tăng tốc lao vào nút giao thông.",
+        "explanation": "Sai. Theo Kyosoku Phụ lục 1(1), nếu có thể dừng an toàn thì bạn không được đi quá vị trí dừng."
+      },
+      "pt": {
+        "question": "O sinal à frente ficou amarelo, mas você ainda estava longe da posição de parada e acelerou para entrar no cruzamento.",
+        "explanation": "Está errado. Pelo Kyosoku, Anexo 1(1), se é possível parar com segurança, você não deve passar da posição de parada."
+      }
+    },
+    "trap_type": "SC",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-2-020",
+    "category": "信号の意味",
+    "kp": "1-2-1",
+    "group": "A",
+    "source": "教則 付表1（1）",
+    "question_type": "text",
+    "qf": "QF-1-2-1-D-EX-02",
+    "question_ja": "特定小型原動機付自転車は、青色の灯火では直進、左折、右折のすべてをすることができる。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則付表1（1）により、特定小型原動機付自転車ができるのは直進と左折で、右折するときは右折する地点まで直進して向きを変えることまでです。",
+    "i18n": {
+      "zh": {
+        "question": "特定小型轻型摩托车在绿灯时可以直行、左拐弯、右拐弯。",
+        "explanation": "错误。根据教则附表1（1），特定小型轻型摩托车能做的是直行和左拐弯，右拐弯只能直行到右拐弯地点并改变方向。"
+      },
+      "en": {
+        "question": "A specified small motorized bicycle may go straight on, turn left and turn right on a green light.",
+        "explanation": "This is wrong. Under Kyosoku Appendix 1(1) it may go straight on and turn left, and turns right by going straight to the turning point and changing direction there."
+      },
+      "vi": {
+        "question": "Xe gắn máy cỡ nhỏ đặc định được đi thẳng, rẽ trái và rẽ phải khi đèn xanh.",
+        "explanation": "Sai. Theo Kyosoku Phụ lục 1(1), xe này được đi thẳng và rẽ trái, còn rẽ phải thì đi thẳng tới điểm rẽ rồi đổi hướng tại đó."
+      },
+      "pt": {
+        "question": "O ciclomotor pequeno especificado pode seguir em frente, converter à esquerda e à direita no verde.",
+        "explanation": "Está errado. Pelo Kyosoku, Anexo 1(1), ele pode seguir em frente e converter à esquerda, e converte à direita indo reto até o ponto de conversão e mudando de direção ali."
+      }
+    },
+    "trap_type": "EX",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  }
+]
