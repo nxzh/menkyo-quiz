@@ -1,0 +1,662 @@
+[
+  {
+    "id": "K5-2-061",
+    "category": "通行するところ",
+    "kp": "5-2-1",
+    "group": "H",
+    "source": "教則 第5章第2節1(2)",
+    "question_type": "text",
+    "qf": "QF-5-2-1-A-N-05",
+    "question_ja": "工事などのため左側部分だけでは通行するのに十分な幅がないときは、道路の右側部分にはみ出して通行することができる。",
+    "answer": true,
+    "explanation_ja": "教則第5章第2節1(2)のとおりです。この場合も、はみ出し方ができるだけ少なくなるようにします。",
+    "i18n": {
+      "zh": {
+        "question": "因施工等原因仅靠左侧部分宽度不足以通行时，可以驶出到道路右侧部分通行。",
+        "explanation": "符合教则第5章第2节1(2)的规定。这种情况下也要使驶出的幅度尽可能小。"
+      },
+      "en": {
+        "question": "Where road works or the like leave the left-hand side too narrow to pass, you may cross onto the right-hand side of the road.",
+        "explanation": "This is Kyosoku Chapter 5 Section 2 item 1(2). Here too you keep the amount you cross over as small as you can."
+      },
+      "vi": {
+        "question": "Khi thi công đường hoặc lý do tương tự khiến phần đường bên trái không đủ rộng để đi, bạn được lấn sang phần đường bên phải.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 2 điểm 1(2). Ở đây bạn cũng lấn ít nhất có thể."
+      },
+      "pt": {
+        "question": "Quando obras ou algo semelhante deixam o lado esquerdo estreito demais, você pode transpor para o lado direito da via.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 2, item 1(2). Também aqui se avança o mínimo possível."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-2-062",
+    "category": "通行するところ",
+    "kp": "5-2-1",
+    "group": "H",
+    "source": "教則 第5章第2節1(1)",
+    "question_type": "text",
+    "qf": "QF-5-2-1-A-N-06",
+    "question_ja": "一方通行となっている道路では、道路の右側部分にはみ出して通行することができる。",
+    "answer": true,
+    "explanation_ja": "教則第5章第2節1(1)のとおりです。この場合だけは、はみ出し方の制限が掛かりません。",
+    "i18n": {
+      "zh": {
+        "question": "在单向通行的道路上，可以驶出到道路右侧部分通行。",
+        "explanation": "符合教则第5章第2节1(1)的规定。只有这种情况不受驶出幅度的限制。"
+      },
+      "en": {
+        "question": "On a one-way road you may cross onto the right-hand side of the road.",
+        "explanation": "This is Kyosoku Chapter 5 Section 2 item 1(1). This is the one case in which the limit on how far you cross over does not apply."
+      },
+      "vi": {
+        "question": "Trên đường một chiều, bạn được lấn sang phần đường bên phải.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 2 điểm 1(1). Đây là trường hợp duy nhất không bị giới hạn mức lấn."
+      },
+      "pt": {
+        "question": "Em via de mão única você pode transpor para o lado direito da via.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 2, item 1(1). É o único caso em que não se aplica o limite de quanto se avança."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-2-063",
+    "category": "専用通行帯",
+    "kp": "5-2-6",
+    "group": "I",
+    "source": "教則 第5章第2節6(2)",
+    "question_type": "text",
+    "qf": "QF-5-2-6-A-N-07",
+    "question_ja": "路線バスなどの専用通行帯が指定されている道路でも、道路工事などでやむを得ない場合はその通行帯を通行することができる。",
+    "answer": true,
+    "explanation_ja": "教則第5章第2節6(2)のとおりです。右左折のため道路の端や中央に寄る場合も同じです。",
+    "i18n": {
+      "zh": {
+        "question": "即使是指定了公交车等专用通行带的道路，因道路施工等不得已时也可以通行该通行带。",
+        "explanation": "符合教则第5章第2节6(2)的规定。为右拐弯左拐弯而靠道路边缘或中央时也一样。"
+      },
+      "en": {
+        "question": "Even on a road with a lane designated for route buses you may use that lane where road works or the like leave no alternative.",
+        "explanation": "This is Kyosoku Chapter 5 Section 2 item 6(2). The same goes for pulling to the edge or the centre of the road in order to turn."
+      },
+      "vi": {
+        "question": "Ngay trên đường có làn dành riêng cho xe buýt tuyến, bạn vẫn được đi ở làn đó khi thi công đường hoặc lý do tương tự không cho lựa chọn khác.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 2 điểm 6(2). Điều tương tự áp dụng khi tấp vào mép hay tim đường để rẽ."
+      },
+      "pt": {
+        "question": "Mesmo em via com faixa designada para ônibus de linha você pode usá-la quando obras ou algo semelhante não deixarem alternativa.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 2, item 6(2). O mesmo vale ao encostar na borda ou no centro para converter."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-2-064",
+    "category": "通行してはいけないところ",
+    "kp": "5-2-7",
+    "group": "H",
+    "source": "教則 第5章第2節7(5)",
+    "question_type": "text",
+    "qf": "QF-5-2-7-A-N-10",
+    "question_ja": "右折するために軌道敷内を横切ることは認められている。",
+    "answer": true,
+    "explanation_ja": "教則第5章第2節7(5)のとおりです。「軌道敷内通行可」の標識で認められた車が通行する場合も同じです。",
+    "i18n": {
+      "zh": {
+        "question": "为右拐弯而横穿轨道区域是被认可的。",
+        "explanation": "符合教则第5章第2节7(5)的规定。由「可在轨道区域内通行」标识（立牌）认可的车辆通行时也一样。"
+      },
+      "en": {
+        "question": "Crossing the tram tracks in order to turn right is allowed.",
+        "explanation": "This is Kyosoku Chapter 5 Section 2 item 7(5). The same goes for a vehicle permitted by the Driving on tram tracks permitted sign."
+      },
+      "vi": {
+        "question": "Việc cắt qua phần đường ray tàu điện để rẽ phải được phép.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 2 điểm 7(5). Điều tương tự áp dụng cho xe được biển Được phép đi trong phần đường ray cho phép."
+      },
+      "pt": {
+        "question": "Atravessar os trilhos para converter à direita é permitido.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 2, item 7(5). O mesmo vale para o veículo autorizado pela placa correspondente."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-2-065",
+    "category": "通行するところ",
+    "kp": "5-2-2",
+    "group": "H",
+    "source": "教則 第5章第2節2(2)",
+    "question_type": "text",
+    "qf": "QF-5-2-2-A-N-06",
+    "question_ja": "三つ以上の車両通行帯がある道路でも、標識や標示によって通行区分が示されているときは、その指定に従って通行する。",
+    "answer": true,
+    "explanation_ja": "教則第5章第2節2(2)のとおりです。指定は、速度による使い分けの目安より優先します。",
+    "i18n": {
+      "zh": {
+        "question": "即使是有三条以上车辆通行带的道路，由标识（立牌）或标示指定了通行区分时，也要按该指定通行。",
+        "explanation": "符合教则第5章第2节2(2)的规定。该指定优先于按速度区分使用的一般标准。"
+      },
+      "en": {
+        "question": "Even on a road with three or more lanes, where signs or markings specify how lanes are to be used you travel as specified.",
+        "explanation": "This is Kyosoku Chapter 5 Section 2 item 2(2). The specification takes precedence over the guidance about sorting by speed."
+      },
+      "vi": {
+        "question": "Ngay trên đường có từ ba làn trở lên, khi biển báo hoặc vạch chỉ định cách phân làn thì bạn đi theo chỉ định đó.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 2 điểm 2(2). Chỉ định được ưu tiên hơn hướng dẫn phân làn theo tốc độ."
+      },
+      "pt": {
+        "question": "Mesmo em via com três ou mais faixas, quando a sinalização indica o uso das faixas você segue a indicação.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 2, item 2(2). A indicação prevalece sobre a orientação de separar por velocidade."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-2-066",
+    "category": "通行してはいけないところ",
+    "kp": "5-2-7",
+    "group": "H",
+    "source": "教則 第5章第2節7(2)",
+    "question_type": "text",
+    "qf": "QF-5-2-7-A-N-11",
+    "question_ja": "歩道や路側帯を横切ることが認められるのは、道路に面した場所に出入りするためなどの場合である。",
+    "answer": true,
+    "explanation_ja": "教則第5章第2節7(2)のとおりです。横切る場合も、その直前で一時停止しなければなりません。",
+    "i18n": {
+      "zh": {
+        "question": "横穿人行道或路侧带被认可的，是为进出面向道路的场所等情况。",
+        "explanation": "符合教则第5章第2节7(2)的规定。横穿时也必须在其正前方暂停（一時停止）。"
+      },
+      "en": {
+        "question": "Crossing a sidewalk or side strip (路側帯) is allowed in cases such as entering or leaving a place facing the road.",
+        "explanation": "This is Kyosoku Chapter 5 Section 2 item 7(2). Even when crossing, you must come to a complete stop just before it."
+      },
+      "vi": {
+        "question": "Việc băng qua vỉa hè hay lề đường (路側帯) được phép trong những trường hợp như ra vào địa điểm tiếp giáp đường.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 2 điểm 7(2). Ngay cả khi băng qua, bạn vẫn phải tạm dừng ngay trước đó."
+      },
+      "pt": {
+        "question": "Atravessar calçada ou faixa lateral (路側帯) é permitido em casos como entrar ou sair de um local voltado para a via.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 2, item 7(2). Mesmo ao atravessar, é preciso parar completamente logo antes."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-2-067",
+    "category": "通行するところ",
+    "kp": "5-2-3",
+    "group": "H",
+    "source": "教則 第5章第2節3",
+    "question_type": "text",
+    "qf": "QF-5-2-3-A-N-02",
+    "question_ja": "車両通行帯のある道路では、みだりに車両通行帯を変えず、同一の車両通行帯を通行しなければならない。",
+    "answer": true,
+    "explanation_ja": "教則第5章第2節3のとおりです。みだりに変えると、後続車の迷惑となり事故の原因にもなります。",
+    "i18n": {
+      "zh": {
+        "question": "在设有车辆通行带的道路上，不得随意变更车辆通行带，必须在同一条车辆通行带内通行。",
+        "explanation": "符合教则第5章第2节3的规定。随意变更会给后车造成困扰，也会成为事故的原因。"
+      },
+      "en": {
+        "question": "On a road with vehicle lanes you must not change lanes without good reason; you stay in the same lane.",
+        "explanation": "This is Kyosoku Chapter 5 Section 2 item 3. Changing lanes needlessly troubles following vehicles and causes accidents."
+      },
+      "vi": {
+        "question": "Trên đường có làn đường, bạn không được tùy tiện đổi làn; hãy đi trong cùng một làn.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 2 điểm 3. Đổi làn tùy tiện gây phiền cho xe phía sau và là nguyên nhân tai nạn."
+      },
+      "pt": {
+        "question": "Em via com faixas você não deve trocar de faixa sem motivo; permaneça na mesma.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 2, item 3. Trocar à toa incomoda quem vem atrás e causa acidentes."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-2-068",
+    "category": "緊急自動車の優先",
+    "kp": "5-2-5",
+    "group": "I",
+    "source": "教則 第5章第2節5",
+    "question_type": "text",
+    "qf": "QF-5-2-5-A-N-05",
+    "question_ja": "緊急自動車が近づいてきたときに交差点を避けるのは、交差点の付近にいる場合である。",
+    "answer": true,
+    "explanation_ja": "教則第5章第2節5のとおりです。その他のところでは、道路の左側に寄って進路を譲ります。",
+    "i18n": {
+      "zh": {
+        "question": "紧急车辆驶近时需要避开交叉路口的，是自己处在交叉路口附近的情况。",
+        "explanation": "符合教则第5章第2节5的规定。在其他地方则靠道路左侧让出行驶路线。"
+      },
+      "en": {
+        "question": "Keeping clear of the intersection when an emergency vehicle approaches applies where you are near an intersection.",
+        "explanation": "This is Kyosoku Chapter 5 Section 2 item 5. Elsewhere you pull over to the left of the road and give way."
+      },
+      "vi": {
+        "question": "Việc tránh nút giao khi xe ưu tiên đến gần áp dụng khi bạn đang ở gần nút giao thông.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 2 điểm 5. Ở nơi khác, bạn tấp vào bên trái đường và nhường đường."
+      },
+      "pt": {
+        "question": "Evitar o cruzamento quando um veículo de emergência se aproxima vale quando você está perto de um cruzamento.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 2, item 5. Nos demais locais, encoste à esquerda e dê passagem."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-2-069",
+    "category": "高さの制限",
+    "kp": "5-2-4",
+    "group": "H",
+    "source": "教則 第5章第2節4",
+    "question_type": "text",
+    "qf": "QF-5-2-4-A-N-02",
+    "question_ja": "大型自動車、中型自動車及び準中型自動車は普通自動車に比べて車体の高さが高いので、高さに制限のある場所では特に注意が必要である。",
+    "answer": true,
+    "explanation_ja": "教則第5章第2節4のとおりです。積載物の高さが制限を超えてしまうこともあります。",
+    "i18n": {
+      "zh": {
+        "question": "大型汽车、中型汽车和准中型汽车与普通汽车相比车身较高，所以在有高度限制的场所特别需要注意。",
+        "explanation": "符合教则第5章第2节4的规定。装载物的高度也有可能超过限制。"
+      },
+      "en": {
+        "question": "Large, medium and semi-medium vehicles are taller than ordinary ones, so particular care is needed where there is a height limit.",
+        "explanation": "This is Kyosoku Chapter 5 Section 2 item 4. The load itself can also exceed the limit."
+      },
+      "vi": {
+        "question": "Xe cỡ lớn, cỡ trung và cỡ bán trung cao hơn xe thông thường, nên ở nơi có giới hạn chiều cao cần đặc biệt chú ý.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 2 điểm 4. Bản thân hàng hóa cũng có thể vượt giới hạn."
+      },
+      "pt": {
+        "question": "Veículos grandes, médios e semimédios são mais altos que os comuns, exigindo atenção especial onde há limite de altura.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 2, item 4. A própria carga também pode ultrapassar o limite."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-2-070",
+    "category": "通行するところ",
+    "kp": "5-2-2",
+    "group": "H",
+    "source": "教則 第5章第2節2(2)",
+    "question_type": "text",
+    "qf": "QF-5-2-2-A-N-07",
+    "question_ja": "同一の方向に二つの車両通行帯があるとき、右側の車両通行帯は追越しなどのために空けておくものである。",
+    "answer": true,
+    "explanation_ja": "教則第5章第2節2(2)のとおりです。追越しが終われば、速やかに左側の車両通行帯に戻ります。",
+    "i18n": {
+      "zh": {
+        "question": "同一方向有两条车辆通行带时，右侧的车辆通行带是为超车等而留出的。",
+        "explanation": "符合教则第5章第2节2(2)的规定。超车结束后要迅速回到左侧的车辆通行带。"
+      },
+      "en": {
+        "question": "Where there are two lanes in the same direction, the right-hand lane is kept free for overtaking and the like.",
+        "explanation": "This is Kyosoku Chapter 5 Section 2 item 2(2). Once the overtaking is finished you return promptly to the left-hand lane."
+      },
+      "vi": {
+        "question": "Khi có hai làn cùng chiều, làn bên phải được để trống cho việc vượt xe và những việc tương tự.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 2 điểm 2(2). Vượt xong, bạn nhanh chóng trở về làn bên trái."
+      },
+      "pt": {
+        "question": "Havendo duas faixas no mesmo sentido, a da direita fica livre para ultrapassagens e usos semelhantes.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 2, item 2(2). Terminada a ultrapassagem, volte sem demora à faixa da esquerda."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-2-071",
+    "category": "通行するところ",
+    "kp": "5-2-1",
+    "group": "H",
+    "source": "教則 第5章第2節1(2)",
+    "question_type": "text",
+    "qf": "QF-5-2-1-D-EX-01",
+    "question_ja": "左側部分の幅が狭いと感じたときは、工事などがなくても右側部分にはみ出して通行してよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第2節1(2)の例外は、工事などのため左側部分だけでは通行するのに十分な幅がないときに限られます。",
+    "i18n": {
+      "zh": {
+        "question": "感觉左侧部分宽度较窄时，即使没有施工也可以驶出到右侧部分通行。",
+        "explanation": "错误。教则第5章第2节1(2)的例外仅限于因施工等原因仅靠左侧部分宽度不足以通行的情况。"
+      },
+      "en": {
+        "question": "If the left-hand side feels narrow you may cross onto the right-hand side even without road works.",
+        "explanation": "This is wrong. The exception in Kyosoku Chapter 5 Section 2 item 1(2) is limited to cases where road works or the like leave the left-hand side too narrow to pass."
+      },
+      "vi": {
+        "question": "Khi thấy phần đường bên trái hơi hẹp, bạn được lấn sang phần bên phải ngay cả khi không có thi công.",
+        "explanation": "Sai. Ngoại lệ ở Kyosoku Chương 5 Mục 2 điểm 1(2) chỉ giới hạn ở trường hợp thi công đường khiến phần bên trái không đủ rộng để đi."
+      },
+      "pt": {
+        "question": "Se o lado esquerdo parecer estreito você pode transpor para o direito mesmo sem obras.",
+        "explanation": "Está errado. A exceção do Kyosoku, Capítulo 5, Seção 2, item 1(2), limita-se aos casos em que obras deixam o lado esquerdo estreito demais."
+      }
+    },
+    "trap_type": "EX",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-2-072",
+    "category": "専用通行帯",
+    "kp": "5-2-6",
+    "group": "I",
+    "source": "教則 第5章第2節6(2)",
+    "question_type": "text",
+    "qf": "QF-5-2-6-D-EO-02",
+    "question_ja": "路線バスなどの専用通行帯は、いかなる場合もほかの自動車が通行することはできない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第2節6(2)により、右左折のため道路の端や中央に寄る場合や、工事などでやむを得ない場合は別です。",
+    "i18n": {
+      "zh": {
+        "question": "公交车等专用通行带，在任何情况下其他汽车都不能通行。",
+        "explanation": "错误。根据教则第5章第2节6(2)，为右拐弯左拐弯而靠道路边缘或中央时，以及因施工等不得已时除外。"
+      },
+      "en": {
+        "question": "No other car may ever use a lane designated for route buses, in any circumstances.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 2 item 6(2) pulling to the edge or the centre of the road to turn, and road works that leave no alternative, are exceptions."
+      },
+      "vi": {
+        "question": "Không xe nào khác được đi ở làn dành riêng cho xe buýt tuyến, trong bất kỳ hoàn cảnh nào.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 2 điểm 6(2), việc tấp vào mép hay tim đường để rẽ và thi công đường không cho lựa chọn khác là ngoại lệ."
+      },
+      "pt": {
+        "question": "Nenhum outro automóvel pode usar a faixa designada para ônibus de linha, em nenhuma circunstância.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 2, item 6(2), encostar para converter e obras sem alternativa são exceções."
+      }
+    },
+    "trap_type": "EO",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-2-073",
+    "category": "通行してはいけないところ",
+    "kp": "5-2-7",
+    "group": "H",
+    "source": "教則 第5章第2節7(5)",
+    "question_type": "text",
+    "qf": "QF-5-2-7-D-EI-05",
+    "question_ja": "軌道敷内は、右折のためでなくても、車の通行が少なければ横切ってよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第2節7(5)により、軌道敷内を通行できるのは標識で認められた車や右折する場合などに限られます。",
+    "i18n": {
+      "zh": {
+        "question": "轨道区域内，即使不是为了右拐弯，只要车辆通行少也可以横穿。",
+        "explanation": "错误。根据教则第5章第2节7(5)，能够通行轨道区域的仅限于标识（立牌）认可的车辆以及右拐弯等情况。"
+      },
+      "en": {
+        "question": "You may cross the tram tracks even when not turning right, as long as there is little traffic.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 2 item 7(5) only vehicles permitted by sign, and cases such as turning right, may use the tracks."
+      },
+      "vi": {
+        "question": "Bạn được cắt qua phần đường ray ngay cả khi không rẽ phải, miễn là ít xe qua lại.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 2 điểm 7(5), chỉ xe được biển cho phép và các trường hợp như rẽ phải mới được đi vào phần đường ray."
+      },
+      "pt": {
+        "question": "Você pode atravessar os trilhos mesmo sem converter à direita, desde que haja pouco trânsito.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 2, item 7(5), só veículos autorizados por placa e casos como converter à direita podem usar os trilhos."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-2-074",
+    "category": "通行してはいけないところ",
+    "kp": "5-2-7",
+    "group": "H",
+    "source": "教則 第5章第2節7(2)",
+    "question_type": "text",
+    "qf": "QF-5-2-7-D-EO-02",
+    "question_ja": "自転車道は、横切ることも含めて一切通行してはいけない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第2節7(2)により、道路に面した場所に出入りするために横切る場合などは別です。",
+    "i18n": {
+      "zh": {
+        "question": "自行车道，包括横穿在内一概不得通行。",
+        "explanation": "错误。根据教则第5章第2节7(2)，为进出面向道路的场所而横穿的情况等除外。"
+      },
+      "en": {
+        "question": "A bicycle path must never be used at all, crossing it included.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 2 item 7(2) crossing it to enter or leave a place facing the road is an exception."
+      },
+      "vi": {
+        "question": "Đường dành cho xe đạp tuyệt đối không được đi vào, kể cả băng qua.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 2 điểm 7(2), việc băng qua để ra vào địa điểm tiếp giáp đường là ngoại lệ."
+      },
+      "pt": {
+        "question": "A ciclovia nunca pode ser usada, nem para atravessar.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 2, item 7(2), atravessá-la para entrar ou sair de um local voltado para a via é exceção."
+      }
+    },
+    "trap_type": "EO",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-2-075",
+    "category": "緊急自動車の優先",
+    "kp": "5-2-5",
+    "group": "I",
+    "source": "教則 第5章第2節5",
+    "question_type": "text",
+    "qf": "QF-5-2-5-D-EI-01",
+    "question_ja": "緊急自動車が近づいてきたときは、交差点の中で左に寄って一時停止すればよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第2節5により、交差点の付近では交差点を避けて道路の左側に寄り、一時停止します。",
+    "i18n": {
+      "zh": {
+        "question": "紧急车辆驶近时，在交叉路口中靠左暂停（一時停止）就可以。",
+        "explanation": "错误。根据教则第5章第2节5，在交叉路口附近要避开交叉路口、靠道路左侧暂停。"
+      },
+      "en": {
+        "question": "When an emergency vehicle approaches it is enough to pull left and come to a complete stop (一時停止) inside the intersection.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 2 item 5 you keep clear of the intersection, pull to the left of the road and stop."
+      },
+      "vi": {
+        "question": "Khi xe ưu tiên đến gần, chỉ cần tấp trái và tạm dừng (一時停止) ngay trong nút giao là đủ.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 2 điểm 5, bạn tránh nút giao, tấp vào bên trái đường rồi dừng lại."
+      },
+      "pt": {
+        "question": "Quando um veículo de emergência se aproxima basta encostar à esquerda e parar (一時停止) dentro do cruzamento.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 2, item 5, evita-se o cruzamento, encosta-se à esquerda e para-se."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-2-076",
+    "category": "通行するところ",
+    "kp": "5-2-3",
+    "group": "H",
+    "source": "教則 第5章第2節3",
+    "question_type": "text",
+    "qf": "QF-5-2-3-D-EI-02",
+    "question_ja": "車両通行帯のある道路では、二つの通行帯にまたがらなければ、通行帯を頻繁に変えて通行してよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第2節3により、車両通行帯をみだりに変えてはならず、同一の車両通行帯を通行しなければなりません。",
+    "i18n": {
+      "zh": {
+        "question": "在设有车辆通行带的道路上，只要不跨在两条通行带上，就可以频繁变更通行带通行。",
+        "explanation": "错误。根据教则第5章第2节3，不得随意变更车辆通行带，必须在同一条车辆通行带内通行。"
+      },
+      "en": {
+        "question": "On a road with vehicle lanes you may change lanes as often as you like so long as you do not straddle two.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 2 item 3 you must not change lanes without good reason and must stay in the same lane."
+      },
+      "vi": {
+        "question": "Trên đường có làn đường, bạn được đổi làn liên tục miễn là không đè lên hai làn.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 2 điểm 3, bạn không được tùy tiện đổi làn và phải đi trong cùng một làn."
+      },
+      "pt": {
+        "question": "Em via com faixas você pode trocar de faixa o quanto quiser desde que não ocupe duas.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 2, item 3, não se troca de faixa sem motivo e permanece-se na mesma."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-2-077",
+    "category": "通行してはいけないところ",
+    "kp": "5-2-7",
+    "group": "H",
+    "source": "教則 第5章第2節7(4)",
+    "question_type": "text",
+    "qf": "QF-5-2-7-D-NU-02",
+    "question_ja": "歩道や路側帯のない道路の路肩とは、路端から1.5メートルの部分をいう。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第2節7(4)により、路肩は路端から0.5メートルの部分です。",
+    "i18n": {
+      "zh": {
+        "question": "没有人行道和路侧带的道路的路肩，是指自路端起1.5米的部分。",
+        "explanation": "错误。根据教则第5章第2节7(4)，路肩是自路端起0.5米的部分。"
+      },
+      "en": {
+        "question": "On a road with no sidewalk and no side strip (路側帯), the shoulder is the 1.5 metres from the edge of the road.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 2 item 7(4) the shoulder is the 0.5 metres from the edge of the road."
+      },
+      "vi": {
+        "question": "Trên đường không có vỉa hè và lề đường (路側帯), phần lề cứng là 1,5 mét tính từ mép đường.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 2 điểm 7(4), phần lề cứng là 0,5 mét tính từ mép đường."
+      },
+      "pt": {
+        "question": "Em via sem calçada e sem faixa lateral (路側帯), o acostamento é 1,5 metro a partir da borda.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 2, item 7(4), são 0,5 metro a partir da borda."
+      }
+    },
+    "trap_type": "NU",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-2-078",
+    "category": "高さの制限",
+    "kp": "5-2-4",
+    "group": "H",
+    "source": "教則 第5章第2節4",
+    "question_type": "text",
+    "qf": "QF-5-2-4-D-NR-02",
+    "question_ja": "高さに制限のある場所で高さを確認しなければならないのは、大型自動車を運転するときだけである。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第2節4は、大型自動車、中型自動車及び準中型自動車について注意を求めています。",
+    "i18n": {
+      "zh": {
+        "question": "在有高度限制的场所必须确认高度的，只有驾驶大型汽车的时候。",
+        "explanation": "错误。教则第5章第2节4对大型汽车、中型汽车和准中型汽车都要求注意。"
+      },
+      "en": {
+        "question": "Checking the height at a place with a height limit is required only when driving a large vehicle.",
+        "explanation": "This is wrong. Kyosoku Chapter 5 Section 2 item 4 calls for care in large, medium and semi-medium vehicles alike."
+      },
+      "vi": {
+        "question": "Việc kiểm tra chiều cao ở nơi có giới hạn chỉ bắt buộc khi lái xe cỡ lớn.",
+        "explanation": "Sai. Kyosoku Chương 5 Mục 2 điểm 4 yêu cầu chú ý với cả xe cỡ lớn, cỡ trung và cỡ bán trung."
+      },
+      "pt": {
+        "question": "Conferir a altura em local com limite só é exigido ao conduzir veículo grande.",
+        "explanation": "Está errado. O Kyosoku, Capítulo 5, Seção 2, item 4, pede atenção em veículos grandes, médios e semimédios."
+      }
+    },
+    "trap_type": "NR",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-2-079",
+    "category": "通行するところ",
+    "kp": "5-2-1",
+    "group": "H",
+    "source": "教則 第5章第2節1",
+    "question_type": "text",
+    "qf": "QF-5-2-1-D-EX-02",
+    "question_ja": "一方通行の道路以外で右側部分にはみ出して通行するときも、はみ出し方の制限は掛からない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第2節1により、一方通行の場合のほかは、はみ出し方ができるだけ少なくなるようにしなければなりません。",
+    "i18n": {
+      "zh": {
+        "question": "在单向通行以外的道路上驶出到右侧部分通行时，同样不受驶出幅度的限制。",
+        "explanation": "错误。根据教则第5章第2节1，除单向通行的情况外，必须使驶出的幅度尽可能小。"
+      },
+      "en": {
+        "question": "The limit on how far you cross over does not apply on roads other than one-way ones either.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 2 item 1, except on a one-way road you must keep the amount you cross over as small as you can."
+      },
+      "vi": {
+        "question": "Giới hạn về mức lấn cũng không áp dụng trên những đường không phải một chiều.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 2 điểm 1, trừ đường một chiều, bạn phải lấn ít nhất có thể."
+      },
+      "pt": {
+        "question": "O limite de quanto se avança também não se aplica em vias que não sejam de mão única.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 2, item 1, salvo em mão única, avança-se o mínimo possível."
+      }
+    },
+    "trap_type": "EX",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-2-080",
+    "category": "高さの制限",
+    "kp": "5-2-4",
+    "group": "H",
+    "source": "教則 第5章第2節4",
+    "question_type": "text",
+    "qf": "QF-5-2-4-D-SC-01",
+    "question_ja": "荷台に背の高い荷物を積んでいたが、車体の高さは制限以下だったので、そのまま高さ制限のある場所を通過した。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第2節4により、荷台の積載物の高さも含めて制限以下であることを確認しなければなりません。",
+    "i18n": {
+      "zh": {
+        "question": "货台上装着很高的货物，但因为车身高度在限制以下，就直接通过了有高度限制的场所。",
+        "explanation": "错误。根据教则第5章第2节4，必须确认包括货台装载物高度在内不超过限制。"
+      },
+      "en": {
+        "question": "You were carrying a tall load on the bed, but as the body itself was within the limit you drove through a place with a height restriction.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 2 item 4 you must check that the height including the load on the bed is within the limit."
+      },
+      "vi": {
+        "question": "Bạn chở hàng cao trên thùng, nhưng vì thân xe vẫn dưới giới hạn nên bạn cứ thế đi qua nơi có giới hạn chiều cao.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 2 điểm 4, bạn phải kiểm tra chiều cao kể cả hàng trên thùng có nằm trong giới hạn không."
+      },
+      "pt": {
+        "question": "Você levava carga alta na carroceria, mas como o veículo em si estava dentro do limite, passou pelo local com restrição de altura.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 2, item 4, é preciso conferir a altura incluindo a carga."
+      }
+    },
+    "trap_type": "SC",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  }
+]

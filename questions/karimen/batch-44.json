@@ -1,0 +1,662 @@
+[
+  {
+    "id": "K4-1-021",
+    "category": "運転計画",
+    "kp": "4-1-2",
+    "group": "E",
+    "source": "教則 第4章第1節2",
+    "question_type": "text",
+    "qf": "QF-4-1-2-A-N-02",
+    "question_ja": "長距離運転のときはもちろん、短区間を運転するときにも、自分の運転技能と車の性能に合った運転計画を立てることが必要である。",
+    "answer": true,
+    "explanation_ja": "教則第4章第1節2のとおりです。運転コース、所要時間、休息場所、駐車場所などをあらかじめ計画します。",
+    "i18n": {
+      "zh": {
+        "question": "不仅是长途驾驶，短距离驾驶时也需要制定与自己的驾驶技能和车辆性能相适应的行车计划。",
+        "explanation": "符合教则第4章第1节2的规定。要事先就行车路线、所需时间、休息地点、停车地点等作出计划。"
+      },
+      "en": {
+        "question": "A driving plan suited to your own skill and the car's performance is needed for a short trip as well as a long one.",
+        "explanation": "This is Kyosoku Chapter 4 Section 1 item 2. You plan the route, the time needed, where to rest and where to park in advance."
+      },
+      "vi": {
+        "question": "Kế hoạch lái xe phù hợp với tay lái của bạn và khả năng của xe là cần thiết cho cả chuyến ngắn lẫn chuyến dài.",
+        "explanation": "Đúng theo Kyosoku Chương 4 Mục 1 điểm 2. Bạn lên trước lộ trình, thời gian cần, chỗ nghỉ và chỗ đỗ xe."
+      },
+      "pt": {
+        "question": "Um plano de viagem adequado à sua habilidade e ao desempenho do carro é necessário tanto em trajetos curtos quanto longos.",
+        "explanation": "É o Kyosoku, Capítulo 4, Seção 1, item 2. Planeje antes o trajeto, o tempo necessário, os pontos de descanso e de estacionamento."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-1-022",
+    "category": "運転に当たっての注意",
+    "kp": "4-1-1",
+    "group": "E",
+    "source": "教則 第4章第1節1(1)カ",
+    "question_type": "text",
+    "qf": "QF-4-1-1-A-N-06",
+    "question_ja": "両耳の聴力が補聴器を用いても一定の程度に達しないことを理由に免許に条件を付されている運転者が準中型自動車や普通自動車を運転するときは、その車の前と後ろの定められた位置に聴覚障害者マークを付けなければならない。",
+    "answer": true,
+    "explanation_ja": "教則第4章第1節1(1)カのとおりです。初心者マークと同じく、前と後ろの両方に付けます。",
+    "i18n": {
+      "zh": {
+        "question": "因双耳听力即使使用助听器也达不到一定程度而被附加驾照条件的驾驶员，在驾驶准中型汽车或普通汽车时，必须在车辆前后规定位置张贴听觉障碍者标志。",
+        "explanation": "符合教则第4章第1节1(1)カ的规定。与新手标志一样，前后两处都要张贴。"
+      },
+      "en": {
+        "question": "A driver whose licence carries a condition because their hearing in both ears falls short of a set level even with a hearing aid must display the hearing-impaired mark at the set positions on the front and rear of a semi-medium or ordinary car.",
+        "explanation": "This is Kyosoku Chapter 4 Section 1 item 1(1)(f). As with the beginner's mark, it goes on both the front and the rear."
+      },
+      "vi": {
+        "question": "Người lái có điều kiện ghi trên bằng vì thính lực hai tai không đạt mức quy định dù đã dùng máy trợ thính phải dán phù hiệu khiếm thính ở vị trí quy định phía trước và sau xe cỡ bán trung hoặc xe thông thường.",
+        "explanation": "Đúng theo Kyosoku Chương 4 Mục 1 điểm 1(1)(f). Như phù hiệu người mới, nó được dán ở cả trước lẫn sau."
+      },
+      "pt": {
+        "question": "O condutor cuja habilitação traz condição porque a audição dos dois ouvidos não alcança certo nível mesmo com aparelho deve exibir o selo de deficiência auditiva à frente e atrás do veículo semimédio ou comum.",
+        "explanation": "É o Kyosoku, Capítulo 4, Seção 1, item 1(1)(f). Como o selo de iniciante, vai na frente e na traseira."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-1-023",
+    "category": "運転に当たっての注意",
+    "kp": "4-1-1",
+    "group": "E",
+    "source": "教則 第4章第1節1(3)",
+    "question_type": "text",
+    "qf": "QF-4-1-1-A-N-07",
+    "question_ja": "肢体不自由であることを理由に免許に条件を付されている運転者が普通自動車を運転するときは、その車の前と後ろの定められた位置に身体障害者マークを付けるようにする。",
+    "answer": true,
+    "explanation_ja": "教則第4章第1節1(3)のとおりです。高齢者マークと同じく、付けるよう努めることとされています。",
+    "i18n": {
+      "zh": {
+        "question": "因肢体不自由而被附加驾照条件的驾驶员驾驶普通汽车时，要在车辆前后规定位置张贴身体障碍者标志。",
+        "explanation": "符合教则第4章第1节1(3)的规定。与高龄者标志一样，规定为努力张贴。"
+      },
+      "en": {
+        "question": "A driver whose licence carries a condition on account of a physical disability should display the disabled-driver mark at the set positions on the front and rear of an ordinary car.",
+        "explanation": "This is Kyosoku Chapter 4 Section 1 item 1(3). As with the older driver's mark, drivers are to make an effort to display it."
+      },
+      "vi": {
+        "question": "Người lái có điều kiện ghi trên bằng vì khuyết tật vận động nên dán phù hiệu người khuyết tật ở vị trí quy định phía trước và sau ô tô thông thường.",
+        "explanation": "Đúng theo Kyosoku Chương 4 Mục 1 điểm 1(3). Như phù hiệu người cao tuổi, đây là điều cần cố gắng thực hiện."
+      },
+      "pt": {
+        "question": "O condutor cuja habilitação traz condição por deficiência física deve exibir o selo correspondente à frente e atrás do automóvel comum.",
+        "explanation": "É o Kyosoku, Capítulo 4, Seção 1, item 1(3). Como o selo de condutor idoso, espera-se o esforço de exibi-lo."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-1-041",
+    "category": "安全な発進",
+    "kp": "5-1-1",
+    "group": "G",
+    "source": "教則 第5章第1節1(1)",
+    "question_type": "text",
+    "qf": "QF-5-1-1-A-N-04",
+    "question_ja": "乗ってからドアを閉めるときは、少し手前で一度止め、それから力を入れて閉めるようにする。",
+    "answer": true,
+    "explanation_ja": "教則第5章第1節1(1)のとおりです。半ドアのまま走り出すことを防ぐための手順です。",
+    "i18n": {
+      "zh": {
+        "question": "上车后关门时，要在快关上时先停一下，然后再用力关上。",
+        "explanation": "符合教则第5章第1节1(1)的规定。这是为防止车门半关就起步的步骤。"
+      },
+      "en": {
+        "question": "When closing the door after getting in, pause just short of closed and then push it firmly shut.",
+        "explanation": "This is Kyosoku Chapter 5 Section 1 item 1(1). The step exists to stop you driving off with the door not properly latched."
+      },
+      "vi": {
+        "question": "Khi đóng cửa sau khi lên xe, hãy dừng lại lúc cửa gần khép rồi dùng lực đóng chặt.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 1 điểm 1(1). Bước này nhằm tránh việc xe lăn bánh khi cửa chưa khớp hẳn."
+      },
+      "pt": {
+        "question": "Ao fechar a porta depois de entrar, pare pouco antes de fechar e então empurre com firmeza.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 1, item 1(1). O passo evita sair com a porta mal travada."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-1-042",
+    "category": "シートベルト",
+    "kp": "5-1-3",
+    "group": "G",
+    "source": "教則 第5章第1節3(1)",
+    "question_type": "text",
+    "qf": "QF-5-1-3-A-N-05",
+    "question_ja": "シートベルトには、交通事故に遭った場合の被害を軽減するほか、正しい運転姿勢を保たせることにより疲労を軽減する効果もある。",
+    "answer": true,
+    "explanation_ja": "教則第5章第1節3(1)のとおりです。着用は、事故のときだけのためではありません。",
+    "i18n": {
+      "zh": {
+        "question": "安全带除了减轻遭遇交通事故时的伤害以外，还有通过保持正确驾驶姿势来减轻疲劳的效果。",
+        "explanation": "符合教则第5章第1节3(1)的规定。系安全带并不只是为了发生事故的时候。"
+      },
+      "en": {
+        "question": "A seat belt not only reduces the harm suffered in an accident but also eases fatigue by keeping you in a correct driving posture.",
+        "explanation": "This is Kyosoku Chapter 5 Section 1 item 3(1). Wearing one is not only for the moment of a crash."
+      },
+      "vi": {
+        "question": "Dây an toàn không chỉ giảm thiệt hại khi xảy ra tai nạn mà còn giảm mệt mỏi nhờ giữ bạn ở tư thế lái đúng.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 1 điểm 3(1). Việc thắt dây không chỉ dành cho khoảnh khắc va chạm."
+      },
+      "pt": {
+        "question": "O cinto de segurança não só reduz os danos num acidente como também diminui a fadiga ao manter a postura correta.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 1, item 3(1). Usá-lo não serve apenas para o momento da colisão."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-1-043",
+    "category": "シートベルト",
+    "kp": "5-1-3",
+    "group": "G",
+    "source": "教則 第5章第1節3(3)",
+    "question_type": "text",
+    "qf": "QF-5-1-3-A-N-06",
+    "question_ja": "妊娠中にシートベルトを着用することが健康保持上適当かどうかは、医師に確認するようにする。",
+    "answer": true,
+    "explanation_ja": "教則第5章第1節3(3)のとおりです。妊娠の状態は個人によって異なります。",
+    "i18n": {
+      "zh": {
+        "question": "怀孕期间系安全带在保持健康方面是否合适，要向医生确认。",
+        "explanation": "符合教则第5章第1节3(3)的规定。怀孕的状态因人而异。"
+      },
+      "en": {
+        "question": "Whether wearing a seat belt during pregnancy suits your health is something to confirm with a doctor.",
+        "explanation": "This is Kyosoku Chapter 5 Section 1 item 3(3). Pregnancy differs from person to person."
+      },
+      "vi": {
+        "question": "Việc thắt dây an toàn khi mang thai có phù hợp với sức khỏe hay không thì nên hỏi bác sĩ.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 1 điểm 3(3). Tình trạng thai kỳ khác nhau ở mỗi người."
+      },
+      "pt": {
+        "question": "Se usar cinto na gravidez é adequado à sua saúde é algo a confirmar com o médico.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 1, item 3(3). A gestação varia de pessoa para pessoa."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-1-024",
+    "category": "運転計画",
+    "kp": "4-1-2",
+    "group": "E",
+    "source": "教則 第4章第1節2",
+    "question_type": "text",
+    "qf": "QF-4-1-2-A-N-03",
+    "question_ja": "眠気を感じたら、速やかに休息をとって眠気を覚ましてから運転する。",
+    "answer": true,
+    "explanation_ja": "教則第4章第1節2のとおりです。長時間運転するときは、2時間に1回は休息をとります。",
+    "i18n": {
+      "zh": {
+        "question": "感到困倦时，要尽快休息、消除困意后再驾驶。",
+        "explanation": "符合教则第4章第1节2的规定。长时间驾驶时要每2小时休息1次。"
+      },
+      "en": {
+        "question": "If you feel drowsy, rest promptly and shake off the drowsiness before driving on.",
+        "explanation": "This is Kyosoku Chapter 4 Section 1 item 2. On a long drive you take a rest once every two hours."
+      },
+      "vi": {
+        "question": "Nếu thấy buồn ngủ, hãy nghỉ ngay và tỉnh táo lại rồi mới lái tiếp.",
+        "explanation": "Đúng theo Kyosoku Chương 4 Mục 1 điểm 2. Khi lái lâu, bạn nghỉ một lần sau mỗi hai tiếng."
+      },
+      "pt": {
+        "question": "Se sentir sono, descanse logo e só volte a dirigir depois de espantá-lo.",
+        "explanation": "É o Kyosoku, Capítulo 4, Seção 1, item 2. Em viagem longa, faz-se uma pausa a cada duas horas."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-1-044",
+    "category": "チャイルドシート",
+    "kp": "5-1-4",
+    "group": "G",
+    "source": "教則 第5章第1節4(1)",
+    "question_type": "text",
+    "qf": "QF-5-1-4-A-N-04",
+    "question_ja": "チャイルドシートには、交通事故に遭った場合の被害を軽減するほか、子供が運転操作の支障となることを防止する効果もある。",
+    "answer": true,
+    "explanation_ja": "教則第5章第1節4(1)のとおりです。だからこそ、シートベルトを適切に着用させられない子供に使用させます。",
+    "i18n": {
+      "zh": {
+        "question": "儿童座椅除了减轻遭遇交通事故时的伤害以外，还有防止孩子妨碍驾驶操作的效果。",
+        "explanation": "符合教则第5章第1节4(1)的规定。正因如此，要让无法正确系好安全带的孩子使用。"
+      },
+      "en": {
+        "question": "A child seat not only reduces the harm suffered in an accident but also keeps the child from interfering with driving.",
+        "explanation": "This is Kyosoku Chapter 5 Section 1 item 4(1). That is why it is used for a child who cannot be fitted properly with a seat belt."
+      },
+      "vi": {
+        "question": "Ghế trẻ em không chỉ giảm thiệt hại khi tai nạn mà còn giúp trẻ không gây trở ngại cho việc điều khiển xe.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 1 điểm 4(1). Chính vì vậy nó được dùng cho trẻ không thắt dây an toàn đúng cách được."
+      },
+      "pt": {
+        "question": "A cadeirinha não só reduz os danos num acidente como também impede que a criança atrapalhe a condução.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 1, item 4(1). Por isso ela é usada para a criança que não consegue usar o cinto corretamente."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-1-045",
+    "category": "運転姿勢",
+    "kp": "5-1-2",
+    "group": "G",
+    "source": "教則 第5章第1節2(3)",
+    "question_type": "text",
+    "qf": "QF-5-1-2-A-N-07",
+    "question_ja": "ひじを窓わくに載せて運転すると、とっさのハンドル操作ができなくなる。",
+    "answer": true,
+    "explanation_ja": "教則第5章第1節2(3)のとおりです。正しい運転姿勢は、安全運転の第一歩です。",
+    "i18n": {
+      "zh": {
+        "question": "把肘部搭在窗框上驾驶，会导致无法紧急操作方向盘。",
+        "explanation": "符合教则第5章第1节2(3)的规定。正确的驾驶姿势是安全驾驶的第一步。"
+      },
+      "en": {
+        "question": "Driving with your elbow on the window frame leaves you unable to steer quickly if you need to.",
+        "explanation": "This is Kyosoku Chapter 5 Section 1 item 2(3). A correct driving posture is the first step to safe driving."
+      },
+      "vi": {
+        "question": "Lái xe với khuỷu tay tì lên khung cửa sổ khiến bạn không đánh lái kịp khi cần.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 1 điểm 2(3). Tư thế lái đúng là bước đầu của lái xe an toàn."
+      },
+      "pt": {
+        "question": "Dirigir com o cotovelo no batente da janela impede uma esterçada rápida quando preciso.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 1, item 2(3). A postura correta é o primeiro passo da direção segura."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-1-025",
+    "category": "体調",
+    "kp": "4-1-3",
+    "group": "E",
+    "source": "教則 第4章第1節3",
+    "question_type": "text",
+    "qf": "QF-4-1-3-A-N-03",
+    "question_ja": "病気のときや心配ごとのあるときは、注意力が散漫になったり判断力が衰えたりするため、運転を控えるか体の調子を整えてから運転する。",
+    "answer": true,
+    "explanation_ja": "教則第4章第1節3のとおりです。過労のときは、運転してはいけません。",
+    "i18n": {
+      "zh": {
+        "question": "生病或有心事时，注意力会涣散、判断力会下降，所以要避免驾驶，或者调整好身体状况后再驾驶。",
+        "explanation": "符合教则第4章第1节3的规定。过度疲劳时不得驾驶。"
+      },
+      "en": {
+        "question": "When you are ill or preoccupied, your attention scatters and your judgement weakens, so hold off driving or get yourself in shape first.",
+        "explanation": "This is Kyosoku Chapter 4 Section 1 item 3. When exhausted, you must not drive at all."
+      },
+      "vi": {
+        "question": "Khi ốm hoặc đang lo nghĩ, sự chú ý bị phân tán và khả năng phán đoán suy giảm, nên hãy hoãn lái xe hoặc chỉnh lại thể trạng trước.",
+        "explanation": "Đúng theo Kyosoku Chương 4 Mục 1 điểm 3. Khi quá mệt thì tuyệt đối không được lái."
+      },
+      "pt": {
+        "question": "Doente ou preocupado, sua atenção se dispersa e o julgamento piora, então adie a direção ou recupere-se antes.",
+        "explanation": "É o Kyosoku, Capítulo 4, Seção 1, item 3. Em exaustão, não se dirige de forma alguma."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-1-026",
+    "category": "運転計画",
+    "kp": "4-1-2",
+    "group": "E",
+    "source": "教則 第4章第1節2",
+    "question_type": "text",
+    "qf": "QF-4-1-2-D-NR-01",
+    "question_ja": "運転計画で決めておくのは運転コースだけでよく、休息場所や駐車場所までは考えなくてよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第4章第1節2により、運転コース、所要時間、休息場所、駐車場所などについて計画を立てておきます。",
+    "i18n": {
+      "zh": {
+        "question": "行车计划只要定好行车路线就可以，不需要考虑休息地点和停车地点。",
+        "explanation": "错误。根据教则第4章第1节2，要就行车路线、所需时间、休息地点、停车地点等制定计划。"
+      },
+      "en": {
+        "question": "A driving plan need cover only the route; where to rest and where to park need not be considered.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 4 Section 1 item 2 you plan the route, the time needed, where to rest and where to park."
+      },
+      "vi": {
+        "question": "Kế hoạch lái xe chỉ cần gồm lộ trình; không cần tính tới chỗ nghỉ và chỗ đỗ xe.",
+        "explanation": "Sai. Theo Kyosoku Chương 4 Mục 1 điểm 2, bạn lên kế hoạch cho lộ trình, thời gian cần, chỗ nghỉ và chỗ đỗ xe."
+      },
+      "pt": {
+        "question": "O plano de viagem basta cobrir o trajeto; pontos de descanso e de estacionamento não precisam ser pensados.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 4, Seção 1, item 2, planejam-se trajeto, tempo, descanso e estacionamento."
+      }
+    },
+    "trap_type": "NR",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-1-027",
+    "category": "運転に当たっての注意",
+    "kp": "4-1-1",
+    "group": "E",
+    "source": "教則 第4章第1節1(1)カ",
+    "question_type": "text",
+    "qf": "QF-4-1-1-D-SW-01",
+    "question_ja": "聴覚障害者マークを付けなければならないのは、大型自動車を運転するときである。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第4章第1節1(1)カにより、聴覚障害者マークを付けるのは準中型自動車又は普通自動車を運転するときです。",
+    "i18n": {
+      "zh": {
+        "question": "必须张贴听觉障碍者标志的，是驾驶大型汽车的时候。",
+        "explanation": "错误。根据教则第4章第1节1(1)カ，张贴听觉障碍者标志是在驾驶准中型汽车或普通汽车的时候。"
+      },
+      "en": {
+        "question": "The hearing-impaired mark must be displayed when driving a large vehicle.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 4 Section 1 item 1(1)(f) it is displayed when driving a semi-medium or ordinary car."
+      },
+      "vi": {
+        "question": "Phù hiệu khiếm thính phải được dán khi lái xe cỡ lớn.",
+        "explanation": "Sai. Theo Kyosoku Chương 4 Mục 1 điểm 1(1)(f), nó được dán khi lái xe cỡ bán trung hoặc xe thông thường."
+      },
+      "pt": {
+        "question": "O selo de deficiência auditiva deve ser exibido ao conduzir veículo grande.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 4, Seção 1, item 1(1)(f), ele é exibido ao conduzir veículo semimédio ou comum."
+      }
+    },
+    "trap_type": "SW",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-1-046",
+    "category": "シートベルト",
+    "kp": "5-1-3",
+    "group": "G",
+    "source": "教則 第5章第1節3(1)",
+    "question_type": "text",
+    "qf": "QF-5-1-3-D-NR-03",
+    "question_ja": "シートベルトの効果は、交通事故に遭った場合の被害を軽減することだけである。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第1節3(1)により、正しい運転姿勢を保たせることによって疲労を軽減する効果もあります。",
+    "i18n": {
+      "zh": {
+        "question": "安全带的效果只有减轻遭遇交通事故时的伤害。",
+        "explanation": "错误。根据教则第5章第1节3(1)，还有通过保持正确驾驶姿势来减轻疲劳的效果。"
+      },
+      "en": {
+        "question": "The only effect of a seat belt is to reduce the harm suffered in an accident.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 1 item 3(1) it also eases fatigue by keeping you in a correct driving posture."
+      },
+      "vi": {
+        "question": "Tác dụng duy nhất của dây an toàn là giảm thiệt hại khi xảy ra tai nạn.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 1 điểm 3(1), nó còn giảm mệt mỏi nhờ giữ tư thế lái đúng."
+      },
+      "pt": {
+        "question": "O único efeito do cinto é reduzir os danos num acidente.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 1, item 3(1), ele também diminui a fadiga ao manter a postura correta."
+      }
+    },
+    "trap_type": "NR",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-1-047",
+    "category": "安全な発進",
+    "kp": "5-1-1",
+    "group": "G",
+    "source": "教則 第5章第1節1(1)",
+    "question_type": "text",
+    "qf": "QF-5-1-1-D-SW-03",
+    "question_ja": "乗ってからドアを閉めるときは、半ドアを防ぐために勢いよく一気に閉めるのがよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第1節1(1)により、少し手前で一度止め、それから力を入れて閉めるようにします。",
+    "i18n": {
+      "zh": {
+        "question": "上车后关门时，为防止半关，最好一口气用力关上。",
+        "explanation": "错误。根据教则第5章第1节1(1)，要在快关上时先停一下，然后再用力关上。"
+      },
+      "en": {
+        "question": "When closing the door after getting in it is best to slam it shut in one movement, to avoid leaving it half latched.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 1 item 1(1) you pause just short of closed and then push it firmly shut."
+      },
+      "vi": {
+        "question": "Khi đóng cửa sau khi lên xe, tốt nhất là đóng mạnh một lần để tránh cửa chưa khớp.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 1 điểm 1(1), bạn dừng lại khi cửa gần khép rồi mới dùng lực đóng chặt."
+      },
+      "pt": {
+        "question": "Ao fechar a porta depois de entrar, o melhor é bater de uma vez para não deixá-la mal travada.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 1, item 1(1), para-se pouco antes de fechar e então empurra-se com firmeza."
+      }
+    },
+    "trap_type": "SW",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-1-028",
+    "category": "体調",
+    "kp": "4-1-3",
+    "group": "E",
+    "source": "教則 第4章第1節3",
+    "question_type": "text",
+    "qf": "QF-4-1-3-D-EI-02",
+    "question_ja": "睡眠作用のある薬を服用しても、眠気を感じなければ運転してよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第4章第1節3により、睡眠作用のある風邪薬や頭痛薬などを服用したときは運転をしないようにします。",
+    "i18n": {
+      "zh": {
+        "question": "即使服用了有催眠作用的药物，只要不感到困倦就可以驾驶。",
+        "explanation": "错误。根据教则第4章第1节3，服用了有催眠作用的感冒药或头痛药等时，不要驾驶。"
+      },
+      "en": {
+        "question": "Even after taking medicine that causes drowsiness you may drive as long as you do not feel drowsy.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 4 Section 1 item 3 you do not drive after taking cold or headache medicine that causes drowsiness."
+      },
+      "vi": {
+        "question": "Ngay cả khi đã uống thuốc gây buồn ngủ, bạn vẫn được lái miễn là chưa thấy buồn ngủ.",
+        "explanation": "Sai. Theo Kyosoku Chương 4 Mục 1 điểm 3, sau khi uống thuốc cảm hay thuốc đau đầu gây buồn ngủ thì không lái xe."
+      },
+      "pt": {
+        "question": "Mesmo depois de tomar remédio que dá sono você pode dirigir desde que não sinta sono.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 4, Seção 1, item 3, não se dirige após tomar remédio de gripe ou dor de cabeça que dê sono."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-1-048",
+    "category": "チャイルドシート",
+    "kp": "5-1-4",
+    "group": "G",
+    "source": "教則 第5章第1節4(2)",
+    "question_type": "text",
+    "qf": "QF-5-1-4-D-NR-01",
+    "question_ja": "チャイルドシートは、子供の体格に合っていなくても、座席に固定できていれば効果がある。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第1節4(2)により、子供の体格に合い、座席に確実に固定できるものを選んで正しく使用させます。",
+    "i18n": {
+      "zh": {
+        "question": "儿童座椅即使不适合孩子的体格，只要能固定在座位上就有效果。",
+        "explanation": "错误。根据教则第5章第1节4(2)，要选择适合孩子体格、能够牢固固定在座位上的，并正确使用。"
+      },
+      "en": {
+        "question": "A child seat works as long as it can be fixed to the seat, even if it does not fit the child's build.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 1 item 4(2) you choose one that fits the child's build and can be fixed firmly to the seat, and use it properly."
+      },
+      "vi": {
+        "question": "Ghế trẻ em chỉ cần cố định được vào ghế xe là có tác dụng, dù không vừa vóc dáng của trẻ.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 1 điểm 4(2), phải chọn loại vừa vóc dáng trẻ và cố định chắc được vào ghế, rồi dùng đúng cách."
+      },
+      "pt": {
+        "question": "A cadeirinha funciona desde que possa ser fixada ao banco, mesmo sem servir ao porte da criança.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 1, item 4(2), escolhe-se uma que sirva ao porte e se fixe com firmeza, e usa-se corretamente."
+      }
+    },
+    "trap_type": "NR",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-1-029",
+    "category": "運転に当たっての注意",
+    "kp": "4-1-1",
+    "group": "E",
+    "source": "教則 第4章第1節1(1)",
+    "question_type": "text",
+    "qf": "QF-4-1-1-D-EI-03",
+    "question_ja": "運転免許証は、運転する前に一度確かめておけば、その後の運転では携帯していなくてよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第4章第2節により、運転するときは免許証を携帯していなければなりません。",
+    "i18n": {
+      "zh": {
+        "question": "驾驶证只要在驾驶前确认过一次，此后的驾驶中不携带也可以。",
+        "explanation": "错误。根据教则第4章第2节，驾驶时必须随身携带驾驶证。"
+      },
+      "en": {
+        "question": "Once you have checked your licence before driving, you need not carry it on later drives.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 4 Section 2 you must have the licence with you whenever you drive."
+      },
+      "vi": {
+        "question": "Chỉ cần kiểm tra bằng lái một lần trước khi lái, những lần sau không cần mang theo.",
+        "explanation": "Sai. Theo Kyosoku Chương 4 Mục 2, bạn phải mang bằng lái theo người mỗi khi lái xe."
+      },
+      "pt": {
+        "question": "Depois de conferir a habilitação uma vez antes de dirigir, não é preciso levá-la nas vezes seguintes.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 4, Seção 2, é preciso portá-la sempre que se dirige."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-1-049",
+    "category": "運転姿勢",
+    "kp": "5-1-2",
+    "group": "G",
+    "source": "教則 第5章第1節2(3)",
+    "question_type": "text",
+    "qf": "QF-5-1-2-D-EI-02",
+    "question_ja": "ひじを窓わくに載せる運転姿勢は、リラックスできるので長距離運転に向いている。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第1節2(3)により、ひじを窓わくに載せて運転するのはやめることとされています。",
+    "i18n": {
+      "zh": {
+        "question": "把肘部搭在窗框上的驾驶姿势能够放松，适合长途驾驶。",
+        "explanation": "错误。根据教则第5章第1节2(3)，规定不要把肘部搭在窗框上驾驶。"
+      },
+      "en": {
+        "question": "Driving with an elbow on the window frame is relaxing and therefore suits long trips.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 1 item 2(3) you are told not to drive with your elbow on the window frame."
+      },
+      "vi": {
+        "question": "Tư thế lái với khuỷu tay tì lên khung cửa sổ giúp thư giãn nên hợp với chuyến đi dài.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 1 điểm 2(3), bạn được dặn không lái xe với khuỷu tay tì lên khung cửa sổ."
+      },
+      "pt": {
+        "question": "Dirigir com o cotovelo no batente relaxa e por isso serve para viagens longas.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 1, item 2(3), orienta-se não dirigir assim."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-1-030",
+    "category": "運転計画",
+    "kp": "4-1-2",
+    "group": "E",
+    "source": "教則 第4章第1節2",
+    "question_type": "text",
+    "qf": "QF-4-1-2-D-SC-02",
+    "question_ja": "長時間の運転で眠気を感じたが、休息場所まであと少しだったので、窓を開けて運転を続けた。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第4章第1節2により、眠気を感じたら速やかに休息をとり、眠気を覚ましてから運転します。",
+    "i18n": {
+      "zh": {
+        "question": "长时间驾驶中感到困倦，但因为离休息地点只剩一点路程，就打开车窗继续驾驶了。",
+        "explanation": "错误。根据教则第4章第1节2，感到困倦时要尽快休息，消除困意后再驾驶。"
+      },
+      "en": {
+        "question": "You felt drowsy on a long drive but carried on with the window open because the rest stop was not far.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 4 Section 1 item 2 you rest promptly when drowsiness sets in and shake it off before driving on."
+      },
+      "vi": {
+        "question": "Bạn thấy buồn ngủ trên chặng dài nhưng vẫn mở cửa kính đi tiếp vì chỗ nghỉ đã gần.",
+        "explanation": "Sai. Theo Kyosoku Chương 4 Mục 1 điểm 2, khi thấy buồn ngủ bạn phải nghỉ ngay và tỉnh táo lại rồi mới đi tiếp."
+      },
+      "pt": {
+        "question": "Você sentiu sono numa viagem longa, mas seguiu com a janela aberta porque o ponto de descanso estava perto.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 4, Seção 1, item 2, ao sentir sono descansa-se logo e só depois se continua."
+      }
+    },
+    "trap_type": "SC",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-1-050",
+    "category": "シートベルト",
+    "kp": "5-1-3",
+    "group": "G",
+    "source": "教則 第5章第1節3(3)",
+    "question_type": "text",
+    "qf": "QF-5-1-3-D-EI-03",
+    "question_ja": "妊娠中であれば、シートベルトは着用しないほうが母体と胎児のために安全である。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第1節3(3)により、妊娠中であっても正しく着用することで、事故の際の被害から母体と胎児を守ることができます。",
+    "i18n": {
+      "zh": {
+        "question": "怀孕期间不系安全带，对母体和胎儿更安全。",
+        "explanation": "错误。根据教则第5章第1节3(3)，即使在怀孕期间，正确系好安全带也能在事故时保护母体和胎儿。"
+      },
+      "en": {
+        "question": "During pregnancy it is safer for mother and baby not to wear a seat belt.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 1 item 3(3) wearing it properly during pregnancy protects both mother and baby from harm in an accident."
+      },
+      "vi": {
+        "question": "Khi mang thai, không thắt dây an toàn thì an toàn hơn cho mẹ và thai nhi.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 1 điểm 3(3), thắt dây đúng cách khi mang thai giúp bảo vệ cả mẹ lẫn thai nhi khi có tai nạn."
+      },
+      "pt": {
+        "question": "Na gravidez é mais seguro para mãe e bebê não usar o cinto.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 1, item 3(3), usá-lo corretamente na gestação protege mãe e bebê em caso de acidente."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  }
+]
