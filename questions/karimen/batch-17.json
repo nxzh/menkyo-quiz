@@ -1,0 +1,662 @@
+[
+  {
+    "id": "K1-3-001",
+    "category": "警察官などの信号",
+    "kp": "1-3-1",
+    "group": "B",
+    "source": "教則 第1章第3節1",
+    "question_type": "text",
+    "qf": "QF-1-3-1-A-N-01",
+    "question_ja": "警察官や交通巡視員が手信号により交通整理を行っている場合、その手信号が信号機の信号と違っていても、警察官や交通巡視員の信号の方が優先する。",
+    "answer": true,
+    "explanation_ja": "教則第1章第3節1のとおりです。信号機よりも、その場にいる警察官などの判断が優先されます。",
+    "i18n": {
+      "zh": {
+        "question": "警察官或交通巡视员用手势信号进行交通整理时，即使该手势信号与信号灯的信号不同，警察官或交通巡视员的信号也优先。",
+        "explanation": "符合教则第1章第3节1的规定。比起信号灯，现场警察官等的判断优先。"
+      },
+      "en": {
+        "question": "Where a police officer or traffic warden is controlling traffic by hand signal, their signal prevails even if it differs from the traffic light.",
+        "explanation": "This is Kyosoku Chapter 1 Section 3 item 1. The judgement of the officer on the spot outranks the light."
+      },
+      "vi": {
+        "question": "Khi cảnh sát hoặc nhân viên tuần tra giao thông điều khiển giao thông bằng hiệu lệnh tay, hiệu lệnh của họ được ưu tiên ngay cả khi khác với đèn tín hiệu.",
+        "explanation": "Đúng theo Kyosoku Chương 1 Mục 3 điểm 1. Phán đoán của người có thẩm quyền tại chỗ cao hơn đèn tín hiệu."
+      },
+      "pt": {
+        "question": "Quando um policial ou agente de trânsito controla o trânsito por sinais manuais, o sinal dele prevalece mesmo se diferir do semáforo.",
+        "explanation": "É o Kyosoku, Capítulo 1, Seção 3, item 1. O julgamento do agente no local se sobrepõe ao semáforo."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-3-002",
+    "category": "警察官などの指示",
+    "kp": "1-3-2",
+    "group": "B",
+    "source": "教則 第1章第3節2",
+    "question_type": "text",
+    "qf": "QF-1-3-2-A-N-01",
+    "question_ja": "警察官が行う指示が標識・標示によって示された交通の規制と違っていても、指示の方が優先する。",
+    "answer": true,
+    "explanation_ja": "教則第1章第3節2のとおりです。事故や工事など、その場の事情に応じた指示が行われます。",
+    "i18n": {
+      "zh": {
+        "question": "警察官所作的指示即使与标识（立牌）、标示所示的交通规制不同，指示也优先。",
+        "explanation": "符合教则第1章第3节2的规定。指示是根据事故、施工等现场情况作出的。"
+      },
+      "en": {
+        "question": "An instruction given by a police officer prevails even if it differs from the regulation shown by road signs or markings.",
+        "explanation": "This is Kyosoku Chapter 1 Section 3 item 2. Instructions are given to suit conditions on the spot, such as an accident or road works."
+      },
+      "vi": {
+        "question": "Hiệu lệnh của cảnh sát được ưu tiên ngay cả khi khác với quy định do biển báo giao thông hay vạch kẻ đường thể hiện.",
+        "explanation": "Đúng theo Kyosoku Chương 1 Mục 3 điểm 2. Hiệu lệnh được đưa ra tùy theo tình hình tại chỗ, như tai nạn hay thi công đường."
+      },
+      "pt": {
+        "question": "A ordem dada por um policial prevalece mesmo se diferir da regulamentação indicada pela sinalização vertical ou horizontal.",
+        "explanation": "É o Kyosoku, Capítulo 1, Seção 3, item 2. As ordens atendem às condições do local, como um acidente ou obras."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-3-003",
+    "category": "手信号",
+    "kp": "1-3-1",
+    "group": "B",
+    "source": "教則 付表1（3）ア",
+    "question_type": "text",
+    "qf": "QF-1-3-1-A-N-02",
+    "question_ja": "警察官が腕を横に水平に上げているときは、その身体の正面に平行する交通については、信号機の青色の灯火の信号と同じ意味である。",
+    "answer": true,
+    "explanation_ja": "教則付表1（3）アのとおりです。同じときに、これと交差する交通については赤色の灯火と同じ意味になります。",
+    "i18n": {
+      "zh": {
+        "question": "警察官把手臂水平横举时，对于与其身体正面平行的交通，与信号灯的绿灯含义相同。",
+        "explanation": "符合教则附表1（3）ア的规定。同时，对于与之交叉的交通，则与红灯含义相同。"
+      },
+      "en": {
+        "question": "When a police officer raises an arm horizontally to the side, that has the same meaning as a green light for traffic running parallel to the front of their body.",
+        "explanation": "This is Kyosoku Appendix 1(3)(a). At the same moment it means a red light for traffic crossing that direction."
+      },
+      "vi": {
+        "question": "Khi cảnh sát giơ ngang tay sang bên, điều đó có nghĩa như đèn xanh đối với luồng xe chạy song song với mặt trước cơ thể họ.",
+        "explanation": "Đúng theo Kyosoku Phụ lục 1(3)(a). Cùng lúc đó, nó có nghĩa như đèn đỏ với luồng xe cắt ngang hướng ấy."
+      },
+      "pt": {
+        "question": "Quando o policial ergue o braço na horizontal para o lado, isso tem o mesmo sentido do verde para o trânsito paralelo à frente do corpo dele.",
+        "explanation": "É o Kyosoku, Anexo 1(3)(a). No mesmo instante, significa vermelho para o trânsito que cruza essa direção."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-3-004",
+    "category": "手信号",
+    "kp": "1-3-1",
+    "group": "B",
+    "source": "教則 付表1（3）ア",
+    "question_type": "text",
+    "qf": "QF-1-3-1-A-N-03",
+    "question_ja": "警察官が腕を横に水平に上げているときは、その身体の正面に平行する交通と交差する交通については、信号機の赤色の灯火の信号と同じ意味である。",
+    "answer": true,
+    "explanation_ja": "教則付表1（3）アのとおりです。手信号の意味は、警察官の身体の向きを基準に読み取ります。",
+    "i18n": {
+      "zh": {
+        "question": "警察官把手臂水平横举时，对于与其身体正面平行的交通相交叉的交通，与信号灯的红灯含义相同。",
+        "explanation": "符合教则附表1（3）ア的规定。手势信号的含义要以警察官身体的朝向为基准来解读。"
+      },
+      "en": {
+        "question": "When a police officer raises an arm horizontally to the side, that has the same meaning as a red light for traffic crossing the direction parallel to the front of their body.",
+        "explanation": "This is Kyosoku Appendix 1(3)(a). You read a hand signal by reference to which way the officer is facing."
+      },
+      "vi": {
+        "question": "Khi cảnh sát giơ ngang tay sang bên, điều đó có nghĩa như đèn đỏ với luồng xe cắt ngang hướng song song với mặt trước cơ thể họ.",
+        "explanation": "Đúng theo Kyosoku Phụ lục 1(3)(a). Bạn đọc hiệu lệnh tay theo hướng mà người cảnh sát đang quay mặt về."
+      },
+      "pt": {
+        "question": "Quando o policial ergue o braço na horizontal para o lado, isso tem o mesmo sentido do vermelho para o trânsito que cruza a direção paralela à frente dele.",
+        "explanation": "É o Kyosoku, Anexo 1(3)(a). O sinal manual se lê a partir da direção para a qual o policial está voltado."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-3-005",
+    "category": "手信号",
+    "kp": "1-3-1",
+    "group": "B",
+    "source": "教則 付表1（3）ア",
+    "question_type": "text",
+    "qf": "QF-1-3-1-A-N-04",
+    "question_ja": "警察官が身体の方向を変えないで腕を下ろしているときは、腕を横に水平に上げているときと同じ意味である。",
+    "answer": true,
+    "explanation_ja": "教則付表1（3）アのとおりです。腕を下ろしたことだけで、意味が変わるわけではありません。",
+    "i18n": {
+      "zh": {
+        "question": "警察官不改变身体方向而把手臂放下时，与手臂水平横举时含义相同。",
+        "explanation": "符合教则附表1（3）ア的规定。仅仅放下手臂并不改变含义。"
+      },
+      "en": {
+        "question": "When a police officer lowers the arm without changing the way they are facing, it means the same as raising the arm horizontally to the side.",
+        "explanation": "This is Kyosoku Appendix 1(3)(a). Lowering the arm by itself does not change the meaning."
+      },
+      "vi": {
+        "question": "Khi cảnh sát hạ tay xuống mà không đổi hướng cơ thể, ý nghĩa vẫn như khi giơ ngang tay sang bên.",
+        "explanation": "Đúng theo Kyosoku Phụ lục 1(3)(a). Riêng việc hạ tay không làm thay đổi ý nghĩa."
+      },
+      "pt": {
+        "question": "Quando o policial baixa o braço sem mudar a direção para a qual está voltado, o sentido é o mesmo de erguer o braço na horizontal.",
+        "explanation": "É o Kyosoku, Anexo 1(3)(a). Baixar o braço por si só não altera o significado."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-3-006",
+    "category": "手信号",
+    "kp": "1-3-1",
+    "group": "B",
+    "source": "教則 付表1（3）ア",
+    "question_type": "text",
+    "qf": "QF-1-3-1-A-N-05",
+    "question_ja": "警察官が腕を垂直に上げているときは、その身体の正面に平行する交通については、信号機の黄色の灯火の信号と同じ意味である。",
+    "answer": true,
+    "explanation_ja": "教則付表1（3）アのとおりです。横に水平に上げた腕を垂直に上げるまでの間も同じ意味です。",
+    "i18n": {
+      "zh": {
+        "question": "警察官把手臂垂直上举时，对于与其身体正面平行的交通，与信号灯的黄灯含义相同。",
+        "explanation": "符合教则附表1（3）ア的规定。从水平横举的手臂举到垂直为止的过程中也是同样的含义。"
+      },
+      "en": {
+        "question": "When a police officer raises an arm vertically, that has the same meaning as an amber light for traffic running parallel to the front of their body.",
+        "explanation": "This is Kyosoku Appendix 1(3)(a). The same meaning holds while the arm is moving from horizontal to vertical."
+      },
+      "vi": {
+        "question": "Khi cảnh sát giơ tay thẳng đứng, điều đó có nghĩa như đèn vàng đối với luồng xe chạy song song với mặt trước cơ thể họ.",
+        "explanation": "Đúng theo Kyosoku Phụ lục 1(3)(a). Ý nghĩa đó vẫn giữ nguyên trong lúc tay chuyển từ ngang sang thẳng đứng."
+      },
+      "pt": {
+        "question": "Quando o policial ergue o braço na vertical, isso tem o mesmo sentido do amarelo para o trânsito paralelo à frente do corpo dele.",
+        "explanation": "É o Kyosoku, Anexo 1(3)(a). O mesmo sentido vale enquanto o braço passa da horizontal para a vertical."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-3-007",
+    "category": "灯火による信号",
+    "kp": "1-3-1",
+    "group": "B",
+    "source": "教則 付表1（3）イ",
+    "question_type": "text",
+    "qf": "QF-1-3-1-A-N-06",
+    "question_ja": "警察官が灯火を横に振っているときは、灯火が振られている方向に進行する交通については、信号機の青色の灯火の信号と同じ意味である。",
+    "answer": true,
+    "explanation_ja": "教則付表1（3）イのとおりです。この交通と交差する交通については、赤色の灯火と同じ意味です。",
+    "i18n": {
+      "zh": {
+        "question": "警察官横向挥动灯火时，对于朝灯火挥动方向行驶的交通，与信号灯的绿灯含义相同。",
+        "explanation": "符合教则附表1（3）イ的规定。对于与该交通相交叉的交通，则与红灯含义相同。"
+      },
+      "en": {
+        "question": "When a police officer waves a light from side to side, that has the same meaning as a green light for traffic moving in the direction the light is waved.",
+        "explanation": "This is Kyosoku Appendix 1(3)(b). For traffic crossing that direction it means a red light."
+      },
+      "vi": {
+        "question": "Khi cảnh sát vung đèn sang ngang, điều đó có nghĩa như đèn xanh với luồng xe đi theo hướng đèn được vung.",
+        "explanation": "Đúng theo Kyosoku Phụ lục 1(3)(b). Với luồng xe cắt ngang hướng đó, nó có nghĩa như đèn đỏ."
+      },
+      "pt": {
+        "question": "Quando o policial agita a lanterna de um lado ao outro, isso equivale ao verde para o trânsito que segue na direção em que ela é agitada.",
+        "explanation": "É o Kyosoku, Anexo 1(3)(b). Para o trânsito que cruza essa direção, equivale ao vermelho."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-3-008",
+    "category": "灯火による信号",
+    "kp": "1-3-1",
+    "group": "B",
+    "source": "教則 付表1（3）イ",
+    "question_type": "text",
+    "qf": "QF-1-3-1-A-N-07",
+    "question_ja": "警察官が灯火を頭上に上げているときは、頭上に上げる前の灯火が振られていた方向に進行する交通については、信号機の黄色の灯火の信号と同じ意味である。",
+    "answer": true,
+    "explanation_ja": "教則付表1（3）イのとおりです。この交通と交差する交通については、赤色の灯火と同じ意味です。",
+    "i18n": {
+      "zh": {
+        "question": "警察官把灯火举到头顶时，对于朝举到头顶之前灯火挥动方向行驶的交通，与信号灯的黄灯含义相同。",
+        "explanation": "符合教则附表1（3）イ的规定。对于与该交通相交叉的交通，则与红灯含义相同。"
+      },
+      "en": {
+        "question": "When a police officer holds a light above their head, that has the same meaning as an amber light for traffic moving in the direction the light was being waved before it was raised.",
+        "explanation": "This is Kyosoku Appendix 1(3)(b). For traffic crossing that direction it means a red light."
+      },
+      "vi": {
+        "question": "Khi cảnh sát giơ đèn lên quá đầu, điều đó có nghĩa như đèn vàng với luồng xe đi theo hướng mà đèn đã được vung trước đó.",
+        "explanation": "Đúng theo Kyosoku Phụ lục 1(3)(b). Với luồng xe cắt ngang hướng đó, nó có nghĩa như đèn đỏ."
+      },
+      "pt": {
+        "question": "Quando o policial ergue a lanterna acima da cabeça, isso equivale ao amarelo para o trânsito que segue na direção em que ela era agitada antes.",
+        "explanation": "É o Kyosoku, Anexo 1(3)(b). Para o trânsito que cruza essa direção, equivale ao vermelho."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-3-009",
+    "category": "手信号",
+    "kp": "1-3-1",
+    "group": "B",
+    "source": "教則 付表1（3）ア備考",
+    "question_type": "text",
+    "qf": "QF-1-3-1-A-N-08",
+    "question_ja": "交差点以外で横断歩道も自転車横断帯も踏切もないところで警察官が手信号をしているときの停止位置は、その警察官の1メートル手前である。",
+    "answer": true,
+    "explanation_ja": "教則付表1（3）アの備考のとおりです。そのほかの場所では、信号機の場合と同じ停止位置になります。",
+    "i18n": {
+      "zh": {
+        "question": "在交叉路口以外、既无人行横道也无自行车横穿带和铁路道口的地方，警察官作手势信号时的停止位置是该警察官前方1米处。",
+        "explanation": "符合教则附表1（3）ア备注的规定。其他场所的停止位置与信号灯的情况相同。"
+      },
+      "en": {
+        "question": "Where a police officer gives a hand signal outside an intersection at a place with no pedestrian crossing, bicycle crossing or railway crossing, the stopping position is 1 metre short of the officer.",
+        "explanation": "This is the note to Kyosoku Appendix 1(3)(a). Elsewhere the stopping position is the same as for a traffic light."
+      },
+      "vi": {
+        "question": "Khi cảnh sát ra hiệu lệnh tay ngoài nút giao thông, ở nơi không có vạch sang đường, vạch sang đường cho xe đạp hay đường ngang đường sắt, vị trí dừng là cách cảnh sát 1 mét.",
+        "explanation": "Đúng theo ghi chú của Kyosoku Phụ lục 1(3)(a). Ở nơi khác, vị trí dừng giống như với đèn tín hiệu."
+      },
+      "pt": {
+        "question": "Quando o policial faz sinal manual fora de cruzamento, em local sem faixa de pedestres, faixa para ciclistas ou passagem de nível, a posição de parada é 1 metro antes dele.",
+        "explanation": "É a nota do Kyosoku, Anexo 1(3)(a). Nos demais locais, a posição de parada é a mesma do semáforo."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-3-010",
+    "category": "警察官などの指示",
+    "kp": "1-3-2",
+    "group": "B",
+    "source": "教則 第1章第3節2",
+    "question_type": "text",
+    "qf": "QF-1-3-2-A-N-02",
+    "question_ja": "警察官や交通巡視員が通行の方法などについて必要な指示をしたときは、その指示に従って行動しなければならない。",
+    "answer": true,
+    "explanation_ja": "教則第1章第3節2のとおりです。手信号による交通整理とは別に、個別の指示にも従います。",
+    "i18n": {
+      "zh": {
+        "question": "警察官或交通巡视员就通行方法等作出必要指示时，必须按照该指示行动。",
+        "explanation": "符合教则第1章第3节2的规定。除手势信号的交通整理之外，个别指示也要服从。"
+      },
+      "en": {
+        "question": "When a police officer or traffic warden gives a necessary instruction about how to proceed, you must act on that instruction.",
+        "explanation": "This is Kyosoku Chapter 1 Section 3 item 2. Individual instructions are to be followed as well as hand-signal traffic control."
+      },
+      "vi": {
+        "question": "Khi cảnh sát hoặc nhân viên tuần tra giao thông đưa ra hiệu lệnh cần thiết về cách lưu thông, bạn phải hành động theo hiệu lệnh đó.",
+        "explanation": "Đúng theo Kyosoku Chương 1 Mục 3 điểm 2. Ngoài việc điều khiển bằng hiệu lệnh tay, các hiệu lệnh riêng lẻ cũng phải được tuân theo."
+      },
+      "pt": {
+        "question": "Quando um policial ou agente de trânsito dá uma ordem necessária sobre como circular, você deve agir conforme essa ordem.",
+        "explanation": "É o Kyosoku, Capítulo 1, Seção 3, item 2. Além do controle por sinais manuais, as ordens individuais também devem ser seguidas."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-3-011",
+    "category": "警察官などの信号",
+    "kp": "1-3-1",
+    "group": "B",
+    "source": "教則 第1章第3節1",
+    "question_type": "text",
+    "qf": "QF-1-3-1-D-EI-01",
+    "question_ja": "警察官の手信号と信号機の信号が違っているときは、信号機の信号に従えばよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第1章第3節1により、この場合は警察官や交通巡視員の信号の方が優先します。",
+    "i18n": {
+      "zh": {
+        "question": "警察官的手势信号与信号灯的信号不同时，按信号灯的信号行动即可。",
+        "explanation": "错误。根据教则第1章第3节1，这种情况下警察官或交通巡视员的信号优先。"
+      },
+      "en": {
+        "question": "Where a police officer's hand signal differs from the traffic light, you may simply follow the light.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 1 Section 3 item 1 the signal of the officer or traffic warden prevails in that case."
+      },
+      "vi": {
+        "question": "Khi hiệu lệnh tay của cảnh sát khác với đèn tín hiệu, bạn chỉ cần theo đèn là được.",
+        "explanation": "Sai. Theo Kyosoku Chương 1 Mục 3 điểm 1, trong trường hợp đó hiệu lệnh của cảnh sát hoặc nhân viên tuần tra được ưu tiên."
+      },
+      "pt": {
+        "question": "Quando o sinal manual do policial difere do semáforo, basta seguir o semáforo.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 1, Seção 3, item 1, nesse caso prevalece o sinal do policial ou agente de trânsito."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-3-012",
+    "category": "警察官などの指示",
+    "kp": "1-3-2",
+    "group": "B",
+    "source": "教則 第1章第3節2",
+    "question_type": "text",
+    "qf": "QF-1-3-2-D-EI-01",
+    "question_ja": "警察官の指示が標識によって示された規制と違っているときは、標識に従わなければならない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第1章第3節2により、警察官が行う指示の方が優先します。",
+    "i18n": {
+      "zh": {
+        "question": "警察官的指示与标识（立牌）所示的规制不同时，必须服从标识。",
+        "explanation": "错误。根据教则第1章第3节2，警察官所作的指示优先。"
+      },
+      "en": {
+        "question": "Where a police officer's instruction differs from the regulation shown by a road sign, you must follow the sign.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 1 Section 3 item 2 the officer's instruction prevails."
+      },
+      "vi": {
+        "question": "Khi hiệu lệnh của cảnh sát khác với quy định do biển báo giao thông thể hiện, bạn phải theo biển báo.",
+        "explanation": "Sai. Theo Kyosoku Chương 1 Mục 3 điểm 2, hiệu lệnh của cảnh sát được ưu tiên."
+      },
+      "pt": {
+        "question": "Quando a ordem do policial difere da regulamentação indicada por uma placa, você deve seguir a placa.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 1, Seção 3, item 2, prevalece a ordem do policial."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-3-013",
+    "category": "手信号",
+    "kp": "1-3-1",
+    "group": "B",
+    "source": "教則 付表1（3）ア",
+    "question_type": "text",
+    "qf": "QF-1-3-1-D-SW-01",
+    "question_ja": "警察官が腕を垂直に上げているときは、その身体の正面に平行する交通については、信号機の青色の灯火の信号と同じ意味である。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則付表1（3）アにより、この場合は黄色の灯火の信号と同じ意味です。",
+    "i18n": {
+      "zh": {
+        "question": "警察官把手臂垂直上举时，对于与其身体正面平行的交通，与信号灯的绿灯含义相同。",
+        "explanation": "错误。根据教则附表1（3）ア，这种情况下与黄灯的含义相同。"
+      },
+      "en": {
+        "question": "When a police officer raises an arm vertically, that has the same meaning as a green light for traffic running parallel to the front of their body.",
+        "explanation": "This is wrong. Under Kyosoku Appendix 1(3)(a) it has the same meaning as an amber light."
+      },
+      "vi": {
+        "question": "Khi cảnh sát giơ tay thẳng đứng, điều đó có nghĩa như đèn xanh với luồng xe song song với mặt trước cơ thể họ.",
+        "explanation": "Sai. Theo Kyosoku Phụ lục 1(3)(a), khi đó ý nghĩa giống như đèn vàng."
+      },
+      "pt": {
+        "question": "Quando o policial ergue o braço na vertical, isso equivale ao verde para o trânsito paralelo à frente do corpo dele.",
+        "explanation": "Está errado. Pelo Kyosoku, Anexo 1(3)(a), equivale ao amarelo."
+      }
+    },
+    "trap_type": "SW",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-3-014",
+    "category": "手信号",
+    "kp": "1-3-1",
+    "group": "B",
+    "source": "教則 付表1（3）ア",
+    "question_type": "text",
+    "qf": "QF-1-3-1-D-SW-02",
+    "question_ja": "警察官が腕を横に水平に上げているときは、その身体の正面に交差する交通については、信号機の青色の灯火の信号と同じ意味である。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則付表1（3）アにより、交差する交通については赤色の灯火の信号と同じ意味です。",
+    "i18n": {
+      "zh": {
+        "question": "警察官把手臂水平横举时，对于与其身体正面交叉的交通，与信号灯的绿灯含义相同。",
+        "explanation": "错误。根据教则附表1（3）ア，对于交叉的交通与红灯的含义相同。"
+      },
+      "en": {
+        "question": "When a police officer raises an arm horizontally to the side, that has the same meaning as a green light for traffic crossing the front of their body.",
+        "explanation": "This is wrong. Under Kyosoku Appendix 1(3)(a) crossing traffic gets the same meaning as a red light."
+      },
+      "vi": {
+        "question": "Khi cảnh sát giơ ngang tay sang bên, điều đó có nghĩa như đèn xanh với luồng xe cắt ngang mặt trước cơ thể họ.",
+        "explanation": "Sai. Theo Kyosoku Phụ lục 1(3)(a), luồng xe cắt ngang nhận ý nghĩa như đèn đỏ."
+      },
+      "pt": {
+        "question": "Quando o policial ergue o braço na horizontal, isso equivale ao verde para o trânsito que cruza a frente do corpo dele.",
+        "explanation": "Está errado. Pelo Kyosoku, Anexo 1(3)(a), o trânsito que cruza recebe o sentido do vermelho."
+      }
+    },
+    "trap_type": "SW",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-3-015",
+    "category": "手信号",
+    "kp": "1-3-1",
+    "group": "B",
+    "source": "教則 付表1（3）ア",
+    "question_type": "text",
+    "qf": "QF-1-3-1-D-EI-02",
+    "question_ja": "警察官が身体の方向を変えないで腕を下ろしたときは、交通整理をやめた合図なので、信号機の信号に従えばよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則付表1（3）アにより、身体の方向を変えないで腕を下ろしているときは、腕を横に水平に上げているときと同じ意味です。",
+    "i18n": {
+      "zh": {
+        "question": "警察官不改变身体方向而把手臂放下时，是停止交通整理的信号，所以按信号灯行动即可。",
+        "explanation": "错误。根据教则附表1（3）ア，不改变身体方向而放下手臂时，与手臂水平横举时含义相同。"
+      },
+      "en": {
+        "question": "When a police officer lowers the arm without changing the way they are facing, it signals that traffic control has ended, so you may follow the traffic light.",
+        "explanation": "This is wrong. Under Kyosoku Appendix 1(3)(a) lowering the arm without turning means the same as raising it horizontally to the side."
+      },
+      "vi": {
+        "question": "Khi cảnh sát hạ tay mà không đổi hướng cơ thể, đó là dấu hiệu ngừng điều khiển giao thông nên bạn theo đèn tín hiệu là được.",
+        "explanation": "Sai. Theo Kyosoku Phụ lục 1(3)(a), hạ tay mà không đổi hướng có nghĩa giống như khi giơ ngang tay sang bên."
+      },
+      "pt": {
+        "question": "Quando o policial baixa o braço sem mudar de direção, é sinal de que o controle acabou, então basta seguir o semáforo.",
+        "explanation": "Está errado. Pelo Kyosoku, Anexo 1(3)(a), baixar o braço sem se virar significa o mesmo que erguê-lo na horizontal."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-3-016",
+    "category": "手信号",
+    "kp": "1-3-1",
+    "group": "B",
+    "source": "教則 付表1（3）ア備考",
+    "question_type": "text",
+    "qf": "QF-1-3-1-D-NU-01",
+    "question_ja": "交差点以外で横断歩道も踏切もないところで警察官が手信号をしているときの停止位置は、その警察官の3メートル手前である。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則付表1（3）アの備考により、停止位置はその警察官の1メートル手前です。",
+    "i18n": {
+      "zh": {
+        "question": "在交叉路口以外、既无人行横道也无铁路道口的地方，警察官作手势信号时的停止位置是该警察官前方3米处。",
+        "explanation": "错误。根据教则附表1（3）ア备注，停止位置是该警察官前方1米处。"
+      },
+      "en": {
+        "question": "Where a police officer gives a hand signal outside an intersection at a place with no pedestrian crossing or railway crossing, the stopping position is 3 metres short of the officer.",
+        "explanation": "This is wrong. Under the note to Kyosoku Appendix 1(3)(a) it is 1 metre short of the officer."
+      },
+      "vi": {
+        "question": "Khi cảnh sát ra hiệu lệnh tay ngoài nút giao thông, ở nơi không có vạch sang đường hay đường ngang đường sắt, vị trí dừng là cách cảnh sát 3 mét.",
+        "explanation": "Sai. Theo ghi chú của Kyosoku Phụ lục 1(3)(a), vị trí dừng là cách cảnh sát 1 mét."
+      },
+      "pt": {
+        "question": "Quando o policial faz sinal manual fora de cruzamento, em local sem faixa de pedestres nem passagem de nível, a posição de parada é 3 metros antes dele.",
+        "explanation": "Está errado. Pela nota do Kyosoku, Anexo 1(3)(a), é 1 metro antes dele."
+      }
+    },
+    "trap_type": "NU",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-3-017",
+    "category": "灯火による信号",
+    "kp": "1-3-1",
+    "group": "B",
+    "source": "教則 付表1（3）イ",
+    "question_type": "text",
+    "qf": "QF-1-3-1-D-EX-01",
+    "question_ja": "警察官が灯火を頭上に上げているときは、すべての方向の交通について、信号機の赤色の灯火の信号と同じ意味である。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則付表1（3）イにより、頭上に上げる前の灯火が振られていた方向に進行する交通については、黄色の灯火と同じ意味です。",
+    "i18n": {
+      "zh": {
+        "question": "警察官把灯火举到头顶时，对所有方向的交通都与信号灯的红灯含义相同。",
+        "explanation": "错误。根据教则附表1（3）イ，对于朝举到头顶之前灯火挥动方向行驶的交通，与黄灯含义相同。"
+      },
+      "en": {
+        "question": "When a police officer holds a light above their head, it means a red light for traffic in every direction.",
+        "explanation": "This is wrong. Under Kyosoku Appendix 1(3)(b), for traffic moving in the direction the light was being waved before it was raised, it means an amber light."
+      },
+      "vi": {
+        "question": "Khi cảnh sát giơ đèn lên quá đầu, điều đó có nghĩa như đèn đỏ với luồng xe theo mọi hướng.",
+        "explanation": "Sai. Theo Kyosoku Phụ lục 1(3)(b), với luồng xe đi theo hướng đèn đã được vung trước đó, nó có nghĩa như đèn vàng."
+      },
+      "pt": {
+        "question": "Quando o policial ergue a lanterna acima da cabeça, isso equivale ao vermelho para o trânsito de todas as direções.",
+        "explanation": "Está errado. Pelo Kyosoku, Anexo 1(3)(b), para o trânsito que segue na direção em que a lanterna era agitada antes, equivale ao amarelo."
+      }
+    },
+    "trap_type": "EX",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-3-018",
+    "category": "警察官などの信号",
+    "kp": "1-3-1",
+    "group": "B",
+    "source": "教則 第1章第3節1",
+    "question_type": "text",
+    "qf": "QF-1-3-1-D-EI-03",
+    "question_ja": "交通巡視員の手信号は参考にすぎず、これに従う義務はない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第1章第3節1により、警察官だけでなく交通巡視員の手信号にも従わなければなりません。",
+    "i18n": {
+      "zh": {
+        "question": "交通巡视员的手势信号只是参考，没有服从的义务。",
+        "explanation": "错误。根据教则第1章第3节1，不仅是警察官，交通巡视员的手势信号也必须服从。"
+      },
+      "en": {
+        "question": "A traffic warden's hand signal is only for guidance, and there is no duty to follow it.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 1 Section 3 item 1 you must follow the hand signals of traffic wardens as well as police officers."
+      },
+      "vi": {
+        "question": "Hiệu lệnh tay của nhân viên tuần tra giao thông chỉ mang tính tham khảo, không bắt buộc phải theo.",
+        "explanation": "Sai. Theo Kyosoku Chương 1 Mục 3 điểm 1, bạn phải tuân theo hiệu lệnh tay của cả nhân viên tuần tra lẫn cảnh sát."
+      },
+      "pt": {
+        "question": "O sinal manual do agente de trânsito é apenas orientativo, e não há dever de segui-lo.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 1, Seção 3, item 1, os sinais manuais dos agentes de trânsito devem ser seguidos tanto quanto os dos policiais."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-3-019",
+    "category": "手信号",
+    "kp": "1-3-1",
+    "group": "B",
+    "source": "教則 付表1（3）ア",
+    "question_type": "text",
+    "qf": "QF-1-3-1-D-SC-01",
+    "question_ja": "交差点で警察官が自分の進行方向に対して腕を垂直に上げていたが、安全に停止できたのにそのまま交差点に入った。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則付表1（3）アにより、この手信号は黄色の灯火と同じ意味なので、停止位置から先へ進んではいけません。",
+    "i18n": {
+      "zh": {
+        "question": "在交叉路口，警察官对着自己的行驶方向把手臂垂直上举，但明明能够安全停车却仍然驶入了交叉路口。",
+        "explanation": "错误。根据教则附表1（3）ア，该手势信号与黄灯含义相同，所以不得驶过停止位置。"
+      },
+      "en": {
+        "question": "At an intersection a police officer held an arm vertically towards your direction of travel, but you drove into the intersection although you could have stopped safely.",
+        "explanation": "This is wrong. Under Kyosoku Appendix 1(3)(a) that signal means the same as an amber light, so you must not proceed beyond the stopping position."
+      },
+      "vi": {
+        "question": "Tại nút giao thông, cảnh sát giơ tay thẳng đứng về hướng bạn đang đi, nhưng bạn vẫn vào nút giao dù có thể dừng an toàn.",
+        "explanation": "Sai. Theo Kyosoku Phụ lục 1(3)(a), hiệu lệnh đó có nghĩa như đèn vàng, nên bạn không được đi quá vị trí dừng."
+      },
+      "pt": {
+        "question": "No cruzamento o policial ergueu o braço na vertical na direção em que você seguia, mas você entrou no cruzamento embora pudesse ter parado com segurança.",
+        "explanation": "Está errado. Pelo Kyosoku, Anexo 1(3)(a), esse sinal equivale ao amarelo, então não se deve passar da posição de parada."
+      }
+    },
+    "trap_type": "SC",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-3-020",
+    "category": "警察官などの信号",
+    "kp": "1-3-1",
+    "group": "B",
+    "source": "教則 第1章第3節1",
+    "question_type": "text",
+    "qf": "QF-1-3-1-D-NR-01",
+    "question_ja": "警察官の手信号に従わなければならないのは車だけで、歩行者は従わなくてよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第1章第3節1は、交通整理を行っている手信号に従うことを歩行者と運転者の共通の心得として定めています。",
+    "i18n": {
+      "zh": {
+        "question": "必须服从警察官手势信号的只有车辆，步行者可以不服从。",
+        "explanation": "错误。教则第1章第3节1把服从进行交通整理的手势信号规定为步行者与驾驶员共通的须知。"
+      },
+      "en": {
+        "question": "Only vehicles have to obey a police officer's hand signal; pedestrians do not.",
+        "explanation": "This is wrong. Kyosoku Chapter 1 Section 3 item 1 lays down obedience to traffic-control hand signals as a rule common to pedestrians and drivers alike."
+      },
+      "vi": {
+        "question": "Chỉ xe cộ mới phải tuân theo hiệu lệnh tay của cảnh sát; người đi bộ thì không.",
+        "explanation": "Sai. Kyosoku Chương 1 Mục 3 điểm 1 đặt việc tuân theo hiệu lệnh điều khiển giao thông thành quy tắc chung cho cả người đi bộ lẫn người lái xe."
+      },
+      "pt": {
+        "question": "Só os veículos precisam obedecer ao sinal manual do policial; os pedestres não.",
+        "explanation": "Está errado. O Kyosoku, Capítulo 1, Seção 3, item 1, estabelece a obediência aos sinais de controle de trânsito como regra comum a pedestres e condutores."
+      }
+    },
+    "trap_type": "NR",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  }
+]
