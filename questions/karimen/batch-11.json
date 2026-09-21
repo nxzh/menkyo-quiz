@@ -1,0 +1,662 @@
+[
+  {
+    "id": "K4-1-001",
+    "category": "運転に当たっての注意",
+    "kp": "4-1-1",
+    "group": "E",
+    "source": "教則 第4章第1節1(1)ア",
+    "question_type": "text",
+    "qf": "QF-4-1-1-A-N-01",
+    "question_ja": "自動車を運転する前には、運転しようとする自動車に応じた運転免許証を持っていることを確かめなければならない。",
+    "answer": true,
+    "explanation_ja": "教則第4章第1節1(1)アのとおりです。免許の種類と運転する車が合っていなければ無免許運転になります。",
+    "i18n": {
+      "zh": {
+        "question": "驾驶汽车前，必须确认持有与所要驾驶的汽车相应的驾驶证。",
+        "explanation": "符合教则第4章第1节1(1)ア的规定。驾照种类与所驾车辆不相符就构成无证驾驶。"
+      },
+      "en": {
+        "question": "Before driving a car you must check that you hold a driver's licence that covers the car you are about to drive.",
+        "explanation": "This is Kyosoku Chapter 4 Section 1 item 1(1)(a). If the class of licence does not match the vehicle, you are driving unlicensed."
+      },
+      "vi": {
+        "question": "Trước khi lái ô tô, bạn phải kiểm tra rằng mình có bằng lái xe phù hợp với chiếc xe sắp lái.",
+        "explanation": "Đúng theo Kyosoku Chương 4 Mục 1 điểm 1(1)(a). Nếu hạng bằng không khớp với xe thì đó là lái xe không có bằng."
+      },
+      "pt": {
+        "question": "Antes de dirigir um automóvel você deve conferir que possui carteira de habilitação compatível com o veículo que vai conduzir.",
+        "explanation": "É o Kyosoku, Capítulo 4, Seção 1, item 1(1)(a). Se a categoria não corresponde ao veículo, você está dirigindo sem habilitação."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-1-002",
+    "category": "運転に当たっての注意",
+    "kp": "4-1-1",
+    "group": "E",
+    "source": "教則 第4章第1節1(1)イ",
+    "question_type": "text",
+    "qf": "QF-4-1-1-A-N-02",
+    "question_ja": "自動車を運転する前には、有効な自動車検査証と自動車損害賠償責任保険証明書などを自動車に備えていることを確かめる。",
+    "answer": true,
+    "explanation_ja": "教則第4章第1節1(1)イのとおりです。責任共済証明書でも差し支えありません。",
+    "i18n": {
+      "zh": {
+        "question": "驾驶汽车前，要确认车上备有有效的机动车检验证和机动车损害赔偿责任保险证明书等。",
+        "explanation": "符合教则第4章第1节1(1)イ的规定。责任共济证明书也可以。"
+      },
+      "en": {
+        "question": "Before driving you check that a valid vehicle inspection certificate and compulsory liability insurance certificate are carried in the car.",
+        "explanation": "This is Kyosoku Chapter 4 Section 1 item 1(1)(b). A mutual-aid liability certificate serves just as well."
+      },
+      "vi": {
+        "question": "Trước khi lái xe, bạn kiểm tra rằng trên xe có giấy kiểm định xe còn hiệu lực và giấy chứng nhận bảo hiểm trách nhiệm bắt buộc.",
+        "explanation": "Đúng theo Kyosoku Chương 4 Mục 1 điểm 1(1)(b). Giấy chứng nhận tương trợ trách nhiệm cũng được chấp nhận."
+      },
+      "pt": {
+        "question": "Antes de dirigir, confira que o certificado de inspeção veicular válido e o comprovante do seguro obrigatório de responsabilidade estão no carro.",
+        "explanation": "É o Kyosoku, Capítulo 4, Seção 1, item 1(1)(b). O certificado de mútua de responsabilidade também serve."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-1-003",
+    "category": "運転に当たっての注意",
+    "kp": "4-1-1",
+    "group": "E",
+    "source": "教則 第4章第1節1(1)ウ",
+    "question_type": "text",
+    "qf": "QF-4-1-1-A-N-03",
+    "question_ja": "自動車を運転する前には、運転免許証に記載されている眼鏡等使用などの条件を守っていることを確かめる。",
+    "answer": true,
+    "explanation_ja": "教則第4章第1節1(1)ウのとおりです。条件に違反して運転すれば、免許条件違反になります。",
+    "i18n": {
+      "zh": {
+        "question": "驾驶汽车前，要确认遵守了驾驶证上记载的须佩戴眼镜等条件。",
+        "explanation": "符合教则第4章第1节1(1)ウ的规定。违反条件驾驶就构成违反驾照条件。"
+      },
+      "en": {
+        "question": "Before driving you check that you are meeting any conditions noted on your licence, such as the use of glasses.",
+        "explanation": "This is Kyosoku Chapter 4 Section 1 item 1(1)(c). Driving in breach of a condition is a licence-condition offence."
+      },
+      "vi": {
+        "question": "Trước khi lái xe, bạn kiểm tra rằng mình đang tuân thủ các điều kiện ghi trên bằng lái, chẳng hạn phải đeo kính.",
+        "explanation": "Đúng theo Kyosoku Chương 4 Mục 1 điểm 1(1)(c). Lái xe vi phạm điều kiện là vi phạm điều kiện của bằng lái."
+      },
+      "pt": {
+        "question": "Antes de dirigir, confira que está cumprindo as condições anotadas na habilitação, como o uso de óculos.",
+        "explanation": "É o Kyosoku, Capítulo 4, Seção 1, item 1(1)(c). Dirigir descumprindo uma condição é infração à condição da habilitação."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-1-004",
+    "category": "運転に当たっての注意",
+    "kp": "4-1-1",
+    "group": "E",
+    "source": "教則 第4章第1節1(1)オ",
+    "question_type": "text",
+    "qf": "QF-4-1-1-A-N-04",
+    "question_ja": "準中型免許又は普通免許を受けて1年を経過していない初心運転者が普通自動車を運転するときは、その車の前と後ろの定められた位置に初心者マークを付けていなければならない。",
+    "answer": true,
+    "explanation_ja": "教則第4章第1節1(1)オのとおりです。前と後ろの両方に付けることが必要です。",
+    "i18n": {
+      "zh": {
+        "question": "取得准中型驾照或普通驾照未满1年的新手驾驶员驾驶普通汽车时，必须在车辆前后规定位置张贴新手标志。",
+        "explanation": "符合教则第4章第1节1(1)オ的规定。前后两处都必须张贴。"
+      },
+      "en": {
+        "question": "A novice driver within one year of obtaining a semi-medium or ordinary licence must display the beginner's mark at the set positions on the front and the rear of the car.",
+        "explanation": "This is Kyosoku Chapter 4 Section 1 item 1(1)(e). It has to be on both the front and the rear."
+      },
+      "vi": {
+        "question": "Người mới lái trong vòng một năm kể từ khi lấy bằng hạng bán trung hoặc hạng thường phải dán phù hiệu người mới ở vị trí quy định phía trước và phía sau xe.",
+        "explanation": "Đúng theo Kyosoku Chương 4 Mục 1 điểm 1(1)(e). Phải dán ở cả phía trước lẫn phía sau."
+      },
+      "pt": {
+        "question": "O condutor novato com menos de um ano de habilitação semimédia ou comum deve exibir o selo de iniciante nas posições determinadas à frente e atrás do carro.",
+        "explanation": "É o Kyosoku, Capítulo 4, Seção 1, item 1(1)(e). Tem de estar tanto na frente quanto na traseira."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-1-005",
+    "category": "運転に当たっての注意",
+    "kp": "4-1-1",
+    "group": "E",
+    "source": "教則 第4章第1節1(1)キ",
+    "question_type": "text",
+    "qf": "QF-4-1-1-A-N-05",
+    "question_ja": "自動車を運転する前には、非常信号用具や停止表示器材などを車に積んでいることを確かめる。",
+    "answer": true,
+    "explanation_ja": "教則第4章第1節1(1)キのとおりです。停止表示器材とは、停止表示板又は停止表示灯をいいます。",
+    "i18n": {
+      "zh": {
+        "question": "驾驶汽车前，要确认车上装有紧急信号用具和停车示警器材等。",
+        "explanation": "符合教则第4章第1节1(1)キ的规定。所谓停车示警器材，是指停车示警板或停车示警灯。"
+      },
+      "en": {
+        "question": "Before driving you check that emergency signalling equipment and warning devices are carried in the car.",
+        "explanation": "This is Kyosoku Chapter 4 Section 1 item 1(1)(g). A warning device means a warning triangle or a warning lamp."
+      },
+      "vi": {
+        "question": "Trước khi lái xe, bạn kiểm tra rằng trên xe có dụng cụ báo hiệu khẩn cấp và thiết bị cảnh báo dừng xe.",
+        "explanation": "Đúng theo Kyosoku Chương 4 Mục 1 điểm 1(1)(g). Thiết bị cảnh báo dừng xe nghĩa là biển tam giác phản quang hoặc đèn cảnh báo."
+      },
+      "pt": {
+        "question": "Antes de dirigir, confira que o veículo leva equipamento de sinalização de emergência e dispositivo de advertência de parada.",
+        "explanation": "É o Kyosoku, Capítulo 4, Seção 1, item 1(1)(g). Dispositivo de advertência significa triângulo ou lâmpada de sinalização."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-1-006",
+    "category": "運転計画",
+    "kp": "4-1-2",
+    "group": "E",
+    "source": "教則 第4章第1節2",
+    "question_type": "text",
+    "qf": "QF-4-1-2-A-N-01",
+    "question_ja": "長時間にわたって運転するときは、2時間に1回は休息をとるようにする。",
+    "answer": true,
+    "explanation_ja": "教則第4章第1節2のとおりです。眠気を感じたら、速やかに休息をとって眠気を覚ましてから運転します。",
+    "i18n": {
+      "zh": {
+        "question": "长时间驾驶时，要每2小时休息1次。",
+        "explanation": "符合教则第4章第1节2的规定。感到困倦时要尽快休息，消除困意后再驾驶。"
+      },
+      "en": {
+        "question": "When you will be driving for a long time, take a rest once every two hours.",
+        "explanation": "This is Kyosoku Chapter 4 Section 1 item 2. If you feel drowsy, rest promptly and shake off the drowsiness before driving on."
+      },
+      "vi": {
+        "question": "Khi lái xe trong thời gian dài, hãy nghỉ một lần sau mỗi hai tiếng.",
+        "explanation": "Đúng theo Kyosoku Chương 4 Mục 1 điểm 2. Nếu thấy buồn ngủ, hãy nghỉ ngay và tỉnh táo lại rồi mới đi tiếp."
+      },
+      "pt": {
+        "question": "Quando for dirigir por muito tempo, faça uma pausa a cada duas horas.",
+        "explanation": "É o Kyosoku, Capítulo 4, Seção 1, item 2. Se sentir sono, descanse logo e só volte a dirigir depois de espantá-lo."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-1-007",
+    "category": "体調",
+    "kp": "4-1-3",
+    "group": "E",
+    "source": "教則 第4章第1節3",
+    "question_type": "text",
+    "qf": "QF-4-1-3-A-N-01",
+    "question_ja": "睡眠作用のある風邪薬や頭痛薬などを服用したときは、運転をしないようにする。",
+    "answer": true,
+    "explanation_ja": "教則第4章第1節3のとおりです。注意力が散漫になったり、判断力が衰えたりするためです。",
+    "i18n": {
+      "zh": {
+        "question": "服用了有催眠作用的感冒药或头痛药等时，不要驾驶。",
+        "explanation": "符合教则第4章第1节3的规定。因为这会使注意力涣散、判断力下降。"
+      },
+      "en": {
+        "question": "Do not drive after taking cold or headache medicine that causes drowsiness.",
+        "explanation": "This is Kyosoku Chapter 4 Section 1 item 3. Your attention scatters and your judgement weakens."
+      },
+      "vi": {
+        "question": "Đừng lái xe sau khi uống thuốc cảm hay thuốc đau đầu gây buồn ngủ.",
+        "explanation": "Đúng theo Kyosoku Chương 4 Mục 1 điểm 3. Sự chú ý của bạn bị phân tán và khả năng phán đoán suy giảm."
+      },
+      "pt": {
+        "question": "Não dirija depois de tomar remédio de gripe ou dor de cabeça que dê sono.",
+        "explanation": "É o Kyosoku, Capítulo 4, Seção 1, item 3. A atenção se dispersa e o julgamento fica prejudicado."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-1-008",
+    "category": "体調",
+    "kp": "4-1-3",
+    "group": "E",
+    "source": "教則 第4章第1節3",
+    "question_type": "text",
+    "qf": "QF-4-1-3-A-N-02",
+    "question_ja": "過労のときは、運転してはいけない。",
+    "answer": true,
+    "explanation_ja": "教則第4章第1節3のとおりです。疲れているときや病気のときも、運転を控えるか体の調子を整えてから運転します。",
+    "i18n": {
+      "zh": {
+        "question": "过度疲劳时不得驾驶。",
+        "explanation": "符合教则第4章第1节3的规定。疲劳或生病时也要避免驾驶，或者调整好身体状况后再驾驶。"
+      },
+      "en": {
+        "question": "You must not drive when you are exhausted.",
+        "explanation": "This is Kyosoku Chapter 4 Section 1 item 3. When tired or ill you should also hold off driving, or get yourself in shape first."
+      },
+      "vi": {
+        "question": "Bạn không được lái xe khi quá mệt mỏi.",
+        "explanation": "Đúng theo Kyosoku Chương 4 Mục 1 điểm 3. Khi mệt hay ốm, bạn cũng nên hoãn lái xe hoặc chỉnh lại thể trạng trước đã."
+      },
+      "pt": {
+        "question": "Você não deve dirigir em estado de exaustão.",
+        "explanation": "É o Kyosoku, Capítulo 4, Seção 1, item 3. Cansado ou doente, você também deve evitar dirigir ou primeiro se recuperar."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-1-009",
+    "category": "酒気帯び運転の禁止",
+    "kp": "4-1-4",
+    "group": "E",
+    "source": "教則 第4章第1節4",
+    "question_type": "text",
+    "qf": "QF-4-1-4-A-N-01",
+    "question_ja": "酒気を帯びているときや麻薬、覚せい剤、シンナーなどの影響を受けているときは、運転してはいけない。",
+    "answer": true,
+    "explanation_ja": "教則第4章第1節4のとおりです。酒の量や運転する距離にかかわらず禁じられています。",
+    "i18n": {
+      "zh": {
+        "question": "带有酒气时，或者受麻药、兴奋剂、稀释剂等影响时，不得驾驶。",
+        "explanation": "符合教则第4章第1节4的规定。无论饮酒量多少、行驶距离长短都被禁止。"
+      },
+      "en": {
+        "question": "You must not drive while you have alcohol in you or while under the influence of narcotics, stimulants, thinner and the like.",
+        "explanation": "This is Kyosoku Chapter 4 Section 1 item 4. The ban holds whatever the amount drunk and however short the drive."
+      },
+      "vi": {
+        "question": "Bạn không được lái xe khi trong người có rượu bia hoặc khi chịu ảnh hưởng của ma túy, chất kích thích, dung môi pha sơn và những thứ tương tự.",
+        "explanation": "Đúng theo Kyosoku Chương 4 Mục 1 điểm 4. Lệnh cấm này áp dụng bất kể uống bao nhiêu và đi quãng đường ngắn thế nào."
+      },
+      "pt": {
+        "question": "Você não deve dirigir sob efeito de álcool nem sob influência de entorpecentes, estimulantes, solventes e semelhantes.",
+        "explanation": "É o Kyosoku, Capítulo 4, Seção 1, item 4. A proibição vale qualquer que seja a quantidade ingerida e por mais curto que seja o trajeto."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-1-010",
+    "category": "酒気帯び運転の禁止",
+    "kp": "4-1-4",
+    "group": "E",
+    "source": "教則 第4章第1節4",
+    "question_type": "text",
+    "qf": "QF-4-1-4-A-N-02",
+    "question_ja": "酒を飲んだのが前夜であっても、翌朝の運転時まで酒の影響を受けていることがある。",
+    "answer": true,
+    "explanation_ja": "教則第4章第1節4のとおりです。前夜の酒であっても、影響が残っていれば運転してはいけません。",
+    "i18n": {
+      "zh": {
+        "question": "即使是前一天晚上喝的酒，也有可能到第二天早上驾驶时仍受酒的影响。",
+        "explanation": "符合教则第4章第1节4的规定。即使是前夜的酒，只要影响还在就不得驾驶。"
+      },
+      "en": {
+        "question": "Even alcohol drunk the night before can still be affecting you when you drive the next morning.",
+        "explanation": "This is Kyosoku Chapter 4 Section 1 item 4. If the effect remains you must not drive, however long ago you drank."
+      },
+      "vi": {
+        "question": "Rượu bia uống từ tối hôm trước vẫn có thể còn ảnh hưởng tới bạn khi lái xe sáng hôm sau.",
+        "explanation": "Đúng theo Kyosoku Chương 4 Mục 1 điểm 4. Nếu ảnh hưởng vẫn còn thì bạn không được lái xe, dù đã uống từ lâu."
+      },
+      "pt": {
+        "question": "O álcool bebido na noite anterior ainda pode estar fazendo efeito quando você dirige na manhã seguinte.",
+        "explanation": "É o Kyosoku, Capítulo 4, Seção 1, item 4. Se o efeito persiste, você não deve dirigir, por mais tempo que tenha passado."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-1-011",
+    "category": "運転に当たっての注意",
+    "kp": "4-1-1",
+    "group": "E",
+    "source": "教則 第4章第1節1(2)",
+    "question_type": "text",
+    "qf": "QF-4-1-1-D-EX-01",
+    "question_ja": "70歳以上の高齢運転者が普通自動車を運転するときは、高齢者マークを付けなければ運転することができない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第4章第1節1(2)は高齢者マークを付けるよう努めることを求めているもので、付けなければ運転できないとはされていません。",
+    "i18n": {
+      "zh": {
+        "question": "70岁以上的高龄驾驶员驾驶普通汽车时，不张贴高龄者标志就不能驾驶。",
+        "explanation": "错误。教则第4章第1节1(2)要求的是努力张贴高龄者标志，并未规定不贴就不能驾驶。"
+      },
+      "en": {
+        "question": "A driver aged 70 or over may not drive an ordinary car without displaying the older driver's mark.",
+        "explanation": "This is wrong. Kyosoku Chapter 4 Section 1 item 1(2) asks such drivers to make an effort to display the mark; it does not say they may not drive without it."
+      },
+      "vi": {
+        "question": "Người lái từ 70 tuổi trở lên không được lái ô tô thông thường nếu không dán phù hiệu người cao tuổi.",
+        "explanation": "Sai. Kyosoku Chương 4 Mục 1 điểm 1(2) yêu cầu những người lái này cố gắng dán phù hiệu; điều đó không có nghĩa là không dán thì không được lái."
+      },
+      "pt": {
+        "question": "O condutor com 70 anos ou mais não pode dirigir automóvel comum sem exibir o selo de condutor idoso.",
+        "explanation": "Está errado. O Kyosoku, Capítulo 4, Seção 1, item 1(2), pede que esses condutores se esforcem por exibir o selo; não diz que sem ele não podem dirigir."
+      }
+    },
+    "trap_type": "EX",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-1-012",
+    "category": "運転計画",
+    "kp": "4-1-2",
+    "group": "E",
+    "source": "教則 第4章第1節2",
+    "question_type": "text",
+    "qf": "QF-4-1-2-D-NU-01",
+    "question_ja": "長時間にわたって運転するときは、4時間に1回は休息をとるようにする。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第4章第1節2により、2時間に1回は休息をとるようにします。",
+    "i18n": {
+      "zh": {
+        "question": "长时间驾驶时，要每4小时休息1次。",
+        "explanation": "错误。根据教则第4章第1节2，要每2小时休息1次。"
+      },
+      "en": {
+        "question": "When you will be driving for a long time, take a rest once every four hours.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 4 Section 1 item 2 you take a rest once every two hours."
+      },
+      "vi": {
+        "question": "Khi lái xe trong thời gian dài, hãy nghỉ một lần sau mỗi bốn tiếng.",
+        "explanation": "Sai. Theo Kyosoku Chương 4 Mục 1 điểm 2, bạn nghỉ một lần sau mỗi hai tiếng."
+      },
+      "pt": {
+        "question": "Quando for dirigir por muito tempo, faça uma pausa a cada quatro horas.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 4, Seção 1, item 2, a pausa é a cada duas horas."
+      }
+    },
+    "trap_type": "NU",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-1-013",
+    "category": "酒気帯び運転の禁止",
+    "kp": "4-1-4",
+    "group": "E",
+    "source": "教則 第4章第1節4",
+    "question_type": "text",
+    "qf": "QF-4-1-4-D-EI-01",
+    "question_ja": "酒を飲んだのが前夜であれば、翌朝は酒の影響が残っていても運転してよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第4章第1節4により、酒気を帯びているときは運転してはならず、飲んだのがいつかは関係ありません。",
+    "i18n": {
+      "zh": {
+        "question": "只要是前一天晚上喝的酒，即使第二天早上仍残留酒的影响，也可以驾驶。",
+        "explanation": "错误。根据教则第4章第1节4，带有酒气时不得驾驶，与什么时候喝的无关。"
+      },
+      "en": {
+        "question": "If you drank the night before, you may drive the next morning even with the alcohol still affecting you.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 4 Section 1 item 4 you must not drive while you have alcohol in you, and when you drank makes no difference."
+      },
+      "vi": {
+        "question": "Nếu bạn uống từ tối hôm trước thì sáng hôm sau vẫn được lái xe dù rượu còn ảnh hưởng.",
+        "explanation": "Sai. Theo Kyosoku Chương 4 Mục 1 điểm 4, bạn không được lái xe khi trong người còn rượu, và uống lúc nào không quan trọng."
+      },
+      "pt": {
+        "question": "Se você bebeu na noite anterior, pode dirigir na manhã seguinte mesmo com o álcool ainda fazendo efeito.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 4, Seção 1, item 4, você não deve dirigir sob efeito de álcool, e quando bebeu não importa."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-1-014",
+    "category": "体調",
+    "kp": "4-1-3",
+    "group": "E",
+    "source": "教則 第4章第1節3",
+    "question_type": "text",
+    "qf": "QF-4-1-3-D-EI-01",
+    "question_ja": "疲れているときや心配ごとのあるときでも、運転する距離が短ければ差し支えない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第4章第1節3により、このようなときは運転を控えるか、体の調子を整えてから運転します。",
+    "i18n": {
+      "zh": {
+        "question": "即使在疲劳或有心事时，只要行驶距离短就没有关系。",
+        "explanation": "错误。根据教则第4章第1节3，这种时候要避免驾驶，或者调整好身体状况后再驾驶。"
+      },
+      "en": {
+        "question": "Being tired or preoccupied does not matter as long as the drive is short.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 4 Section 1 item 3 you hold off driving at such times, or get yourself in shape first."
+      },
+      "vi": {
+        "question": "Mệt mỏi hay đang lo nghĩ cũng không sao miễn là quãng đường ngắn.",
+        "explanation": "Sai. Theo Kyosoku Chương 4 Mục 1 điểm 3, những lúc như vậy bạn nên hoãn lái xe hoặc chỉnh lại thể trạng trước."
+      },
+      "pt": {
+        "question": "Estar cansado ou preocupado não importa desde que o percurso seja curto.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 4, Seção 1, item 3, nesses momentos você evita dirigir ou primeiro se recupera."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-1-015",
+    "category": "運転に当たっての注意",
+    "kp": "4-1-1",
+    "group": "E",
+    "source": "教則 第4章第1節1(1)",
+    "question_type": "text",
+    "qf": "QF-4-1-1-D-NR-01",
+    "question_ja": "自動車を運転する前に確かめるのは、運転免許証を持っていることだけでよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第4章第1節1(1)により、自動車検査証や責任保険証明書、免許の条件、必要なマーク、非常信号用具なども確かめます。",
+    "i18n": {
+      "zh": {
+        "question": "驾驶汽车前要确认的，只有是否持有驾驶证就可以。",
+        "explanation": "错误。根据教则第4章第1节1(1)，还要确认机动车检验证、责任保险证明书、驾照条件、必要的标志以及紧急信号用具等。"
+      },
+      "en": {
+        "question": "The only thing to check before driving a car is that you have your licence with you.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 4 Section 1 item 1(1) you also check the inspection certificate and liability insurance certificate, the licence conditions, any required marks and the emergency signalling equipment."
+      },
+      "vi": {
+        "question": "Điều duy nhất cần kiểm tra trước khi lái ô tô là bạn có mang bằng lái hay không.",
+        "explanation": "Sai. Theo Kyosoku Chương 4 Mục 1 điểm 1(1), bạn còn kiểm tra giấy kiểm định, giấy bảo hiểm trách nhiệm, điều kiện của bằng, các phù hiệu bắt buộc và dụng cụ báo hiệu khẩn cấp."
+      },
+      "pt": {
+        "question": "A única coisa a conferir antes de dirigir é se você está com a habilitação.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 4, Seção 1, item 1(1), você também confere o certificado de inspeção e o do seguro obrigatório, as condições da habilitação, os selos exigidos e o equipamento de sinalização de emergência."
+      }
+    },
+    "trap_type": "NR",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-1-016",
+    "category": "運転に当たっての注意",
+    "kp": "4-1-1",
+    "group": "E",
+    "source": "教則 第4章第1節1(1)オ",
+    "question_type": "text",
+    "qf": "QF-4-1-1-D-NR-02",
+    "question_ja": "初心者マークは、普通免許を受けて1年を経過していない人が普通自動車を運転するとき、車の前の定められた位置に付ければよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第4章第1節1(1)オにより、車の前と後ろの定められた位置に付けなければなりません。",
+    "i18n": {
+      "zh": {
+        "question": "新手标志，在取得普通驾照未满1年的人驾驶普通汽车时，贴在车辆前部规定位置就可以。",
+        "explanation": "错误。根据教则第4章第1节1(1)オ，必须贴在车辆前后规定的位置。"
+      },
+      "en": {
+        "question": "The beginner's mark need only go at the set position on the front of the car when someone within a year of getting an ordinary licence drives it.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 4 Section 1 item 1(1)(e) it must be displayed at the set positions on both the front and the rear."
+      },
+      "vi": {
+        "question": "Phù hiệu người mới chỉ cần dán ở vị trí quy định phía trước xe khi người có bằng hạng thường chưa đủ một năm lái xe.",
+        "explanation": "Sai. Theo Kyosoku Chương 4 Mục 1 điểm 1(1)(e), phải dán ở vị trí quy định cả phía trước lẫn phía sau."
+      },
+      "pt": {
+        "question": "O selo de iniciante basta ser colocado na posição determinada da frente do carro quando o conduz alguém com menos de um ano de habilitação comum.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 4, Seção 1, item 1(1)(e), ele deve ser exibido nas posições determinadas tanto na frente quanto na traseira."
+      }
+    },
+    "trap_type": "NR",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-1-017",
+    "category": "運転に当たっての注意",
+    "kp": "4-1-1",
+    "group": "E",
+    "source": "教則 第4章第1節1(1)ウ",
+    "question_type": "text",
+    "qf": "QF-4-1-1-D-EI-01",
+    "question_ja": "運転免許証に眼鏡等使用の条件が記載されていても、昼間の運転であれば眼鏡を掛けなくてよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第4章第1節1(1)ウにより、免許証に記載されている条件は運転する時間帯にかかわらず守らなければなりません。",
+    "i18n": {
+      "zh": {
+        "question": "即使驾驶证上记载了须佩戴眼镜等条件，白天驾驶时也可以不戴眼镜。",
+        "explanation": "错误。根据教则第4章第1节1(1)ウ，驾驶证上记载的条件无论什么时间段驾驶都必须遵守。"
+      },
+      "en": {
+        "question": "Even if your licence carries a condition to use glasses, you need not wear them when driving in daylight.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 4 Section 1 item 1(1)(c) a condition noted on the licence must be met whatever the time of day."
+      },
+      "vi": {
+        "question": "Dù bằng lái có ghi điều kiện phải đeo kính, bạn vẫn không cần đeo khi lái ban ngày.",
+        "explanation": "Sai. Theo Kyosoku Chương 4 Mục 1 điểm 1(1)(c), điều kiện ghi trên bằng phải được tuân thủ bất kể thời điểm nào trong ngày."
+      },
+      "pt": {
+        "question": "Mesmo que a habilitação traga a condição de usar óculos, não é preciso usá-los ao dirigir de dia.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 4, Seção 1, item 1(1)(c), a condição anotada na habilitação deve ser cumprida em qualquer horário."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-1-018",
+    "category": "運転に当たっての注意",
+    "kp": "4-1-1",
+    "group": "E",
+    "source": "教則 第4章第1節1(1)イ",
+    "question_type": "text",
+    "qf": "QF-4-1-1-D-EI-02",
+    "question_ja": "自動車検査証は大切な書類なので、自宅で保管し、車には備えなくてよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第4章第1節1(1)イにより、有効な自動車検査証は自動車に備えていなければなりません。",
+    "i18n": {
+      "zh": {
+        "question": "机动车检验证是重要文件，所以可以在家保管，不必备在车上。",
+        "explanation": "错误。根据教则第4章第1节1(1)イ，有效的机动车检验证必须备在车上。"
+      },
+      "en": {
+        "question": "Because the vehicle inspection certificate is an important document, you may keep it at home rather than in the car.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 4 Section 1 item 1(1)(b) a valid inspection certificate must be carried in the vehicle."
+      },
+      "vi": {
+        "question": "Vì giấy kiểm định xe là giấy tờ quan trọng nên bạn có thể giữ ở nhà thay vì để trên xe.",
+        "explanation": "Sai. Theo Kyosoku Chương 4 Mục 1 điểm 1(1)(b), giấy kiểm định còn hiệu lực phải được để trên xe."
+      },
+      "pt": {
+        "question": "Como o certificado de inspeção é um documento importante, você pode guardá-lo em casa em vez de deixá-lo no carro.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 4, Seção 1, item 1(1)(b), o certificado válido deve ser mantido no veículo."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-1-019",
+    "category": "運転計画",
+    "kp": "4-1-2",
+    "group": "E",
+    "source": "教則 第4章第1節2",
+    "question_type": "text",
+    "qf": "QF-4-1-2-D-SC-01",
+    "question_ja": "運転中に眠気を感じたが、目的地まであと少しだったので、そのまま運転を続けた。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第4章第1節2により、眠気を感じたら速やかに休息をとり、眠気を覚ましてから運転します。",
+    "i18n": {
+      "zh": {
+        "question": "驾驶中感到困倦，但因为离目的地只剩一点路程，就继续驾驶了。",
+        "explanation": "错误。根据教则第4章第1节2，感到困倦时要尽快休息，消除困意后再驾驶。"
+      },
+      "en": {
+        "question": "You felt drowsy while driving but carried on because you were nearly at your destination.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 4 Section 1 item 2 you rest promptly when drowsiness sets in and shake it off before driving on."
+      },
+      "vi": {
+        "question": "Bạn thấy buồn ngủ khi đang lái nhưng vẫn đi tiếp vì gần tới nơi rồi.",
+        "explanation": "Sai. Theo Kyosoku Chương 4 Mục 1 điểm 2, khi thấy buồn ngủ bạn phải nghỉ ngay và tỉnh táo lại rồi mới đi tiếp."
+      },
+      "pt": {
+        "question": "Você sentiu sono dirigindo, mas seguiu em frente porque faltava pouco para o destino.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 4, Seção 1, item 2, ao sentir sono você descansa logo e só continua depois de espantá-lo."
+      }
+    },
+    "trap_type": "SC",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-1-020",
+    "category": "運転に当たっての注意",
+    "kp": "4-1-1",
+    "group": "E",
+    "source": "教則 第4章第1節1(1)キ",
+    "question_type": "text",
+    "qf": "QF-4-1-1-D-EX-02",
+    "question_ja": "停止表示器材は、高速道路を走る予定があるときだけ車に積んでいればよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第4章第1節1(1)キは、走る道路を問わず、非常信号用具や停止表示器材などを積んでいることを確かめるよう求めています。",
+    "i18n": {
+      "zh": {
+        "question": "停车示警器材只要在计划走高速公路时装在车上就可以。",
+        "explanation": "错误。教则第4章第1节1(1)キ要求不论行驶什么道路，都要确认车上装有紧急信号用具和停车示警器材等。"
+      },
+      "en": {
+        "question": "A warning device only needs to be in the car when you plan to use an expressway.",
+        "explanation": "This is wrong. Kyosoku Chapter 4 Section 1 item 1(1)(g) asks you to check that emergency signalling equipment and warning devices are aboard whatever road you will use."
+      },
+      "vi": {
+        "question": "Thiết bị cảnh báo dừng xe chỉ cần có trên xe khi bạn định đi đường cao tốc.",
+        "explanation": "Sai. Kyosoku Chương 4 Mục 1 điểm 1(1)(g) yêu cầu kiểm tra có dụng cụ báo hiệu khẩn cấp và thiết bị cảnh báo trên xe, bất kể bạn đi đường nào."
+      },
+      "pt": {
+        "question": "O dispositivo de advertência só precisa estar no carro quando se pretende usar uma via expressa.",
+        "explanation": "Está errado. O Kyosoku, Capítulo 4, Seção 1, item 1(1)(g), pede que se confira o equipamento de sinalização de emergência e o dispositivo de advertência a bordo, seja qual for a via."
+      }
+    },
+    "trap_type": "EX",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  }
+]

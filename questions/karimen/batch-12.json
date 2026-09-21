@@ -1,0 +1,662 @@
+[
+  {
+    "id": "K4-2-001",
+    "category": "運転免許の仕組み",
+    "kp": "4-2",
+    "group": "F",
+    "source": "教則 第4章第2節",
+    "question_type": "text",
+    "qf": "QF-4-2-A-N-01",
+    "question_ja": "道路で自動車や一般原動機付自転車を運転するときは、その車種や牽引などの状態に応じた免許を受け、その免許証を携帯しなければならない。",
+    "answer": true,
+    "explanation_ja": "教則第4章第2節のとおりです。免許を受けているだけでなく、免許証を携帯していることが必要です。",
+    "i18n": {
+      "zh": {
+        "question": "在道路上驾驶汽车或一般轻型摩托车时，必须取得与该车种及牵引等状态相应的驾照，并随身携带驾驶证。",
+        "explanation": "符合教则第4章第2节的规定。不仅要取得驾照，还必须随身携带驾驶证。"
+      },
+      "en": {
+        "question": "To drive a car or a general motorized bicycle (moped) on the road you must hold a licence matching the class of vehicle and how it is being towed or used, and carry that licence with you.",
+        "explanation": "This is Kyosoku Chapter 4 Section 2. Holding the licence is not enough; you must have it on you."
+      },
+      "vi": {
+        "question": "Để lái ô tô hay xe gắn máy (原付) trên đường, bạn phải có bằng lái phù hợp với loại xe và tình trạng kéo xe, và phải mang theo bằng đó.",
+        "explanation": "Đúng theo Kyosoku Chương 4 Mục 2. Chỉ có bằng thôi là chưa đủ; bạn phải mang nó theo người."
+      },
+      "pt": {
+        "question": "Para conduzir um automóvel ou um ciclomotor na via você deve ter habilitação compatível com a categoria do veículo e com a condição de reboque, e portar essa habilitação.",
+        "explanation": "É o Kyosoku, Capítulo 4, Seção 2. Não basta ser habilitado; é preciso estar com o documento."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-2-002",
+    "category": "運転免許の仕組み",
+    "kp": "4-2",
+    "group": "F",
+    "source": "教則 第4章第2節",
+    "question_type": "text",
+    "qf": "QF-4-2-A-N-02",
+    "question_ja": "違反行為をしたり交通事故を起こしたりした際に警察官から提示を求められた場合には、免許証を提示しなければならない。",
+    "answer": true,
+    "explanation_ja": "教則第4章第2節のとおりです。携帯の義務とは別に、提示の義務が定められています。",
+    "i18n": {
+      "zh": {
+        "question": "在发生违章行为或交通事故时，被警察官要求出示驾驶证的，必须出示。",
+        "explanation": "符合教则第4章第2节的规定。除携带义务外，还另行规定了出示义务。"
+      },
+      "en": {
+        "question": "If a police officer asks to see your licence after an offence or a traffic accident, you must produce it.",
+        "explanation": "This is Kyosoku Chapter 4 Section 2. The duty to produce it is set out separately from the duty to carry it."
+      },
+      "vi": {
+        "question": "Nếu cảnh sát yêu cầu xuất trình bằng lái sau một vi phạm hoặc tai nạn giao thông, bạn phải xuất trình.",
+        "explanation": "Đúng theo Kyosoku Chương 4 Mục 2. Nghĩa vụ xuất trình được quy định riêng, tách khỏi nghĩa vụ mang theo."
+      },
+      "pt": {
+        "question": "Se um policial pedir para ver a sua habilitação após uma infração ou um acidente de trânsito, você deve apresentá-la.",
+        "explanation": "É o Kyosoku, Capítulo 4, Seção 2. O dever de apresentar é previsto à parte do dever de portar."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-2-003",
+    "category": "運転免許の仕組み",
+    "kp": "4-2",
+    "group": "F",
+    "source": "教則 第4章第2節",
+    "question_type": "text",
+    "qf": "QF-4-2-A-N-03",
+    "question_ja": "免許を受けていても、免許の停止処分を受けている者は、その期間中は運転することができない。",
+    "answer": true,
+    "explanation_ja": "教則第4章第2節のとおりです。停止期間中の運転は無免許運転として扱われます。",
+    "i18n": {
+      "zh": {
+        "question": "即使取得了驾照，受到驾照停止处分的人在该期间内也不能驾驶。",
+        "explanation": "符合教则第4章第2节的规定。停止期间内驾驶被视为无证驾驶。"
+      },
+      "en": {
+        "question": "Even someone who holds a licence may not drive while it is suspended.",
+        "explanation": "This is Kyosoku Chapter 4 Section 2. Driving during a suspension is treated as unlicensed driving."
+      },
+      "vi": {
+        "question": "Ngay cả người có bằng lái cũng không được lái xe trong thời gian bằng bị đình chỉ.",
+        "explanation": "Đúng theo Kyosoku Chương 4 Mục 2. Lái xe trong thời gian đình chỉ bị coi là lái xe không có bằng."
+      },
+      "pt": {
+        "question": "Mesmo quem tem habilitação não pode dirigir enquanto ela está suspensa.",
+        "explanation": "É o Kyosoku, Capítulo 4, Seção 2. Dirigir durante a suspensão é tratado como dirigir sem habilitação."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-2-004",
+    "category": "運転免許の仕組み",
+    "kp": "4-2-1",
+    "group": "F",
+    "source": "教則 第4章第2節1",
+    "question_type": "text",
+    "qf": "QF-4-2-1-A-N-01",
+    "question_ja": "運転免許には、第一種運転免許、第二種運転免許、仮運転免許の三種のものがある。",
+    "answer": true,
+    "explanation_ja": "教則第4章第2節1のとおりです。この三つの区分は、運転する目的と場面によって分かれています。",
+    "i18n": {
+      "zh": {
+        "question": "驾驶证分为第一种驾驶证、第二种驾驶证、临时驾驶证三种。",
+        "explanation": "符合教则第4章第2节1的规定。这三种区分是按驾驶的目的和场合划分的。"
+      },
+      "en": {
+        "question": "There are three kinds of driver's licence: Class 1, Class 2 and the provisional licence.",
+        "explanation": "This is Kyosoku Chapter 4 Section 2 item 1. The three are divided by the purpose and setting of the driving."
+      },
+      "vi": {
+        "question": "Có ba loại bằng lái xe: hạng 1, hạng 2 và bằng tạm.",
+        "explanation": "Đúng theo Kyosoku Chương 4 Mục 2 điểm 1. Ba loại này được chia theo mục đích và hoàn cảnh lái xe."
+      },
+      "pt": {
+        "question": "Há três espécies de habilitação: a Classe 1, a Classe 2 e a provisória.",
+        "explanation": "É o Kyosoku, Capítulo 4, Seção 2, item 1. As três se dividem pela finalidade e pelo contexto da condução."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-2-005",
+    "category": "運転免許の仕組み",
+    "kp": "4-2-1",
+    "group": "F",
+    "source": "教則 第4章第2節1(2)",
+    "question_type": "text",
+    "qf": "QF-4-2-1-A-N-02",
+    "question_ja": "第二種運転免許は、乗合バスやタクシーなどの旅客自動車を旅客運送のために運転しようとする場合の免許である。",
+    "answer": true,
+    "explanation_ja": "教則第4章第2節1(2)のとおりです。代行運転自動車である普通自動車を運転しようとする場合も同じです。",
+    "i18n": {
+      "zh": {
+        "question": "第二种驾驶证是为旅客运送而驾驶公交车、出租车等旅客汽车时所需的驾照。",
+        "explanation": "符合教则第4章第2节1(2)的规定。驾驶属于代驾用车的普通汽车时也一样。"
+      },
+      "en": {
+        "question": "A Class 2 driver's licence is the licence for driving a passenger vehicle such as a bus or a taxi in order to carry passengers.",
+        "explanation": "This is Kyosoku Chapter 4 Section 2 item 1(2). The same goes for driving an ordinary car used as a substitute-driving vehicle."
+      },
+      "vi": {
+        "question": "Bằng lái xe hạng 2 là bằng dùng để lái phương tiện chở khách như xe buýt hay taxi nhằm vận chuyển hành khách.",
+        "explanation": "Đúng theo Kyosoku Chương 4 Mục 2 điểm 1(2). Điều tương tự áp dụng khi lái ô tô thông thường dùng làm xe lái thay."
+      },
+      "pt": {
+        "question": "A habilitação de Classe 2 é a exigida para conduzir veículo de passageiros, como ônibus ou táxi, no transporte de passageiros.",
+        "explanation": "É o Kyosoku, Capítulo 4, Seção 2, item 1(2). O mesmo vale para conduzir automóvel comum usado como veículo de condução por terceiros."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-2-006",
+    "category": "運転免許の仕組み",
+    "kp": "4-2-1",
+    "group": "F",
+    "source": "教則 第4章第2節1(1)",
+    "question_type": "text",
+    "qf": "QF-4-2-1-A-N-03",
+    "question_ja": "第一種運転免許は、第二種運転免許が必要な場合を除き、自動車や一般原動機付自転車を運転しようとする場合の免許である。",
+    "answer": true,
+    "explanation_ja": "教則第4章第2節1(1)のとおりです。ふだん自分の車を運転するのは第一種免許で足ります。",
+    "i18n": {
+      "zh": {
+        "question": "第一种驾驶证是除需要第二种驾驶证的情况以外，驾驶汽车或一般轻型摩托车时所需的驾照。",
+        "explanation": "符合教则第4章第2节1(1)的规定。平时驾驶自己的车有第一种驾照即可。"
+      },
+      "en": {
+        "question": "A Class 1 driver's licence is the licence for driving a car or a general motorized bicycle (moped), except where a Class 2 licence is required.",
+        "explanation": "This is Kyosoku Chapter 4 Section 2 item 1(1). Driving your own car day to day needs only a Class 1 licence."
+      },
+      "vi": {
+        "question": "Bằng lái xe hạng 1 là bằng dùng để lái ô tô hoặc xe gắn máy (原付), trừ những trường hợp cần bằng hạng 2.",
+        "explanation": "Đúng theo Kyosoku Chương 4 Mục 2 điểm 1(1). Lái xe riêng hằng ngày chỉ cần bằng hạng 1."
+      },
+      "pt": {
+        "question": "A habilitação de Classe 1 é a exigida para conduzir automóvel ou ciclomotor, salvo nos casos em que a de Classe 2 é necessária.",
+        "explanation": "É o Kyosoku, Capítulo 4, Seção 2, item 1(1). Dirigir o próprio carro no dia a dia exige apenas a Classe 1."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-2-007",
+    "category": "仮運転免許",
+    "kp": "4-2-1",
+    "group": "F",
+    "source": "教則 第4章第2節1(3)",
+    "question_type": "text",
+    "qf": "QF-4-2-1-A-N-04",
+    "question_ja": "仮運転免許は、第一種免許を受けようとする者が、練習などのために大型自動車、中型自動車、準中型自動車又は普通自動車を運転しようとする場合の免許である。",
+    "answer": true,
+    "explanation_ja": "教則第4章第2節1(3)のとおりです。二輪車や原動機付自転車には仮運転免許はありません。",
+    "i18n": {
+      "zh": {
+        "question": "临时驾驶证是准备取得第一种驾照的人为练习等目的驾驶大型汽车、中型汽车、准中型汽车或普通汽车时所需的驾照。",
+        "explanation": "符合教则第4章第2节1(3)的规定。摩托车和轻型摩托车没有临时驾驶证。"
+      },
+      "en": {
+        "question": "A provisional licence is the licence for someone seeking a Class 1 licence to drive a large, medium, semi-medium or ordinary car for practice and similar purposes.",
+        "explanation": "This is Kyosoku Chapter 4 Section 2 item 1(3). There is no provisional licence for motorcycles or mopeds."
+      },
+      "vi": {
+        "question": "Bằng tạm là bằng dành cho người đang xin bằng hạng 1 để lái xe cỡ lớn, cỡ trung, cỡ bán trung hoặc xe thông thường nhằm mục đích tập lái và tương tự.",
+        "explanation": "Đúng theo Kyosoku Chương 4 Mục 2 điểm 1(3). Không có bằng tạm cho xe mô tô hay xe gắn máy."
+      },
+      "pt": {
+        "question": "A habilitação provisória é a de quem busca a Classe 1 para conduzir veículo grande, médio, semimédio ou comum em treinamento e situações semelhantes.",
+        "explanation": "É o Kyosoku, Capítulo 4, Seção 2, item 1(3). Não existe habilitação provisória para motocicletas ou ciclomotores."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-2-008",
+    "category": "仮運転免許",
+    "kp": "4-2-1",
+    "group": "F",
+    "source": "教則 第4章第2節1(3)",
+    "question_type": "text",
+    "qf": "QF-4-2-1-A-N-05",
+    "question_ja": "仮運転免許を受けた者が練習のため普通自動車を運転するときは、その車を運転することのできる第一種免許を3年以上受けている者や第二種免許を受けている者などを横に乗せ、その指導を受けながら運転しなければならない。",
+    "answer": true,
+    "explanation_ja": "教則第4章第2節1(3)のとおりです。指導者の資格は、免許の種類と年数で決まります。",
+    "i18n": {
+      "zh": {
+        "question": "取得临时驾驶证的人为练习而驾驶普通汽车时，必须让持有能驾驶该车的第一种驾照满3年以上的人或持有第二种驾照的人等坐在旁边，在其指导下驾驶。",
+        "explanation": "符合教则第4章第2节1(3)的规定。指导者的资格由驾照种类和年数决定。"
+      },
+      "en": {
+        "question": "Someone with a provisional licence practising in an ordinary car must have beside them a person who has held a Class 1 licence for that vehicle for three years or more, or who holds a Class 2 licence, and drive under their instruction.",
+        "explanation": "This is Kyosoku Chapter 4 Section 2 item 1(3). The instructor's standing is set by the class of licence and the number of years held."
+      },
+      "vi": {
+        "question": "Người có bằng tạm khi tập lái ô tô thông thường phải có bên cạnh một người đã giữ bằng hạng 1 cho loại xe đó từ ba năm trở lên, hoặc có bằng hạng 2, và lái dưới sự hướng dẫn của người đó.",
+        "explanation": "Đúng theo Kyosoku Chương 4 Mục 2 điểm 1(3). Tư cách người hướng dẫn được xác định theo hạng bằng và số năm giữ bằng."
+      },
+      "pt": {
+        "question": "Quem tem habilitação provisória e treina em automóvel comum deve levar ao lado alguém com Classe 1 daquele veículo há três anos ou mais, ou com Classe 2, e dirigir sob sua orientação.",
+        "explanation": "É o Kyosoku, Capítulo 4, Seção 2, item 1(3). A qualificação do instrutor é definida pela categoria e pelo tempo de habilitação."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-2-009",
+    "category": "仮運転免許",
+    "kp": "4-2-1",
+    "group": "F",
+    "source": "教則 第4章第2節1(3)",
+    "question_type": "text",
+    "qf": "QF-4-2-1-A-N-06",
+    "question_ja": "仮運転免許で練習のため運転するときは、車の前と後ろの定められた位置に仮免許練習標識を付けなければならない。",
+    "answer": true,
+    "explanation_ja": "教則第4章第2節1(3)のとおりです。指導者を横に乗せることと合わせて、両方が必要です。",
+    "i18n": {
+      "zh": {
+        "question": "持临时驾驶证为练习而驾驶时，必须在车辆前后规定位置张贴临时驾照练习标志。",
+        "explanation": "符合教则第4章第2节1(3)的规定。这与让指导者坐在旁边是两项都必须满足的要求。"
+      },
+      "en": {
+        "question": "When practising on a provisional licence you must display the provisional-licence practice sign at the set positions on the front and the rear of the car.",
+        "explanation": "This is Kyosoku Chapter 4 Section 2 item 1(3). Both this and having an instructor beside you are required."
+      },
+      "vi": {
+        "question": "Khi tập lái với bằng tạm, bạn phải gắn biển tập lái bằng tạm ở vị trí quy định phía trước và phía sau xe.",
+        "explanation": "Đúng theo Kyosoku Chương 4 Mục 2 điểm 1(3). Cả việc này lẫn việc có người hướng dẫn ngồi cạnh đều bắt buộc."
+      },
+      "pt": {
+        "question": "Ao treinar com habilitação provisória você deve exibir a placa de treinamento nas posições determinadas à frente e atrás do carro.",
+        "explanation": "É o Kyosoku, Capítulo 4, Seção 2, item 1(3). Tanto isso quanto levar um instrutor ao lado são exigidos."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-2-010",
+    "category": "運転免許の仕組み",
+    "kp": "4-2-1",
+    "group": "F",
+    "source": "教則 第4章第2節1(2)",
+    "question_type": "text",
+    "qf": "QF-4-2-1-A-N-07",
+    "question_ja": "自動車運転代行業に従事する運転者が客に代わって運転する普通自動車を運転しようとする場合には、第二種運転免許が必要である。",
+    "answer": true,
+    "explanation_ja": "教則第4章第2節1(2)のとおりです。旅客自動車でなくても、代行運転自動車は第二種免許の対象です。",
+    "i18n": {
+      "zh": {
+        "question": "从事汽车代驾业的驾驶员代替客人驾驶普通汽车时，需要第二种驾驶证。",
+        "explanation": "符合教则第4章第2节1(2)的规定。即使不是旅客汽车，代驾用车也属于第二种驾照的对象。"
+      },
+      "en": {
+        "question": "A driver working in the substitute-driving business who drives a customer's ordinary car on their behalf needs a Class 2 driver's licence.",
+        "explanation": "This is Kyosoku Chapter 4 Section 2 item 1(2). A substitute-driving vehicle falls under Class 2 even though it is not a passenger vehicle."
+      },
+      "vi": {
+        "question": "Người lái thuộc dịch vụ lái xe thay, khi lái ô tô thông thường thay cho khách, cần có bằng lái hạng 2.",
+        "explanation": "Đúng theo Kyosoku Chương 4 Mục 2 điểm 1(2). Xe lái thay thuộc diện bằng hạng 2 dù không phải xe chở khách."
+      },
+      "pt": {
+        "question": "O motorista do serviço de condução por terceiros que dirige o automóvel comum do cliente em seu lugar precisa de habilitação de Classe 2.",
+        "explanation": "É o Kyosoku, Capítulo 4, Seção 2, item 1(2). O veículo de condução por terceiros entra na Classe 2 embora não seja veículo de passageiros."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-2-011",
+    "category": "運転免許の仕組み",
+    "kp": "4-2",
+    "group": "F",
+    "source": "教則 第4章第2節",
+    "question_type": "text",
+    "qf": "QF-4-2-D-EI-01",
+    "question_ja": "免許証を自宅に保管していても、免許を受けてさえいれば自動車を運転することができる。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第4章第2節により、運転するときは免許証を携帯しなければなりません。",
+    "i18n": {
+      "zh": {
+        "question": "即使把驾驶证保管在家，只要取得了驾照就可以驾驶汽车。",
+        "explanation": "错误。根据教则第4章第2节，驾驶时必须随身携带驾驶证。"
+      },
+      "en": {
+        "question": "As long as you hold a licence you may drive even with the licence itself left at home.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 4 Section 2 you must carry the licence with you when driving."
+      },
+      "vi": {
+        "question": "Chỉ cần bạn có bằng lái là được lái xe, dù để bằng ở nhà.",
+        "explanation": "Sai. Theo Kyosoku Chương 4 Mục 2, khi lái xe bạn phải mang bằng theo người."
+      },
+      "pt": {
+        "question": "Desde que você seja habilitado, pode dirigir mesmo com a habilitação deixada em casa.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 4, Seção 2, você deve portar a habilitação ao dirigir."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-2-012",
+    "category": "仮運転免許",
+    "kp": "4-2-1",
+    "group": "F",
+    "source": "教則 第4章第2節1(3)",
+    "question_type": "text",
+    "qf": "QF-4-2-1-D-NU-01",
+    "question_ja": "仮運転免許で練習のため普通自動車を運転するときに横に乗せる指導者は、その車を運転することのできる第一種免許を1年以上受けている者でよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第4章第2節1(3)により、第一種免許であれば3年以上受けている者でなければなりません。",
+    "i18n": {
+      "zh": {
+        "question": "持临时驾驶证为练习而驾驶普通汽车时，坐在旁边的指导者只要持有能驾驶该车的第一种驾照满1年以上即可。",
+        "explanation": "错误。根据教则第4章第2节1(3)，若是第一种驾照，必须持有满3年以上。"
+      },
+      "en": {
+        "question": "The instructor sitting beside a provisional-licence holder practising in an ordinary car need only have held a Class 1 licence for that vehicle for one year or more.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 4 Section 2 item 1(3) a Class 1 holder must have held it for three years or more."
+      },
+      "vi": {
+        "question": "Người hướng dẫn ngồi cạnh người tập lái bằng tạm trên ô tô thông thường chỉ cần giữ bằng hạng 1 cho loại xe đó từ một năm trở lên.",
+        "explanation": "Sai. Theo Kyosoku Chương 4 Mục 2 điểm 1(3), nếu là bằng hạng 1 thì phải giữ từ ba năm trở lên."
+      },
+      "pt": {
+        "question": "O instrutor ao lado de quem treina com habilitação provisória em automóvel comum basta ter Classe 1 daquele veículo há um ano ou mais.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 4, Seção 2, item 1(3), no caso da Classe 1 são exigidos três anos ou mais."
+      }
+    },
+    "trap_type": "NU",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-2-013",
+    "category": "運転免許の仕組み",
+    "kp": "4-2",
+    "group": "F",
+    "source": "教則 第4章第2節",
+    "question_type": "text",
+    "qf": "QF-4-2-D-EI-02",
+    "question_ja": "免許の停止処分を受けている期間中でも、買い物など日常生活に必要な範囲であれば運転してよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第4章第2節により、免許の停止処分中の者はその期間運転することができません。",
+    "i18n": {
+      "zh": {
+        "question": "即使在受到驾照停止处分的期间内，只要是购物等日常生活所需的范围，也可以驾驶。",
+        "explanation": "错误。根据教则第4章第2节，受驾照停止处分的人在该期间内不能驾驶。"
+      },
+      "en": {
+        "question": "Even while your licence is suspended you may drive for everyday needs such as shopping.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 4 Section 2 a person under suspension may not drive during that period."
+      },
+      "vi": {
+        "question": "Ngay trong thời gian bằng bị đình chỉ, bạn vẫn được lái xe cho những nhu cầu hằng ngày như đi mua sắm.",
+        "explanation": "Sai. Theo Kyosoku Chương 4 Mục 2, người đang bị đình chỉ không được lái xe trong thời gian đó."
+      },
+      "pt": {
+        "question": "Mesmo com a habilitação suspensa você pode dirigir para necessidades do dia a dia, como fazer compras.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 4, Seção 2, quem está com a habilitação suspensa não pode dirigir nesse período."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-2-014",
+    "category": "運転免許の仕組み",
+    "kp": "4-2-1",
+    "group": "F",
+    "source": "教則 第4章第2節1(2)",
+    "question_type": "text",
+    "qf": "QF-4-2-1-D-SW-01",
+    "question_ja": "タクシーを旅客運送のために運転するには、第一種運転免許があればよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第4章第2節1(2)により、旅客自動車を旅客運送のために運転する場合は第二種運転免許が必要です。",
+    "i18n": {
+      "zh": {
+        "question": "为旅客运送而驾驶出租车，有第一种驾驶证就可以。",
+        "explanation": "错误。根据教则第4章第2节1(2)，为旅客运送而驾驶旅客汽车时需要第二种驾驶证。"
+      },
+      "en": {
+        "question": "A Class 1 driver's licence is enough to drive a taxi carrying passengers.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 4 Section 2 item 1(2) driving a passenger vehicle to carry passengers requires a Class 2 licence."
+      },
+      "vi": {
+        "question": "Bằng lái hạng 1 là đủ để lái taxi chở khách.",
+        "explanation": "Sai. Theo Kyosoku Chương 4 Mục 2 điểm 1(2), lái phương tiện chở khách để vận chuyển hành khách cần bằng hạng 2."
+      },
+      "pt": {
+        "question": "A habilitação de Classe 1 basta para dirigir um táxi transportando passageiros.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 4, Seção 2, item 1(2), conduzir veículo de passageiros no transporte de passageiros exige a Classe 2."
+      }
+    },
+    "trap_type": "SW",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-2-015",
+    "category": "仮運転免許",
+    "kp": "4-2-1",
+    "group": "F",
+    "source": "教則 第4章第2節1(3)",
+    "question_type": "text",
+    "qf": "QF-4-2-1-D-NR-01",
+    "question_ja": "仮運転免許で練習するときは、資格のある指導者を横に乗せていれば、仮免許練習標識は付けなくてよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第4章第2節1(3)により、車の前と後ろの定められた位置に仮免許練習標識を付けなければなりません。",
+    "i18n": {
+      "zh": {
+        "question": "持临时驾驶证练习时，只要让有资格的指导者坐在旁边，就可以不贴临时驾照练习标志。",
+        "explanation": "错误。根据教则第4章第2节1(3)，必须在车辆前后规定位置张贴临时驾照练习标志。"
+      },
+      "en": {
+        "question": "When practising on a provisional licence you need not display the practice sign as long as a qualified instructor is sitting beside you.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 4 Section 2 item 1(3) the practice sign must be displayed at the set positions on the front and the rear."
+      },
+      "vi": {
+        "question": "Khi tập lái với bằng tạm, bạn không cần gắn biển tập lái miễn là có người hướng dẫn đủ tư cách ngồi cạnh.",
+        "explanation": "Sai. Theo Kyosoku Chương 4 Mục 2 điểm 1(3), biển tập lái phải được gắn ở vị trí quy định phía trước và phía sau."
+      },
+      "pt": {
+        "question": "Ao treinar com habilitação provisória não é preciso exibir a placa de treinamento desde que um instrutor qualificado esteja ao seu lado.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 4, Seção 2, item 1(3), a placa deve ser exibida nas posições determinadas à frente e atrás."
+      }
+    },
+    "trap_type": "NR",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-2-016",
+    "category": "運転免許の仕組み",
+    "kp": "4-2-1",
+    "group": "F",
+    "source": "教則 第4章第2節1(2)",
+    "question_type": "text",
+    "qf": "QF-4-2-1-D-EI-01",
+    "question_ja": "代行運転自動車である普通自動車は、普通免許だけで運転することができる。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第4章第2節1(2)により、代行運転自動車である普通自動車を運転しようとする場合は第二種運転免許が必要です。",
+    "i18n": {
+      "zh": {
+        "question": "属于代驾用车的普通汽车，只用普通驾照就可以驾驶。",
+        "explanation": "错误。根据教则第4章第2节1(2)，驾驶属于代驾用车的普通汽车时需要第二种驾驶证。"
+      },
+      "en": {
+        "question": "An ordinary car used as a substitute-driving vehicle may be driven on an ordinary licence alone.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 4 Section 2 item 1(2) driving an ordinary car as a substitute-driving vehicle requires a Class 2 licence."
+      },
+      "vi": {
+        "question": "Ô tô thông thường dùng làm xe lái thay có thể được lái chỉ với bằng hạng thường.",
+        "explanation": "Sai. Theo Kyosoku Chương 4 Mục 2 điểm 1(2), lái ô tô thông thường làm xe lái thay cần bằng hạng 2."
+      },
+      "pt": {
+        "question": "O automóvel comum usado como veículo de condução por terceiros pode ser dirigido apenas com habilitação comum.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 4, Seção 2, item 1(2), conduzir automóvel comum como veículo de condução por terceiros exige a Classe 2."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-2-017",
+    "category": "仮運転免許",
+    "kp": "4-2-1",
+    "group": "F",
+    "source": "教則 第4章第2節1(3)",
+    "question_type": "text",
+    "qf": "QF-4-2-1-D-SW-02",
+    "question_ja": "仮運転免許は、第二種運転免許を受けようとする者が練習のために受ける免許である。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第4章第2節1(3)により、仮運転免許は第一種免許を受けようとする者のための免許です。",
+    "i18n": {
+      "zh": {
+        "question": "临时驾驶证是准备取得第二种驾驶证的人为练习而取得的驾照。",
+        "explanation": "错误。根据教则第4章第2节1(3)，临时驾驶证是为准备取得第一种驾照的人设立的。"
+      },
+      "en": {
+        "question": "A provisional licence is what someone seeking a Class 2 driver's licence obtains in order to practise.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 4 Section 2 item 1(3) the provisional licence is for someone seeking a Class 1 licence."
+      },
+      "vi": {
+        "question": "Bằng tạm là bằng mà người đang xin bằng hạng 2 lấy để tập lái.",
+        "explanation": "Sai. Theo Kyosoku Chương 4 Mục 2 điểm 1(3), bằng tạm dành cho người đang xin bằng hạng 1."
+      },
+      "pt": {
+        "question": "A habilitação provisória é a que obtém quem busca a Classe 2 para poder treinar.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 4, Seção 2, item 1(3), a provisória é para quem busca a Classe 1."
+      }
+    },
+    "trap_type": "SW",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-2-018",
+    "category": "仮運転免許",
+    "kp": "4-2-1",
+    "group": "F",
+    "source": "教則 第4章第2節1(3)",
+    "question_type": "text",
+    "qf": "QF-4-2-1-D-EI-02",
+    "question_ja": "仮運転免許での練習中、横に乗っている指導者は、同乗してさえいれば眠っていても差し支えない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第4章第2節1(3)は、指導者を横に乗せてその指導を受けながら運転することを求めています。",
+    "i18n": {
+      "zh": {
+        "question": "持临时驾驶证练习期间，坐在旁边的指导者只要同乘着，即使睡着了也没有关系。",
+        "explanation": "错误。教则第4章第2节1(3)要求让指导者坐在旁边并在其指导下驾驶。"
+      },
+      "en": {
+        "question": "While practising on a provisional licence it does not matter if the instructor beside you is asleep, so long as they are in the car.",
+        "explanation": "This is wrong. Kyosoku Chapter 4 Section 2 item 1(3) requires you to drive under the instruction of the person sitting beside you."
+      },
+      "vi": {
+        "question": "Khi tập lái với bằng tạm, người hướng dẫn ngồi cạnh có ngủ cũng không sao, miễn là họ có mặt trên xe.",
+        "explanation": "Sai. Kyosoku Chương 4 Mục 2 điểm 1(3) yêu cầu bạn lái dưới sự hướng dẫn của người ngồi bên cạnh."
+      },
+      "pt": {
+        "question": "Durante o treinamento com habilitação provisória não importa se o instrutor ao lado estiver dormindo, desde que esteja no carro.",
+        "explanation": "Está errado. O Kyosoku, Capítulo 4, Seção 2, item 1(3), exige que você dirija sob a orientação de quem está ao seu lado."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-2-019",
+    "category": "運転免許の仕組み",
+    "kp": "4-2",
+    "group": "F",
+    "source": "教則 第4章第2節",
+    "question_type": "text",
+    "qf": "QF-4-2-D-SC-01",
+    "question_ja": "出掛けてから免許証を家に忘れたことに気づいたが、近所を走るだけだったので、そのまま運転を続けた。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第4章第2節により、運転するときは免許証を携帯しなければなりません。",
+    "i18n": {
+      "zh": {
+        "question": "出门后发现把驾驶证忘在家里了，但因为只是在附近行驶，就继续驾驶了。",
+        "explanation": "错误。根据教则第4章第2节，驾驶时必须随身携带驾驶证。"
+      },
+      "en": {
+        "question": "After setting off you realised you had left your licence at home, but carried on because you were only driving locally.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 4 Section 2 you must carry your licence with you when driving."
+      },
+      "vi": {
+        "question": "Sau khi khởi hành bạn nhận ra đã để quên bằng lái ở nhà, nhưng vẫn đi tiếp vì chỉ chạy quanh khu vực gần.",
+        "explanation": "Sai. Theo Kyosoku Chương 4 Mục 2, khi lái xe bạn phải mang bằng theo người."
+      },
+      "pt": {
+        "question": "Depois de sair você percebeu que esquecera a habilitação em casa, mas seguiu dirigindo porque era só nas redondezas.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 4, Seção 2, você deve portar a habilitação ao dirigir."
+      }
+    },
+    "trap_type": "SC",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-2-020",
+    "category": "運転免許の仕組み",
+    "kp": "4-2-1",
+    "group": "F",
+    "source": "教則 第4章第2節1",
+    "question_type": "text",
+    "qf": "QF-4-2-1-D-NR-02",
+    "question_ja": "運転免許の区分は、第一種運転免許と第二種運転免許の二種である。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第4章第2節1により、このほかに仮運転免許があり、三種に分かれます。",
+    "i18n": {
+      "zh": {
+        "question": "驾驶证的区分是第一种驾驶证和第二种驾驶证两种。",
+        "explanation": "错误。根据教则第4章第2节1，除此之外还有临时驾驶证，共分三种。"
+      },
+      "en": {
+        "question": "Driver's licences fall into two kinds, Class 1 and Class 2.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 4 Section 2 item 1 there is also the provisional licence, making three kinds."
+      },
+      "vi": {
+        "question": "Bằng lái xe chia thành hai loại: hạng 1 và hạng 2.",
+        "explanation": "Sai. Theo Kyosoku Chương 4 Mục 2 điểm 1, còn có bằng tạm nữa, thành ba loại."
+      },
+      "pt": {
+        "question": "As habilitações se dividem em duas espécies: Classe 1 e Classe 2.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 4, Seção 2, item 1, existe ainda a provisória, totalizando três."
+      }
+    },
+    "trap_type": "NR",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  }
+]

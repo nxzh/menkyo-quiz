@@ -1,0 +1,662 @@
+[
+  {
+    "id": "K4-2-021",
+    "category": "運転できる車",
+    "kp": "4-2-2",
+    "group": "F",
+    "source": "教則 第4章第2節2",
+    "question_type": "text",
+    "qf": "QF-4-2-2-A-N-01",
+    "question_ja": "普通免許で運転できるのは、普通自動車、小型特殊自動車、一般原動機付自転車である。",
+    "answer": true,
+    "explanation_ja": "教則第4章第2節2の表のとおりです。準中型自動車は普通免許では運転できません。",
+    "i18n": {
+      "zh": {
+        "question": "用普通驾照能驾驶的是普通汽车、小型特殊汽车、一般轻型摩托车。",
+        "explanation": "符合教则第4章第2节2的表格。准中型汽车用普通驾照不能驾驶。"
+      },
+      "en": {
+        "question": "An ordinary licence covers ordinary cars, small special vehicles and general motorized bicycles (mopeds).",
+        "explanation": "This is the table in Kyosoku Chapter 4 Section 2 item 2. A semi-medium vehicle is not covered by an ordinary licence."
+      },
+      "vi": {
+        "question": "Bằng hạng thường cho phép lái ô tô thông thường, xe chuyên dùng cỡ nhỏ và xe gắn máy (原付).",
+        "explanation": "Đúng theo bảng ở Kyosoku Chương 4 Mục 2 điểm 2. Xe cỡ bán trung không nằm trong phạm vi của bằng hạng thường."
+      },
+      "pt": {
+        "question": "A habilitação comum abrange automóveis comuns, veículos especiais pequenos e ciclomotores.",
+        "explanation": "É a tabela do Kyosoku, Capítulo 4, Seção 2, item 2. O veículo semimédio não está coberto pela habilitação comum."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-2-022",
+    "category": "運転できる車",
+    "kp": "4-2-2",
+    "group": "F",
+    "source": "教則 第4章第2節2",
+    "question_type": "text",
+    "qf": "QF-4-2-2-A-N-02",
+    "question_ja": "大型免許を受けていれば、大型自動車のほか、中型自動車、準中型自動車、普通自動車、小型特殊自動車、一般原動機付自転車を運転することができる。",
+    "answer": true,
+    "explanation_ja": "教則第4章第2節2の表のとおりです。二輪の自動車は、大型免許では運転できません。",
+    "i18n": {
+      "zh": {
+        "question": "持有大型驾照的，除大型汽车外，还可以驾驶中型汽车、准中型汽车、普通汽车、小型特殊汽车、一般轻型摩托车。",
+        "explanation": "符合教则第4章第2节2的表格。摩托车用大型驾照不能驾驶。"
+      },
+      "en": {
+        "question": "A large-vehicle licence covers large, medium, semi-medium and ordinary cars as well as small special vehicles and general motorized bicycles (mopeds).",
+        "explanation": "This is the table in Kyosoku Chapter 4 Section 2 item 2. Motorcycles are not covered by a large-vehicle licence."
+      },
+      "vi": {
+        "question": "Bằng hạng xe cỡ lớn cho phép lái xe cỡ lớn, cỡ trung, cỡ bán trung và xe thông thường, cùng xe chuyên dùng cỡ nhỏ và xe gắn máy (原付).",
+        "explanation": "Đúng theo bảng ở Kyosoku Chương 4 Mục 2 điểm 2. Xe mô tô không nằm trong phạm vi bằng hạng xe cỡ lớn."
+      },
+      "pt": {
+        "question": "A habilitação para veículos grandes abrange veículos grandes, médios, semimédios e comuns, além de veículos especiais pequenos e ciclomotores.",
+        "explanation": "É a tabela do Kyosoku, Capítulo 4, Seção 2, item 2. Motocicletas não estão cobertas por ela."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-2-023",
+    "category": "運転できる車",
+    "kp": "4-2-2",
+    "group": "F",
+    "source": "教則 第4章第2節2",
+    "question_type": "text",
+    "qf": "QF-4-2-2-A-N-03",
+    "question_ja": "大型二輪免許で運転できるのは、大型自動二輪車、普通自動二輪車、小型特殊自動車、一般原動機付自転車である。",
+    "answer": true,
+    "explanation_ja": "教則第4章第2節2の表のとおりです。二輪免許では、普通自動車を運転することはできません。",
+    "i18n": {
+      "zh": {
+        "question": "用大型二轮驾照能驾驶的是大型摩托车、普通摩托车、小型特殊汽车、一般轻型摩托车。",
+        "explanation": "符合教则第4章第2节2的表格。二轮驾照不能驾驶普通汽车。"
+      },
+      "en": {
+        "question": "A large motorcycle licence covers large and ordinary motorcycles, small special vehicles and general motorized bicycles (mopeds).",
+        "explanation": "This is the table in Kyosoku Chapter 4 Section 2 item 2. A motorcycle licence does not let you drive an ordinary car."
+      },
+      "vi": {
+        "question": "Bằng mô tô hạng lớn cho phép lái xe mô tô cỡ lớn và cỡ thường, xe chuyên dùng cỡ nhỏ và xe gắn máy (原付).",
+        "explanation": "Đúng theo bảng ở Kyosoku Chương 4 Mục 2 điểm 2. Bằng mô tô không cho phép lái ô tô thông thường."
+      },
+      "pt": {
+        "question": "A habilitação para motocicletas grandes abrange motocicletas grandes e comuns, veículos especiais pequenos e ciclomotores.",
+        "explanation": "É a tabela do Kyosoku, Capítulo 4, Seção 2, item 2. A habilitação de motocicleta não permite conduzir automóvel comum."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-2-024",
+    "category": "運転できる車",
+    "kp": "4-2-2",
+    "group": "F",
+    "source": "教則 第4章第2節2",
+    "question_type": "text",
+    "qf": "QF-4-2-2-A-N-04",
+    "question_ja": "小型特殊免許で運転できるのは、小型特殊自動車だけである。",
+    "answer": true,
+    "explanation_ja": "教則第4章第2節2の表のとおりです。一般原動機付自転車は、小型特殊免許では運転できません。",
+    "i18n": {
+      "zh": {
+        "question": "用小型特殊驾照能驾驶的只有小型特殊汽车。",
+        "explanation": "符合教则第4章第2节2的表格。一般轻型摩托车用小型特殊驾照不能驾驶。"
+      },
+      "en": {
+        "question": "A small special vehicle licence covers only small special vehicles.",
+        "explanation": "This is the table in Kyosoku Chapter 4 Section 2 item 2. A general motorized bicycle (moped) is not covered by it."
+      },
+      "vi": {
+        "question": "Bằng xe chuyên dùng cỡ nhỏ chỉ cho phép lái xe chuyên dùng cỡ nhỏ.",
+        "explanation": "Đúng theo bảng ở Kyosoku Chương 4 Mục 2 điểm 2. Xe gắn máy (原付) không nằm trong phạm vi của bằng này."
+      },
+      "pt": {
+        "question": "A habilitação de veículo especial pequeno cobre apenas veículos especiais pequenos.",
+        "explanation": "É a tabela do Kyosoku, Capítulo 4, Seção 2, item 2. O ciclomotor não está incluído nela."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-2-025",
+    "category": "運転できる車",
+    "kp": "4-2-2",
+    "group": "F",
+    "source": "教則 第4章第2節2",
+    "question_type": "text",
+    "qf": "QF-4-2-2-A-N-05",
+    "question_ja": "原付免許で運転できるのは、一般原動機付自転車だけである。",
+    "answer": true,
+    "explanation_ja": "教則第4章第2節2の表のとおりです。小型特殊自動車は、原付免許では運転できません。",
+    "i18n": {
+      "zh": {
+        "question": "用轻型摩托车驾照能驾驶的只有一般轻型摩托车。",
+        "explanation": "符合教则第4章第2节2的表格。小型特殊汽车用轻型摩托车驾照不能驾驶。"
+      },
+      "en": {
+        "question": "A moped licence covers only general motorized bicycles (mopeds).",
+        "explanation": "This is the table in Kyosoku Chapter 4 Section 2 item 2. A small special vehicle is not covered by it."
+      },
+      "vi": {
+        "question": "Bằng xe gắn máy chỉ cho phép lái xe gắn máy (原付).",
+        "explanation": "Đúng theo bảng ở Kyosoku Chương 4 Mục 2 điểm 2. Xe chuyên dùng cỡ nhỏ không nằm trong phạm vi của bằng này."
+      },
+      "pt": {
+        "question": "A habilitação de ciclomotor cobre apenas ciclomotores.",
+        "explanation": "É a tabela do Kyosoku, Capítulo 4, Seção 2, item 2. O veículo especial pequeno não está incluído nela."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-2-026",
+    "category": "けん引免許",
+    "kp": "4-2-3",
+    "group": "F",
+    "source": "教則 第4章第2節3",
+    "question_type": "text",
+    "qf": "QF-4-2-3-A-N-01",
+    "question_ja": "普通自動車で他の車をけん引するときは、普通免許のほかにけん引免許が必要である。",
+    "answer": true,
+    "explanation_ja": "教則第4章第2節3のとおりです。総重量750キログラム以下の車をけん引するときなどは別です。",
+    "i18n": {
+      "zh": {
+        "question": "用普通汽车牵引其他车辆时，除普通驾照外还需要牵引驾照。",
+        "explanation": "符合教则第4章第2节3的规定。牵引总重量750公斤以下的车辆等情况除外。"
+      },
+      "en": {
+        "question": "To tow another vehicle with an ordinary car you need a towing licence in addition to the ordinary licence.",
+        "explanation": "This is Kyosoku Chapter 4 Section 2 item 3. Towing a vehicle of 750 kg gross weight or less is one of the exceptions."
+      },
+      "vi": {
+        "question": "Để kéo xe khác bằng ô tô thông thường, bạn cần bằng kéo xe ngoài bằng hạng thường.",
+        "explanation": "Đúng theo Kyosoku Chương 4 Mục 2 điểm 3. Kéo xe có tổng trọng lượng từ 750 kg trở xuống là một ngoại lệ."
+      },
+      "pt": {
+        "question": "Para rebocar outro veículo com um automóvel comum é preciso habilitação de reboque além da comum.",
+        "explanation": "É o Kyosoku, Capítulo 4, Seção 2, item 3. Rebocar veículo de até 750 kg de peso total é uma das exceções."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-2-027",
+    "category": "けん引免許",
+    "kp": "4-2-3",
+    "group": "F",
+    "source": "教則 第4章第2節3",
+    "question_type": "text",
+    "qf": "QF-4-2-3-A-N-02",
+    "question_ja": "車の総重量が750キログラム以下の車をけん引するときは、けん引免許はいらない。",
+    "answer": true,
+    "explanation_ja": "教則第4章第2節3のとおりです。総重量とは、人や荷物をのせた状態での車全体の重さをいいます。",
+    "i18n": {
+      "zh": {
+        "question": "牵引车辆总重量在750公斤以下的车辆时，不需要牵引驾照。",
+        "explanation": "符合教则第4章第2节3的规定。所谓总重量，是指载人载货状态下整车的重量。"
+      },
+      "en": {
+        "question": "No towing licence is needed to tow a vehicle whose gross weight is 750 kg or less.",
+        "explanation": "This is Kyosoku Chapter 4 Section 2 item 3. Gross weight means the weight of the whole vehicle with people and load aboard."
+      },
+      "vi": {
+        "question": "Không cần bằng kéo xe khi kéo xe có tổng trọng lượng từ 750 kg trở xuống.",
+        "explanation": "Đúng theo Kyosoku Chương 4 Mục 2 điểm 3. Tổng trọng lượng là trọng lượng toàn xe khi đã có người và hàng hóa."
+      },
+      "pt": {
+        "question": "Não é preciso habilitação de reboque para rebocar veículo cujo peso total seja de 750 kg ou menos.",
+        "explanation": "É o Kyosoku, Capítulo 4, Seção 2, item 3. Peso total é o peso do veículo inteiro com pessoas e carga."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-2-028",
+    "category": "けん引免許",
+    "kp": "4-2-3",
+    "group": "F",
+    "source": "教則 第4章第2節3",
+    "question_type": "text",
+    "qf": "QF-4-2-3-A-N-03",
+    "question_ja": "故障車をロープやクレーンなどでけん引するときは、けん引免許はいらない。",
+    "answer": true,
+    "explanation_ja": "教則第4章第2節3のとおりです。総重量750キログラム以下の車をけん引する場合と並ぶ例外です。",
+    "i18n": {
+      "zh": {
+        "question": "用绳索或起重机等牵引故障车时，不需要牵引驾照。",
+        "explanation": "符合教则第4章第2节3的规定。这与牵引总重量750公斤以下车辆的情况并列为例外。"
+      },
+      "en": {
+        "question": "No towing licence is needed to tow a broken-down vehicle with a rope, a crane or the like.",
+        "explanation": "This is Kyosoku Chapter 4 Section 2 item 3. It stands alongside the exception for vehicles of 750 kg gross weight or less."
+      },
+      "vi": {
+        "question": "Không cần bằng kéo xe khi kéo xe hỏng bằng dây cáp, cần cẩu hoặc thiết bị tương tự.",
+        "explanation": "Đúng theo Kyosoku Chương 4 Mục 2 điểm 3. Đây là ngoại lệ song song với trường hợp xe có tổng trọng lượng từ 750 kg trở xuống."
+      },
+      "pt": {
+        "question": "Não é preciso habilitação de reboque para rebocar veículo avariado com corda, guindaste ou semelhante.",
+        "explanation": "É o Kyosoku, Capítulo 4, Seção 2, item 3. É exceção ao lado da dos veículos de até 750 kg."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-2-029",
+    "category": "緊急自動車の運転資格",
+    "kp": "4-2-4",
+    "group": "F",
+    "source": "教則 第4章第2節4",
+    "question_type": "text",
+    "qf": "QF-4-2-4-A-N-01",
+    "question_ja": "緊急自動車を運転する場合には、その自動車の運転に必要な運転免許のほかに、運転経験年数や年齢についての特別の資格が必要である。",
+    "answer": true,
+    "explanation_ja": "教則第4章第2節4のとおりです。免許があればだれでも運転できるわけではありません。",
+    "i18n": {
+      "zh": {
+        "question": "驾驶紧急车辆时，除驾驶该车所需的驾照外，还需要关于驾驶经验年数和年龄的特别资格。",
+        "explanation": "符合教则第4章第2节4的规定。并不是有驾照就谁都能驾驶。"
+      },
+      "en": {
+        "question": "To drive an emergency vehicle you need, on top of the licence for that vehicle, special qualifications as to years of driving experience and age.",
+        "explanation": "This is Kyosoku Chapter 4 Section 2 item 4. Holding the licence alone does not make anyone eligible."
+      },
+      "vi": {
+        "question": "Để lái xe ưu tiên, ngoài bằng lái cho loại xe đó bạn còn cần tư cách đặc biệt về số năm kinh nghiệm lái và độ tuổi.",
+        "explanation": "Đúng theo Kyosoku Chương 4 Mục 2 điểm 4. Chỉ có bằng thôi thì chưa đủ điều kiện."
+      },
+      "pt": {
+        "question": "Para conduzir veículo de emergência é preciso, além da habilitação daquele veículo, qualificação especial quanto a anos de experiência e idade.",
+        "explanation": "É o Kyosoku, Capítulo 4, Seção 2, item 4. Ter a habilitação sozinho não habilita ninguém."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-2-030",
+    "category": "運転できる車",
+    "kp": "4-2-2",
+    "group": "F",
+    "source": "教則 第4章第2節2",
+    "question_type": "text",
+    "qf": "QF-4-2-2-A-N-06",
+    "question_ja": "大型特殊免許で運転できるのは、大型特殊自動車、小型特殊自動車、一般原動機付自転車である。",
+    "answer": true,
+    "explanation_ja": "教則第4章第2節2の表のとおりです。普通自動車は、大型特殊免許では運転できません。",
+    "i18n": {
+      "zh": {
+        "question": "用大型特殊驾照能驾驶的是大型特殊汽车、小型特殊汽车、一般轻型摩托车。",
+        "explanation": "符合教则第4章第2节2的表格。普通汽车用大型特殊驾照不能驾驶。"
+      },
+      "en": {
+        "question": "A large special vehicle licence covers large and small special vehicles and general motorized bicycles (mopeds).",
+        "explanation": "This is the table in Kyosoku Chapter 4 Section 2 item 2. An ordinary car is not covered by it."
+      },
+      "vi": {
+        "question": "Bằng xe chuyên dùng cỡ lớn cho phép lái xe chuyên dùng cỡ lớn và cỡ nhỏ cùng xe gắn máy (原付).",
+        "explanation": "Đúng theo bảng ở Kyosoku Chương 4 Mục 2 điểm 2. Ô tô thông thường không nằm trong phạm vi của bằng này."
+      },
+      "pt": {
+        "question": "A habilitação de veículo especial grande abrange veículos especiais grandes e pequenos e ciclomotores.",
+        "explanation": "É a tabela do Kyosoku, Capítulo 4, Seção 2, item 2. O automóvel comum não está incluído nela."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-2-031",
+    "category": "運転できる車",
+    "kp": "4-2-2",
+    "group": "F",
+    "source": "教則 第4章第2節2",
+    "question_type": "text",
+    "qf": "QF-4-2-2-D-EX-01",
+    "question_ja": "小型特殊免許を受けていれば、一般原動機付自転車も運転することができる。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第4章第2節2の表により、小型特殊免許で運転できるのは小型特殊自動車だけです。",
+    "i18n": {
+      "zh": {
+        "question": "持有小型特殊驾照的，也可以驾驶一般轻型摩托车。",
+        "explanation": "错误。根据教则第4章第2节2的表格，用小型特殊驾照能驾驶的只有小型特殊汽车。"
+      },
+      "en": {
+        "question": "A small special vehicle licence also lets you ride a general motorized bicycle (moped).",
+        "explanation": "This is wrong. Under the table in Kyosoku Chapter 4 Section 2 item 2 it covers small special vehicles only."
+      },
+      "vi": {
+        "question": "Bằng xe chuyên dùng cỡ nhỏ cũng cho phép bạn đi xe gắn máy (原付).",
+        "explanation": "Sai. Theo bảng ở Kyosoku Chương 4 Mục 2 điểm 2, bằng này chỉ cho phép lái xe chuyên dùng cỡ nhỏ."
+      },
+      "pt": {
+        "question": "A habilitação de veículo especial pequeno também permite conduzir ciclomotor.",
+        "explanation": "Está errado. Pela tabela do Kyosoku, Capítulo 4, Seção 2, item 2, ela cobre apenas veículos especiais pequenos."
+      }
+    },
+    "trap_type": "EX",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-2-032",
+    "category": "運転できる車",
+    "kp": "4-2-2",
+    "group": "F",
+    "source": "教則 第4章第2節2",
+    "question_type": "text",
+    "qf": "QF-4-2-2-D-EX-02",
+    "question_ja": "原付免許を受けていれば、小型特殊自動車も運転することができる。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第4章第2節2の表により、原付免許で運転できるのは一般原動機付自転車だけです。",
+    "i18n": {
+      "zh": {
+        "question": "持有轻型摩托车驾照的，也可以驾驶小型特殊汽车。",
+        "explanation": "错误。根据教则第4章第2节2的表格，用轻型摩托车驾照能驾驶的只有一般轻型摩托车。"
+      },
+      "en": {
+        "question": "A moped licence also lets you drive a small special vehicle.",
+        "explanation": "This is wrong. Under the table in Kyosoku Chapter 4 Section 2 item 2 it covers general motorized bicycles (mopeds) only."
+      },
+      "vi": {
+        "question": "Bằng xe gắn máy cũng cho phép bạn lái xe chuyên dùng cỡ nhỏ.",
+        "explanation": "Sai. Theo bảng ở Kyosoku Chương 4 Mục 2 điểm 2, bằng này chỉ cho phép lái xe gắn máy (原付)."
+      },
+      "pt": {
+        "question": "A habilitação de ciclomotor também permite conduzir veículo especial pequeno.",
+        "explanation": "Está errado. Pela tabela do Kyosoku, Capítulo 4, Seção 2, item 2, ela cobre apenas ciclomotores."
+      }
+    },
+    "trap_type": "EX",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-2-033",
+    "category": "運転できる車",
+    "kp": "4-2-2",
+    "group": "F",
+    "source": "教則 第4章第2節2",
+    "question_type": "text",
+    "qf": "QF-4-2-2-D-NR-01",
+    "question_ja": "準中型免許で運転できるのは、準中型自動車と普通自動車だけである。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第4章第2節2の表により、小型特殊自動車と一般原動機付自転車も運転することができます。",
+    "i18n": {
+      "zh": {
+        "question": "用准中型驾照能驾驶的只有准中型汽车和普通汽车。",
+        "explanation": "错误。根据教则第4章第2节2的表格，还可以驾驶小型特殊汽车和一般轻型摩托车。"
+      },
+      "en": {
+        "question": "A semi-medium licence covers semi-medium vehicles and ordinary cars only.",
+        "explanation": "This is wrong. Under the table in Kyosoku Chapter 4 Section 2 item 2 it also covers small special vehicles and general motorized bicycles (mopeds)."
+      },
+      "vi": {
+        "question": "Bằng hạng bán trung chỉ cho phép lái xe cỡ bán trung và ô tô thông thường.",
+        "explanation": "Sai. Theo bảng ở Kyosoku Chương 4 Mục 2 điểm 2, bằng này còn cho phép lái xe chuyên dùng cỡ nhỏ và xe gắn máy (原付)."
+      },
+      "pt": {
+        "question": "A habilitação semimédia cobre apenas veículos semimédios e automóveis comuns.",
+        "explanation": "Está errado. Pela tabela do Kyosoku, Capítulo 4, Seção 2, item 2, ela também cobre veículos especiais pequenos e ciclomotores."
+      }
+    },
+    "trap_type": "NR",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-2-034",
+    "category": "けん引免許",
+    "kp": "4-2-3",
+    "group": "F",
+    "source": "教則 第4章第2節3",
+    "question_type": "text",
+    "qf": "QF-4-2-3-D-NU-01",
+    "question_ja": "けん引免許がいらないのは、車の総重量が1000キログラム以下の車をけん引するときである。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第4章第2節3により、けん引免許がいらないのは総重量750キログラム以下の車をけん引するときです。",
+    "i18n": {
+      "zh": {
+        "question": "不需要牵引驾照的，是牵引车辆总重量在1000公斤以下的车辆时。",
+        "explanation": "错误。根据教则第4章第2节3，不需要牵引驾照的是牵引总重量750公斤以下车辆时。"
+      },
+      "en": {
+        "question": "No towing licence is needed when the towed vehicle's gross weight is 1,000 kg or less.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 4 Section 2 item 3 the threshold is a gross weight of 750 kg or less."
+      },
+      "vi": {
+        "question": "Không cần bằng kéo xe khi xe được kéo có tổng trọng lượng từ 1.000 kg trở xuống.",
+        "explanation": "Sai. Theo Kyosoku Chương 4 Mục 2 điểm 3, ngưỡng là tổng trọng lượng từ 750 kg trở xuống."
+      },
+      "pt": {
+        "question": "Não é preciso habilitação de reboque quando o veículo rebocado tem peso total de 1.000 kg ou menos.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 4, Seção 2, item 3, o limite é peso total de 750 kg ou menos."
+      }
+    },
+    "trap_type": "NU",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-2-035",
+    "category": "けん引免許",
+    "kp": "4-2-3",
+    "group": "F",
+    "source": "教則 第4章第2節3",
+    "question_type": "text",
+    "qf": "QF-4-2-3-D-EI-01",
+    "question_ja": "普通免許を受けていれば、けん引免許がなくても総重量が750キログラムを超える車をけん引することができる。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第4章第2節3により、この場合はけん引する自動車の種類に応じた免許のほかにけん引免許が必要です。",
+    "i18n": {
+      "zh": {
+        "question": "持有普通驾照的，即使没有牵引驾照也可以牵引总重量超过750公斤的车辆。",
+        "explanation": "错误。根据教则第4章第2节3，这种情况下除与牵引车辆种类相应的驾照外还需要牵引驾照。"
+      },
+      "en": {
+        "question": "With an ordinary licence you may tow a vehicle over 750 kg gross weight even without a towing licence.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 4 Section 2 item 3 a towing licence is needed in that case on top of the licence for the towing vehicle."
+      },
+      "vi": {
+        "question": "Với bằng hạng thường, bạn được kéo xe có tổng trọng lượng trên 750 kg ngay cả khi không có bằng kéo xe.",
+        "explanation": "Sai. Theo Kyosoku Chương 4 Mục 2 điểm 3, trường hợp đó cần bằng kéo xe ngoài bằng cho loại xe đang kéo."
+      },
+      "pt": {
+        "question": "Com habilitação comum você pode rebocar veículo acima de 750 kg de peso total mesmo sem habilitação de reboque.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 4, Seção 2, item 3, nesse caso é preciso a habilitação de reboque além da do veículo rebocador."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-2-036",
+    "category": "緊急自動車の運転資格",
+    "kp": "4-2-4",
+    "group": "F",
+    "source": "教則 第4章第2節4",
+    "question_type": "text",
+    "qf": "QF-4-2-4-D-EI-01",
+    "question_ja": "緊急自動車は、その自動車の運転に必要な運転免許を受けていれば、だれでも運転することができる。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第4章第2節4により、運転経験年数や年齢についての特別の資格も必要です。",
+    "i18n": {
+      "zh": {
+        "question": "紧急车辆只要取得了驾驶该车所需的驾照，谁都可以驾驶。",
+        "explanation": "错误。根据教则第4章第2节4，还需要关于驾驶经验年数和年龄的特别资格。"
+      },
+      "en": {
+        "question": "Anyone holding the licence for the vehicle may drive an emergency vehicle.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 4 Section 2 item 4 special qualifications as to driving experience and age are also required."
+      },
+      "vi": {
+        "question": "Bất kỳ ai có bằng lái cho loại xe đó đều được lái xe ưu tiên.",
+        "explanation": "Sai. Theo Kyosoku Chương 4 Mục 2 điểm 4, còn cần tư cách đặc biệt về kinh nghiệm lái và độ tuổi."
+      },
+      "pt": {
+        "question": "Qualquer pessoa habilitada para aquele veículo pode conduzir um veículo de emergência.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 4, Seção 2, item 4, também é exigida qualificação especial quanto a experiência e idade."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-2-037",
+    "category": "運転できる車",
+    "kp": "4-2-2",
+    "group": "F",
+    "source": "教則 第4章第2節2",
+    "question_type": "text",
+    "qf": "QF-4-2-2-D-EX-03",
+    "question_ja": "中型免許を受けていれば、大型自動車も運転することができる。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第4章第2節2の表により、中型免許で運転できるのは中型自動車、準中型自動車、普通自動車、小型特殊自動車、一般原動機付自転車です。",
+    "i18n": {
+      "zh": {
+        "question": "持有中型驾照的，也可以驾驶大型汽车。",
+        "explanation": "错误。根据教则第4章第2节2的表格，用中型驾照能驾驶的是中型汽车、准中型汽车、普通汽车、小型特殊汽车、一般轻型摩托车。"
+      },
+      "en": {
+        "question": "A medium-vehicle licence also lets you drive a large vehicle.",
+        "explanation": "This is wrong. Under the table in Kyosoku Chapter 4 Section 2 item 2 it covers medium, semi-medium and ordinary vehicles, small special vehicles and general motorized bicycles (mopeds)."
+      },
+      "vi": {
+        "question": "Bằng hạng xe cỡ trung cũng cho phép lái xe cỡ lớn.",
+        "explanation": "Sai. Theo bảng ở Kyosoku Chương 4 Mục 2 điểm 2, bằng này cho phép lái xe cỡ trung, cỡ bán trung, xe thông thường, xe chuyên dùng cỡ nhỏ và xe gắn máy (原付)."
+      },
+      "pt": {
+        "question": "A habilitação para veículos médios também permite conduzir veículo grande.",
+        "explanation": "Está errado. Pela tabela do Kyosoku, Capítulo 4, Seção 2, item 2, ela cobre veículos médios, semimédios e comuns, especiais pequenos e ciclomotores."
+      }
+    },
+    "trap_type": "EX",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-2-038",
+    "category": "けん引免許",
+    "kp": "4-2-3",
+    "group": "F",
+    "source": "教則 第4章第2節3",
+    "question_type": "text",
+    "qf": "QF-4-2-3-D-EO-01",
+    "question_ja": "他の車をけん引するときは、けん引する自動車の種類に応じた免許のほかに、常にけん引免許が必要である。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第4章第2節3により、総重量750キログラム以下の車をけん引するときや故障車をロープなどでけん引するときは、けん引免許はいりません。",
+    "i18n": {
+      "zh": {
+        "question": "牵引其他车辆时，除与牵引车辆种类相应的驾照外，任何时候都需要牵引驾照。",
+        "explanation": "错误。根据教则第4章第2节3，牵引总重量750公斤以下的车辆时，以及用绳索等牵引故障车时，不需要牵引驾照。"
+      },
+      "en": {
+        "question": "Towing another vehicle always requires a towing licence on top of the licence for the towing vehicle.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 4 Section 2 item 3 no towing licence is needed for a vehicle of 750 kg gross weight or less, or for a broken-down vehicle towed with a rope."
+      },
+      "vi": {
+        "question": "Kéo xe khác luôn cần bằng kéo xe ngoài bằng cho loại xe đang kéo.",
+        "explanation": "Sai. Theo Kyosoku Chương 4 Mục 2 điểm 3, không cần bằng kéo xe với xe có tổng trọng lượng từ 750 kg trở xuống hoặc khi kéo xe hỏng bằng dây cáp."
+      },
+      "pt": {
+        "question": "Rebocar outro veículo sempre exige habilitação de reboque além da do veículo rebocador.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 4, Seção 2, item 3, ela não é exigida para veículo de até 750 kg nem para veículo avariado rebocado com corda."
+      }
+    },
+    "trap_type": "EO",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-2-039",
+    "category": "運転できる車",
+    "kp": "4-2-2",
+    "group": "F",
+    "source": "教則 第4章第2節2",
+    "question_type": "text",
+    "qf": "QF-4-2-2-D-EI-01",
+    "question_ja": "普通二輪免許を受けていれば、大型自動二輪車も運転することができる。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第4章第2節2の表により、普通二輪免許で運転できるのは普通自動二輪車、小型特殊自動車、一般原動機付自転車です。",
+    "i18n": {
+      "zh": {
+        "question": "持有普通二轮驾照的，也可以驾驶大型摩托车。",
+        "explanation": "错误。根据教则第4章第2节2的表格，用普通二轮驾照能驾驶的是普通摩托车、小型特殊汽车、一般轻型摩托车。"
+      },
+      "en": {
+        "question": "An ordinary motorcycle licence also lets you ride a large motorcycle.",
+        "explanation": "This is wrong. Under the table in Kyosoku Chapter 4 Section 2 item 2 it covers ordinary motorcycles, small special vehicles and general motorized bicycles (mopeds)."
+      },
+      "vi": {
+        "question": "Bằng mô tô hạng thường cũng cho phép lái xe mô tô cỡ lớn.",
+        "explanation": "Sai. Theo bảng ở Kyosoku Chương 4 Mục 2 điểm 2, bằng này cho phép lái xe mô tô cỡ thường, xe chuyên dùng cỡ nhỏ và xe gắn máy (原付)."
+      },
+      "pt": {
+        "question": "A habilitação de motocicleta comum também permite conduzir motocicleta grande.",
+        "explanation": "Está errado. Pela tabela do Kyosoku, Capítulo 4, Seção 2, item 2, ela cobre motocicletas comuns, veículos especiais pequenos e ciclomotores."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K4-2-040",
+    "category": "運転できる車",
+    "kp": "4-2-2",
+    "group": "F",
+    "source": "教則 第4章第2節2",
+    "question_type": "text",
+    "qf": "QF-4-2-2-D-SC-01",
+    "question_ja": "原付免許しか持っていなかったが、友人の小型特殊自動車を借りて短い距離だけ運転した。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第4章第2節2の表により、原付免許で小型特殊自動車を運転することはできず、無免許運転になります。",
+    "i18n": {
+      "zh": {
+        "question": "虽然只有轻型摩托车驾照，还是借了朋友的小型特殊汽车驾驶了很短一段距离。",
+        "explanation": "错误。根据教则第4章第2节2的表格，用轻型摩托车驾照不能驾驶小型特殊汽车，这构成无证驾驶。"
+      },
+      "en": {
+        "question": "Holding only a moped licence, you borrowed a friend's small special vehicle and drove it just a short way.",
+        "explanation": "This is wrong. Under the table in Kyosoku Chapter 4 Section 2 item 2 a moped licence does not cover a small special vehicle, so this is unlicensed driving."
+      },
+      "vi": {
+        "question": "Chỉ có bằng xe gắn máy, bạn vẫn mượn xe chuyên dùng cỡ nhỏ của bạn bè và lái một đoạn ngắn.",
+        "explanation": "Sai. Theo bảng ở Kyosoku Chương 4 Mục 2 điểm 2, bằng xe gắn máy không bao gồm xe chuyên dùng cỡ nhỏ, nên đây là lái xe không có bằng."
+      },
+      "pt": {
+        "question": "Tendo apenas habilitação de ciclomotor, você pegou emprestado o veículo especial pequeno de um amigo e dirigiu um trecho curto.",
+        "explanation": "Está errado. Pela tabela do Kyosoku, Capítulo 4, Seção 2, item 2, a habilitação de ciclomotor não cobre veículo especial pequeno, então isso é dirigir sem habilitação."
+      }
+    },
+    "trap_type": "SC",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  }
+]
