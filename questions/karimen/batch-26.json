@@ -1,0 +1,662 @@
+[
+  {
+    "id": "K8-1-001",
+    "category": "二輪車の心得",
+    "kp": "8-1-2",
+    "group": "T",
+    "source": "教則 第8章第1節2",
+    "question_type": "text",
+    "qf": "QF-8-1-2-A-N-01",
+    "question_ja": "乗車用ヘルメットをかぶらないで、大型自動二輪車や普通自動二輪車や一般原動機付自転車を運転してはいけない。",
+    "answer": true,
+    "explanation_ja": "教則第8章第1節2のとおりです。原動機付自転車であっても例外ではありません。",
+    "i18n": {
+      "zh": {
+        "question": "不得不戴骑乘用头盔驾驶大型摩托车、普通摩托车或一般轻型摩托车。",
+        "explanation": "符合教则第8章第1节2的规定。轻型摩托车也不例外。"
+      },
+      "en": {
+        "question": "You must not ride a large motorcycle, an ordinary motorcycle or a general motorized bicycle (moped) without wearing a safety helmet.",
+        "explanation": "This is Kyosoku Chapter 8 Section 1 item 2. A moped is no exception."
+      },
+      "vi": {
+        "question": "Bạn không được điều khiển xe mô tô cỡ lớn, xe mô tô thường hay xe gắn máy (原付) mà không đội mũ bảo hiểm.",
+        "explanation": "Đúng theo Kyosoku Chương 8 Mục 1 điểm 2. Xe gắn máy cũng không phải ngoại lệ."
+      },
+      "pt": {
+        "question": "Você não deve conduzir motocicleta grande, motocicleta comum nem ciclomotor sem usar capacete.",
+        "explanation": "É o Kyosoku, Capítulo 8, Seção 1, item 2. O ciclomotor não é exceção."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K8-1-002",
+    "category": "二輪車の心得",
+    "kp": "8-1-2",
+    "group": "T",
+    "source": "教則 第8章第1節2",
+    "question_type": "text",
+    "qf": "QF-8-1-2-A-N-02",
+    "question_ja": "乗車用ヘルメットをかぶらない者を乗せて、大型自動二輪車や普通自動二輪車を運転してはいけない。",
+    "answer": true,
+    "explanation_ja": "教則第8章第1節2のとおりです。運転者だけでなく、同乗者の着用も運転者の責任になります。",
+    "i18n": {
+      "zh": {
+        "question": "不得载着未戴骑乘用头盔的人驾驶大型摩托车或普通摩托车。",
+        "explanation": "符合教则第8章第1节2的规定。不仅是驾驶人，同乘者的佩戴也是驾驶人的责任。"
+      },
+      "en": {
+        "question": "You must not ride a large or ordinary motorcycle carrying someone who is not wearing a safety helmet.",
+        "explanation": "This is Kyosoku Chapter 8 Section 1 item 2. The passenger's helmet is the rider's responsibility too."
+      },
+      "vi": {
+        "question": "Bạn không được chở người không đội mũ bảo hiểm trên xe mô tô cỡ lớn hay xe mô tô thường.",
+        "explanation": "Đúng theo Kyosoku Chương 8 Mục 1 điểm 2. Mũ của người ngồi sau cũng thuộc trách nhiệm người lái."
+      },
+      "pt": {
+        "question": "Você não deve conduzir motocicleta grande ou comum levando alguém sem capacete.",
+        "explanation": "É o Kyosoku, Capítulo 8, Seção 1, item 2. O capacete do passageiro também é responsabilidade do condutor."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K8-1-003",
+    "category": "二輪車の心得",
+    "kp": "8-1-2",
+    "group": "T",
+    "source": "教則 第8章第1節2",
+    "question_type": "text",
+    "qf": "QF-8-1-2-A-N-03",
+    "question_ja": "工事用安全帽は乗車用ヘルメットではない。",
+    "answer": true,
+    "explanation_ja": "教則第8章第1節2のとおりです。乗車用ヘルメットは、PS（c）マークかJISマークの付いたものを使います。",
+    "i18n": {
+      "zh": {
+        "question": "施工用安全帽不是骑乘用头盔。",
+        "explanation": "符合教则第8章第1节2的规定。骑乘用头盔要使用带有PS（c）标志或JIS标志的产品。"
+      },
+      "en": {
+        "question": "A construction safety helmet is not a motorcycle safety helmet.",
+        "explanation": "This is Kyosoku Chapter 8 Section 1 item 2. A safety helmet should carry the PS(c) mark or the JIS mark."
+      },
+      "vi": {
+        "question": "Mũ bảo hộ công trường không phải là mũ bảo hiểm xe máy.",
+        "explanation": "Đúng theo Kyosoku Chương 8 Mục 1 điểm 2. Mũ bảo hiểm nên có dấu PS(c) hoặc dấu JIS."
+      },
+      "pt": {
+        "question": "O capacete de obra não é capacete de motociclista.",
+        "explanation": "É o Kyosoku, Capítulo 8, Seção 1, item 2. O capacete deve ter a marca PS(c) ou a marca JIS."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K8-1-004",
+    "category": "車種の選定",
+    "kp": "8-1-1",
+    "group": "T",
+    "source": "教則 第8章第1節1(1)",
+    "question_type": "text",
+    "qf": "QF-8-1-1-A-N-01",
+    "question_ja": "二輪車にまたがったときに両足のつま先が地面に届くことは、車種を選ぶときに確かめる事柄の一つである。",
+    "answer": true,
+    "explanation_ja": "教則第8章第1節1(1)イのとおりです。ほかに、センタースタンドを立てられること、8の字型に押して歩けることがあります。",
+    "i18n": {
+      "zh": {
+        "question": "跨在二轮车上时双脚脚尖能够触地，是选择车型时要确认的事项之一。",
+        "explanation": "符合教则第8章第1节1(1)イ的规定。此外还有能够立起中撑、能够完全地推着走出8字形。"
+      },
+      "en": {
+        "question": "Being able to touch the ground with the toes of both feet when sitting astride is one of the things to check when choosing a motorcycle.",
+        "explanation": "This is Kyosoku Chapter 8 Section 1 item 1(1)(b). The others are putting it on its centre stand and wheeling it in a figure of eight."
+      },
+      "vi": {
+        "question": "Việc mũi hai bàn chân chạm đất khi ngồi lên xe là một trong những điều cần kiểm tra khi chọn xe.",
+        "explanation": "Đúng theo Kyosoku Chương 8 Mục 1 điểm 1(1)(b). Những điều còn lại là dựng được chân chống giữa và đẩy xe đi hình số tám."
+      },
+      "pt": {
+        "question": "Conseguir tocar o chão com as pontas dos dois pés sentado na moto é uma das coisas a conferir ao escolher o modelo.",
+        "explanation": "É o Kyosoku, Capítulo 8, Seção 1, item 1(1)(b). As outras são erguê-la no cavalete central e conduzi-la a pé em oito."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K8-1-005",
+    "category": "車種の選定",
+    "kp": "8-1-1",
+    "group": "T",
+    "source": "教則 第8章第1節1(1)",
+    "question_type": "text",
+    "qf": "QF-8-1-1-A-N-02",
+    "question_ja": "平地でセンタースタンドを立てることが楽にできることは、車種を選ぶときに確かめる事柄の一つである。",
+    "answer": true,
+    "explanation_ja": "教則第8章第1節1(1)アのとおりです。体格に合った車種を選ぶための目安です。",
+    "i18n": {
+      "zh": {
+        "question": "在平地上能够轻松立起中撑，是选择车型时要确认的事项之一。",
+        "explanation": "符合教则第8章第1节1(1)ア的规定。这是选择与体格相符车型的标准。"
+      },
+      "en": {
+        "question": "Being able to put the machine on its centre stand easily on level ground is one of the things to check when choosing a motorcycle.",
+        "explanation": "This is Kyosoku Chapter 8 Section 1 item 1(1)(a). It is a gauge of whether the machine suits your build."
+      },
+      "vi": {
+        "question": "Việc dựng chân chống giữa một cách nhẹ nhàng trên mặt phẳng là một trong những điều cần kiểm tra khi chọn xe.",
+        "explanation": "Đúng theo Kyosoku Chương 8 Mục 1 điểm 1(1)(a). Đó là thước đo xem xe có vừa vóc dáng bạn không."
+      },
+      "pt": {
+        "question": "Conseguir erguer a moto no cavalete central com facilidade em piso plano é uma das coisas a conferir ao escolher o modelo.",
+        "explanation": "É o Kyosoku, Capítulo 8, Seção 1, item 1(1)(a). É um indicador de que a moto serve ao seu porte."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K8-1-006",
+    "category": "車種の選定",
+    "kp": "8-1-1",
+    "group": "T",
+    "source": "教則 第8章第1節1(1)",
+    "question_type": "text",
+    "qf": "QF-8-1-1-A-N-03",
+    "question_ja": "8の字型に押して歩くことが完全にできることは、車種を選ぶときに確かめる事柄の一つである。",
+    "answer": true,
+    "explanation_ja": "教則第8章第1節1(1)ウのとおりです。最初は小型の車種から始め、熟練度に応じて大型の車種に乗るようにします。",
+    "i18n": {
+      "zh": {
+        "question": "能够完全地推着车走出8字形，是选择车型时要确认的事项之一。",
+        "explanation": "符合教则第8章第1节1(1)ウ的规定。最初要从小型车型开始，随着熟练程度再骑大型车型。"
+      },
+      "en": {
+        "question": "Being able to wheel the machine in a complete figure of eight is one of the things to check when choosing a motorcycle.",
+        "explanation": "This is Kyosoku Chapter 8 Section 1 item 1(1)(c). Start with a small machine and move up as your skill grows."
+      },
+      "vi": {
+        "question": "Việc đẩy xe đi trọn một hình số tám là một trong những điều cần kiểm tra khi chọn xe.",
+        "explanation": "Đúng theo Kyosoku Chương 8 Mục 1 điểm 1(1)(c). Hãy bắt đầu từ xe nhỏ và lên xe lớn khi tay lái đã vững."
+      },
+      "pt": {
+        "question": "Conseguir conduzir a moto a pé desenhando um oito completo é uma das coisas a conferir ao escolher o modelo.",
+        "explanation": "É o Kyosoku, Capítulo 8, Seção 1, item 1(1)(c). Comece por uma moto pequena e passe às maiores conforme ganha prática."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K8-1-007",
+    "category": "二人乗りの禁止",
+    "kp": "8-1-4",
+    "group": "T",
+    "source": "教則 第8章第1節4(1)",
+    "question_type": "text",
+    "qf": "QF-8-1-4-A-N-01",
+    "question_ja": "後部座席がない大型自動二輪車や普通自動二輪車、および一般原動機付自転車では、二人乗りをしてはいけない。",
+    "answer": true,
+    "explanation_ja": "教則第8章第1節4(1)のとおりです。一般原動機付自転車は、後部座席の有無にかかわらず二人乗りができません。",
+    "i18n": {
+      "zh": {
+        "question": "没有后座的大型摩托车、普通摩托车，以及一般轻型摩托车，不得双人乘坐。",
+        "explanation": "符合教则第8章第1节4(1)的规定。一般轻型摩托车无论有无后座都不能双人乘坐。"
+      },
+      "en": {
+        "question": "You must not carry a passenger on a large or ordinary motorcycle that has no pillion seat, or on a general motorized bicycle (moped).",
+        "explanation": "This is Kyosoku Chapter 8 Section 1 item 4(1). A moped may not carry a passenger whether or not it has a seat for one."
+      },
+      "vi": {
+        "question": "Bạn không được chở người trên xe mô tô cỡ lớn hay thường không có yên sau, cũng như trên xe gắn máy (原付).",
+        "explanation": "Đúng theo Kyosoku Chương 8 Mục 1 điểm 4(1). Xe gắn máy không được chở người dù có yên sau hay không."
+      },
+      "pt": {
+        "question": "Você não deve levar passageiro em motocicleta grande ou comum sem assento traseiro, nem em ciclomotor.",
+        "explanation": "É o Kyosoku, Capítulo 8, Seção 1, item 4(1). O ciclomotor não pode levar passageiro, tendo ou não assento para isso."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K8-1-008",
+    "category": "二人乗りの禁止",
+    "kp": "8-1-4",
+    "group": "T",
+    "source": "教則 第8章第1節4(3)",
+    "question_type": "text",
+    "qf": "QF-8-1-4-A-N-02",
+    "question_ja": "普通二輪免許を受けて1年を経過していない者が普通自動二輪車を運転するときは、二人乗りをしてはいけない。",
+    "answer": true,
+    "explanation_ja": "教則第8章第1節4(3)のとおりです。免許を受けてからの年数で決まります。",
+    "i18n": {
+      "zh": {
+        "question": "取得普通二轮驾照未满1年的人驾驶普通摩托车时，不得双人乘坐。",
+        "explanation": "符合教则第8章第1节4(3)的规定。这取决于取得驾照后的年数。"
+      },
+      "en": {
+        "question": "Someone within one year of obtaining an ordinary motorcycle licence must not carry a passenger on an ordinary motorcycle.",
+        "explanation": "This is Kyosoku Chapter 8 Section 1 item 4(3). It turns on how long you have held the licence."
+      },
+      "vi": {
+        "question": "Người có bằng mô tô hạng thường chưa đủ một năm không được chở người trên xe mô tô thường.",
+        "explanation": "Đúng theo Kyosoku Chương 8 Mục 1 điểm 4(3). Điều này phụ thuộc vào thời gian giữ bằng."
+      },
+      "pt": {
+        "question": "Quem tem menos de um ano de habilitação de motocicleta comum não deve levar passageiro em motocicleta comum.",
+        "explanation": "É o Kyosoku, Capítulo 8, Seção 1, item 4(3). Depende de há quanto tempo você tem a habilitação."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K8-1-009",
+    "category": "服装",
+    "kp": "8-1-3",
+    "group": "T",
+    "source": "教則 第8章第1節3",
+    "question_type": "text",
+    "qf": "QF-8-1-3-A-N-01",
+    "question_ja": "二輪車に乗るときは、体の露出がなるべく少なくなるような服装をし、できるだけプロテクターを着用する。",
+    "answer": true,
+    "explanation_ja": "教則第8章第1節3のとおりです。同乗者についても同じです。",
+    "i18n": {
+      "zh": {
+        "question": "骑二轮车时，要穿身体暴露尽量少的服装，并尽可能佩戴护具。",
+        "explanation": "符合教则第8章第1节3的规定。对同乘者也一样。"
+      },
+      "en": {
+        "question": "When riding a motorcycle, dress so as to leave as little of the body exposed as possible, and wear protectors where you can.",
+        "explanation": "This is Kyosoku Chapter 8 Section 1 item 3. The same goes for a passenger."
+      },
+      "vi": {
+        "question": "Khi đi xe hai bánh, hãy mặc sao cho cơ thể hở ra ít nhất có thể và đeo giáp bảo hộ khi có thể.",
+        "explanation": "Đúng theo Kyosoku Chương 8 Mục 1 điểm 3. Điều tương tự áp dụng cho người ngồi sau."
+      },
+      "pt": {
+        "question": "Ao pilotar uma motocicleta, vista-se de modo a deixar o mínimo de corpo exposto e use protetores sempre que puder.",
+        "explanation": "É o Kyosoku, Capítulo 8, Seção 1, item 3. O mesmo vale para o passageiro."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K8-1-010",
+    "category": "服装",
+    "kp": "8-1-3",
+    "group": "T",
+    "source": "教則 第8章第1節3",
+    "question_type": "text",
+    "qf": "QF-8-1-3-A-N-02",
+    "question_ja": "二輪車で夜間走るときは、反射性の衣服又は反射材の付いた乗車用ヘルメットを着用するようにする。",
+    "answer": true,
+    "explanation_ja": "教則第8章第1節3のとおりです。ほかの運転者から見て目に付きやすいことが大切です。",
+    "i18n": {
+      "zh": {
+        "question": "夜间骑二轮车时，要穿反光服装或佩戴带反光材料的骑乘用头盔。",
+        "explanation": "符合教则第8章第1节3的规定。重要的是让其他驾驶人容易看见。"
+      },
+      "en": {
+        "question": "When riding at night, wear reflective clothing or a safety helmet with reflective material on it.",
+        "explanation": "This is Kyosoku Chapter 8 Section 1 item 3. What matters is being easy for other drivers to see."
+      },
+      "vi": {
+        "question": "Khi đi xe hai bánh vào ban đêm, hãy mặc đồ phản quang hoặc đội mũ bảo hiểm có vật liệu phản quang.",
+        "explanation": "Đúng theo Kyosoku Chương 8 Mục 1 điểm 3. Điều quan trọng là dễ được người lái khác nhìn thấy."
+      },
+      "pt": {
+        "question": "Ao pilotar à noite, use roupa refletiva ou capacete com material refletivo.",
+        "explanation": "É o Kyosoku, Capítulo 8, Seção 1, item 3. O que importa é ser bem visto pelos outros condutores."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K8-1-011",
+    "category": "二輪車の心得",
+    "kp": "8-1-2",
+    "group": "T",
+    "source": "教則 第8章第1節2",
+    "question_type": "text",
+    "qf": "QF-8-1-2-D-EI-01",
+    "question_ja": "乗車用ヘルメットは、近所までの短い距離の運転であればかぶらなくてよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第8章第1節2により、乗車用ヘルメットをかぶらないで二輪車を運転してはいけません。",
+    "i18n": {
+      "zh": {
+        "question": "骑乘用头盔在只骑到附近的短距离时可以不戴。",
+        "explanation": "错误。根据教则第8章第1节2，不得不戴骑乘用头盔驾驶二轮车。"
+      },
+      "en": {
+        "question": "You need not wear a safety helmet for a short ride to somewhere nearby.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 8 Section 1 item 2 you must not ride a motorcycle without a safety helmet."
+      },
+      "vi": {
+        "question": "Bạn không cần đội mũ bảo hiểm khi chỉ chạy một đoạn ngắn tới nơi gần.",
+        "explanation": "Sai. Theo Kyosoku Chương 8 Mục 1 điểm 2, bạn không được điều khiển xe hai bánh mà không đội mũ bảo hiểm."
+      },
+      "pt": {
+        "question": "Não é preciso usar capacete num trajeto curto até algum lugar próximo.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 8, Seção 1, item 2, não se pilota sem capacete."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K8-1-012",
+    "category": "二輪車の心得",
+    "kp": "8-1-2",
+    "group": "T",
+    "source": "教則 第8章第1節2",
+    "question_type": "text",
+    "qf": "QF-8-1-2-D-EI-02",
+    "question_ja": "工事用安全帽でも頭を保護できるので、乗車用ヘルメットの代わりに使ってよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第8章第1節2により、工事用安全帽は乗車用ヘルメットではありません。",
+    "i18n": {
+      "zh": {
+        "question": "施工用安全帽也能保护头部，所以可以代替骑乘用头盔使用。",
+        "explanation": "错误。根据教则第8章第1节2，施工用安全帽不是骑乘用头盔。"
+      },
+      "en": {
+        "question": "A construction safety helmet protects the head too, so it may be used in place of a motorcycle helmet.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 8 Section 1 item 2 a construction safety helmet is not a motorcycle safety helmet."
+      },
+      "vi": {
+        "question": "Mũ bảo hộ công trường cũng bảo vệ đầu nên có thể dùng thay mũ bảo hiểm xe máy.",
+        "explanation": "Sai. Theo Kyosoku Chương 8 Mục 1 điểm 2, mũ bảo hộ công trường không phải là mũ bảo hiểm xe máy."
+      },
+      "pt": {
+        "question": "O capacete de obra também protege a cabeça, então pode substituir o de motociclista.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 8, Seção 1, item 2, o capacete de obra não é capacete de motociclista."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K8-1-013",
+    "category": "二人乗りの禁止",
+    "kp": "8-1-4",
+    "group": "T",
+    "source": "教則 第8章第1節4(2)",
+    "question_type": "text",
+    "qf": "QF-8-1-4-D-NU-01",
+    "question_ja": "大型二輪免許を受けて3年を経過していない者は、大型自動二輪車で二人乗りをしてはいけない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第8章第1節4(2)により、二人乗りができないのは大型二輪免許を受けて1年を経過していない者です。",
+    "i18n": {
+      "zh": {
+        "question": "取得大型二轮驾照未满3年的人，不得用大型摩托车双人乘坐。",
+        "explanation": "错误。根据教则第8章第1节4(2)，不能双人乘坐的是取得大型二轮驾照未满1年的人。"
+      },
+      "en": {
+        "question": "Someone within three years of obtaining a large motorcycle licence must not carry a passenger on a large motorcycle.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 8 Section 1 item 4(2) the bar applies to someone within one year of obtaining the licence."
+      },
+      "vi": {
+        "question": "Người có bằng mô tô hạng lớn chưa đủ ba năm không được chở người trên xe mô tô cỡ lớn.",
+        "explanation": "Sai. Theo Kyosoku Chương 8 Mục 1 điểm 4(2), lệnh cấm áp dụng cho người có bằng chưa đủ một năm."
+      },
+      "pt": {
+        "question": "Quem tem menos de três anos de habilitação de motocicleta grande não deve levar passageiro nela.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 8, Seção 1, item 4(2), a vedação vale para quem tem menos de um ano de habilitação."
+      }
+    },
+    "trap_type": "NU",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K8-1-014",
+    "category": "二人乗りの禁止",
+    "kp": "8-1-4",
+    "group": "T",
+    "source": "教則 第8章第1節4(2)",
+    "question_type": "text",
+    "qf": "QF-8-1-4-D-EO-01",
+    "question_ja": "大型二輪免許を受けて1年を経過していない者は、大型自動二輪車で二人乗りをすることができない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第8章第1節4(2)により、普通二輪免許を受けて1年を経過している場合は二人乗りをすることができます。",
+    "i18n": {
+      "zh": {
+        "question": "取得大型二轮驾照未满1年的人，不能用大型摩托车双人乘坐。",
+        "explanation": "错误。根据教则第8章第1节4(2)，若取得普通二轮驾照已满1年，则可以双人乘坐。"
+      },
+      "en": {
+        "question": "Someone within one year of obtaining a large motorcycle licence cannot carry a passenger on a large motorcycle.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 8 Section 1 item 4(2) they may carry a passenger if they have held an ordinary motorcycle licence for a year or more."
+      },
+      "vi": {
+        "question": "Người có bằng mô tô hạng lớn chưa đủ một năm thì không thể chở người trên xe mô tô cỡ lớn.",
+        "explanation": "Sai. Theo Kyosoku Chương 8 Mục 1 điểm 4(2), họ vẫn được chở người nếu đã giữ bằng mô tô hạng thường từ một năm trở lên."
+      },
+      "pt": {
+        "question": "Quem tem menos de um ano de habilitação de motocicleta grande não pode levar passageiro nela.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 8, Seção 1, item 4(2), pode levar se já tiver um ano ou mais de habilitação de motocicleta comum."
+      }
+    },
+    "trap_type": "EO",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K8-1-015",
+    "category": "二人乗りの禁止",
+    "kp": "8-1-4",
+    "group": "T",
+    "source": "教則 第8章第1節4",
+    "question_type": "text",
+    "qf": "QF-8-1-4-D-NR-01",
+    "question_ja": "二人乗りが禁止されるのは、一般原動機付自転車を運転するときだけである。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第8章第1節4により、後部座席がない二輪車や、免許を受けてからの年数が足りない場合も禁止されます。",
+    "i18n": {
+      "zh": {
+        "question": "被禁止双人乘坐的，只有驾驶一般轻型摩托车的时候。",
+        "explanation": "错误。根据教则第8章第1节4，没有后座的二轮车，以及取得驾照年数不足的情况也被禁止。"
+      },
+      "en": {
+        "question": "Carrying a passenger is prohibited only when riding a general motorized bicycle (moped).",
+        "explanation": "This is wrong. Under Kyosoku Chapter 8 Section 1 item 4 it is also prohibited on a machine with no pillion seat and where the rider has not held the licence long enough."
+      },
+      "vi": {
+        "question": "Việc chở người chỉ bị cấm khi điều khiển xe gắn máy (原付).",
+        "explanation": "Sai. Theo Kyosoku Chương 8 Mục 1 điểm 4, việc này còn bị cấm trên xe không có yên sau và khi người lái chưa giữ bằng đủ lâu."
+      },
+      "pt": {
+        "question": "Levar passageiro só é proibido ao conduzir um ciclomotor.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 8, Seção 1, item 4, também é proibido em moto sem assento traseiro e quando o condutor não tem tempo suficiente de habilitação."
+      }
+    },
+    "trap_type": "NR",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K8-1-016",
+    "category": "二輪車の心得",
+    "kp": "8-1-2",
+    "group": "T",
+    "source": "教則 第8章第1節2",
+    "question_type": "text",
+    "qf": "QF-8-1-2-D-EI-03",
+    "question_ja": "乗車用ヘルメットをかぶらない人を後部座席に乗せても、運転者がかぶっていれば差し支えない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第8章第1節2により、乗車用ヘルメットをかぶらない者を乗せて運転してはいけません。",
+    "i18n": {
+      "zh": {
+        "question": "即使载着未戴骑乘用头盔的人坐在后座，只要驾驶人自己戴了就没有关系。",
+        "explanation": "错误。根据教则第8章第1节2，不得载着未戴骑乘用头盔的人驾驶。"
+      },
+      "en": {
+        "question": "Carrying someone without a helmet on the pillion is acceptable as long as the rider is wearing one.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 8 Section 1 item 2 you must not ride carrying someone who is not wearing a safety helmet."
+      },
+      "vi": {
+        "question": "Chở người không đội mũ bảo hiểm ở yên sau cũng không sao miễn là người lái có đội.",
+        "explanation": "Sai. Theo Kyosoku Chương 8 Mục 1 điểm 2, bạn không được chở người không đội mũ bảo hiểm."
+      },
+      "pt": {
+        "question": "Levar alguém sem capacete na garupa não tem problema desde que o piloto use o seu.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 8, Seção 1, item 2, não se pilota levando alguém sem capacete."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K8-1-017",
+    "category": "車種の選定",
+    "kp": "8-1-1",
+    "group": "T",
+    "source": "教則 第8章第1節1(1)",
+    "question_type": "text",
+    "qf": "QF-8-1-1-D-EI-01",
+    "question_ja": "体力に自信があれば、二輪車は最初から大型の車種に乗ってよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第8章第1節1(1)により、体力に自信があってもいきなり大型車に乗るのは危険で、最初は小型の車種から始めます。",
+    "i18n": {
+      "zh": {
+        "question": "只要对体力有信心，二轮车一开始就可以骑大型车型。",
+        "explanation": "错误。根据教则第8章第1节1(1)，即使对体力有信心，一上来就骑大型车也是危险的，最初要从小型车型开始。"
+      },
+      "en": {
+        "question": "If you are confident in your strength you may start straight away on a large motorcycle.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 8 Section 1 item 1(1) going straight to a large machine is dangerous however strong you are; you start with a small one."
+      },
+      "vi": {
+        "question": "Nếu tự tin vào thể lực, bạn có thể bắt đầu ngay bằng xe mô tô cỡ lớn.",
+        "explanation": "Sai. Theo Kyosoku Chương 8 Mục 1 điểm 1(1), nhảy thẳng lên xe lớn là nguy hiểm dù bạn khỏe đến đâu; hãy bắt đầu từ xe nhỏ."
+      },
+      "pt": {
+        "question": "Se você confia na sua força física, pode começar direto numa motocicleta grande.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 8, Seção 1, item 1(1), ir direto para uma moto grande é perigoso por mais forte que se seja; começa-se por uma pequena."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K8-1-018",
+    "category": "二輪車の点検",
+    "kp": "8-1-6",
+    "group": "T",
+    "source": "教則 第8章第1節6",
+    "question_type": "text",
+    "qf": "QF-8-1-6-D-NR-01",
+    "question_ja": "二輪車の点検で確かめるのは、ブレーキとタイヤの状態だけでよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第8章第1節6により、チェーンの張り、ハンドル、灯火、バックミラー、マフラーなども確かめます。",
+    "i18n": {
+      "zh": {
+        "question": "二轮车的检查只要确认刹车和轮胎的状态就可以。",
+        "explanation": "错误。根据教则第8章第1节6，还要确认链条松紧、车把、灯火、后视镜、消音器等。"
+      },
+      "en": {
+        "question": "A motorcycle check need only cover the brakes and the tyres.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 8 Section 1 item 6 you also check the chain tension, the handlebars, the lights, the mirrors and the exhaust."
+      },
+      "vi": {
+        "question": "Việc kiểm tra xe hai bánh chỉ cần bao gồm phanh và lốp.",
+        "explanation": "Sai. Theo Kyosoku Chương 8 Mục 1 điểm 6, bạn còn kiểm tra độ căng xích, tay lái, đèn, gương chiếu hậu và ống xả."
+      },
+      "pt": {
+        "question": "A checagem da motocicleta basta cobrir freios e pneus.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 8, Seção 1, item 6, também se conferem a tensão da corrente, o guidão, as luzes, os espelhos e o escapamento."
+      }
+    },
+    "trap_type": "NR",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K8-1-019",
+    "category": "二輪車の心得",
+    "kp": "8-1-2",
+    "group": "T",
+    "source": "教則 第8章第1節2",
+    "question_type": "text",
+    "qf": "QF-8-1-2-D-SC-01",
+    "question_ja": "近所のコンビニエンスストアまでだったので、乗車用ヘルメットをかぶらずに一般原動機付自転車で出かけた。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第8章第1節2により、乗車用ヘルメットをかぶらないで一般原動機付自転車を運転してはいけません。",
+    "i18n": {
+      "zh": {
+        "question": "因为只是去附近的便利店，就没戴骑乘用头盔骑一般轻型摩托车出门了。",
+        "explanation": "错误。根据教则第8章第1节2，不得不戴骑乘用头盔驾驶一般轻型摩托车。"
+      },
+      "en": {
+        "question": "Because it was only as far as the convenience store nearby, you rode your general motorized bicycle (moped) without a safety helmet.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 8 Section 1 item 2 you must not ride a moped without a safety helmet."
+      },
+      "vi": {
+        "question": "Vì chỉ tới cửa hàng tiện lợi gần nhà, bạn đi xe gắn máy (原付) mà không đội mũ bảo hiểm.",
+        "explanation": "Sai. Theo Kyosoku Chương 8 Mục 1 điểm 2, bạn không được đi xe gắn máy mà không đội mũ bảo hiểm."
+      },
+      "pt": {
+        "question": "Como era só até a loja de conveniência ali perto, você saiu de ciclomotor sem capacete.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 8, Seção 1, item 2, não se conduz ciclomotor sem capacete."
+      }
+    },
+    "trap_type": "SC",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K8-1-020",
+    "category": "二輪車の心得",
+    "kp": "8-1-2",
+    "group": "T",
+    "source": "教則 第8章第1節2",
+    "question_type": "text",
+    "qf": "QF-8-1-2-D-NR-02",
+    "question_ja": "乗車用ヘルメットは、あごひもを締めていなくても、かぶってさえいればよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第8章第1節2により、あごひもを確実に締めるなど正しく着用しなければなりません。",
+    "i18n": {
+      "zh": {
+        "question": "骑乘用头盔即使不系下颏带，只要戴着就可以。",
+        "explanation": "错误。根据教则第8章第1节2，必须确实系紧下颏带等，正确佩戴。"
+      },
+      "en": {
+        "question": "A safety helmet is fine as long as it is on your head, even with the chin strap undone.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 8 Section 1 item 2 you must wear it properly, with the chin strap securely fastened."
+      },
+      "vi": {
+        "question": "Mũ bảo hiểm chỉ cần đội lên đầu là được, dù chưa cài quai.",
+        "explanation": "Sai. Theo Kyosoku Chương 8 Mục 1 điểm 2, bạn phải đội đúng cách, với quai được cài chắc chắn."
+      },
+      "pt": {
+        "question": "O capacete está bom desde que esteja na cabeça, mesmo com a jugular solta.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 8, Seção 1, item 2, é preciso usá-lo corretamente, com a jugular bem presa."
+      }
+    },
+    "trap_type": "NR",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  }
+]

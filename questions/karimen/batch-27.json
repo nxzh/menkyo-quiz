@@ -1,0 +1,662 @@
+[
+  {
+    "id": "K8-2-001",
+    "category": "二輪車の乗り方",
+    "kp": "8-2",
+    "group": "T",
+    "source": "教則 第8章第2節(1)",
+    "question_type": "text",
+    "qf": "QF-8-2-A-N-01",
+    "question_ja": "二輪車の正しい乗車姿勢では、ステップに土踏まずを載せて足の裏がほぼ水平になるようにし、足先がまっすぐ前方を向くようにしてタンクを両ひざでしめる。",
+    "answer": true,
+    "explanation_ja": "教則第8章第2節(1)のとおりです。体で車体を支えることが、二輪車の安定につながります。",
+    "i18n": {
+      "zh": {
+        "question": "二轮车正确的乘车姿势是把足弓放在脚蹬上使脚掌大致水平，脚尖朝正前方，并用双膝夹住油箱。",
+        "explanation": "符合教则第8章第2节(1)的规定。用身体支撑车身，才能带来二轮车的稳定。"
+      },
+      "en": {
+        "question": "In the correct riding position the arch of the foot rests on the peg with the sole roughly level, the toes point straight ahead, and both knees grip the tank.",
+        "explanation": "This is Kyosoku Chapter 8 Section 2 item (1). Holding the machine with your body is what keeps it stable."
+      },
+      "vi": {
+        "question": "Tư thế ngồi đúng trên xe hai bánh là đặt vòm bàn chân lên gác chân sao cho lòng bàn chân gần như nằm ngang, mũi chân hướng thẳng về phía trước và hai đầu gối kẹp bình xăng.",
+        "explanation": "Đúng theo Kyosoku Chương 8 Mục 2 điểm (1). Giữ xe bằng cơ thể chính là điều làm xe ổn định."
+      },
+      "pt": {
+        "question": "Na postura correta o arco do pé apoia na pedaleira com a sola quase nivelada, as pontas dos pés apontam para a frente e os dois joelhos apertam o tanque.",
+        "explanation": "É o Kyosoku, Capítulo 8, Seção 2, item (1). Segurar a moto com o corpo é o que a mantém estável."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K8-2-002",
+    "category": "二輪車の乗り方",
+    "kp": "8-2",
+    "group": "T",
+    "source": "教則 第8章第2節(2)",
+    "question_type": "text",
+    "qf": "QF-8-2-A-N-02",
+    "question_ja": "二輪車では、手首を下げてハンドルを前に押すような気持ちでグリップを軽く持つ。",
+    "answer": true,
+    "explanation_ja": "教則第8章第2節(2)のとおりです。肩の力を抜き、ひじをわずかに曲げます。",
+    "i18n": {
+      "zh": {
+        "question": "骑二轮车时，要放低手腕，以向前推车把的感觉轻握把手。",
+        "explanation": "符合教则第8章第2节(2)的规定。要放松肩部力量，肘部略微弯曲。"
+      },
+      "en": {
+        "question": "On a motorcycle you drop the wrists and hold the grips lightly, as though pushing the handlebars forward.",
+        "explanation": "This is Kyosoku Chapter 8 Section 2 item (2). Relax the shoulders and bend the elbows slightly."
+      },
+      "vi": {
+        "question": "Trên xe hai bánh, bạn hạ cổ tay và nắm nhẹ tay lái như thể đang đẩy ghi đông về phía trước.",
+        "explanation": "Đúng theo Kyosoku Chương 8 Mục 2 điểm (2). Hãy thả lỏng vai và hơi cong khuỷu tay."
+      },
+      "pt": {
+        "question": "Na moto você baixa os punhos e segura os manetes levemente, como se empurrasse o guidão para a frente.",
+        "explanation": "É o Kyosoku, Capítulo 8, Seção 2, item (2). Relaxe os ombros e dobre levemente os cotovelos."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K8-2-003",
+    "category": "二輪車の安全運転",
+    "kp": "8-3",
+    "group": "T",
+    "source": "教則 第8章第3節",
+    "question_type": "text",
+    "qf": "QF-8-3-A-N-01",
+    "question_ja": "二輪車は機動性に富んでいるが、車の間を縫って走ったり、ジグザグ運転や無理な追越しや割込みをしたりしてはいけない。",
+    "answer": true,
+    "explanation_ja": "教則第8章第3節のとおりです。車間距離や側方間隔を十分に保ちましょう。",
+    "i18n": {
+      "zh": {
+        "question": "二轮车机动性强，但不得在车辆之间穿行，也不得作蛇形驾驶、勉强超车或插队。",
+        "explanation": "符合教则第8章第3节的规定。要充分保持车距和侧方间隔。"
+      },
+      "en": {
+        "question": "A motorcycle is nimble, but you must not weave between vehicles, ride in zigzags, force an overtaking or cut in.",
+        "explanation": "This is Kyosoku Chapter 8 Section 3. Keep ample following distance and side clearance."
+      },
+      "vi": {
+        "question": "Xe hai bánh cơ động, nhưng bạn không được lách giữa các xe, chạy zíc zắc, cố vượt hay chen ngang.",
+        "explanation": "Đúng theo Kyosoku Chương 8 Mục 3. Hãy giữ đủ khoảng cách với xe trước và khoảng cách hai bên."
+      },
+      "pt": {
+        "question": "A motocicleta é ágil, mas você não deve costurar entre os veículos, ziguezaguear, forçar ultrapassagens nem entrar de repente.",
+        "explanation": "É o Kyosoku, Capítulo 8, Seção 3. Mantenha boa distância do veículo à frente e espaço lateral."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K8-2-004",
+    "category": "二輪車の安全運転",
+    "kp": "8-3",
+    "group": "T",
+    "source": "教則 第8章第3節",
+    "question_type": "text",
+    "qf": "QF-8-3-A-N-02",
+    "question_ja": "二輪車を運転するときは、げたやサンダルなど運転の妨げになる履物を履いてはいけない。",
+    "answer": true,
+    "explanation_ja": "教則第8章第3節のとおりです。足でも車体を支え、ブレーキやギアの操作をするためです。",
+    "i18n": {
+      "zh": {
+        "question": "驾驶二轮车时，不得穿木屐、凉鞋等妨碍驾驶的鞋类。",
+        "explanation": "符合教则第8章第3节的规定。因为还要用脚支撑车身、操作刹车和挡位。"
+      },
+      "en": {
+        "question": "When riding a motorcycle you must not wear footwear that gets in the way, such as wooden clogs or sandals.",
+        "explanation": "This is Kyosoku Chapter 8 Section 3. Your feet also hold the machine up and work the brake and the gears."
+      },
+      "vi": {
+        "question": "Khi đi xe hai bánh, bạn không được mang giày dép gây vướng như guốc gỗ hay dép xỏ ngón.",
+        "explanation": "Đúng theo Kyosoku Chương 8 Mục 3. Chân bạn còn đỡ xe và thao tác phanh cùng số."
+      },
+      "pt": {
+        "question": "Ao pilotar você não deve usar calçado que atrapalhe, como tamancos ou sandálias.",
+        "explanation": "É o Kyosoku, Capítulo 8, Seção 3. Os pés também sustentam a moto e acionam o freio e as marchas."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K8-2-005",
+    "category": "カーブでの運転",
+    "kp": "8-3-1",
+    "group": "T",
+    "source": "教則 第8章第3節1(2)",
+    "question_type": "text",
+    "qf": "QF-8-3-1-A-N-01",
+    "question_ja": "二輪車でカーブを曲がるときは、ハンドルを切るのではなく、車体を傾けることによって自然に曲がるような要領で行う。",
+    "answer": true,
+    "explanation_ja": "教則第8章第3節1(2)のとおりです。カーブの手前の直線部分で、あらかじめ十分速度を落としておきます。",
+    "i18n": {
+      "zh": {
+        "question": "骑二轮车过弯时，不是打方向把，而是通过让车身倾斜自然转弯的要领来进行。",
+        "explanation": "符合教则第8章第3节1(2)的规定。要在弯道前的直线部分事先充分降低速度。"
+      },
+      "en": {
+        "question": "To take a curve on a motorcycle you lean the machine so that it turns naturally, rather than steering with the handlebars.",
+        "explanation": "This is Kyosoku Chapter 8 Section 3 item 1(2). You slow down well beforehand on the straight leading into the curve."
+      },
+      "vi": {
+        "question": "Khi vào cua trên xe hai bánh, bạn nghiêng xe để xe tự lượn vòng, chứ không đánh ghi đông.",
+        "explanation": "Đúng theo Kyosoku Chương 8 Mục 3 điểm 1(2). Hãy giảm tốc đủ mức trên đoạn thẳng trước khúc cua."
+      },
+      "pt": {
+        "question": "Para fazer uma curva de moto você inclina a máquina para que ela vire naturalmente, em vez de esterçar o guidão.",
+        "explanation": "É o Kyosoku, Capítulo 8, Seção 3, item 1(2). Reduza bem a velocidade antes, na reta que antecede a curva."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K8-2-006",
+    "category": "カーブでの運転",
+    "kp": "8-3-1",
+    "group": "T",
+    "source": "教則 第8章第3節1(3)",
+    "question_type": "text",
+    "qf": "QF-8-3-1-A-N-02",
+    "question_ja": "カーブの途中ではスロットルで速度を加減し、クラッチを切らないで常に車輪にエンジンの力を掛けておく。",
+    "answer": true,
+    "explanation_ja": "教則第8章第3節1(3)のとおりです。カーブの後半で前方の安全を確かめてから、やや加速するようにします。",
+    "i18n": {
+      "zh": {
+        "question": "在弯道途中要用油门调节速度，不切断离合器，始终让发动机的力作用在车轮上。",
+        "explanation": "符合教则第8章第3节1(3)的规定。在弯道后半段确认前方安全后，再稍微加速。"
+      },
+      "en": {
+        "question": "Through a curve you adjust speed with the throttle and keep engine power on the wheels rather than disengaging the clutch.",
+        "explanation": "This is Kyosoku Chapter 8 Section 3 item 1(3). In the second half of the curve you check that the way ahead is clear and then accelerate a little."
+      },
+      "vi": {
+        "question": "Trong khúc cua, bạn điều chỉnh tốc độ bằng tay ga và luôn giữ lực động cơ truyền tới bánh xe thay vì cắt côn.",
+        "explanation": "Đúng theo Kyosoku Chương 8 Mục 3 điểm 1(3). Ở nửa sau khúc cua, bạn kiểm tra an toàn phía trước rồi mới tăng tốc nhẹ."
+      },
+      "pt": {
+        "question": "Na curva você ajusta a velocidade com o acelerador e mantém a força do motor nas rodas em vez de desembrear.",
+        "explanation": "É o Kyosoku, Capítulo 8, Seção 3, item 1(3). Na segunda metade da curva você confere a via adiante e então acelera um pouco."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K8-2-007",
+    "category": "悪路での運転",
+    "kp": "8-3-2",
+    "group": "T",
+    "source": "教則 第8章第3節2",
+    "question_type": "text",
+    "qf": "QF-8-3-2-A-N-01",
+    "question_ja": "ぬかるみや砂利道などでは、低速ギアなどを使って速度を落とし、スロットルで速度を一定に保ちながらバランスをとって通行する。",
+    "answer": true,
+    "explanation_ja": "教則第8章第3節2のとおりです。ブレーキを掛けたり急に加速したり、大きなハンドル操作をしたりしないようにします。",
+    "i18n": {
+      "zh": {
+        "question": "在泥泞路或砂石路等处，要使用低速挡降低速度，用油门保持速度一定，一边保持平衡一边通过。",
+        "explanation": "符合教则第8章第3节2的规定。不要刹车、急加速，也不要作大幅度的车把操作。"
+      },
+      "en": {
+        "question": "On mud or gravel you drop to a low gear to reduce speed and keep the speed steady with the throttle while holding your balance.",
+        "explanation": "This is Kyosoku Chapter 8 Section 3 item 2. Avoid braking, sudden acceleration and large steering movements."
+      },
+      "vi": {
+        "question": "Trên đường lầy hay đường sỏi, bạn về số thấp để giảm tốc và giữ tốc độ đều bằng tay ga trong khi giữ thăng bằng.",
+        "explanation": "Đúng theo Kyosoku Chương 8 Mục 3 điểm 2. Tránh phanh, tăng tốc đột ngột và đánh lái lớn."
+      },
+      "pt": {
+        "question": "Em lama ou cascalho você reduz para uma marcha baixa e mantém a velocidade constante com o acelerador, cuidando do equilíbrio.",
+        "explanation": "É o Kyosoku, Capítulo 8, Seção 3, item 2. Evite frear, acelerar de repente e fazer manobras bruscas de guidão."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K8-2-008",
+    "category": "二輪車のブレーキ",
+    "kp": "8-4",
+    "group": "T",
+    "source": "教則 第8章第4節1",
+    "question_type": "text",
+    "qf": "QF-8-4-A-N-01",
+    "question_ja": "二輪車のブレーキの掛け方には、ブレーキレバーを使う前輪ブレーキ、ブレーキペダル又はブレーキレバーを使う後輪ブレーキ、スロットルの戻しやシフトダウンによるエンジンブレーキの三つがある。",
+    "answer": true,
+    "explanation_ja": "教則第8章第4節1のとおりです。場面に応じて、これらを組み合わせて使います。",
+    "i18n": {
+      "zh": {
+        "question": "二轮车的制动方式有三种：用刹车手柄的前轮刹车，用刹车踏板或刹车手柄的后轮刹车，以及回油门或降挡产生的发动机制动。",
+        "explanation": "符合教则第8章第4节1的规定。要根据场合把这些组合使用。"
+      },
+      "en": {
+        "question": "A motorcycle has three ways of braking: the front brake worked by the lever, the rear brake worked by the pedal or a lever, and the engine brake from closing the throttle or changing down.",
+        "explanation": "This is Kyosoku Chapter 8 Section 4 item 1. You combine them to suit the situation."
+      },
+      "vi": {
+        "question": "Xe hai bánh có ba cách phanh: phanh trước bằng tay phanh, phanh sau bằng bàn đạp hoặc tay phanh, và phanh động cơ bằng cách nhả ga hoặc về số thấp.",
+        "explanation": "Đúng theo Kyosoku Chương 8 Mục 4 điểm 1. Bạn kết hợp chúng tùy tình huống."
+      },
+      "pt": {
+        "question": "A moto tem três formas de frear: o freio dianteiro pela manete, o traseiro pelo pedal ou manete, e o freio motor ao fechar o acelerador ou reduzir a marcha.",
+        "explanation": "É o Kyosoku, Capítulo 8, Seção 4, item 1. Você as combina conforme a situação."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K8-2-009",
+    "category": "二輪車のブレーキ",
+    "kp": "8-4",
+    "group": "T",
+    "source": "教則 第8章第4節2(1)",
+    "question_type": "text",
+    "qf": "QF-8-4-A-N-02",
+    "question_ja": "二輪車でブレーキを掛けるときは、車体を垂直に保ち、ハンドルを切らない状態で、エンジンブレーキを効かせながら前後輪のブレーキを同時に掛ける。",
+    "answer": true,
+    "explanation_ja": "教則第8章第4節2(1)のとおりです。乗車姿勢を正しく保たないと前のめりになります。",
+    "i18n": {
+      "zh": {
+        "question": "骑二轮车刹车时，要把车身保持垂直、不打方向把，在发动机制动起作用的同时，前后轮刹车一起使用。",
+        "explanation": "符合教则第8章第4节2(1)的规定。乘车姿势不正确就会身体前倾。"
+      },
+      "en": {
+        "question": "To brake on a motorcycle you hold the machine upright with the handlebars straight and apply the front and rear brakes together while the engine brake is working.",
+        "explanation": "This is Kyosoku Chapter 8 Section 4 item 2(1). Unless you hold your riding position you will be pitched forward."
+      },
+      "vi": {
+        "question": "Khi phanh trên xe hai bánh, bạn giữ xe thẳng đứng, không đánh lái, và bóp phanh trước cùng phanh sau đồng thời trong khi phanh động cơ đang tác dụng.",
+        "explanation": "Đúng theo Kyosoku Chương 8 Mục 4 điểm 2(1). Không giữ đúng tư thế thì bạn sẽ bị chúi về trước."
+      },
+      "pt": {
+        "question": "Para frear na moto você mantém a máquina na vertical com o guidão reto e aciona os freios dianteiro e traseiro juntos enquanto o freio motor atua.",
+        "explanation": "É o Kyosoku, Capítulo 8, Seção 4, item 2(1). Sem manter a postura correta você é lançado para a frente."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K8-2-010",
+    "category": "二輪車の右折",
+    "kp": "8-3-3",
+    "group": "T",
+    "source": "教則 第8章第3節3(2)ア",
+    "question_type": "text",
+    "qf": "QF-8-3-3-A-N-01",
+    "question_ja": "一般原動機付自転車が二段階の右折方法で右折するときは、あらかじめできるだけ道路の左端に寄り、交差点の手前の側端から30メートルの地点に達したときに右折の合図を行う。",
+    "answer": true,
+    "explanation_ja": "教則第8章第3節3(2)アのとおりです。青信号で徐行しながら交差点の向こう側までまっすぐ進み、その地点で止まって右に向きを変えます。",
+    "i18n": {
+      "zh": {
+        "question": "一般轻型摩托车采用二阶段右拐弯方法右拐弯时，要事先尽量靠道路左端，在到达距交叉路口跟前外侧边缘30米的地点时打右拐弯信号。",
+        "explanation": "符合教则第8章第3节3(2)ア的规定。在绿灯时缓行（徐行）直行到交叉路口对面一侧，在该地点停住并向右改变方向。"
+      },
+      "en": {
+        "question": "For a two-step right turn a general motorized bicycle (moped) first keeps as far to the left of the road as it can and signals the turn on reaching the point 30 metres before the near edge of the intersection.",
+        "explanation": "This is Kyosoku Chapter 8 Section 3 item 3(2)(a). It then goes straight to the far side of the intersection on a green light, proceeding slowly (徐行), stops there and turns to face right."
+      },
+      "vi": {
+        "question": "Để rẽ phải hai bước, xe gắn máy (原付) trước hết đi sát mép trái của đường và bật báo hiệu rẽ khi tới điểm cách mép gần của nút giao 30 mét.",
+        "explanation": "Đúng theo Kyosoku Chương 8 Mục 3 điểm 3(2)(a). Sau đó xe đi thẳng sang phía bên kia nút giao khi đèn xanh, lưu thông chậm (徐行), dừng lại ở đó và xoay sang phải."
+      },
+      "pt": {
+        "question": "Para a conversão à direita em duas etapas, o ciclomotor primeiro se mantém o mais à esquerda possível e sinaliza ao alcançar o ponto 30 metros antes da borda próxima do cruzamento.",
+        "explanation": "É o Kyosoku, Capítulo 8, Seção 3, item 3(2)(a). Depois segue reto até o outro lado no verde, prosseguindo lentamente (徐行), para ali e se vira para a direita."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K8-2-011",
+    "category": "カーブでの運転",
+    "kp": "8-3-1",
+    "group": "T",
+    "source": "教則 第8章第3節1(2)",
+    "question_type": "text",
+    "qf": "QF-8-3-1-D-SW-01",
+    "question_ja": "二輪車でカーブを曲がるときは、車体を傾けるのではなく、ハンドルを切ることによって曲がる。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第8章第3節1(2)により、車体を傾けることによって自然に曲がるような要領で行います。",
+    "i18n": {
+      "zh": {
+        "question": "骑二轮车过弯时，不是让车身倾斜，而是通过打方向把来转弯。",
+        "explanation": "错误。根据教则第8章第3节1(2)，要通过让车身倾斜自然转弯的要领来进行。"
+      },
+      "en": {
+        "question": "To take a curve on a motorcycle you turn by steering with the handlebars rather than leaning the machine.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 8 Section 3 item 1(2) you lean the machine so that it turns naturally."
+      },
+      "vi": {
+        "question": "Khi vào cua trên xe hai bánh, bạn đánh ghi đông để lượn chứ không nghiêng xe.",
+        "explanation": "Sai. Theo Kyosoku Chương 8 Mục 3 điểm 1(2), bạn nghiêng xe để xe tự lượn vòng."
+      },
+      "pt": {
+        "question": "Para fazer uma curva de moto você vira esterçando o guidão, em vez de inclinar a máquina.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 8, Seção 3, item 1(2), você inclina a máquina para que ela vire naturalmente."
+      }
+    },
+    "trap_type": "SW",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K8-2-012",
+    "category": "カーブでの運転",
+    "kp": "8-3-1",
+    "group": "T",
+    "source": "教則 第8章第3節1(3)",
+    "question_type": "text",
+    "qf": "QF-8-3-1-D-EI-01",
+    "question_ja": "二輪車でカーブを曲がるときは、クラッチを切って惰力で進むと安定する。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第8章第3節1(3)により、クラッチを切らないで常に車輪にエンジンの力を掛けておきます。",
+    "i18n": {
+      "zh": {
+        "question": "骑二轮车过弯时，切断离合器靠惯性前进会更稳定。",
+        "explanation": "错误。根据教则第8章第3节1(3)，不要切断离合器，要始终让发动机的力作用在车轮上。"
+      },
+      "en": {
+        "question": "Taking a curve on a motorcycle is steadier if you pull in the clutch and coast through.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 8 Section 3 item 1(3) you keep the clutch engaged so that engine power stays on the wheels."
+      },
+      "vi": {
+        "question": "Vào cua trên xe hai bánh sẽ ổn định hơn nếu bạn cắt côn và để xe trôi.",
+        "explanation": "Sai. Theo Kyosoku Chương 8 Mục 3 điểm 1(3), bạn không cắt côn mà luôn giữ lực động cơ truyền tới bánh xe."
+      },
+      "pt": {
+        "question": "A curva de moto fica mais estável se você desembrear e passar por inércia.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 8, Seção 3, item 1(3), mantém-se a embreagem acoplada para que a força do motor continue nas rodas."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K8-2-013",
+    "category": "悪路での運転",
+    "kp": "8-3-2",
+    "group": "T",
+    "source": "教則 第8章第3節2(2)",
+    "question_type": "text",
+    "qf": "QF-8-3-2-D-SW-01",
+    "question_ja": "ぬかるみや砂利道では、速度を落とすためにこまめにブレーキを掛けながら通行するとよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第8章第3節2(2)により、ブレーキを掛けたり急に加速したりせず、スロットルで速度を一定に保ちます。",
+    "i18n": {
+      "zh": {
+        "question": "在泥泞路或砂石路上，最好一边频繁刹车降低速度一边通过。",
+        "explanation": "错误。根据教则第8章第3节2(2)，不要刹车或急加速，要用油门保持速度一定。"
+      },
+      "en": {
+        "question": "On mud or gravel it is best to brake repeatedly to keep the speed down as you go through.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 8 Section 3 item 2(2) you avoid braking and sudden acceleration and hold a steady speed with the throttle."
+      },
+      "vi": {
+        "question": "Trên đường lầy hay sỏi, tốt nhất là bóp phanh liên tục để giữ tốc độ thấp khi đi qua.",
+        "explanation": "Sai. Theo Kyosoku Chương 8 Mục 3 điểm 2(2), bạn tránh phanh và tăng tốc đột ngột, giữ tốc độ đều bằng tay ga."
+      },
+      "pt": {
+        "question": "Em lama ou cascalho o melhor é frear repetidamente para manter a velocidade baixa ao atravessar.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 8, Seção 3, item 2(2), evita-se frear e acelerar de repente, mantendo velocidade constante com o acelerador."
+      }
+    },
+    "trap_type": "SW",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K8-2-014",
+    "category": "二輪車のブレーキ",
+    "kp": "8-4",
+    "group": "T",
+    "source": "教則 第8章第4節2(1)",
+    "question_type": "text",
+    "qf": "QF-8-4-D-EI-01",
+    "question_ja": "二輪車でブレーキを掛けるときは、車体を傾けたままハンドルを切って掛けても差し支えない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第8章第4節2(1)により、車体を垂直に保ち、ハンドルを切らない状態でブレーキを掛けます。",
+    "i18n": {
+      "zh": {
+        "question": "骑二轮车刹车时，保持车身倾斜并打着方向把刹车也没有关系。",
+        "explanation": "错误。根据教则第8章第4节2(1)，要把车身保持垂直、不打方向把再刹车。"
+      },
+      "en": {
+        "question": "It does not matter if you brake on a motorcycle while the machine is leaned over and the handlebars are turned.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 8 Section 4 item 2(1) you brake with the machine upright and the handlebars straight."
+      },
+      "vi": {
+        "question": "Phanh trên xe hai bánh khi xe đang nghiêng và ghi đông đang đánh lái cũng không sao.",
+        "explanation": "Sai. Theo Kyosoku Chương 8 Mục 4 điểm 2(1), bạn phanh khi xe thẳng đứng và không đánh lái."
+      },
+      "pt": {
+        "question": "Não faz diferença frear na moto com a máquina inclinada e o guidão esterçado.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 8, Seção 4, item 2(1), freia-se com a máquina na vertical e o guidão reto."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K8-2-015",
+    "category": "二輪車のブレーキ",
+    "kp": "8-4",
+    "group": "T",
+    "source": "教則 第8章第4節1",
+    "question_type": "text",
+    "qf": "QF-8-4-D-NR-01",
+    "question_ja": "二輪車のブレーキの掛け方には、前輪ブレーキと後輪ブレーキの二つがある。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第8章第4節1により、スロットルの戻しやシフトダウンによるエンジンブレーキを加えた三つがあります。",
+    "i18n": {
+      "zh": {
+        "question": "二轮车的制动方式有前轮刹车和后轮刹车两种。",
+        "explanation": "错误。根据教则第8章第4节1，加上回油门或降挡产生的发动机制动，共有三种。"
+      },
+      "en": {
+        "question": "A motorcycle has two ways of braking: the front brake and the rear brake.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 8 Section 4 item 1 there are three, the third being the engine brake from closing the throttle or changing down."
+      },
+      "vi": {
+        "question": "Xe hai bánh có hai cách phanh: phanh trước và phanh sau.",
+        "explanation": "Sai. Theo Kyosoku Chương 8 Mục 4 điểm 1, có ba cách, cách thứ ba là phanh động cơ khi nhả ga hoặc về số thấp."
+      },
+      "pt": {
+        "question": "A moto tem duas formas de frear: o freio dianteiro e o traseiro.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 8, Seção 4, item 1, são três; a terceira é o freio motor ao fechar o acelerador ou reduzir a marcha."
+      }
+    },
+    "trap_type": "NR",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K8-2-016",
+    "category": "二輪車の安全運転",
+    "kp": "8-3",
+    "group": "T",
+    "source": "教則 第8章第3節",
+    "question_type": "text",
+    "qf": "QF-8-3-D-EI-01",
+    "question_ja": "二輪車は機動性に富んでいるので、渋滞しているときは車の間を縫って走ってよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第8章第3節により、車の間を縫って走ることは極めて危険で、してはいけません。",
+    "i18n": {
+      "zh": {
+        "question": "二轮车机动性强，所以堵车时可以在车辆之间穿行。",
+        "explanation": "错误。根据教则第8章第3节，在车辆之间穿行极其危险，不得这样做。"
+      },
+      "en": {
+        "question": "Because a motorcycle is nimble you may weave between vehicles when the traffic is jammed.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 8 Section 3 weaving between vehicles is extremely dangerous and must not be done."
+      },
+      "vi": {
+        "question": "Vì xe hai bánh cơ động nên khi tắc đường bạn được lách giữa các xe.",
+        "explanation": "Sai. Theo Kyosoku Chương 8 Mục 3, lách giữa các xe là cực kỳ nguy hiểm và không được làm."
+      },
+      "pt": {
+        "question": "Como a moto é ágil, você pode costurar entre os veículos quando o trânsito para.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 8, Seção 3, costurar entre veículos é extremamente perigoso e não se deve fazer."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K8-2-017",
+    "category": "二輪車の右折",
+    "kp": "8-3-3",
+    "group": "T",
+    "source": "教則 第8章第3節3(2)ア",
+    "question_type": "text",
+    "qf": "QF-8-3-3-D-EI-01",
+    "question_ja": "一般原動機付自転車が二段階の右折方法によるときでも、青の矢印の信号によって右折することができる。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第8章第3節3(2)アにより、二段階の右折方法による場合は青の矢印の信号によって右折することはできません。",
+    "i18n": {
+      "zh": {
+        "question": "一般轻型摩托车采用二阶段右拐弯方法时，也可以依据绿色灯光箭头右拐弯。",
+        "explanation": "错误。根据教则第8章第3节3(2)ア，采用二阶段右拐弯方法时不能依据绿色灯光箭头右拐弯。"
+      },
+      "en": {
+        "question": "A general motorized bicycle (moped) making a two-step right turn may still turn on a green arrow signal.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 8 Section 3 item 3(2)(a) a two-step right turn cannot be made on a green arrow."
+      },
+      "vi": {
+        "question": "Xe gắn máy (原付) rẽ phải theo cách hai bước vẫn được rẽ theo đèn mũi tên xanh.",
+        "explanation": "Sai. Theo Kyosoku Chương 8 Mục 3 điểm 3(2)(a), khi rẽ phải hai bước thì không được rẽ theo đèn mũi tên xanh."
+      },
+      "pt": {
+        "question": "O ciclomotor em conversão de duas etapas ainda pode virar pela seta verde.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 8, Seção 3, item 3(2)(a), a conversão em duas etapas não se faz pela seta verde."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K8-2-018",
+    "category": "二輪車の乗り方",
+    "kp": "8-2",
+    "group": "T",
+    "source": "教則 第8章第2節(4)",
+    "question_type": "text",
+    "qf": "QF-8-2-D-SW-01",
+    "question_ja": "二輪車の正しい乗車姿勢では、背筋を伸ばし、視線は前輪のすぐ前あたりに向ける。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第8章第2節(4)により、背筋を伸ばし、視線は先の方へ向けます。",
+    "i18n": {
+      "zh": {
+        "question": "二轮车正确的乘车姿势是挺直背脊，视线看向前轮正前方附近。",
+        "explanation": "错误。根据教则第8章第2节(4)，要挺直背脊，视线看向远处。"
+      },
+      "en": {
+        "question": "In the correct riding position you straighten your back and look just in front of the front wheel.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 8 Section 2 item (4) you straighten your back and look well ahead."
+      },
+      "vi": {
+        "question": "Tư thế ngồi đúng là thẳng lưng và nhìn ngay phía trước bánh trước.",
+        "explanation": "Sai. Theo Kyosoku Chương 8 Mục 2 điểm (4), bạn thẳng lưng và nhìn ra xa phía trước."
+      },
+      "pt": {
+        "question": "Na postura correta você endireita as costas e olha logo à frente da roda dianteira.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 8, Seção 2, item (4), endireita-se as costas e olha-se bem adiante."
+      }
+    },
+    "trap_type": "SW",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K8-2-019",
+    "category": "カーブでの運転",
+    "kp": "8-3-1",
+    "group": "T",
+    "source": "教則 第8章第3節1(1)",
+    "question_type": "text",
+    "qf": "QF-8-3-1-D-SC-01",
+    "question_ja": "二輪車でカーブに差し掛かったが、速度を落とさないまま進入し、カーブの途中でブレーキを掛けた。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第8章第3節1(1)により、カーブの手前の直線部分であらかじめ十分速度を落としておかなければなりません。",
+    "i18n": {
+      "zh": {
+        "question": "骑二轮车进入弯道时没有降低速度就驶入，在弯道途中才刹车。",
+        "explanation": "错误。根据教则第8章第3节1(1)，必须在弯道前的直线部分事先充分降低速度。"
+      },
+      "en": {
+        "question": "You came to a curve on a motorcycle, entered it without slowing and braked partway round.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 8 Section 3 item 1(1) you must slow down enough beforehand on the straight leading into the curve."
+      },
+      "vi": {
+        "question": "Bạn tới khúc cua trên xe hai bánh, vào cua mà không giảm tốc rồi bóp phanh giữa cua.",
+        "explanation": "Sai. Theo Kyosoku Chương 8 Mục 3 điểm 1(1), bạn phải giảm tốc đủ mức trên đoạn thẳng trước khúc cua."
+      },
+      "pt": {
+        "question": "Você chegou a uma curva de moto, entrou sem reduzir e freou no meio dela.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 8, Seção 3, item 1(1), é preciso reduzir bem antes, na reta que antecede a curva."
+      }
+    },
+    "trap_type": "SC",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K8-2-020",
+    "category": "二輪車の安全運転",
+    "kp": "8-3",
+    "group": "T",
+    "source": "教則 第8章第3節",
+    "question_type": "text",
+    "qf": "QF-8-3-D-NR-01",
+    "question_ja": "二輪車で渋滞している車の横を通るときに注意すべきなのは、前の車の動きだけである。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第8章第3節により、前の車に乗っている人が急にドアを開けたり、歩行者が車の間から飛び出したりすることにも注意が必要です。",
+    "i18n": {
+      "zh": {
+        "question": "骑二轮车从堵着的车辆旁边通过时，应当注意的只有前车的动向。",
+        "explanation": "错误。根据教则第8章第3节，还要注意前车上的人突然开门，以及步行者从车辆之间跑出来。"
+      },
+      "en": {
+        "question": "Riding past queued traffic on a motorcycle, the only thing to watch is what the vehicle ahead does.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 8 Section 3 you also watch for someone in a stopped car opening a door suddenly and for pedestrians stepping out from between vehicles."
+      },
+      "vi": {
+        "question": "Khi đi xe hai bánh ngang qua dòng xe đang tắc, điều duy nhất cần để ý là xe phía trước.",
+        "explanation": "Sai. Theo Kyosoku Chương 8 Mục 3, bạn còn phải đề phòng người trên xe đang dừng bất ngờ mở cửa và người đi bộ bước ra từ giữa các xe."
+      },
+      "pt": {
+        "question": "Ao passar de moto por uma fila parada, a única coisa a observar é o que faz o veículo da frente.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 8, Seção 3, também se vigia alguém abrindo a porta de repente e pedestres saindo de entre os veículos."
+      }
+    },
+    "trap_type": "NR",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  }
+]
