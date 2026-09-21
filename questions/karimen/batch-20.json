@@ -1,0 +1,662 @@
+[
+  {
+    "id": "K5-6-001",
+    "category": "追越しの禁止",
+    "kp": "5-6-1",
+    "group": "P",
+    "source": "教則 第5章第6節1(1)",
+    "question_type": "text",
+    "qf": "QF-5-6-1-A-N-01",
+    "question_ja": "追越しとは、車が進路を変えて、進行中の前の車の前方に出ることをいう。",
+    "answer": true,
+    "explanation_ja": "教則第5章第6節1(1)のとおりです。進路を変えずに前の車の横を通り過ぎることは、追抜きといいます。",
+    "i18n": {
+      "zh": {
+        "question": "所谓超车，是指车辆变更路线驶到行驶中的前车前方。",
+        "explanation": "符合教则第5章第6节1(1)的规定。不变更路线从前车旁边通过叫作超过（不变道）。"
+      },
+      "en": {
+        "question": "Overtaking means changing course and coming out in front of a vehicle that is moving ahead of you.",
+        "explanation": "This is Kyosoku Chapter 5 Section 6 item 1(1). Going past the vehicle ahead without changing course is called passing."
+      },
+      "vi": {
+        "question": "Vượt xe nghĩa là chuyển hướng rồi đi lên phía trước một xe đang chạy trước mình.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 6 điểm 1(1). Đi qua xe phía trước mà không chuyển hướng được gọi là vượt lên."
+      },
+      "pt": {
+        "question": "Ultrapassagem é mudar de trajetória e sair à frente de um veículo que segue adiante de você.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 6, item 1(1). Passar pelo veículo da frente sem mudar de trajetória chama-se passar à frente."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-6-002",
+    "category": "追越しの禁止",
+    "kp": "5-6-1",
+    "group": "P",
+    "source": "教則 第5章第6節1(2)ア",
+    "question_type": "text",
+    "qf": "QF-5-6-1-A-N-02",
+    "question_ja": "前の車が自動車を追い越そうとしているときは、追越しをしてはいけない。",
+    "answer": true,
+    "explanation_ja": "教則第5章第6節1(2)アのとおりです。これを二重追越しといいます。",
+    "i18n": {
+      "zh": {
+        "question": "前车正要对汽车超车时，不得超车。",
+        "explanation": "符合教则第5章第6节1(2)ア的规定。这叫作二重超车。"
+      },
+      "en": {
+        "question": "You must not overtake while the vehicle ahead of you is itself overtaking a car.",
+        "explanation": "This is Kyosoku Chapter 5 Section 6 item 1(2)(a). This is called double overtaking."
+      },
+      "vi": {
+        "question": "Bạn không được vượt khi xe phía trước đang vượt một ô tô khác.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 6 điểm 1(2)(a). Điều này gọi là vượt kép."
+      },
+      "pt": {
+        "question": "Você não deve ultrapassar enquanto o veículo à sua frente está ultrapassando um automóvel.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 6, item 1(2)(a). Isso se chama ultrapassagem dupla."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-6-003",
+    "category": "追越しの禁止",
+    "kp": "5-6-1",
+    "group": "P",
+    "source": "教則 第5章第6節1(2)イ",
+    "question_type": "text",
+    "qf": "QF-5-6-1-A-N-03",
+    "question_ja": "前の車が右折などのため右側に進路を変えようとしているときは、追越しをしてはいけない。",
+    "answer": true,
+    "explanation_ja": "教則第5章第6節1(2)イのとおりです。追い越そうとする側と前の車の進路が重なるためです。",
+    "i18n": {
+      "zh": {
+        "question": "前车为右拐弯等而准备向右变更路线时，不得超车。",
+        "explanation": "符合教则第5章第6节1(2)イ的规定。因为超车一方与前车的行驶路线会重叠。"
+      },
+      "en": {
+        "question": "You must not overtake while the vehicle ahead is moving to the right in order to turn right or for a similar reason.",
+        "explanation": "This is Kyosoku Chapter 5 Section 6 item 1(2)(b). Your path and the other vehicle's would overlap."
+      },
+      "vi": {
+        "question": "Bạn không được vượt khi xe phía trước đang chuyển sang phải để rẽ phải hoặc vì lý do tương tự.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 6 điểm 1(2)(b). Quỹ đạo của bạn và của xe đó sẽ chồng lên nhau."
+      },
+      "pt": {
+        "question": "Você não deve ultrapassar enquanto o veículo à frente se desloca para a direita a fim de converter ou por motivo semelhante.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 6, item 1(2)(b). As trajetórias se sobreporiam."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-6-004",
+    "category": "追越しの禁止",
+    "kp": "5-6-1",
+    "group": "P",
+    "source": "教則 第5章第6節1(2)エ",
+    "question_type": "text",
+    "qf": "QF-5-6-1-A-N-04",
+    "question_ja": "後ろの車が自分の車を追い越そうとしているときは、追越しをしてはいけない。",
+    "answer": true,
+    "explanation_ja": "教則第5章第6節1(2)エのとおりです。自分が進路を変えると、後ろの車と接触するおそれがあります。",
+    "i18n": {
+      "zh": {
+        "question": "后方车辆正要对自己的车超车时，不得超车。",
+        "explanation": "符合教则第5章第6节1(2)エ的规定。自己变更路线会有与后方车辆接触的危险。"
+      },
+      "en": {
+        "question": "You must not overtake while the vehicle behind is overtaking you.",
+        "explanation": "This is Kyosoku Chapter 5 Section 6 item 1(2)(d). If you change course you risk striking the vehicle behind."
+      },
+      "vi": {
+        "question": "Bạn không được vượt khi xe phía sau đang vượt xe bạn.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 6 điểm 1(2)(d). Nếu bạn chuyển hướng thì có nguy cơ va chạm với xe phía sau."
+      },
+      "pt": {
+        "question": "Você não deve ultrapassar enquanto o veículo de trás está ultrapassando você.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 6, item 1(2)(d). Ao mudar de trajetória você arriscaria atingi-lo."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-6-005",
+    "category": "追越しの禁止",
+    "kp": "5-6-1",
+    "group": "P",
+    "source": "教則 第5章第6節1(2)ウ",
+    "question_type": "text",
+    "qf": "QF-5-6-1-A-N-05",
+    "question_ja": "道路の右側部分に入って追越しをしようとする場合に、前の車の進行を妨げなければ道路の左側部分に戻ることができないようなときは、追越しをしてはいけない。",
+    "answer": true,
+    "explanation_ja": "教則第5章第6節1(2)ウのとおりです。反対方向からの車や路面電車の進行を妨げるようなときも同じです。",
+    "i18n": {
+      "zh": {
+        "question": "驶入道路右侧部分超车时，如果不妨碍前车通行就无法回到道路左侧部分，则不得超车。",
+        "explanation": "符合教则第5章第6节1(2)ウ的规定。会妨碍对向来车或路面电车通行时也一样。"
+      },
+      "en": {
+        "question": "You must not overtake by moving onto the right-hand side of the road if you could only get back to the left-hand side by obstructing the vehicle you passed.",
+        "explanation": "This is Kyosoku Chapter 5 Section 6 item 1(2)(c). The same goes for when you would obstruct oncoming vehicles or streetcars (trams)."
+      },
+      "vi": {
+        "question": "Bạn không được vượt bằng cách lấn sang phần đường bên phải nếu chỉ có thể quay lại phần bên trái bằng cách cản trở chính chiếc xe vừa vượt.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 6 điểm 1(2)(c). Điều tương tự áp dụng khi bạn sẽ cản trở xe hoặc tàu điện đi ngược chiều."
+      },
+      "pt": {
+        "question": "Você não deve ultrapassar passando ao lado direito da via se só conseguisse voltar ao lado esquerdo obstruindo o veículo que passou.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 6, item 1(2)(c). O mesmo vale quando você obstruiria veículos ou bondes em sentido contrário."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-6-006",
+    "category": "追越し禁止場所",
+    "kp": "5-6-1",
+    "group": "P",
+    "source": "教則 第5章第6節1(3)イ",
+    "question_type": "text",
+    "qf": "QF-5-6-1-A-N-06",
+    "question_ja": "道路の曲がり角付近では、自動車や一般原動機付自転車を追い越すため、進路を変えたりその横を通り過ぎたりしてはいけない。",
+    "answer": true,
+    "explanation_ja": "教則第5章第6節1(3)イのとおりです。追越しだけでなく、進路を変えない追抜きも禁じられます。",
+    "i18n": {
+      "zh": {
+        "question": "在道路拐角附近，不得为对汽车或一般轻型摩托车超车而变更路线或从其旁边通过。",
+        "explanation": "符合教则第5章第6节1(3)イ的规定。不仅超车，不变更路线的超过也被禁止。"
+      },
+      "en": {
+        "question": "Near a bend in the road you must not change course to overtake a car or a general motorized bicycle (moped), nor go past it at its side.",
+        "explanation": "This is Kyosoku Chapter 5 Section 6 item 1(3)(b). Passing without changing course is prohibited as well as overtaking."
+      },
+      "vi": {
+        "question": "Gần chỗ ngoặt của đường, bạn không được chuyển hướng để vượt ô tô hay xe gắn máy (原付), cũng không được đi lướt qua bên cạnh nó.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 6 điểm 1(3)(b). Không chỉ vượt xe mà cả việc vượt lên không chuyển hướng cũng bị cấm."
+      },
+      "pt": {
+        "question": "Perto de uma curva da via você não deve mudar de trajetória para ultrapassar um automóvel ou ciclomotor, nem passar ao lado dele.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 6, item 1(3)(b). Passar sem mudar de trajetória é proibido tanto quanto ultrapassar."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-6-007",
+    "category": "追越し禁止場所",
+    "kp": "5-6-1",
+    "group": "P",
+    "source": "教則 第5章第6節1(3)エ",
+    "question_type": "text",
+    "qf": "QF-5-6-1-A-N-07",
+    "question_ja": "トンネルでは追越しのため進路を変えたりその横を通り過ぎたりしてはいけないが、車両通行帯がある場合は除かれる。",
+    "answer": true,
+    "explanation_ja": "教則第5章第6節1(3)エのとおりです。車両通行帯があるトンネルでは、通行帯に従った追越しができます。",
+    "i18n": {
+      "zh": {
+        "question": "在隧道内不得为超车而变更路线或从其旁边通过，但设有车辆通行带的情况除外。",
+        "explanation": "符合教则第5章第6节1(3)エ的规定。在设有车辆通行带的隧道，可以按通行带进行超车。"
+      },
+      "en": {
+        "question": "In a tunnel you must not change course to overtake or go past at the side, except where there are vehicle lanes.",
+        "explanation": "This is Kyosoku Chapter 5 Section 6 item 1(3)(d). In a tunnel with lanes you may overtake within the lanes."
+      },
+      "vi": {
+        "question": "Trong hầm, bạn không được chuyển hướng để vượt hay lướt qua bên cạnh, trừ nơi có làn đường.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 6 điểm 1(3)(d). Trong hầm có làn đường, bạn được vượt theo làn."
+      },
+      "pt": {
+        "question": "Em túnel você não deve mudar de trajetória para ultrapassar nem passar ao lado, exceto onde há faixas de rolamento.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 6, item 1(3)(d). Em túnel com faixas, a ultrapassagem pelas faixas é possível."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-6-008",
+    "category": "追越し禁止場所",
+    "kp": "5-6-1",
+    "group": "P",
+    "source": "教則 第5章第6節1(3)オ",
+    "question_type": "text",
+    "qf": "QF-5-6-1-A-N-08",
+    "question_ja": "交差点とその手前から30メートル以内の場所では追越しのため進路を変えたりその横を通り過ぎたりしてはいけないが、優先道路を通行している場合は除かれる。",
+    "answer": true,
+    "explanation_ja": "教則第5章第6節1(3)オのとおりです。優先道路を通行しているかどうかで扱いが変わります。",
+    "i18n": {
+      "zh": {
+        "question": "在交叉路口及其跟前30米以内的场所，不得为超车而变更路线或从其旁边通过，但正在优先道路上通行的情况除外。",
+        "explanation": "符合教则第5章第6节1(3)オ的规定。处理方式取决于是否正在优先道路上通行。"
+      },
+      "en": {
+        "question": "At an intersection and within the 30 metres before it you must not change course to overtake or go past at the side, except where you are travelling on a priority road.",
+        "explanation": "This is Kyosoku Chapter 5 Section 6 item 1(3)(e). Whether you are on a priority road changes the position."
+      },
+      "vi": {
+        "question": "Tại nút giao thông và trong phạm vi 30 mét trước đó, bạn không được chuyển hướng để vượt hay lướt qua bên cạnh, trừ khi bạn đang đi trên đường ưu tiên.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 6 điểm 1(3)(e). Việc bạn có đang đi trên đường ưu tiên hay không làm thay đổi kết quả."
+      },
+      "pt": {
+        "question": "No cruzamento e nos 30 metros anteriores você não deve mudar de trajetória para ultrapassar nem passar ao lado, exceto quando trafega em via preferencial.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 6, item 1(3)(e). Estar ou não em via preferencial muda a situação."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-6-009",
+    "category": "追越し禁止場所",
+    "kp": "5-6-1",
+    "group": "P",
+    "source": "教則 第5章第6節1(3)カ",
+    "question_type": "text",
+    "qf": "QF-5-6-1-A-N-09",
+    "question_ja": "踏切、横断歩道、自転車横断帯とその手前から30メートル以内の場所では、追越しのため進路を変えたりその横を通り過ぎたりしてはいけない。",
+    "answer": true,
+    "explanation_ja": "教則第5章第6節1(3)カのとおりです。この場所には、交差点のような除外はありません。",
+    "i18n": {
+      "zh": {
+        "question": "在铁路道口、人行横道、自行车横穿带及其跟前30米以内的场所，不得为超车而变更路线或从其旁边通过。",
+        "explanation": "符合教则第5章第6节1(3)カ的规定。这些场所没有像交叉路口那样的除外规定。"
+      },
+      "en": {
+        "question": "At a railway crossing, a pedestrian crossing or a bicycle crossing, and within the 30 metres before it, you must not change course to overtake or go past at the side.",
+        "explanation": "This is Kyosoku Chapter 5 Section 6 item 1(3)(f). There is no exception here of the kind that applies at intersections."
+      },
+      "vi": {
+        "question": "Tại đường ngang đường sắt, vạch sang đường cho người đi bộ hay vạch sang đường cho xe đạp, và trong phạm vi 30 mét trước đó, bạn không được chuyển hướng để vượt hay lướt qua bên cạnh.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 6 điểm 1(3)(f). Ở đây không có ngoại lệ như tại nút giao thông."
+      },
+      "pt": {
+        "question": "Em passagem de nível, faixa de pedestres ou faixa para ciclistas, e nos 30 metros anteriores, você não deve mudar de trajetória para ultrapassar nem passar ao lado.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 6, item 1(3)(f). Aqui não há exceção como a dos cruzamentos."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-6-010",
+    "category": "追越し禁止場所",
+    "kp": "5-6-1",
+    "group": "P",
+    "source": "教則 第5章第6節1(3)ウ",
+    "question_type": "text",
+    "qf": "QF-5-6-1-A-N-10",
+    "question_ja": "上り坂の頂上付近やこう配の急な下り坂では、追越しのため進路を変えたりその横を通り過ぎたりしてはいけない。",
+    "answer": true,
+    "explanation_ja": "教則第5章第6節1(3)ウのとおりです。こう配の急でない下り坂は、この場所にはあたりません。",
+    "i18n": {
+      "zh": {
+        "question": "在上坡坡顶附近或陡下坡，不得为超车而变更路线或从其旁边通过。",
+        "explanation": "符合教则第5章第6节1(3)ウ的规定。坡度不陡的下坡不属于这一场所。"
+      },
+      "en": {
+        "question": "Near the crest of a hill or on a steep downgrade you must not change course to overtake or go past at the side.",
+        "explanation": "This is Kyosoku Chapter 5 Section 6 item 1(3)(c). A downhill stretch that is not steep is not one of these places."
+      },
+      "vi": {
+        "question": "Gần đỉnh dốc hoặc trên dốc xuống gấp, bạn không được chuyển hướng để vượt hay lướt qua bên cạnh.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 6 điểm 1(3)(c). Đoạn dốc xuống không gấp không thuộc những nơi này."
+      },
+      "pt": {
+        "question": "Perto do topo de um aclive ou em declive íngreme você não deve mudar de trajetória para ultrapassar nem passar ao lado.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 6, item 1(3)(c). Uma descida que não seja íngreme não é um desses locais."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-6-011",
+    "category": "追越しの禁止",
+    "kp": "5-6-1",
+    "group": "P",
+    "source": "教則 第5章第6節1(2)ア",
+    "question_type": "text",
+    "qf": "QF-5-6-1-D-EI-01",
+    "question_ja": "前の車が自動車を追い越そうとしているときでも、道路が広ければ追越しをしてよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第6節1(2)アにより、二重追越しは危険なので禁じられており、道幅は関係ありません。",
+    "i18n": {
+      "zh": {
+        "question": "即使前车正要对汽车超车，只要道路宽阔也可以超车。",
+        "explanation": "错误。根据教则第5章第6节1(2)ア，二重超车危险因而被禁止，与路宽无关。"
+      },
+      "en": {
+        "question": "Even while the vehicle ahead is overtaking a car, you may overtake if the road is wide.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 6 item 1(2)(a) double overtaking is prohibited as dangerous, and the width of the road is irrelevant."
+      },
+      "vi": {
+        "question": "Ngay cả khi xe phía trước đang vượt một ô tô, bạn vẫn được vượt nếu đường rộng.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 6 điểm 1(2)(a), vượt kép bị cấm vì nguy hiểm, và bề rộng đường không liên quan."
+      },
+      "pt": {
+        "question": "Mesmo enquanto o veículo à frente ultrapassa um automóvel, você pode ultrapassar se a via for larga.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 6, item 1(2)(a), a ultrapassagem dupla é proibida por ser perigosa, e a largura da via não importa."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-6-012",
+    "category": "追越し禁止場所",
+    "kp": "5-6-1",
+    "group": "P",
+    "source": "教則 第5章第6節1(3)オ",
+    "question_type": "text",
+    "qf": "QF-5-6-1-D-NU-01",
+    "question_ja": "交差点とその手前から10メートル以内の場所では、追越しのため進路を変えてはいけない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第6節1(3)オにより、交差点とその手前から30メートル以内の場所です。",
+    "i18n": {
+      "zh": {
+        "question": "在交叉路口及其跟前10米以内的场所，不得为超车而变更路线。",
+        "explanation": "错误。根据教则第5章第6节1(3)オ，是交叉路口及其跟前30米以内的场所。"
+      },
+      "en": {
+        "question": "At an intersection and within the 10 metres before it you must not change course to overtake.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 6 item 1(3)(e) the distance is 30 metres before the intersection."
+      },
+      "vi": {
+        "question": "Tại nút giao thông và trong phạm vi 10 mét trước đó, bạn không được chuyển hướng để vượt.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 6 điểm 1(3)(e), khoảng cách là 30 mét trước nút giao."
+      },
+      "pt": {
+        "question": "No cruzamento e nos 10 metros anteriores você não deve mudar de trajetória para ultrapassar.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 6, item 1(3)(e), a distância é de 30 metros antes do cruzamento."
+      }
+    },
+    "trap_type": "NU",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-6-013",
+    "category": "追越し禁止場所",
+    "kp": "5-6-1",
+    "group": "P",
+    "source": "教則 第5章第6節1(3)オ",
+    "question_type": "text",
+    "qf": "QF-5-6-1-D-EO-01",
+    "question_ja": "交差点とその手前から30メートル以内の場所では、どのような場合でも追越しをしてはいけない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第6節1(3)オにより、優先道路を通行している場合は除かれます。",
+    "i18n": {
+      "zh": {
+        "question": "在交叉路口及其跟前30米以内的场所，无论什么情况都不得超车。",
+        "explanation": "错误。根据教则第5章第6节1(3)オ，正在优先道路上通行的情况除外。"
+      },
+      "en": {
+        "question": "At an intersection and within the 30 metres before it you must never overtake, in any circumstances.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 6 item 1(3)(e) travelling on a priority road is an exception."
+      },
+      "vi": {
+        "question": "Tại nút giao thông và trong phạm vi 30 mét trước đó, bạn không bao giờ được vượt, trong mọi hoàn cảnh.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 6 điểm 1(3)(e), việc đang đi trên đường ưu tiên là ngoại lệ."
+      },
+      "pt": {
+        "question": "No cruzamento e nos 30 metros anteriores você nunca pode ultrapassar, em nenhuma circunstância.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 6, item 1(3)(e), trafegar em via preferencial é exceção."
+      }
+    },
+    "trap_type": "EO",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-6-014",
+    "category": "追越し禁止場所",
+    "kp": "5-6-1",
+    "group": "P",
+    "source": "教則 第5章第6節1(3)エ",
+    "question_type": "text",
+    "qf": "QF-5-6-1-D-EO-02",
+    "question_ja": "トンネルの中では、どのような場合でも追越しをしてはいけない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第6節1(3)エにより、車両通行帯があるトンネルは除かれます。",
+    "i18n": {
+      "zh": {
+        "question": "在隧道内，无论什么情况都不得超车。",
+        "explanation": "错误。根据教则第5章第6节1(3)エ，设有车辆通行带的隧道除外。"
+      },
+      "en": {
+        "question": "Inside a tunnel you must never overtake, in any circumstances.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 6 item 1(3)(d) a tunnel with vehicle lanes is an exception."
+      },
+      "vi": {
+        "question": "Trong hầm, bạn không bao giờ được vượt, trong mọi hoàn cảnh.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 6 điểm 1(3)(d), hầm có làn đường là ngoại lệ."
+      },
+      "pt": {
+        "question": "Dentro de um túnel você nunca pode ultrapassar, em nenhuma circunstância.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 6, item 1(3)(d), o túnel com faixas de rolamento é exceção."
+      }
+    },
+    "trap_type": "EO",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-6-015",
+    "category": "追越し禁止場所",
+    "kp": "5-6-1",
+    "group": "P",
+    "source": "教則 第5章第6節1(3)",
+    "question_type": "text",
+    "qf": "QF-5-6-1-D-NR-01",
+    "question_ja": "追越し禁止場所で禁じられるのは追越しだけで、進路を変えずにその横を通り過ぎることまでは禁じられていない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第6節1(3)により、これらの場所では進路を変えることも横を通り過ぎることも禁じられています。",
+    "i18n": {
+      "zh": {
+        "question": "在禁止超车场所被禁止的只有超车，不变更路线从其旁边通过并未被禁止。",
+        "explanation": "错误。根据教则第5章第6节1(3)，在这些场所变更路线和从旁边通过都被禁止。"
+      },
+      "en": {
+        "question": "What is prohibited in a no-overtaking place is overtaking alone; going past at the side without changing course is not.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 6 item 1(3) both changing course and going past at the side are prohibited in these places."
+      },
+      "vi": {
+        "question": "Ở nơi cấm vượt, điều bị cấm chỉ là vượt xe; việc lướt qua bên cạnh mà không chuyển hướng thì không bị cấm.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 6 điểm 1(3), ở những nơi này cả việc chuyển hướng lẫn lướt qua bên cạnh đều bị cấm."
+      },
+      "pt": {
+        "question": "O que se proíbe num local de ultrapassagem proibida é só ultrapassar; passar ao lado sem mudar de trajetória, não.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 6, item 1(3), nesses locais tanto mudar de trajetória quanto passar ao lado são proibidos."
+      }
+    },
+    "trap_type": "NR",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-6-016",
+    "category": "追越しの禁止",
+    "kp": "5-6-1",
+    "group": "P",
+    "source": "教則 第5章第6節1(2)エ",
+    "question_type": "text",
+    "qf": "QF-5-6-1-D-EI-02",
+    "question_ja": "後ろの車が自分の車を追い越そうとしているときでも、自分のほうが先に前の車を追い越してよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第6節1(2)エにより、後ろの車が追い越そうとしているときは追越しをしてはいけません。",
+    "i18n": {
+      "zh": {
+        "question": "即使后方车辆正要对自己的车超车，自己也可以抢先对前车超车。",
+        "explanation": "错误。根据教则第5章第6节1(2)エ，后方车辆正要超车时不得超车。"
+      },
+      "en": {
+        "question": "Even while the vehicle behind is overtaking you, you may overtake the one ahead first.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 6 item 1(2)(d) you must not overtake while the vehicle behind is overtaking you."
+      },
+      "vi": {
+        "question": "Ngay cả khi xe phía sau đang vượt xe bạn, bạn vẫn được vượt xe phía trước trước đã.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 6 điểm 1(2)(d), bạn không được vượt khi xe phía sau đang vượt bạn."
+      },
+      "pt": {
+        "question": "Mesmo enquanto o veículo de trás o ultrapassa, você pode ultrapassar antes o que vai à frente.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 6, item 1(2)(d), não se ultrapassa enquanto o veículo de trás está ultrapassando você."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-6-017",
+    "category": "追越しの禁止",
+    "kp": "5-6-1",
+    "group": "P",
+    "source": "教則 第5章第6節1(1)",
+    "question_type": "text",
+    "qf": "QF-5-6-1-D-SW-01",
+    "question_ja": "追越しとは、進路を変えずに進行中の前の車の前方に出ることをいう。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第6節1(1)により、追越しは進路を変えて前の車の前方に出ることをいいます。",
+    "i18n": {
+      "zh": {
+        "question": "所谓超车，是指不变更路线驶到行驶中的前车前方。",
+        "explanation": "错误。根据教则第5章第6节1(1)，超车是指变更路线驶到前车前方。"
+      },
+      "en": {
+        "question": "Overtaking means coming out in front of a moving vehicle ahead without changing course.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 6 item 1(1) overtaking involves changing course to come out in front."
+      },
+      "vi": {
+        "question": "Vượt xe nghĩa là đi lên phía trước một xe đang chạy trước mình mà không chuyển hướng.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 6 điểm 1(1), vượt xe là chuyển hướng rồi đi lên phía trước."
+      },
+      "pt": {
+        "question": "Ultrapassagem é sair à frente de um veículo em movimento sem mudar de trajetória.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 6, item 1(1), ultrapassar envolve mudar de trajetória para sair à frente."
+      }
+    },
+    "trap_type": "SW",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-6-018",
+    "category": "追越し禁止場所",
+    "kp": "5-6-1",
+    "group": "P",
+    "source": "教則 第5章第6節1(3)ウ",
+    "question_type": "text",
+    "qf": "QF-5-6-1-D-EI-03",
+    "question_ja": "こう配の急な下り坂でも、前方の見通しがよければ追越しをしてよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第6節1(3)ウにより、こう配の急な下り坂は見通しにかかわらず追越し禁止場所です。",
+    "i18n": {
+      "zh": {
+        "question": "即使是陡下坡，只要前方视野良好也可以超车。",
+        "explanation": "错误。根据教则第5章第6节1(3)ウ，陡下坡无论视野如何都是禁止超车场所。"
+      },
+      "en": {
+        "question": "Even on a steep downgrade you may overtake if the view ahead is clear.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 6 item 1(3)(c) a steep downgrade is a no-overtaking place whatever the view."
+      },
+      "vi": {
+        "question": "Ngay trên dốc xuống gấp, bạn vẫn được vượt nếu tầm nhìn phía trước tốt.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 6 điểm 1(3)(c), dốc xuống gấp là nơi cấm vượt bất kể tầm nhìn."
+      },
+      "pt": {
+        "question": "Mesmo em declive íngreme você pode ultrapassar se a visibilidade adiante for boa.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 6, item 1(3)(c), o declive íngreme é local de ultrapassagem proibida seja qual for a visibilidade."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-6-019",
+    "category": "追越しの禁止",
+    "kp": "5-6-1",
+    "group": "P",
+    "source": "教則 第5章第6節1(2)イ",
+    "question_type": "text",
+    "qf": "QF-5-6-1-D-SC-01",
+    "question_ja": "前の車が右の方向指示器を出していたが、自分の車のほうが速かったので、その右側を通って追い越した。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第6節1(2)イにより、前の車が右側に進路を変えようとしているときは追越しをしてはいけません。",
+    "i18n": {
+      "zh": {
+        "question": "前车已经打了右转向灯，但因为自己的车更快，就从其右侧超了过去。",
+        "explanation": "错误。根据教则第5章第6节1(2)イ，前车正要向右变更路线时不得超车。"
+      },
+      "en": {
+        "question": "The vehicle ahead had its right indicator on, but because you were faster you overtook it on its right.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 6 item 1(2)(b) you must not overtake while the vehicle ahead is moving to the right."
+      },
+      "vi": {
+        "question": "Xe phía trước đang bật xi nhan phải, nhưng vì xe bạn nhanh hơn nên bạn vượt bên phải nó.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 6 điểm 1(2)(b), bạn không được vượt khi xe phía trước đang chuyển sang phải."
+      },
+      "pt": {
+        "question": "O veículo à frente estava com a seta direita ligada, mas como você era mais rápido, ultrapassou-o pela direita.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 6, item 1(2)(b), não se ultrapassa enquanto o veículo à frente se desloca para a direita."
+      }
+    },
+    "trap_type": "SC",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-6-020",
+    "category": "追越し禁止場所",
+    "kp": "5-6-1",
+    "group": "P",
+    "source": "教則 第5章第6節1(3)",
+    "question_type": "text",
+    "qf": "QF-5-6-1-D-NR-02",
+    "question_ja": "追越し禁止場所で追い越してはいけないのは自動車だけで、一般原動機付自転車を追い越すことは禁じられていない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第6節1(3)により、自動車と一般原動機付自転車のどちらを追い越す場合も禁じられています。",
+    "i18n": {
+      "zh": {
+        "question": "在禁止超车场所不得超车的对象只有汽车，对一般轻型摩托车超车并未被禁止。",
+        "explanation": "错误。根据教则第5章第6节1(3)，对汽车超车和对一般轻型摩托车超车两种情况都被禁止。"
+      },
+      "en": {
+        "question": "In a no-overtaking place only cars may not be overtaken; overtaking a general motorized bicycle (moped) is not prohibited.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 6 item 1(3) overtaking either a car or a general motorized bicycle is prohibited there."
+      },
+      "vi": {
+        "question": "Ở nơi cấm vượt chỉ ô tô là không được vượt; vượt xe gắn máy (原付) thì không bị cấm.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 6 điểm 1(3), ở đó cấm vượt cả ô tô lẫn xe gắn máy."
+      },
+      "pt": {
+        "question": "Em local de ultrapassagem proibida só os automóveis não podem ser ultrapassados; ultrapassar um ciclomotor não é proibido.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 6, item 1(3), ali é proibido ultrapassar tanto automóvel quanto ciclomotor."
+      }
+    },
+    "trap_type": "NR",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  }
+]

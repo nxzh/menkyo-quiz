@@ -1,0 +1,662 @@
+[
+  {
+    "id": "K5-6-021",
+    "category": "追越しの方法",
+    "kp": "5-6-2",
+    "group": "P",
+    "source": "教則 第5章第6節2(1)",
+    "question_type": "text",
+    "qf": "QF-5-6-2-A-N-01",
+    "question_ja": "ほかの車を追い越すときは、その右側を通行しなければならない。",
+    "answer": true,
+    "explanation_ja": "教則第5章第6節2(1)のとおりです。前の車が右折のため道路の中央に寄っているときや、路面電車を追い越すときは左側を通行します。",
+    "i18n": {
+      "zh": {
+        "question": "对其他车辆超车时，必须从其右侧通过。",
+        "explanation": "符合教则第5章第6节2(1)的规定。前车为右拐弯而靠道路中央时，以及对路面电车超车时，要从左侧通过。"
+      },
+      "en": {
+        "question": "When you overtake another vehicle you must pass on its right.",
+        "explanation": "This is Kyosoku Chapter 5 Section 6 item 2(1). You pass on the left when the vehicle ahead has moved to the centre to turn right, and when overtaking a streetcar (tram)."
+      },
+      "vi": {
+        "question": "Khi vượt xe khác, bạn phải đi qua bên phải của xe đó.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 6 điểm 2(1). Bạn đi qua bên trái khi xe phía trước đã áp sát tim đường để rẽ phải, và khi vượt tàu điện mặt đất."
+      },
+      "pt": {
+        "question": "Ao ultrapassar outro veículo você deve passar pela direita dele.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 6, item 2(1). Passa-se pela esquerda quando o veículo à frente já se deslocou ao centro para converter à direita e ao ultrapassar um bonde."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-6-022",
+    "category": "追越しの方法",
+    "kp": "5-6-2",
+    "group": "P",
+    "source": "教則 第5章第6節2(1)",
+    "question_type": "text",
+    "qf": "QF-5-6-2-A-N-02",
+    "question_ja": "ほかの車が右折するため道路の中央（一方通行の道路では右端）に寄って通行しているときは、その左側を通行して追い越さなければならない。",
+    "answer": true,
+    "explanation_ja": "教則第5章第6節2(1)のとおりです。路面電車を追い越そうとするときも左側を通行します。",
+    "i18n": {
+      "zh": {
+        "question": "其他车辆为右拐弯而靠道路中央（单向通行的道路为右端）行驶时，必须从其左侧通过进行超车。",
+        "explanation": "符合教则第5章第6节2(1)的规定。对路面电车超车时也从左侧通过。"
+      },
+      "en": {
+        "question": "Where another vehicle has moved to the centre of the road, or to the right edge on a one-way road, in order to turn right, you must overtake it on its left.",
+        "explanation": "This is Kyosoku Chapter 5 Section 6 item 2(1). You also pass on the left when overtaking a streetcar (tram)."
+      },
+      "vi": {
+        "question": "Khi xe khác đã áp sát tim đường, hoặc mép phải trên đường một chiều, để rẽ phải, bạn phải vượt nó bên trái.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 6 điểm 2(1). Bạn cũng đi bên trái khi vượt tàu điện mặt đất."
+      },
+      "pt": {
+        "question": "Quando outro veículo se deslocou ao centro da via, ou à borda direita em mão única, para converter à direita, você deve ultrapassá-lo pela esquerda.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 6, item 2(1). Também se passa pela esquerda ao ultrapassar um bonde."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-6-023",
+    "category": "追越しの方法",
+    "kp": "5-6-2",
+    "group": "P",
+    "source": "教則 第5章第6節2(2)",
+    "question_type": "text",
+    "qf": "QF-5-6-2-A-N-03",
+    "question_ja": "追越し中は、追い越す車との間に安全な間隔を保つようにしなければならない。",
+    "answer": true,
+    "explanation_ja": "教則第5章第6節2(2)のとおりです。間隔が取れないときは、追越しそのものを見合わせます。",
+    "i18n": {
+      "zh": {
+        "question": "超车过程中，必须与被超车辆之间保持安全间隔。",
+        "explanation": "符合教则第5章第6节2(2)的规定。无法保持间隔时，就要放弃超车本身。"
+      },
+      "en": {
+        "question": "While overtaking you must keep a safe clearance between yourself and the vehicle you are passing.",
+        "explanation": "This is Kyosoku Chapter 5 Section 6 item 2(2). Where such a clearance is not possible, you hold off overtaking at all."
+      },
+      "vi": {
+        "question": "Trong khi vượt, bạn phải giữ khoảng cách an toàn với chiếc xe đang vượt qua.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 6 điểm 2(2). Khi không giữ được khoảng cách đó, bạn hoãn việc vượt lại."
+      },
+      "pt": {
+        "question": "Durante a ultrapassagem você deve manter um espaço seguro entre você e o veículo que passa.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 6, item 2(2). Quando esse espaço não é possível, desiste-se da ultrapassagem."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-6-024",
+    "category": "追越しの方法",
+    "kp": "5-6-2",
+    "group": "P",
+    "source": "教則 第5章第6節2(4)",
+    "question_type": "text",
+    "qf": "QF-5-6-2-A-N-04",
+    "question_ja": "追い越されるときは、追越しが終わるまで速度を上げてはいけない。",
+    "answer": true,
+    "explanation_ja": "教則第5章第6節2(4)のとおりです。追越しに十分な余地のない場合は、できるだけ左に寄り進路を譲ります。",
+    "i18n": {
+      "zh": {
+        "question": "被超车时，在超车结束之前不得加速。",
+        "explanation": "符合教则第5章第6节2(4)的规定。没有足够超车余地时，要尽量靠左让出路线。"
+      },
+      "en": {
+        "question": "When you are being overtaken you must not increase speed until the overtaking is finished.",
+        "explanation": "This is Kyosoku Chapter 5 Section 6 item 2(4). Where there is not enough room for the overtaking, you move as far left as you can and give way."
+      },
+      "vi": {
+        "question": "Khi bị xe khác vượt, bạn không được tăng tốc cho đến khi việc vượt kết thúc.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 6 điểm 2(4). Khi không đủ chỗ cho việc vượt, bạn đi sát trái hết mức và nhường đường."
+      },
+      "pt": {
+        "question": "Ao ser ultrapassado você não deve aumentar a velocidade até que a ultrapassagem termine.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 6, item 2(4). Se não houver espaço suficiente, você se desloca o máximo à esquerda e dá passagem."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-6-025",
+    "category": "追越しの方法",
+    "kp": "5-6-2",
+    "group": "P",
+    "source": "教則 第5章第6節2(3)",
+    "question_type": "text",
+    "qf": "QF-5-6-2-A-N-05",
+    "question_ja": "車両通行帯のある道路で最も右側の車両通行帯を通行して追越しをした場合は、追越しが終わったときに速やかにそれ以外の車両通行帯に戻らなければならない。",
+    "answer": true,
+    "explanation_ja": "教則第5章第6節2(3)のとおりです。通行し続けると速度超過や車間距離の不足につながります。",
+    "i18n": {
+      "zh": {
+        "question": "在设有车辆通行带的道路上通行最右侧车辆通行带进行超车时，超车结束后必须迅速回到其他车辆通行带。",
+        "explanation": "符合教则第5章第6节2(3)的规定。继续行驶会导致超速和车距不足。"
+      },
+      "en": {
+        "question": "Where you have used the rightmost lane to overtake on a road with vehicle lanes, you must return promptly to one of the other lanes once the overtaking is finished.",
+        "explanation": "This is Kyosoku Chapter 5 Section 6 item 2(3). Staying there leads to speeding and to following too close."
+      },
+      "vi": {
+        "question": "Khi đã dùng làn ngoài cùng bên phải để vượt trên đường có làn đường, bạn phải nhanh chóng trở về một làn khác sau khi vượt xong.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 6 điểm 2(3). Ở lại làn đó dẫn tới chạy quá tốc độ và khoảng cách với xe trước quá ngắn."
+      },
+      "pt": {
+        "question": "Tendo usado a faixa mais à direita para ultrapassar em via com faixas, você deve voltar sem demora a outra faixa ao terminar.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 6, item 2(3). Permanecer ali leva a excesso de velocidade e a distância curta demais."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-6-026",
+    "category": "追越しの手順",
+    "kp": "5-6-3",
+    "group": "P",
+    "source": "教則 第5章第6節3",
+    "question_type": "text",
+    "qf": "QF-5-6-3-A-N-01",
+    "question_ja": "追越しをするときは、追越し禁止の場所でないことを確かめたうえで、前方と右側や右斜め後方の安全を確かめてから右側の方向指示器を出す。",
+    "answer": true,
+    "explanation_ja": "教則第5章第6節3のとおりです。道路の右側部分にはみ出した追越しをする場合は、反対方向の安全も確かめます。",
+    "i18n": {
+      "zh": {
+        "question": "超车时，要在确认不是禁止超车场所之后，确认前方以及右侧、右斜后方的安全，然后打右转向灯。",
+        "explanation": "符合教则第5章第6节3的规定。要驶出到道路右侧部分超车时，还要确认对向的安全。"
+      },
+      "en": {
+        "question": "To overtake you first confirm that the place is not a no-overtaking one, then check that it is safe ahead and to the right and right rear, and only then use the right indicator.",
+        "explanation": "This is Kyosoku Chapter 5 Section 6 item 3. If you will cross onto the right-hand side of the road, you check that the oncoming side is clear as well."
+      },
+      "vi": {
+        "question": "Khi vượt, trước hết bạn xác nhận nơi đó không cấm vượt, rồi kiểm tra an toàn phía trước, bên phải và chếch sau bên phải, sau đó mới bật xi nhan phải.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 6 điểm 3. Nếu sẽ lấn sang phần đường bên phải, bạn còn kiểm tra an toàn ở chiều ngược lại."
+      },
+      "pt": {
+        "question": "Para ultrapassar você primeiro confirma que o local não é de ultrapassagem proibida, depois confere a segurança à frente, à direita e na traseira direita, e só então aciona a seta direita.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 6, item 3. Se for transpor para o lado direito da via, confere também o sentido contrário."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-6-027",
+    "category": "追越しの手順",
+    "kp": "5-6-3",
+    "group": "P",
+    "source": "教則 第5章第6節3",
+    "question_type": "text",
+    "qf": "QF-5-6-3-A-N-02",
+    "question_ja": "追越しでは、右側の方向指示器を出してから約3秒後に、最高速度の制限内で加速しながら進路を緩やかに右にとる。",
+    "answer": true,
+    "explanation_ja": "教則第5章第6節3のとおりです。加速は、あくまで最高速度の制限内で行います。",
+    "i18n": {
+      "zh": {
+        "question": "超车时，打右转向灯约3秒后，在最高速度限制之内一边加速一边缓缓将路线向右移。",
+        "explanation": "符合教则第5章第6节3的规定。加速始终要在最高速度限制之内进行。"
+      },
+      "en": {
+        "question": "In overtaking you move gently to the right about three seconds after using the right indicator, accelerating within the speed limit.",
+        "explanation": "This is Kyosoku Chapter 5 Section 6 item 3. The acceleration stays within the maximum speed throughout."
+      },
+      "vi": {
+        "question": "Khi vượt, bạn chuyển nhẹ sang phải khoảng ba giây sau khi bật xi nhan phải, tăng tốc trong giới hạn tốc độ.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 6 điểm 3. Việc tăng tốc luôn nằm trong giới hạn tốc độ tối đa."
+      },
+      "pt": {
+        "question": "Na ultrapassagem você desloca-se suavemente à direita cerca de três segundos depois de acionar a seta, acelerando dentro do limite de velocidade.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 6, item 3. A aceleração permanece sempre dentro da velocidade máxima."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-6-028",
+    "category": "追越しの手順",
+    "kp": "5-6-3",
+    "group": "P",
+    "source": "教則 第5章第6節3",
+    "question_type": "text",
+    "qf": "QF-5-6-3-A-N-03",
+    "question_ja": "追い越した後は、左側の方向指示器を出し、追い越した車がルームミラーで見えるくらいの距離までそのまま進んでから進路を緩やかに左にとる。",
+    "answer": true,
+    "explanation_ja": "教則第5章第6節3のとおりです。進路を戻してから合図をやめます。",
+    "i18n": {
+      "zh": {
+        "question": "超过之后，打左转向灯，一直行驶到从车内后视镜能看见被超车辆的距离，再缓缓将路线向左移。",
+        "explanation": "符合教则第5章第6节3的规定。回到原路线后再停止打信号。"
+      },
+      "en": {
+        "question": "After passing you use the left indicator, carry on until the vehicle you passed can be seen in the rear-view mirror, and then move gently back to the left.",
+        "explanation": "This is Kyosoku Chapter 5 Section 6 item 3. You stop signalling once you are back in your lane."
+      },
+      "vi": {
+        "question": "Sau khi vượt, bạn bật xi nhan trái, đi tiếp cho đến khi nhìn thấy chiếc xe vừa vượt trong gương chiếu hậu, rồi mới chuyển nhẹ về bên trái.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 6 điểm 3. Bạn tắt báo hiệu sau khi đã trở về làn của mình."
+      },
+      "pt": {
+        "question": "Depois de passar você aciona a seta esquerda, segue até enxergar no retrovisor o veículo ultrapassado e então volta suavemente à esquerda.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 6, item 3. O sinal é desligado depois que você retorna à sua faixa."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-6-029",
+    "category": "割込みなど",
+    "kp": "5-6-4",
+    "group": "P",
+    "source": "教則 第5章第6節4",
+    "question_type": "text",
+    "qf": "QF-5-6-4-A-N-01",
+    "question_ja": "前の車が交差点や踏切などで停止や徐行しているときは、その前に割り込んだり、その前を横切ったりしてはいけない。",
+    "answer": true,
+    "explanation_ja": "教則第5章第6節4のとおりです。そのほかの場合でも、ほかの車の前方に急に割り込んではいけません。",
+    "i18n": {
+      "zh": {
+        "question": "前车在交叉路口或铁路道口等处停住或缓行（徐行）时，不得插入其前方，也不得从其前方横穿。",
+        "explanation": "符合教则第5章第6节4的规定。其他情况下也不得突然插入其他车辆前方。"
+      },
+      "en": {
+        "question": "When the vehicle ahead has stopped or is moving slowly at an intersection, a railway crossing or the like, you must not cut in front of it or cross in front of it.",
+        "explanation": "This is Kyosoku Chapter 5 Section 6 item 4. In other situations too you must not cut suddenly in front of another vehicle."
+      },
+      "vi": {
+        "question": "Khi xe phía trước đang dừng hoặc đi chậm tại nút giao thông, đường ngang đường sắt hay nơi tương tự, bạn không được chen lên trước nó hay cắt ngang trước nó.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 6 điểm 4. Trong các tình huống khác bạn cũng không được đột ngột chen lên trước xe khác."
+      },
+      "pt": {
+        "question": "Quando o veículo à frente está parado ou em marcha lenta num cruzamento, passagem de nível ou local semelhante, você não deve entrar à frente dele nem cruzar na sua frente.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 6, item 4. Em outras situações também não se entra de repente à frente de outro veículo."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-6-030",
+    "category": "行き違い",
+    "kp": "5-6-5",
+    "group": "P",
+    "source": "教則 第5章第6節5(2)",
+    "question_type": "text",
+    "qf": "QF-5-6-5-A-N-01",
+    "question_ja": "進路の前方に障害物があるときは、あらかじめ一時停止か減速をして、反対方向からの車に道を譲る。",
+    "answer": true,
+    "explanation_ja": "教則第5章第6節5(2)のとおりです。障害物のある側の車が待つのが原則です。",
+    "i18n": {
+      "zh": {
+        "question": "行驶路线前方有障碍物时，要事先暂停（一時停止）或减速，给对向来车让路。",
+        "explanation": "符合教则第5章第6节5(2)的规定。原则上是障碍物一侧的车辆等待。"
+      },
+      "en": {
+        "question": "Where there is an obstruction ahead in your path, you come to a complete stop (一時停止) or slow down beforehand and give way to oncoming vehicles.",
+        "explanation": "This is Kyosoku Chapter 5 Section 6 item 5(2). As a rule it is the vehicle on the obstructed side that waits."
+      },
+      "vi": {
+        "question": "Khi phía trước lối đi của bạn có chướng ngại vật, bạn tạm dừng (一時停止) hoặc giảm tốc từ trước và nhường đường cho xe ngược chiều.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 6 điểm 5(2). Về nguyên tắc, xe ở phía có chướng ngại vật là bên phải chờ."
+      },
+      "pt": {
+        "question": "Havendo um obstáculo adiante no seu caminho, faça parada obrigatória (一時停止) ou reduza antes e dê passagem aos veículos em sentido contrário.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 6, item 5(2). Como regra, quem espera é o veículo do lado obstruído."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-6-031",
+    "category": "追越しの方法",
+    "kp": "5-6-2",
+    "group": "P",
+    "source": "教則 第5章第6節2(1)",
+    "question_type": "text",
+    "qf": "QF-5-6-2-D-SW-01",
+    "question_ja": "路面電車を追い越そうとするときは、その右側を通行しなければならない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第6節2(1)により、路面電車を追い越そうとするときはその左側を通行します。",
+    "i18n": {
+      "zh": {
+        "question": "对路面电车超车时，必须从其右侧通过。",
+        "explanation": "错误。根据教则第5章第6节2(1)，对路面电车超车时要从其左侧通过。"
+      },
+      "en": {
+        "question": "To overtake a streetcar (tram) you must pass on its right.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 6 item 2(1) you pass a streetcar on its left."
+      },
+      "vi": {
+        "question": "Để vượt tàu điện mặt đất, bạn phải đi qua bên phải của nó.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 6 điểm 2(1), bạn vượt tàu điện mặt đất ở bên trái của nó."
+      },
+      "pt": {
+        "question": "Para ultrapassar um bonde você deve passar pela direita dele.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 6, item 2(1), o bonde é ultrapassado pela esquerda."
+      }
+    },
+    "trap_type": "SW",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-6-032",
+    "category": "追越しの方法",
+    "kp": "5-6-2",
+    "group": "P",
+    "source": "教則 第5章第6節2(4)",
+    "question_type": "text",
+    "qf": "QF-5-6-2-D-EI-01",
+    "question_ja": "追い越されるときは、追い越す車が早く追越しを終えられるように、こちらも速度を上げるとよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第6節2(4)により、追い越されるときは追越しが終わるまで速度を上げてはいけません。",
+    "i18n": {
+      "zh": {
+        "question": "被超车时，为了让超车的车辆尽快完成超车，自己也应该加速。",
+        "explanation": "错误。根据教则第5章第6节2(4)，被超车时在超车结束之前不得加速。"
+      },
+      "en": {
+        "question": "When you are being overtaken it is best to speed up as well, so the other vehicle can finish sooner.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 6 item 2(4) you must not increase speed until the overtaking is finished."
+      },
+      "vi": {
+        "question": "Khi bị vượt, tốt nhất bạn cũng tăng tốc để xe kia sớm vượt xong.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 6 điểm 2(4), bạn không được tăng tốc cho đến khi việc vượt kết thúc."
+      },
+      "pt": {
+        "question": "Ao ser ultrapassado, o melhor é acelerar também, para que o outro termine logo.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 6, item 2(4), não se aumenta a velocidade até a ultrapassagem terminar."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-6-033",
+    "category": "追越しの手順",
+    "kp": "5-6-3",
+    "group": "P",
+    "source": "教則 第5章第6節3",
+    "question_type": "text",
+    "qf": "QF-5-6-3-D-OR-01",
+    "question_ja": "追越しでは、進路を右にとってから右側の方向指示器を出す。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第6節3により、右側の方向指示器を出し、約3秒後に進路を緩やかに右にとります。",
+    "i18n": {
+      "zh": {
+        "question": "超车时，先把路线向右移，然后再打右转向灯。",
+        "explanation": "错误。根据教则第5章第6节3，要先打右转向灯，约3秒后再缓缓将路线向右移。"
+      },
+      "en": {
+        "question": "In overtaking you move to the right first and use the right indicator after that.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 6 item 3 you use the right indicator and move gently right about three seconds later."
+      },
+      "vi": {
+        "question": "Khi vượt, bạn chuyển sang phải trước rồi mới bật xi nhan phải.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 6 điểm 3, bạn bật xi nhan phải rồi khoảng ba giây sau mới chuyển nhẹ sang phải."
+      },
+      "pt": {
+        "question": "Na ultrapassagem você se desloca à direita primeiro e aciona a seta depois.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 6, item 3, aciona-se a seta e cerca de três segundos depois desloca-se suavemente à direita."
+      }
+    },
+    "trap_type": "OR",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-6-034",
+    "category": "追越しの手順",
+    "kp": "5-6-3",
+    "group": "P",
+    "source": "教則 第5章第6節3",
+    "question_type": "text",
+    "qf": "QF-5-6-3-D-EI-01",
+    "question_ja": "追越しのときは、前の車より速く走る必要があるので、最高速度を超えて加速してもよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第6節3により、加速は最高速度の制限内で行わなければなりません。",
+    "i18n": {
+      "zh": {
+        "question": "超车时因为需要比前车跑得快，所以可以超过最高速度加速。",
+        "explanation": "错误。根据教则第5章第6节3，加速必须在最高速度限制之内进行。"
+      },
+      "en": {
+        "question": "Since overtaking means going faster than the vehicle ahead, you may accelerate past the maximum speed.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 6 item 3 the acceleration must stay within the maximum speed."
+      },
+      "vi": {
+        "question": "Vì vượt xe nghĩa là phải chạy nhanh hơn xe phía trước, bạn được tăng tốc vượt quá tốc độ tối đa.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 6 điểm 3, việc tăng tốc phải nằm trong giới hạn tốc độ tối đa."
+      },
+      "pt": {
+        "question": "Como ultrapassar significa andar mais rápido que o veículo da frente, você pode acelerar além da velocidade máxima.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 6, item 3, a aceleração deve permanecer dentro da velocidade máxima."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-6-035",
+    "category": "追越しの手順",
+    "kp": "5-6-3",
+    "group": "P",
+    "source": "教則 第5章第6節3",
+    "question_type": "text",
+    "qf": "QF-5-6-3-D-NR-01",
+    "question_ja": "追越しの前に確かめるのは前方の安全だけでよく、右斜め後方までは確かめなくてよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第6節3により、バックミラーなどで右側や右斜め後方の安全も確かめます。",
+    "i18n": {
+      "zh": {
+        "question": "超车前只要确认前方安全就可以，不需要确认到右斜后方。",
+        "explanation": "错误。根据教则第5章第6节3，还要用后视镜等确认右侧和右斜后方的安全。"
+      },
+      "en": {
+        "question": "Before overtaking you need only check that it is safe ahead; the right rear need not be checked.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 6 item 3 you also check the right side and right rear in the mirrors."
+      },
+      "vi": {
+        "question": "Trước khi vượt bạn chỉ cần kiểm tra an toàn phía trước; phía chếch sau bên phải thì không cần.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 6 điểm 3, bạn còn kiểm tra an toàn bên phải và chếch sau bên phải bằng gương."
+      },
+      "pt": {
+        "question": "Antes de ultrapassar basta conferir a segurança à frente; a traseira direita não precisa ser conferida.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 6, item 3, também se confere o lado direito e a traseira direita pelos espelhos."
+      }
+    },
+    "trap_type": "NR",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-6-036",
+    "category": "割込みなど",
+    "kp": "5-6-4",
+    "group": "P",
+    "source": "教則 第5章第6節4",
+    "question_type": "text",
+    "qf": "QF-5-6-4-D-EI-01",
+    "question_ja": "前の車が交差点で停止していても、その車が動き出す前であれば、その前に割り込んでよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第6節4により、停止や徐行している車の前に割り込んではいけません。",
+    "i18n": {
+      "zh": {
+        "question": "即使前车在交叉路口停住，只要在该车启动之前，也可以插入其前方。",
+        "explanation": "错误。根据教则第5章第6节4，不得插入停住或缓行（徐行）的车辆前方。"
+      },
+      "en": {
+        "question": "Even where the vehicle ahead has stopped at an intersection, you may cut in front of it as long as it has not started moving.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 6 item 4 you must not cut in front of a vehicle that has stopped or is moving slowly."
+      },
+      "vi": {
+        "question": "Ngay cả khi xe phía trước đang dừng tại nút giao thông, bạn vẫn được chen lên trước nó miễn là nó chưa lăn bánh.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 6 điểm 4, bạn không được chen lên trước xe đang dừng hoặc đi chậm."
+      },
+      "pt": {
+        "question": "Mesmo com o veículo à frente parado no cruzamento, você pode entrar à frente dele enquanto ele não arrancar.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 6, item 4, não se entra à frente de veículo parado ou em marcha lenta."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-6-037",
+    "category": "割込みなど",
+    "kp": "5-6-4",
+    "group": "P",
+    "source": "教則 第5章第6節4",
+    "question_type": "text",
+    "qf": "QF-5-6-4-D-NR-01",
+    "question_ja": "割込みが禁じられるのは交差点や踏切で停止している車の前だけで、そのほかの場所では急に割り込んでも差し支えない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第6節4により、そのほかの場合でも、ほかの車の前方に急に割り込んではいけません。",
+    "i18n": {
+      "zh": {
+        "question": "被禁止插队的只有在交叉路口或铁路道口停住的车辆前方，在其他场所突然插队也没有关系。",
+        "explanation": "错误。根据教则第5章第6节4，其他情况下也不得突然插入其他车辆前方。"
+      },
+      "en": {
+        "question": "Cutting in is prohibited only in front of vehicles stopped at an intersection or railway crossing; elsewhere cutting in suddenly is acceptable.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 6 item 4 you must not cut suddenly in front of another vehicle in other situations either."
+      },
+      "vi": {
+        "question": "Việc chen ngang chỉ bị cấm trước xe đang dừng ở nút giao hay đường ngang đường sắt; ở nơi khác thì chen đột ngột cũng không sao.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 6 điểm 4, trong các tình huống khác bạn cũng không được đột ngột chen lên trước xe khác."
+      },
+      "pt": {
+        "question": "Entrar de repente só é proibido à frente de veículos parados em cruzamento ou passagem de nível; em outros lugares não tem problema.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 6, item 4, também nas demais situações não se entra de repente à frente de outro veículo."
+      }
+    },
+    "trap_type": "NR",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-6-038",
+    "category": "行き違い",
+    "kp": "5-6-5",
+    "group": "P",
+    "source": "教則 第5章第6節5(2)",
+    "question_type": "text",
+    "qf": "QF-5-6-5-D-SW-01",
+    "question_ja": "進路の前方に障害物があるときは、反対方向からの車のほうが一時停止か減速をして道を譲らなければならない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第6節5(2)により、あらかじめ一時停止か減速をして道を譲るのは、障害物のある側の車です。",
+    "i18n": {
+      "zh": {
+        "question": "行驶路线前方有障碍物时，应由对向来车暂停（一時停止）或减速让路。",
+        "explanation": "错误。根据教则第5章第6节5(2)，事先暂停或减速让路的是障碍物一侧的车辆。"
+      },
+      "en": {
+        "question": "Where there is an obstruction ahead in your path, it is the oncoming vehicle that must stop or slow down and give way.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 6 item 5(2) it is the vehicle on the obstructed side that stops or slows beforehand and gives way."
+      },
+      "vi": {
+        "question": "Khi phía trước lối đi của bạn có chướng ngại vật, chính xe ngược chiều mới phải dừng hoặc giảm tốc để nhường đường.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 6 điểm 5(2), xe ở phía có chướng ngại vật mới là bên tạm dừng hoặc giảm tốc từ trước và nhường đường."
+      },
+      "pt": {
+        "question": "Havendo obstáculo adiante no seu caminho, é o veículo em sentido contrário que deve parar ou reduzir e dar passagem.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 6, item 5(2), quem para ou reduz antes e dá passagem é o veículo do lado obstruído."
+      }
+    },
+    "trap_type": "SW",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-6-039",
+    "category": "追越しの方法",
+    "kp": "5-6-2",
+    "group": "P",
+    "source": "教則 第5章第6節2(3)",
+    "question_type": "text",
+    "qf": "QF-5-6-2-D-EI-02",
+    "question_ja": "最も右側の車両通行帯を通行して追越しをした後は、次の追越しに備えてそのまま通行し続けてよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第6節2(3)により、追越しが終わったときは速やかにそれ以外の車両通行帯に戻らなければなりません。",
+    "i18n": {
+      "zh": {
+        "question": "通行最右侧车辆通行带完成超车后，为准备下一次超车可以继续在该通行带行驶。",
+        "explanation": "错误。根据教则第5章第6节2(3)，超车结束后必须迅速回到其他车辆通行带。"
+      },
+      "en": {
+        "question": "After overtaking in the rightmost lane you may stay in it, ready for the next overtaking.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 6 item 2(3) you must return promptly to one of the other lanes once the overtaking is finished."
+      },
+      "vi": {
+        "question": "Sau khi vượt ở làn ngoài cùng bên phải, bạn được ở lại làn đó để sẵn sàng cho lần vượt tiếp theo.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 6 điểm 2(3), sau khi vượt xong bạn phải nhanh chóng trở về một làn khác."
+      },
+      "pt": {
+        "question": "Depois de ultrapassar pela faixa mais à direita você pode permanecer nela, pronto para a próxima ultrapassagem.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 6, item 2(3), ao terminar você deve voltar sem demora a outra faixa."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-6-040",
+    "category": "追越しの方法",
+    "kp": "5-6-2",
+    "group": "P",
+    "source": "教則 第5章第6節2(2)",
+    "question_type": "text",
+    "qf": "QF-5-6-2-D-SC-01",
+    "question_ja": "道幅が狭く追い越す車との間に十分な間隔が取れなかったが、相手が自転車だったのでそのまま追い越した。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第6節2(2)により、追越し中は追い越す車との間に安全な間隔を保たなければなりません。",
+    "i18n": {
+      "zh": {
+        "question": "路面狭窄，与被超车辆之间无法保持足够间隔，但因为对方是自行车就照样超了过去。",
+        "explanation": "错误。根据教则第5章第6节2(2)，超车过程中必须与被超车辆之间保持安全间隔。"
+      },
+      "en": {
+        "question": "The road was narrow and you could not leave enough clearance, but you overtook anyway because the other vehicle was a bicycle.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 6 item 2(2) you must keep a safe clearance from the vehicle you are passing."
+      },
+      "vi": {
+        "question": "Đường hẹp và bạn không chừa đủ khoảng cách, nhưng vẫn vượt vì xe kia chỉ là xe đạp.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 6 điểm 2(2), bạn phải giữ khoảng cách an toàn với chiếc xe đang vượt qua."
+      },
+      "pt": {
+        "question": "A via era estreita e você não conseguia deixar espaço suficiente, mas ultrapassou assim mesmo porque o outro era uma bicicleta.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 6, item 2(2), é preciso manter espaço seguro em relação ao veículo ultrapassado."
+      }
+    },
+    "trap_type": "SC",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  }
+]

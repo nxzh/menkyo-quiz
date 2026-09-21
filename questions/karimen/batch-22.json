@@ -1,0 +1,662 @@
+[
+  {
+    "id": "K5-7-014",
+    "category": "交差点の通行方法",
+    "kp": "5-7-2",
+    "group": "Q",
+    "source": "教則 第5章第7節2(1)",
+    "question_type": "text",
+    "qf": "QF-5-7-2-A-N-01",
+    "question_ja": "交差点で左折しようとするときは、あらかじめできるだけ道路の左端に寄り、交差点の側端に沿って徐行しながら通行しなければならない。",
+    "answer": true,
+    "explanation_ja": "教則第5章第7節2(1)のとおりです。左端に寄るのは、自転車などの巻き込みを防ぐためでもあります。",
+    "i18n": {
+      "zh": {
+        "question": "在交叉路口准备左拐弯时，必须事先尽量靠道路左端，沿交叉路口的外侧边缘缓行（徐行）通过。",
+        "explanation": "符合教则第5章第7节2(1)的规定。靠左端也是为了防止卷入自行车等。"
+      },
+      "en": {
+        "question": "To turn left at an intersection you must first keep as far to the left of the road as you can and proceed slowly (徐行) along the edge of the intersection.",
+        "explanation": "This is Kyosoku Chapter 5 Section 7 item 2(1). Keeping left also stops you drawing in a bicycle alongside."
+      },
+      "vi": {
+        "question": "Để rẽ trái tại nút giao thông, bạn phải đi sát mép trái của đường từ trước và lưu thông chậm (徐行) dọc theo mép nút giao.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 7 điểm 2(1). Việc đi sát trái cũng để tránh cuốn xe đạp vào bên trong."
+      },
+      "pt": {
+        "question": "Para converter à esquerda num cruzamento você deve antes manter-se o mais à esquerda possível e prosseguir lentamente (徐行) junto à borda do cruzamento.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 7, item 2(1). Manter-se à esquerda também evita prender uma bicicleta ao lado."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-7-015",
+    "category": "交差点の通行方法",
+    "kp": "5-7-2",
+    "group": "Q",
+    "source": "教則 第5章第7節2(2)",
+    "question_type": "text",
+    "qf": "QF-5-7-2-A-N-02",
+    "question_ja": "交差点で右折しようとするときは、あらかじめできるだけ道路の中央に寄り、交差点の中心のすぐ内側を徐行しながら通行しなければならない。",
+    "answer": true,
+    "explanation_ja": "教則第5章第7節2(2)のとおりです。一般原動機付自転車が二段階の右折方法により右折しようとするときは別です。",
+    "i18n": {
+      "zh": {
+        "question": "在交叉路口准备右拐弯时，必须事先尽量靠道路中央，沿交叉路口中心的紧内侧缓行（徐行）通过。",
+        "explanation": "符合教则第5章第7节2(2)的规定。一般轻型摩托车采用二阶段右拐弯方法时除外。"
+      },
+      "en": {
+        "question": "To turn right at an intersection you must first keep as close to the centre of the road as you can and proceed slowly (徐行) just inside the centre of the intersection.",
+        "explanation": "This is Kyosoku Chapter 5 Section 7 item 2(2). A general motorized bicycle (moped) making a two-step right turn is an exception."
+      },
+      "vi": {
+        "question": "Để rẽ phải tại nút giao thông, bạn phải áp sát tim đường từ trước và lưu thông chậm (徐行) ngay phía trong tâm nút giao.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 7 điểm 2(2). Xe gắn máy (原付) rẽ phải theo cách hai bước là ngoại lệ."
+      },
+      "pt": {
+        "question": "Para converter à direita num cruzamento você deve antes aproximar-se o máximo do centro da via e prosseguir lentamente (徐行) logo por dentro do centro do cruzamento.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 7, item 2(2). O ciclomotor em conversão de duas etapas é exceção."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-7-016",
+    "category": "交差点の通行方法",
+    "kp": "5-7-2",
+    "group": "Q",
+    "source": "教則 第5章第7節2(3)",
+    "question_type": "text",
+    "qf": "QF-5-7-2-A-N-03",
+    "question_ja": "一方通行の道路から右折するときは、あらかじめ道路の右端に寄り、交差点の中心の内側を徐行しながら通行する。",
+    "answer": true,
+    "explanation_ja": "教則第5章第7節2(3)のとおりです。一方通行では対向車がないため、右端に寄ります。",
+    "i18n": {
+      "zh": {
+        "question": "从单向通行的道路右拐弯时，要事先靠道路右端，沿交叉路口中心的内侧缓行（徐行）通过。",
+        "explanation": "符合教则第5章第7节2(3)的规定。单向通行没有对向车，所以靠右端。"
+      },
+      "en": {
+        "question": "To turn right from a one-way road you first keep to the right edge of the road and proceed slowly (徐行) inside the centre of the intersection.",
+        "explanation": "This is Kyosoku Chapter 5 Section 7 item 2(3). On a one-way road there is no oncoming traffic, so you keep right."
+      },
+      "vi": {
+        "question": "Để rẽ phải từ đường một chiều, bạn đi sát mép phải của đường từ trước và lưu thông chậm (徐行) phía trong tâm nút giao.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 7 điểm 2(3). Trên đường một chiều không có xe ngược chiều nên bạn áp sát bên phải."
+      },
+      "pt": {
+        "question": "Para converter à direita a partir de uma via de mão única você primeiro se mantém na borda direita e prossegue lentamente (徐行) por dentro do centro do cruzamento.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 7, item 2(3). Em mão única não há tráfego contrário, por isso se mantém à direita."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-7-017",
+    "category": "交差点の通行方法",
+    "kp": "5-7-2",
+    "group": "Q",
+    "source": "教則 第5章第7節2(4)",
+    "question_type": "text",
+    "qf": "QF-5-7-2-A-N-04",
+    "question_ja": "右左折の場合に、矢印などの標示によって通行方法が指定されているときは、その指定に従わなければならない。",
+    "answer": true,
+    "explanation_ja": "教則第5章第7節2(4)のとおりです。標示による指定は、一般的な右左折の方法に優先します。",
+    "i18n": {
+      "zh": {
+        "question": "右拐弯或左拐弯时，由箭头等路面标示指定了通行方法的，必须按照该指定通行。",
+        "explanation": "符合教则第5章第7节2(4)的规定。标示的指定优先于一般的右拐弯左拐弯方法。"
+      },
+      "en": {
+        "question": "Where arrows or other road markings specify how to turn, you must follow that specification.",
+        "explanation": "This is Kyosoku Chapter 5 Section 7 item 2(4). A specification by marking overrides the general method of turning."
+      },
+      "vi": {
+        "question": "Khi mũi tên hoặc vạch kẻ đường khác chỉ định cách rẽ, bạn phải tuân theo chỉ định đó.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 7 điểm 2(4). Chỉ định bằng vạch kẻ đường được ưu tiên hơn cách rẽ thông thường."
+      },
+      "pt": {
+        "question": "Quando setas ou outra sinalização horizontal indicam a forma de converter, você deve seguir essa indicação.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 7, item 2(4). A indicação por marcação prevalece sobre o método geral de conversão."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-7-018",
+    "category": "交差点の通行方法",
+    "kp": "5-7-2",
+    "group": "Q",
+    "source": "教則 第5章第7節2(5)",
+    "question_type": "text",
+    "qf": "QF-5-7-2-A-N-05",
+    "question_ja": "右折しようとする場合に、その交差点で直進や左折をする車があるときは、自分の車が先に交差点に入っていてもその進行を妨げてはいけない。",
+    "answer": true,
+    "explanation_ja": "教則第5章第7節2(5)のとおりです。路面電車がある場合も同じです。",
+    "i18n": {
+      "zh": {
+        "question": "准备右拐弯时，如果该交叉路口有直行或左拐弯的车辆，即使自己的车先驶入交叉路口，也不得妨碍其通行。",
+        "explanation": "符合教则第5章第7节2(5)的规定。有路面电车时也一样。"
+      },
+      "en": {
+        "question": "When you are turning right and there are vehicles going straight on or turning left at that intersection, you must not obstruct them even if your own vehicle entered the intersection first.",
+        "explanation": "This is Kyosoku Chapter 5 Section 7 item 2(5). The same goes for streetcars (trams)."
+      },
+      "vi": {
+        "question": "Khi bạn rẽ phải mà tại nút giao có xe đi thẳng hoặc rẽ trái, bạn không được cản trở chúng dù xe bạn vào nút giao trước.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 7 điểm 2(5). Điều tương tự áp dụng với tàu điện mặt đất."
+      },
+      "pt": {
+        "question": "Ao converter à direita, havendo veículos seguindo em frente ou convertendo à esquerda naquele cruzamento, você não deve obstruí-los mesmo tendo entrado antes.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 7, item 2(5). O mesmo vale para os bondes."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-7-019",
+    "category": "交差点の通行方法",
+    "kp": "5-7-1",
+    "group": "Q",
+    "source": "教則 第5章第7節1(1)",
+    "question_type": "text",
+    "qf": "QF-5-7-1-A-N-02",
+    "question_ja": "交差点に入ろうとするときや交差点内を通行するときは、右折車や歩行者などに気を配りながら、交差点の状況に応じてできる限り安全な速度と方法で進行しなければならない。",
+    "answer": true,
+    "explanation_ja": "教則第5章第7節1(1)のとおりです。交差点とその付近は、最も事故が多い場所です。",
+    "i18n": {
+      "zh": {
+        "question": "准备驶入交叉路口或在交叉路口内通行时，必须在关注右拐弯车辆和步行者等的同时，根据交叉路口的状况以尽可能安全的速度和方法行驶。",
+        "explanation": "符合教则第5章第7节1(1)的规定。交叉路口及其附近是事故最多的地方。"
+      },
+      "en": {
+        "question": "When entering an intersection or travelling inside one you must proceed at the safest possible speed and in the safest possible manner for its state, with an eye on turning vehicles and pedestrians.",
+        "explanation": "This is Kyosoku Chapter 5 Section 7 item 1(1). Intersections and their surroundings are where accidents happen most."
+      },
+      "vi": {
+        "question": "Khi sắp vào nút giao thông hoặc đang đi trong nút giao, bạn phải đi với tốc độ và cách thức an toàn nhất có thể tùy tình hình, đồng thời để ý xe rẽ và người đi bộ.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 7 điểm 1(1). Nút giao thông và vùng lân cận là nơi xảy ra nhiều tai nạn nhất."
+      },
+      "pt": {
+        "question": "Ao entrar num cruzamento ou circular dentro dele você deve seguir na velocidade e da maneira mais seguras possíveis conforme a situação, atento a quem converte e aos pedestres.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 7, item 1(1). Cruzamentos e suas imediações são onde mais ocorrem acidentes."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-7-020",
+    "category": "交差点の通行方法",
+    "kp": "5-7-1",
+    "group": "Q",
+    "source": "教則 第5章第7節1(1)",
+    "question_type": "text",
+    "qf": "QF-5-7-1-A-N-03",
+    "question_ja": "右折しようとするときは、対向車線を直進する二輪車が見えにくくなることがあるので、十分注意する。",
+    "answer": true,
+    "explanation_ja": "教則第5章第7節1(1)のとおりです。二輪車は車体が小さく、速度や距離をつかみにくいという特性もあります。",
+    "i18n": {
+      "zh": {
+        "question": "准备右拐弯时，对向车道上直行的摩托车有时不易看清，所以要充分注意。",
+        "explanation": "符合教则第5章第7节1(1)的规定。摩托车车身小，速度和距离也不易把握。"
+      },
+      "en": {
+        "question": "When you are about to turn right, a two-wheeled vehicle coming straight on in the oncoming lane can be hard to see, so take particular care.",
+        "explanation": "This is Kyosoku Chapter 5 Section 7 item 1(1). A two-wheeler is small, and its speed and distance are hard to judge."
+      },
+      "vi": {
+        "question": "Khi sắp rẽ phải, xe hai bánh đi thẳng ở làn ngược chiều có thể khó nhìn thấy, nên hãy đặc biệt chú ý.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 7 điểm 1(1). Xe hai bánh có thân nhỏ, tốc độ và khoảng cách của nó cũng khó ước lượng."
+      },
+      "pt": {
+        "question": "Ao converter à direita, um veículo de duas rodas que segue reto na faixa contrária pode ficar difícil de ver, então redobre a atenção.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 7, item 1(1). O veículo de duas rodas é pequeno, e sua velocidade e distância são difíceis de avaliar."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-7-021",
+    "category": "交差点の通行方法",
+    "kp": "5-7-1",
+    "group": "Q",
+    "source": "教則 第5章第7節1(3)",
+    "question_type": "text",
+    "qf": "QF-5-7-1-A-N-04",
+    "question_ja": "車が右左折するときは内輪差が生じ、特に大型車は内輪差が大きく左後方が見えにくいので、左側を通行している歩行者や自転車を巻き込まないよう注意する。",
+    "answer": true,
+    "explanation_ja": "教則第5章第7節1(3)のとおりです。内輪差とは、曲がるとき後輪が前輪より内側を通ることによる前後輪の軌跡の差です。",
+    "i18n": {
+      "zh": {
+        "question": "车辆右拐弯左拐弯时会产生内轮差，特别是大型车内轮差大、左后方不易看清，所以要注意不要卷入在左侧通行的步行者和自行车。",
+        "explanation": "符合教则第5章第7节1(3)的规定。所谓内轮差，是指转弯时后轮比前轮更靠内侧通过而产生的前后轮轨迹之差。"
+      },
+      "en": {
+        "question": "A turning vehicle has an inner wheel difference, and a large vehicle in particular has a big one and poor visibility to its left rear, so take care not to draw in pedestrians or bicycles on your left.",
+        "explanation": "This is Kyosoku Chapter 5 Section 7 item 1(3). The inner wheel difference is the gap between the paths of the front and rear wheels in a turn."
+      },
+      "vi": {
+        "question": "Xe khi rẽ sẽ có chênh lệch vòng bánh trong, và xe cỡ lớn có chênh lệch lớn cùng tầm nhìn kém ở chếch sau bên trái, nên hãy cẩn thận đừng cuốn người đi bộ hay xe đạp ở bên trái.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 7 điểm 1(3). Chênh lệch vòng bánh trong là khoảng cách giữa quỹ đạo bánh trước và bánh sau khi rẽ."
+      },
+      "pt": {
+        "question": "O veículo que converte tem diferença de trajetória das rodas internas, e o veículo grande em especial tem uma grande e pouca visão à traseira esquerda, então cuidado para não prender pedestres ou bicicletas à sua esquerda.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 7, item 1(3). Essa diferença é a distância entre as trajetórias das rodas dianteiras e traseiras na curva."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-7-022",
+    "category": "交差点の通行方法",
+    "kp": "5-7-2",
+    "group": "Q",
+    "source": "教則 第5章第7節2(2)",
+    "question_type": "text",
+    "qf": "QF-5-7-2-A-N-06",
+    "question_ja": "一般原動機付自転車が二段階の右折方法により右折しようとするときは、道路の中央に寄る必要はない。",
+    "answer": true,
+    "explanation_ja": "教則第5章第7節2(2)のとおりです。二段階右折では、道路の左端に寄って交差点の向こう側まで直進します。",
+    "i18n": {
+      "zh": {
+        "question": "一般轻型摩托车采用二阶段右拐弯方法右拐弯时，不需要靠道路中央。",
+        "explanation": "符合教则第5章第7节2(2)的规定。二阶段右拐弯是靠道路左端直行到交叉路口对面一侧。"
+      },
+      "en": {
+        "question": "A general motorized bicycle (moped) making a two-step right turn does not need to move to the centre of the road.",
+        "explanation": "This is Kyosoku Chapter 5 Section 7 item 2(2). In a two-step right turn it keeps to the left edge and goes straight to the far side of the intersection."
+      },
+      "vi": {
+        "question": "Xe gắn máy (原付) rẽ phải theo cách hai bước không cần áp sát tim đường.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 7 điểm 2(2). Trong cách rẽ hai bước, xe đi sát mép trái và đi thẳng sang phía bên kia nút giao."
+      },
+      "pt": {
+        "question": "O ciclomotor que faz conversão à direita em duas etapas não precisa se deslocar ao centro da via.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 7, item 2(2). Nessa conversão ele se mantém na borda esquerda e segue reto até o outro lado do cruzamento."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-7-023",
+    "category": "交差点の通行方法",
+    "kp": "5-7-2",
+    "group": "Q",
+    "source": "教則 第5章第7節2(1)",
+    "question_type": "text",
+    "qf": "QF-5-7-2-A-N-07",
+    "question_ja": "交差点での左折も右折も、徐行しながら通行しなければならない点は共通している。",
+    "answer": true,
+    "explanation_ja": "教則第5章第7節2(1)(2)のとおりです。違うのは、あらかじめ寄せる位置です。",
+    "i18n": {
+      "zh": {
+        "question": "在交叉路口无论左拐弯还是右拐弯，都必须缓行（徐行）通过，这一点是共通的。",
+        "explanation": "符合教则第5章第7节2(1)(2)的规定。不同的是事先靠边的位置。"
+      },
+      "en": {
+        "question": "Turning left and turning right at an intersection have this in common: both must be done proceeding slowly (徐行).",
+        "explanation": "This is Kyosoku Chapter 5 Section 7 items 2(1) and 2(2). What differs is where you position the vehicle beforehand."
+      },
+      "vi": {
+        "question": "Rẽ trái và rẽ phải tại nút giao thông có điểm chung: cả hai đều phải thực hiện khi lưu thông chậm (徐行).",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 7 điểm 2(1) và 2(2). Khác nhau là ở vị trí bạn áp sát từ trước."
+      },
+      "pt": {
+        "question": "Converter à esquerda e à direita num cruzamento têm isto em comum: ambas se fazem prosseguindo lentamente (徐行).",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 7, itens 2(1) e 2(2). O que muda é onde você se posiciona antes."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-7-024",
+    "category": "交差点の通行方法",
+    "kp": "5-7-2",
+    "group": "Q",
+    "source": "教則 第5章第7節2(1)",
+    "question_type": "text",
+    "qf": "QF-5-7-2-D-SW-01",
+    "question_ja": "交差点で左折しようとするときは、あらかじめできるだけ道路の中央に寄って通行する。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第7節2(1)により、左折しようとするときはできるだけ道路の左端に寄ります。",
+    "i18n": {
+      "zh": {
+        "question": "在交叉路口准备左拐弯时，要事先尽量靠道路中央通行。",
+        "explanation": "错误。根据教则第5章第7节2(1)，准备左拐弯时要尽量靠道路左端。"
+      },
+      "en": {
+        "question": "To turn left at an intersection you first keep as close to the centre of the road as you can.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 7 item 2(1) you keep as far to the left of the road as you can to turn left."
+      },
+      "vi": {
+        "question": "Để rẽ trái tại nút giao thông, bạn áp sát tim đường từ trước.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 7 điểm 2(1), để rẽ trái bạn đi sát mép trái của đường."
+      },
+      "pt": {
+        "question": "Para converter à esquerda num cruzamento você primeiro se aproxima o máximo do centro da via.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 7, item 2(1), para converter à esquerda você se mantém o mais à esquerda possível."
+      }
+    },
+    "trap_type": "SW",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-7-025",
+    "category": "交差点の通行方法",
+    "kp": "5-7-2",
+    "group": "Q",
+    "source": "教則 第5章第7節2(5)",
+    "question_type": "text",
+    "qf": "QF-5-7-2-D-EI-01",
+    "question_ja": "右折しようとする場合に、自分の車が先に交差点に入っていたときは、直進してくる車より先に右折してよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第7節2(5)により、先に交差点に入っていても直進や左折をする車の進行を妨げてはいけません。",
+    "i18n": {
+      "zh": {
+        "question": "准备右拐弯时，如果自己的车先驶入了交叉路口，就可以抢在直行来车之前右拐弯。",
+        "explanation": "错误。根据教则第5章第7节2(5)，即使先驶入交叉路口，也不得妨碍直行或左拐弯车辆的通行。"
+      },
+      "en": {
+        "question": "When turning right, you may turn ahead of oncoming vehicles going straight if your own vehicle entered the intersection first.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 7 item 2(5) you must not obstruct vehicles going straight on or turning left, even if you entered first."
+      },
+      "vi": {
+        "question": "Khi rẽ phải, bạn được rẽ trước xe đi thẳng nếu xe bạn đã vào nút giao trước.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 7 điểm 2(5), dù vào trước bạn cũng không được cản trở xe đi thẳng hay rẽ trái."
+      },
+      "pt": {
+        "question": "Ao converter à direita, você pode virar antes dos veículos que seguem reto se o seu entrou primeiro no cruzamento.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 7, item 2(5), mesmo tendo entrado antes você não deve obstruir quem segue reto ou converte à esquerda."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-7-026",
+    "category": "交差点の通行方法",
+    "kp": "5-7-2",
+    "group": "Q",
+    "source": "教則 第5章第7節2(3)",
+    "question_type": "text",
+    "qf": "QF-5-7-2-D-SW-02",
+    "question_ja": "一方通行の道路から右折するときは、あらかじめ道路の中央に寄って通行する。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第7節2(3)により、一方通行の道路から右折するときは道路の右端に寄ります。",
+    "i18n": {
+      "zh": {
+        "question": "从单向通行的道路右拐弯时，要事先靠道路中央通行。",
+        "explanation": "错误。根据教则第5章第7节2(3)，从单向通行的道路右拐弯时要靠道路右端。"
+      },
+      "en": {
+        "question": "To turn right from a one-way road you first move to the centre of the road.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 7 item 2(3) you keep to the right edge of the road when turning right from a one-way road."
+      },
+      "vi": {
+        "question": "Để rẽ phải từ đường một chiều, bạn áp sát tim đường từ trước.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 7 điểm 2(3), khi rẽ phải từ đường một chiều bạn đi sát mép phải của đường."
+      },
+      "pt": {
+        "question": "Para converter à direita a partir de via de mão única você primeiro se desloca ao centro da via.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 7, item 2(3), nesse caso você se mantém na borda direita da via."
+      }
+    },
+    "trap_type": "SW",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-7-027",
+    "category": "交差点の通行方法",
+    "kp": "5-7-2",
+    "group": "Q",
+    "source": "教則 第5章第7節2(4)",
+    "question_type": "text",
+    "qf": "QF-5-7-2-D-EI-02",
+    "question_ja": "矢印などの標示で右左折の通行方法が指定されていても、交通量が少なければ従わなくてよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第7節2(4)により、指定があるときはその指定に従わなければなりません。",
+    "i18n": {
+      "zh": {
+        "question": "即使由箭头等标示指定了右拐弯左拐弯的通行方法，交通量少时也可以不服从。",
+        "explanation": "错误。根据教则第5章第7节2(4)，有指定时必须按照该指定通行。"
+      },
+      "en": {
+        "question": "Even where arrows or other markings specify how to turn, you need not follow them when traffic is light.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 7 item 2(4) you must follow the specification where one exists."
+      },
+      "vi": {
+        "question": "Ngay cả khi mũi tên hoặc vạch kẻ đường chỉ định cách rẽ, bạn không cần tuân theo nếu xe cộ thưa thớt.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 7 điểm 2(4), khi có chỉ định bạn phải tuân theo chỉ định đó."
+      },
+      "pt": {
+        "question": "Mesmo com setas ou marcações indicando a forma de converter, não é preciso segui-las quando há pouco trânsito.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 7, item 2(4), havendo indicação você deve segui-la."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-7-028",
+    "category": "交差点の通行方法",
+    "kp": "5-7-1",
+    "group": "Q",
+    "source": "教則 第5章第7節1(3)",
+    "question_type": "text",
+    "qf": "QF-5-7-1-D-SW-01",
+    "question_ja": "内輪差とは、車が曲がるときに前輪が後輪より内側を通ることによる前後輪の軌跡の差をいう。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第7節1(3)により、内輪差は後輪が前輪より内側を通ることによる軌跡の差です。",
+    "i18n": {
+      "zh": {
+        "question": "所谓内轮差，是指车辆转弯时前轮比后轮更靠内侧通过而产生的前后轮轨迹之差。",
+        "explanation": "错误。根据教则第5章第7节1(3)，内轮差是后轮比前轮更靠内侧通过而产生的轨迹之差。"
+      },
+      "en": {
+        "question": "The inner wheel difference is the gap between the paths of the front and rear wheels caused by the front wheels running inside the rear ones in a turn.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 7 item 1(3) it is the rear wheels that run inside the front ones."
+      },
+      "vi": {
+        "question": "Chênh lệch vòng bánh trong là khoảng cách giữa quỹ đạo bánh trước và bánh sau do bánh trước đi phía trong bánh sau khi rẽ.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 7 điểm 1(3), chính bánh sau mới đi phía trong bánh trước."
+      },
+      "pt": {
+        "question": "A diferença de trajetória das rodas internas vem de as rodas dianteiras passarem por dentro das traseiras na curva.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 7, item 1(3), são as traseiras que passam por dentro das dianteiras."
+      }
+    },
+    "trap_type": "SW",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-7-029",
+    "category": "交差点の通行方法",
+    "kp": "5-7-2",
+    "group": "Q",
+    "source": "教則 第5章第7節2(1)",
+    "question_type": "text",
+    "qf": "QF-5-7-2-D-NR-01",
+    "question_ja": "交差点で左折するときは、あらかじめ道路の左端に寄りさえすればよく、徐行までは必要ない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第7節2(1)により、左端に寄ったうえで、交差点の側端に沿って徐行しなければなりません。",
+    "i18n": {
+      "zh": {
+        "question": "在交叉路口左拐弯时，只要事先靠道路左端就可以，不需要缓行（徐行）。",
+        "explanation": "错误。根据教则第5章第7节2(1)，靠左端之后还必须沿交叉路口的外侧边缘缓行。"
+      },
+      "en": {
+        "question": "To turn left at an intersection it is enough to move to the left edge beforehand; proceeding slowly (徐行) is not required.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 7 item 2(1) you must also proceed slowly along the edge of the intersection."
+      },
+      "vi": {
+        "question": "Để rẽ trái tại nút giao thông chỉ cần áp sát mép trái từ trước là đủ; không cần lưu thông chậm (徐行).",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 7 điểm 2(1), sau khi áp sát trái bạn còn phải đi chậm dọc theo mép nút giao."
+      },
+      "pt": {
+        "question": "Para converter à esquerda basta encostar antes na borda esquerda; prosseguir lentamente (徐行) não é necessário.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 7, item 2(1), é preciso também prosseguir lentamente junto à borda do cruzamento."
+      }
+    },
+    "trap_type": "NR",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-7-030",
+    "category": "交差点の通行方法",
+    "kp": "5-7-2",
+    "group": "Q",
+    "source": "教則 第5章第7節2(2)",
+    "question_type": "text",
+    "qf": "QF-5-7-2-D-EX-01",
+    "question_ja": "交差点で右折しようとするすべての車は、あらかじめできるだけ道路の中央に寄らなければならない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第7節2(2)により、二段階の右折方法により右折する一般原動機付自転車は別の方法によります。",
+    "i18n": {
+      "zh": {
+        "question": "在交叉路口准备右拐弯的所有车辆，都必须事先尽量靠道路中央。",
+        "explanation": "错误。根据教则第5章第7节2(2)，采用二阶段右拐弯方法的一般轻型摩托车按另外的方法进行。"
+      },
+      "en": {
+        "question": "Every vehicle about to turn right at an intersection must first keep as close to the centre of the road as it can.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 7 item 2(2) a general motorized bicycle (moped) making a two-step right turn uses a different method."
+      },
+      "vi": {
+        "question": "Mọi xe sắp rẽ phải tại nút giao thông đều phải áp sát tim đường từ trước.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 7 điểm 2(2), xe gắn máy (原付) rẽ phải theo cách hai bước dùng cách khác."
+      },
+      "pt": {
+        "question": "Todo veículo prestes a converter à direita num cruzamento deve antes aproximar-se o máximo do centro da via.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 7, item 2(2), o ciclomotor em conversão de duas etapas usa outro método."
+      }
+    },
+    "trap_type": "EX",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-7-031",
+    "category": "交差点の通行方法",
+    "kp": "5-7-1",
+    "group": "Q",
+    "source": "教則 第5章第7節1(1)",
+    "question_type": "text",
+    "qf": "QF-5-7-1-D-EI-01",
+    "question_ja": "交差点で右折しようとするときは、対向車線の自動車だけに注意すれば足りる。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第7節1(1)により、対向車線を直進する二輪車は見えにくくなることがあるので、十分注意しなければなりません。",
+    "i18n": {
+      "zh": {
+        "question": "在交叉路口准备右拐弯时，只要注意对向车道的汽车就够了。",
+        "explanation": "错误。根据教则第5章第7节1(1)，对向车道上直行的摩托车有时不易看清，必须充分注意。"
+      },
+      "en": {
+        "question": "When turning right at an intersection it is enough to watch for cars in the oncoming lane.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 7 item 1(1) a two-wheeler coming straight on in that lane can be hard to see, so it needs particular care."
+      },
+      "vi": {
+        "question": "Khi rẽ phải tại nút giao thông, chỉ cần chú ý ô tô ở làn ngược chiều là đủ.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 7 điểm 1(1), xe hai bánh đi thẳng ở làn đó có thể khó nhìn thấy nên cần đặc biệt chú ý."
+      },
+      "pt": {
+        "question": "Ao converter à direita basta prestar atenção aos automóveis da faixa contrária.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 7, item 1(1), o veículo de duas rodas que segue reto nessa faixa pode ser difícil de ver e exige atenção especial."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-7-032",
+    "category": "交差点の通行方法",
+    "kp": "5-7-2",
+    "group": "Q",
+    "source": "教則 第5章第7節2(2)",
+    "question_type": "text",
+    "qf": "QF-5-7-2-D-SC-01",
+    "question_ja": "交差点で右折するとき、対向車線に直進してくる二輪車が見えたが、小さくて遅そうだったので先に右折した。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第7節2(5)により、直進する車の進行を妨げてはならず、二輪車は速度をつかみにくいことにも注意が必要です。",
+    "i18n": {
+      "zh": {
+        "question": "在交叉路口右拐弯时，看到对向车道有直行的摩托车，但因为它小而且看上去慢，就先右拐弯了。",
+        "explanation": "错误。根据教则第5章第7节2(5)，不得妨碍直行车辆的通行，而且还要注意摩托车的速度不易把握。"
+      },
+      "en": {
+        "question": "Turning right at an intersection you saw a two-wheeler coming straight on in the oncoming lane, but it looked small and slow, so you turned first.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 7 item 2(5) you must not obstruct vehicles going straight on, and a two-wheeler's speed is hard to judge."
+      },
+      "vi": {
+        "question": "Khi rẽ phải tại nút giao, bạn thấy một xe hai bánh đi thẳng ở làn ngược chiều nhưng vì nó nhỏ và trông chậm nên bạn rẽ trước.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 7 điểm 2(5), bạn không được cản trở xe đi thẳng, và tốc độ của xe hai bánh rất khó ước lượng."
+      },
+      "pt": {
+        "question": "Ao converter à direita você viu um veículo de duas rodas vindo reto na faixa contrária, mas como parecia pequeno e lento, virou antes.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 7, item 2(5), não se deve obstruir quem segue reto, e a velocidade de um veículo de duas rodas é difícil de avaliar."
+      }
+    },
+    "trap_type": "SC",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-7-033",
+    "category": "交差点の通行方法",
+    "kp": "5-7-2",
+    "group": "Q",
+    "source": "教則 第5章第7節2(1)",
+    "question_type": "text",
+    "qf": "QF-5-7-2-D-EI-03",
+    "question_ja": "交差点で左折するときは、後ろから来る自転車を先に行かせるため、あらかじめ道路の左端を空けておくとよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第7節2(1)により、あらかじめできるだけ道路の左端に寄ることが、自転車の巻き込みを防ぐ方法です。",
+    "i18n": {
+      "zh": {
+        "question": "在交叉路口左拐弯时，为了让后方驶来的自行车先行，最好事先空出道路左端。",
+        "explanation": "错误。根据教则第5章第7节2(1)，事先尽量靠道路左端才是防止卷入自行车的方法。"
+      },
+      "en": {
+        "question": "When turning left at an intersection it is best to leave the left edge of the road clear beforehand so that bicycles coming up behind can go first.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 7 item 2(1), keeping as far left as you can beforehand is what stops a bicycle being drawn in."
+      },
+      "vi": {
+        "question": "Khi rẽ trái tại nút giao thông, tốt nhất nên chừa trống mép trái của đường để xe đạp phía sau đi trước.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 7 điểm 2(1), chính việc áp sát mép trái từ trước mới ngăn được việc cuốn xe đạp vào."
+      },
+      "pt": {
+        "question": "Ao converter à esquerda, o melhor é deixar a borda esquerda livre antes para que as bicicletas de trás passem primeiro.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 7, item 2(1), manter-se o mais à esquerda possível é justamente o que evita prender a bicicleta."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  }
+]
