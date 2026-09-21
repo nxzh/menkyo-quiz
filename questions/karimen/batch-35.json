@@ -1,0 +1,782 @@
+[
+  {
+    "id": "KM-121",
+    "category": "規制標示",
+    "kp": "付3-2-17",
+    "group": "D",
+    "source": "教則 付表3（2）17",
+    "question_type": "marking",
+    "qf": "QF-付3-2-17-A-N-01",
+    "image": {
+      "sign_no": "M110",
+      "file": "M110.svg",
+      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+      "file_verified": true
+    },
+    "question_ja": "この標示は、交差点で進行する方向別の車の通行区分の指定を示している。",
+    "answer": true,
+    "explanation_ja": "教則付表3（2）17のとおりです。指定された区分に従って通行しなければなりません。",
+    "i18n": {
+      "zh": {
+        "question": "这个标示表示交叉路口按行驶方向划分的车辆通行区分的指定。",
+        "explanation": "符合教则附表3（2）17的规定。必须按指定的区分通行。"
+      },
+      "en": {
+        "question": "This road marking assigns lanes according to the direction you will take at the intersection.",
+        "explanation": "This is Kyosoku Appendix 3(2) item 17. You must travel in the lane assigned."
+      },
+      "vi": {
+        "question": "Vạch kẻ đường này phân làn theo hướng đi tại nút giao thông.",
+        "explanation": "Đúng theo Kyosoku Phụ lục 3(2) mục 17. Bạn phải đi đúng làn được chỉ định."
+      },
+      "pt": {
+        "question": "Esta sinalização horizontal designa faixas conforme a direção a tomar no cruzamento.",
+        "explanation": "É o Kyosoku, Anexo 3(2), item 17. Você deve seguir pela faixa designada."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免"
+  },
+  {
+    "id": "KM-122",
+    "category": "規制標示",
+    "kp": "付3-2-18",
+    "group": "D",
+    "source": "教則 付表3（2）18",
+    "question_type": "marking",
+    "qf": "QF-付3-2-18-A-N-01",
+    "image": {
+      "sign_no": "M111-A_ひし形",
+      "file": "M111-A_ひし形.svg",
+      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+      "file_verified": true
+    },
+    "question_ja": "この標示は、交差点で車が右左折するときに通行しなければならない部分の指定を示している。",
+    "answer": true,
+    "explanation_ja": "教則付表3（2）18のとおりです。右左折の一般的な方法よりも、この指定が優先します。",
+    "i18n": {
+      "zh": {
+        "question": "这个标示表示交叉路口车辆右拐弯左拐弯时必须通行的部分的指定。",
+        "explanation": "符合教则附表3（2）18的规定。该指定优先于右拐弯左拐弯的一般方法。"
+      },
+      "en": {
+        "question": "This road marking designates the part of the intersection a vehicle must use when turning.",
+        "explanation": "This is Kyosoku Appendix 3(2) item 18. This specification overrides the general method of turning."
+      },
+      "vi": {
+        "question": "Vạch kẻ đường này chỉ định phần mà xe phải đi khi rẽ tại nút giao thông.",
+        "explanation": "Đúng theo Kyosoku Phụ lục 3(2) mục 18. Chỉ định này được ưu tiên hơn cách rẽ thông thường."
+      },
+      "pt": {
+        "question": "Esta sinalização horizontal designa a parte do cruzamento que o veículo deve usar ao converter.",
+        "explanation": "É o Kyosoku, Anexo 3(2), item 18. Essa indicação prevalece sobre o método geral de conversão."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免"
+  },
+  {
+    "id": "KM-123",
+    "category": "規制標示",
+    "kp": "付3-2-18-2",
+    "group": "D",
+    "source": "教則 付表3（2）18の2",
+    "question_type": "marking",
+    "qf": "QF-付3-2-18-2-A-N-01",
+    "image": {
+      "sign_no": "M111-2",
+      "file": "M111-2.svg",
+      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+      "file_verified": true
+    },
+    "question_ja": "この標示は、環状交差点で車が左折、右折、直進、転回するときに通行しなければならない部分の指定を示している。",
+    "answer": true,
+    "explanation_ja": "教則付表3（2）18の2のとおりです。環状交差点では、この指定があるときはそれに従います。",
+    "i18n": {
+      "zh": {
+        "question": "这个标示表示在环形交叉路口车辆左拐弯、右拐弯、直行、掉头时必须通行的部分的指定。",
+        "explanation": "符合教则附表3（2）18之2的规定。在环形交叉路口有该指定时要按其通行。"
+      },
+      "en": {
+        "question": "This road marking designates the part of a roundabout a vehicle must use when turning, going straight on or making a U-turn.",
+        "explanation": "This is Kyosoku Appendix 3(2) item 18-2. At a roundabout you follow this specification where it exists."
+      },
+      "vi": {
+        "question": "Vạch kẻ đường này chỉ định phần mà xe phải đi khi rẽ, đi thẳng hay quay đầu tại giao lộ vòng xuyến.",
+        "explanation": "Đúng theo Kyosoku Phụ lục 3(2) mục 18-2. Tại giao lộ vòng xuyến, khi có chỉ định này bạn phải tuân theo."
+      },
+      "pt": {
+        "question": "Esta sinalização horizontal designa a parte da rotatória que o veículo deve usar ao converter, seguir reto ou retornar.",
+        "explanation": "É o Kyosoku, Anexo 3(2), item 18-2. Na rotatória segue-se essa indicação quando ela existe."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免"
+  },
+  {
+    "id": "KM-124",
+    "category": "規制標示",
+    "kp": "付3-2-21-2",
+    "group": "D",
+    "source": "教則 付表3（2）21の2",
+    "question_type": "marking",
+    "qf": "QF-付3-2-21-2-A-N-01",
+    "image": {
+      "sign_no": "M114-2",
+      "file": "M114-2.svg",
+      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+      "file_verified": true
+    },
+    "question_ja": "この標示は、特例特定小型原動機付自転車及び普通自転車が歩道を通行することができることを示している。",
+    "answer": true,
+    "explanation_ja": "教則付表3（2）21の2のとおりです。警察官や交通巡視員の指示があるときは、その指示に従います。",
+    "i18n": {
+      "zh": {
+        "question": "这个标示表示特例特定小型轻型摩托车和普通自行车可以通行人行道。",
+        "explanation": "符合教则附表3（2）21之2的规定。有警察官或交通巡视员指示时，要服从该指示。"
+      },
+      "en": {
+        "question": "This road marking shows that exceptional specified small motorized bicycles and ordinary bicycles may use the sidewalk.",
+        "explanation": "This is Kyosoku Appendix 3(2) item 21-2. Where a police officer or traffic warden gives an instruction, you follow it."
+      },
+      "vi": {
+        "question": "Vạch kẻ đường này cho biết xe gắn máy cỡ nhỏ đặc định theo ngoại lệ và xe đạp thường được đi trên vỉa hè.",
+        "explanation": "Đúng theo Kyosoku Phụ lục 3(2) mục 21-2. Khi cảnh sát hoặc nhân viên tuần tra có hiệu lệnh, bạn tuân theo."
+      },
+      "pt": {
+        "question": "Esta sinalização horizontal indica que certos ciclomotores pequenos e bicicletas comuns podem usar a calçada.",
+        "explanation": "É o Kyosoku, Anexo 3(2), item 21-2. Havendo ordem de policial ou agente de trânsito, segue-se a ordem."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免"
+  },
+  {
+    "id": "KM-125",
+    "category": "規制標示",
+    "kp": "付3-2-23",
+    "group": "D",
+    "source": "教則 付表3（2）23",
+    "question_type": "marking",
+    "qf": "QF-付3-2-23-A-N-01",
+    "image": {
+      "sign_no": "M114-4",
+      "file": "M114-4.svg",
+      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+      "file_verified": true
+    },
+    "question_ja": "この標示は、普通自転車がこの標示を越えて交差点に進入することの禁止を示している。",
+    "answer": true,
+    "explanation_ja": "教則付表3（2）23のとおりです。実線は黄で示されます。",
+    "i18n": {
+      "zh": {
+        "question": "这个标示表示禁止普通自行车越过该标示驶入交叉路口。",
+        "explanation": "符合教则附表3（2）23的规定。实线用黄色表示。"
+      },
+      "en": {
+        "question": "This road marking prohibits an ordinary bicycle from crossing it to enter the intersection.",
+        "explanation": "This is Kyosoku Appendix 3(2) item 23. The solid line is shown in yellow."
+      },
+      "vi": {
+        "question": "Vạch kẻ đường này cấm xe đạp thường vượt qua nó để vào nút giao thông.",
+        "explanation": "Đúng theo Kyosoku Phụ lục 3(2) mục 23. Vạch liền được kẻ màu vàng."
+      },
+      "pt": {
+        "question": "Esta sinalização horizontal proíbe a bicicleta comum de cruzá-la para entrar no cruzamento.",
+        "explanation": "É o Kyosoku, Anexo 3(2), item 23. A linha contínua é amarela."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免"
+  },
+  {
+    "id": "KM-126",
+    "category": "規制標示",
+    "kp": "付3-2-24",
+    "group": "D",
+    "source": "教則 付表3（2）24",
+    "question_type": "marking",
+    "qf": "QF-付3-2-24-A-N-01",
+    "image": {
+      "sign_no": "M115-A_最高速度",
+      "file": "M115-A_最高速度.svg",
+      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+      "file_verified": true
+    },
+    "question_ja": "この標示は、規制標示が表示する交通規制の区間の終わりであることを示している。",
+    "answer": true,
+    "explanation_ja": "教則付表3（2）24のとおりです。終わりの記号は白、規制の内容を示す文字と記号は黄で示されます。",
+    "i18n": {
+      "zh": {
+        "question": "这个标示表示限制标示所示的交通规制区间的终点。",
+        "explanation": "符合教则附表3（2）24的规定。终点的记号用白色，表示规制内容的文字和记号用黄色。"
+      },
+      "en": {
+        "question": "This road marking shows the end of the stretch covered by a regulatory marking.",
+        "explanation": "This is Kyosoku Appendix 3(2) item 24. The end symbol is white and the characters and symbol showing the restriction are yellow."
+      },
+      "vi": {
+        "question": "Vạch kẻ đường này cho biết điểm kết thúc của đoạn có quy định do vạch quy chế đặt ra.",
+        "explanation": "Đúng theo Kyosoku Phụ lục 3(2) mục 24. Ký hiệu kết thúc màu trắng, còn chữ và ký hiệu thể hiện nội dung quy định màu vàng."
+      },
+      "pt": {
+        "question": "Esta sinalização horizontal indica o fim do trecho abrangido por uma marcação de regulamentação.",
+        "explanation": "É o Kyosoku, Anexo 3(2), item 24. O símbolo de fim é branco e os caracteres da restrição são amarelos."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免"
+  },
+  {
+    "id": "KM-127",
+    "category": "規制標示",
+    "kp": "付3-2-16",
+    "group": "D",
+    "source": "教則 付表3（2）16",
+    "question_type": "marking",
+    "qf": "QF-付3-2-16-A-N-01",
+    "image": {
+      "sign_no": "M109-7",
+      "file": "M109-7.svg",
+      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+      "file_verified": true
+    },
+    "question_ja": "この標示は、路線バスなどの優先通行帯であることを示している。",
+    "answer": true,
+    "explanation_ja": "教則付表3（2）16のとおりです。優先通行帯では、路線バスなどが近づいてきたら速やかにそこから出ます。",
+    "i18n": {
+      "zh": {
+        "question": "这个标示表示该处是公交车等的优先通行带。",
+        "explanation": "符合教则附表3（2）16的规定。在优先通行带，公交车等驶近时要迅速驶离。"
+      },
+      "en": {
+        "question": "This road marking shows a lane in which route buses have priority.",
+        "explanation": "This is Kyosoku Appendix 3(2) item 16. In a priority lane you leave promptly when a route bus approaches."
+      },
+      "vi": {
+        "question": "Vạch kẻ đường này cho biết đó là làn ưu tiên cho xe buýt tuyến.",
+        "explanation": "Đúng theo Kyosoku Phụ lục 3(2) mục 16. Ở làn ưu tiên, bạn nhanh chóng ra khỏi khi xe buýt tuyến đến gần."
+      },
+      "pt": {
+        "question": "Esta sinalização horizontal indica faixa em que os ônibus de linha têm preferência.",
+        "explanation": "É o Kyosoku, Anexo 3(2), item 16. Nela você sai sem demora quando um ônibus se aproxima."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免"
+  },
+  {
+    "id": "KM-128",
+    "category": "指示標示",
+    "kp": "付3-2-38",
+    "group": "D",
+    "source": "教則 付表3（2）38",
+    "question_type": "marking",
+    "qf": "QF-付3-2-38-A-N-01",
+    "image": {
+      "sign_no": "M210",
+      "file": "M210.svg",
+      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+      "file_verified": true
+    },
+    "question_ja": "この標示は、前方に横断歩道や自転車横断帯があることを知らせている。",
+    "answer": true,
+    "explanation_ja": "教則付表3（2）38のとおりです。横断歩道の手前の道路に、ひし形の記号で示されます。",
+    "i18n": {
+      "zh": {
+        "question": "这个标示告知前方有人行横道或自行车横穿带。",
+        "explanation": "符合教则附表3（2）38的规定。它以菱形记号画在人行横道前方的道路上。"
+      },
+      "en": {
+        "question": "This road marking tells you that there is a pedestrian crossing or bicycle crossing ahead.",
+        "explanation": "This is Kyosoku Appendix 3(2) item 38. It appears as a diamond shape on the road before the crossing."
+      },
+      "vi": {
+        "question": "Vạch kẻ đường này cho biết phía trước có vạch sang đường cho người đi bộ hoặc cho xe đạp.",
+        "explanation": "Đúng theo Kyosoku Phụ lục 3(2) mục 38. Nó là hình thoi kẻ trên đường trước vạch sang đường."
+      },
+      "pt": {
+        "question": "Esta sinalização horizontal informa que há faixa de pedestres ou para ciclistas à frente.",
+        "explanation": "É o Kyosoku, Anexo 3(2), item 38. Aparece como um losango na via antes da faixa."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免"
+  },
+  {
+    "id": "KM-129",
+    "category": "指示標示",
+    "kp": "付3-2-39",
+    "group": "D",
+    "source": "教則 付表3（2）39",
+    "question_type": "marking",
+    "qf": "QF-付3-2-39-A-N-01",
+    "image": {
+      "sign_no": "M211",
+      "file": "M211.svg",
+      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+      "file_verified": true
+    },
+    "question_ja": "この標示は、この標示がある道路と交差する前方の道路が優先道路であることの指定を示している。",
+    "answer": true,
+    "explanation_ja": "教則付表3（2）39のとおりです。交差する道路が優先道路であるときは、徐行するとともにその進行を妨げてはいけません。",
+    "i18n": {
+      "zh": {
+        "question": "这个标示表示与设有该标示的道路相交的前方道路是优先道路的指定。",
+        "explanation": "符合教则附表3（2）39的规定。交叉道路是优先道路时，必须缓行（徐行）并且不得妨碍其通行。"
+      },
+      "en": {
+        "question": "This road marking designates the road crossing ahead as a priority road.",
+        "explanation": "This is Kyosoku Appendix 3(2) item 39. Where the crossing road is a priority road you proceed slowly (徐行) and must not obstruct its traffic."
+      },
+      "vi": {
+        "question": "Vạch kẻ đường này chỉ định rằng con đường cắt ngang phía trước là đường ưu tiên.",
+        "explanation": "Đúng theo Kyosoku Phụ lục 3(2) mục 39. Khi đường cắt ngang là đường ưu tiên, bạn lưu thông chậm (徐行) và không được cản trở xe trên đó."
+      },
+      "pt": {
+        "question": "Esta sinalização horizontal designa como preferencial a via que cruza à frente.",
+        "explanation": "É o Kyosoku, Anexo 3(2), item 39. Sendo a transversal preferencial, você prossegue lentamente (徐行) e não obstrui o tráfego dela."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免"
+  },
+  {
+    "id": "KM-130",
+    "category": "規制標示",
+    "kp": "付3-2-15",
+    "group": "D",
+    "source": "教則 付表3（2）15",
+    "question_type": "marking",
+    "qf": "QF-付3-2-15-A-N-01",
+    "image": {
+      "sign_no": "M109-6",
+      "file": "M109-6.svg",
+      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+      "file_verified": true
+    },
+    "question_ja": "この標示は、特定の車の専用通行帯の指定を示している。",
+    "answer": true,
+    "explanation_ja": "教則付表3（2）15のとおりです。小型特殊自動車、原動機付自転車、軽車両を除くほかの車は、その通行帯を通行できません。",
+    "i18n": {
+      "zh": {
+        "question": "这个标示表示特定车辆专用通行带的指定。",
+        "explanation": "符合教则附表3（2）15的规定。除小型特殊汽车、轻型摩托车、轻车辆以外的其他车辆不能通行该通行带。"
+      },
+      "en": {
+        "question": "This road marking designates a lane reserved for particular vehicles.",
+        "explanation": "This is Kyosoku Appendix 3(2) item 15. Vehicles other than small special vehicles, mopeds and light road vehicles may not use that lane."
+      },
+      "vi": {
+        "question": "Vạch kẻ đường này chỉ định làn dành riêng cho một số loại xe.",
+        "explanation": "Đúng theo Kyosoku Phụ lục 3(2) mục 15. Các xe khác, trừ xe chuyên dùng cỡ nhỏ, xe gắn máy và xe thô sơ, không được đi ở làn đó."
+      },
+      "pt": {
+        "question": "Esta sinalização horizontal designa faixa exclusiva para determinados veículos.",
+        "explanation": "É o Kyosoku, Anexo 3(2), item 15. Os demais veículos, salvo especiais pequenos, ciclomotores e veículos leves, não podem usá-la."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免"
+  },
+  {
+    "id": "KM-131",
+    "category": "規制標示",
+    "kp": "付3-2-19",
+    "group": "D",
+    "source": "教則 付表3（2）19",
+    "question_type": "marking",
+    "qf": "QF-付3-2-19-D-SS-01",
+    "image": {
+      "sign_no": "M112",
+      "file": "M112.svg",
+      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+      "file_verified": true
+    },
+    "question_ja": "この標示は、車が駐車するとき、区画された部分に入り道路の端に直角に止めなければならないことを示している。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則付表3（2）19のこの標示は、区画された部分に入り道路の端に平行に止めなければならないことを示すものです。",
+    "i18n": {
+      "zh": {
+        "question": "这个标示表示车辆驻车时必须进入划定部分并与道路边缘成直角停放。",
+        "explanation": "错误。教则附表3（2）19的这个标示表示必须进入划定部分并与道路边缘平行停放。"
+      },
+      "en": {
+        "question": "This road marking requires a vehicle to enter the marked bay and park at right angles to the edge of the road.",
+        "explanation": "This is wrong. The marking in Kyosoku Appendix 3(2) item 19 requires parking parallel to the edge of the road within the bay."
+      },
+      "vi": {
+        "question": "Vạch kẻ đường này yêu cầu xe vào ô kẻ sẵn và đỗ vuông góc với mép đường.",
+        "explanation": "Sai. Vạch ở Kyosoku Phụ lục 3(2) mục 19 yêu cầu đỗ song song với mép đường trong ô kẻ."
+      },
+      "pt": {
+        "question": "Esta sinalização exige que o veículo entre na vaga demarcada e estacione perpendicular à borda da via.",
+        "explanation": "Está errado. A marcação do Kyosoku, Anexo 3(2), item 19, exige estacionar paralelo à borda dentro da vaga."
+      }
+    },
+    "trap_type": "SS",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免"
+  },
+  {
+    "id": "KM-132",
+    "category": "規制標示",
+    "kp": "付3-2-20",
+    "group": "D",
+    "source": "教則 付表3（2）20",
+    "question_type": "marking",
+    "qf": "QF-付3-2-20-D-SS-01",
+    "image": {
+      "sign_no": "M113",
+      "file": "M113.svg",
+      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+      "file_verified": true
+    },
+    "question_ja": "この標示は、車が駐車するとき、区画された部分に入り道路の端に斜めに止めなければならないことを示している。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則付表3（2）20のこの標示は、区画された部分に入り道路の端に直角に止めなければならないことを示すものです。",
+    "i18n": {
+      "zh": {
+        "question": "这个标示表示车辆驻车时必须进入划定部分并与道路边缘成斜角停放。",
+        "explanation": "错误。教则附表3（2）20的这个标示表示必须进入划定部分并与道路边缘成直角停放。"
+      },
+      "en": {
+        "question": "This road marking requires a vehicle to enter the marked bay and park at an angle to the edge of the road.",
+        "explanation": "This is wrong. The marking in Kyosoku Appendix 3(2) item 20 requires parking at right angles to the edge within the bay."
+      },
+      "vi": {
+        "question": "Vạch kẻ đường này yêu cầu xe vào ô kẻ sẵn và đỗ chếch so với mép đường.",
+        "explanation": "Sai. Vạch ở Kyosoku Phụ lục 3(2) mục 20 yêu cầu đỗ vuông góc với mép đường trong ô kẻ."
+      },
+      "pt": {
+        "question": "Esta sinalização exige que o veículo entre na vaga e estacione na diagonal em relação à borda.",
+        "explanation": "Está errado. A marcação do Kyosoku, Anexo 3(2), item 20, exige estacionar perpendicular à borda dentro da vaga."
+      }
+    },
+    "trap_type": "SS",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免"
+  },
+  {
+    "id": "KM-133",
+    "category": "規制標示",
+    "kp": "付3-2-16",
+    "group": "D",
+    "source": "教則 付表3（2）16",
+    "question_type": "marking",
+    "qf": "QF-付3-2-16-D-SS-01",
+    "image": {
+      "sign_no": "M109-7",
+      "file": "M109-7.svg",
+      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+      "file_verified": true
+    },
+    "question_ja": "この標示は、路線バスなどの専用通行帯であることを示している。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則付表3（2）16のこの標示は、路線バスなどの優先通行帯であることを示すもので、ほかの自動車も通行できます。",
+    "i18n": {
+      "zh": {
+        "question": "这个标示表示该处是公交车等的专用通行带。",
+        "explanation": "错误。教则附表3（2）16的这个标示表示该处是公交车等的优先通行带，其他汽车也可以通行。"
+      },
+      "en": {
+        "question": "This road marking shows a lane reserved for route buses.",
+        "explanation": "This is wrong. The marking in Kyosoku Appendix 3(2) item 16 shows a lane in which route buses have priority, and other cars may use it."
+      },
+      "vi": {
+        "question": "Vạch kẻ đường này cho biết đó là làn dành riêng cho xe buýt tuyến.",
+        "explanation": "Sai. Vạch ở Kyosoku Phụ lục 3(2) mục 16 cho biết đó là làn ưu tiên cho xe buýt tuyến, và ô tô khác vẫn được đi."
+      },
+      "pt": {
+        "question": "Esta sinalização indica faixa exclusiva para ônibus de linha.",
+        "explanation": "Está errado. A marcação do Kyosoku, Anexo 3(2), item 16, indica faixa de preferência, e outros automóveis podem usá-la."
+      }
+    },
+    "trap_type": "SS",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免"
+  },
+  {
+    "id": "KM-134",
+    "category": "規制標示",
+    "kp": "付3-2-23",
+    "group": "D",
+    "source": "教則 付表3（2）23",
+    "question_type": "marking",
+    "qf": "QF-付3-2-23-D-EX-01",
+    "image": {
+      "sign_no": "M114-4",
+      "file": "M114-4.svg",
+      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+      "file_verified": true
+    },
+    "question_ja": "この標示は、すべての車がこれを越えて交差点に進入することの禁止を示している。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則付表3（2）23のこの標示が禁止しているのは、普通自転車が越えて交差点に進入することです。",
+    "i18n": {
+      "zh": {
+        "question": "这个标示表示禁止所有车辆越过它驶入交叉路口。",
+        "explanation": "错误。教则附表3（2）23的这个标示禁止的是普通自行车越过它驶入交叉路口。"
+      },
+      "en": {
+        "question": "This road marking prohibits every vehicle from crossing it to enter the intersection.",
+        "explanation": "This is wrong. The marking in Kyosoku Appendix 3(2) item 23 prohibits ordinary bicycles from crossing it to enter the intersection."
+      },
+      "vi": {
+        "question": "Vạch kẻ đường này cấm mọi xe vượt qua nó để vào nút giao thông.",
+        "explanation": "Sai. Vạch ở Kyosoku Phụ lục 3(2) mục 23 cấm xe đạp thường vượt qua để vào nút giao."
+      },
+      "pt": {
+        "question": "Esta sinalização proíbe todo veículo de cruzá-la para entrar no cruzamento.",
+        "explanation": "Está errado. A marcação do Kyosoku, Anexo 3(2), item 23, proíbe a bicicleta comum de cruzá-la."
+      }
+    },
+    "trap_type": "EX",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免"
+  },
+  {
+    "id": "KM-135",
+    "category": "指示標示",
+    "kp": "付3-2-38",
+    "group": "D",
+    "source": "教則 付表3（2）38",
+    "question_type": "marking",
+    "qf": "QF-付3-2-38-D-SS-01",
+    "image": {
+      "sign_no": "M210",
+      "file": "M210.svg",
+      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+      "file_verified": true
+    },
+    "question_ja": "この標示は、そこが横断歩道であることを示している。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則付表3（2）38のこの標示は、前方に横断歩道や自転車横断帯があることを知らせるものです。",
+    "i18n": {
+      "zh": {
+        "question": "这个标示表示该处是人行横道。",
+        "explanation": "错误。教则附表3（2）38的这个标示告知前方有人行横道或自行车横穿带。"
+      },
+      "en": {
+        "question": "This road marking shows that the place is a pedestrian crossing.",
+        "explanation": "This is wrong. The marking in Kyosoku Appendix 3(2) item 38 tells you that a pedestrian or bicycle crossing lies ahead."
+      },
+      "vi": {
+        "question": "Vạch kẻ đường này cho biết nơi đó là vạch sang đường cho người đi bộ.",
+        "explanation": "Sai. Vạch ở Kyosoku Phụ lục 3(2) mục 38 cho biết phía trước có vạch sang đường cho người đi bộ hoặc xe đạp."
+      },
+      "pt": {
+        "question": "Esta sinalização indica que ali é a faixa de pedestres.",
+        "explanation": "Está errado. A marcação do Kyosoku, Anexo 3(2), item 38, informa que há faixa adiante."
+      }
+    },
+    "trap_type": "SS",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免"
+  },
+  {
+    "id": "KM-136",
+    "category": "規制標示",
+    "kp": "付3-2-24",
+    "group": "D",
+    "source": "教則 付表3（2）24",
+    "question_type": "marking",
+    "qf": "QF-付3-2-24-D-SW-01",
+    "image": {
+      "sign_no": "M115-B_転回禁止",
+      "file": "M115-B_転回禁止.svg",
+      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+      "file_verified": true
+    },
+    "question_ja": "この標示は、規制標示が表示する交通規制の区間の始まりであることを示している。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則付表3（2）24のこの標示は、交通規制の区間の終わりであることを示すものです。",
+    "i18n": {
+      "zh": {
+        "question": "这个标示表示限制标示所示的交通规制区间的起点。",
+        "explanation": "错误。教则附表3（2）24的这个标示表示交通规制区间的终点。"
+      },
+      "en": {
+        "question": "This road marking shows the start of the stretch covered by a regulatory marking.",
+        "explanation": "This is wrong. The marking in Kyosoku Appendix 3(2) item 24 shows the end of that stretch."
+      },
+      "vi": {
+        "question": "Vạch kẻ đường này cho biết điểm bắt đầu của đoạn có quy định.",
+        "explanation": "Sai. Vạch ở Kyosoku Phụ lục 3(2) mục 24 cho biết điểm kết thúc của đoạn đó."
+      },
+      "pt": {
+        "question": "Esta sinalização indica o início do trecho abrangido pela regulamentação.",
+        "explanation": "Está errado. A marcação do Kyosoku, Anexo 3(2), item 24, indica o fim desse trecho."
+      }
+    },
+    "trap_type": "SW",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免"
+  },
+  {
+    "id": "KM-137",
+    "category": "規制標示",
+    "kp": "付3-2-18",
+    "group": "D",
+    "source": "教則 付表3（2）18",
+    "question_type": "marking",
+    "qf": "QF-付3-2-18-D-EI-01",
+    "image": {
+      "sign_no": "M111-B_円形",
+      "file": "M111-B_円形.svg",
+      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+      "file_verified": true
+    },
+    "question_ja": "この標示があっても、右左折の一般的な方法で通行すればよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第7節2(4)により、標示によって通行方法が指定されているときは、その指定に従わなければなりません。",
+    "i18n": {
+      "zh": {
+        "question": "即使有这个标示，按右拐弯左拐弯的一般方法通行也可以。",
+        "explanation": "错误。根据教则第5章第7节2(4)，由标示指定了通行方法时，必须按照该指定通行。"
+      },
+      "en": {
+        "question": "Even where this marking is present you may simply turn in the general way.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 7 item 2(4) you must follow a specification given by a road marking."
+      },
+      "vi": {
+        "question": "Ngay cả khi có vạch này, bạn chỉ cần rẽ theo cách thông thường là được.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 7 điểm 2(4), khi vạch kẻ đường chỉ định cách lưu thông thì bạn phải tuân theo."
+      },
+      "pt": {
+        "question": "Mesmo com esta marcação você pode simplesmente converter do modo geral.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 7, item 2(4), deve-se seguir a indicação da sinalização horizontal."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免"
+  },
+  {
+    "id": "KM-138",
+    "category": "規制標示",
+    "kp": "付3-2-21-2",
+    "group": "D",
+    "source": "教則 付表3（2）21の2",
+    "question_type": "marking",
+    "qf": "QF-付3-2-21-2-D-EI-01",
+    "image": {
+      "sign_no": "M114-2",
+      "file": "M114-2.svg",
+      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+      "file_verified": true
+    },
+    "question_ja": "この標示のある歩道では、特例特定小型原動機付自転車と普通自転車は、警察官の指示があっても歩道を通行することができる。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第3章第3節1(4)(5)により、警察官や交通巡視員が歩道を通ってはならない旨を指示したときは、その指示に従わなければなりません。",
+    "i18n": {
+      "zh": {
+        "question": "在有这个标示的人行道上，特例特定小型轻型摩托车和普通自行车即使有警察官的指示也可以通行人行道。",
+        "explanation": "错误。根据教则第3章第3节1(4)(5)，警察官或交通巡视员指示不得通行人行道时，必须服从该指示。"
+      },
+      "en": {
+        "question": "On a sidewalk with this marking, exceptional specified small motorized bicycles and ordinary bicycles may use it even against a police officer's instruction.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 3 Section 3 items 1(4) and 1(5), where a police officer or traffic warden directs that the sidewalk not be used, you must follow that instruction."
+      },
+      "vi": {
+        "question": "Trên vỉa hè có vạch này, xe gắn máy cỡ nhỏ đặc định theo ngoại lệ và xe đạp thường vẫn được đi kể cả khi cảnh sát có hiệu lệnh khác.",
+        "explanation": "Sai. Theo Kyosoku Chương 3 Mục 3 điểm 1(4) và 1(5), khi cảnh sát hoặc nhân viên tuần tra chỉ thị không được đi trên vỉa hè thì bạn phải tuân theo."
+      },
+      "pt": {
+        "question": "Na calçada com esta marcação, certos ciclomotores e bicicletas comuns podem usá-la mesmo contra ordem de um policial.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 3, Seção 3, itens 1(4) e 1(5), quando policial ou agente determina não usar a calçada, a ordem deve ser seguida."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免"
+  },
+  {
+    "id": "KM-139",
+    "category": "規制標示",
+    "kp": "付3-2-17",
+    "group": "D",
+    "source": "教則 付表3（2）17",
+    "question_type": "marking",
+    "qf": "QF-付3-2-17-D-EO-01",
+    "image": {
+      "sign_no": "M110",
+      "file": "M110.svg",
+      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+      "file_verified": true
+    },
+    "question_ja": "この標示のある道路では、緊急自動車が近づいて来た場合でも、指定された区分から出てはいけない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第7節2(6)により、緊急自動車が近づいて来た場合や道路工事などでやむを得ない場合は、指定された区分によらないことができます。",
+    "i18n": {
+      "zh": {
+        "question": "在有这个标示的道路上，即使紧急车辆驶近，也不得驶出指定的区分。",
+        "explanation": "错误。根据教则第5章第7节2(6)，紧急车辆驶近以及道路施工等不得已的情况下，可以不按指定的区分通行。"
+      },
+      "en": {
+        "question": "On a road with this marking you must not leave the assigned lane even when an emergency vehicle approaches.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 7 item 2(6) you may depart from the assignment when an emergency vehicle approaches or road works leave no alternative."
+      },
+      "vi": {
+        "question": "Trên đường có vạch này, bạn không được rời làn được chỉ định ngay cả khi xe ưu tiên đến gần.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 7 điểm 2(6), bạn được rời khỏi làn chỉ định khi xe ưu tiên đến gần hoặc thi công đường không cho lựa chọn khác."
+      },
+      "pt": {
+        "question": "Em via com esta marcação você não pode sair da faixa designada nem quando um veículo de emergência se aproxima.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 7, item 2(6), pode-se deixar a faixa nessas situações."
+      }
+    },
+    "trap_type": "EO",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免"
+  },
+  {
+    "id": "KM-140",
+    "category": "指示標示",
+    "kp": "付3-2-39",
+    "group": "D",
+    "source": "教則 付表3（2）39",
+    "question_type": "marking",
+    "qf": "QF-付3-2-39-D-SW-01",
+    "image": {
+      "sign_no": "M211",
+      "file": "M211.svg",
+      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+      "file_verified": true
+    },
+    "question_ja": "この標示は、この標示がある道路が優先道路であることの指定を示している。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則付表3（2）39のこの標示は、交差する前方の道路が優先道路であることの指定を示すものです。",
+    "i18n": {
+      "zh": {
+        "question": "这个标示表示设有该标示的道路是优先道路的指定。",
+        "explanation": "错误。教则附表3（2）39的这个标示表示相交的前方道路是优先道路的指定。"
+      },
+      "en": {
+        "question": "This road marking designates the road it is on as a priority road.",
+        "explanation": "This is wrong. The marking in Kyosoku Appendix 3(2) item 39 designates the road crossing ahead as the priority road."
+      },
+      "vi": {
+        "question": "Vạch kẻ đường này chỉ định con đường có vạch đó là đường ưu tiên.",
+        "explanation": "Sai. Vạch ở Kyosoku Phụ lục 3(2) mục 39 chỉ định con đường cắt ngang phía trước mới là đường ưu tiên."
+      },
+      "pt": {
+        "question": "Esta sinalização designa como preferencial a via em que ela está.",
+        "explanation": "Está errado. A marcação do Kyosoku, Anexo 3(2), item 39, designa como preferencial a via que cruza à frente."
+      }
+    },
+    "trap_type": "SW",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免"
+  }
+]
