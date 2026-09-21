@@ -1,0 +1,664 @@
+[
+  {
+    "id": "K5-4-001",
+    "category": "速度と車間距離",
+    "kp": "5-4-2",
+    "group": "L",
+    "source": "教則 第5章第4節2(1)",
+    "question_type": "text",
+    "qf": "QF-5-4-2-A-N-01",
+    "question_ja": "停止距離とは、運転者が危険を感じてからブレーキが実際に効き始めるまでに車が走る空走距離と、ブレーキが効き始めてから車が停止するまでの制動距離とを合わせた距離をいう。",
+    "answer": true,
+    "explanation_ja": "教則第5章第4節2(1)のとおりです。車は急には止まれないので、この停止距離を考えて安全に停止できる速度で運転します。",
+    "i18n": {
+      "zh": {
+        "question": "所谓停止距离，是指驾驶员感到危险后到刹车实际开始起作用为止车辆行驶的空驶距离，加上刹车开始起作用后到车辆停住为止的制动距离，两者合计的距离。",
+        "explanation": "符合教则第5章第4节2(1)的规定。车辆无法骤然停住，所以要考虑这一停止距离，以能够安全停车的速度驾驶。"
+      },
+      "en": {
+        "question": "Stopping distance is the reaction distance the vehicle travels between the driver sensing danger and the brakes actually beginning to work, plus the braking distance from the moment the brakes begin to work until the vehicle stops.",
+        "explanation": "This is Kyosoku Chapter 5 Section 4 item 2(1). A vehicle cannot stop instantly, so you drive at a speed from which this stopping distance still lets you stop safely."
+      },
+      "vi": {
+        "question": "Quãng đường dừng là quãng đường phản ứng mà xe đi được từ khi người lái xe cảm thấy nguy hiểm đến khi phanh thực sự bắt đầu ăn, cộng với quãng đường phanh từ khi phanh bắt đầu ăn đến khi xe dừng hẳn.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 4 điểm 2(1). Xe không thể dừng ngay lập tức, nên bạn phải chạy với tốc độ mà quãng đường dừng đó vẫn cho phép dừng an toàn."
+      },
+      "pt": {
+        "question": "Distância de parada é a distância de reação que o veículo percorre entre o condutor perceber o perigo e os freios começarem de fato a atuar, somada à distância de frenagem desde esse momento até o veículo parar.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 4, item 2(1). O veículo não para de imediato, por isso você dirige a uma velocidade da qual essa distância de parada ainda permita parar com segurança."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-4-002",
+    "category": "速度と車間距離",
+    "kp": "5-4-2",
+    "group": "L",
+    "source": "教則 第5章第4節2(2)",
+    "question_type": "text",
+    "qf": "QF-5-4-2-A-N-02",
+    "question_ja": "運転者が疲れているときは、危険を認知して判断するまでに時間がかかるので、空走距離は長くなる。",
+    "answer": true,
+    "explanation_ja": "教則第5章第4節2(2)のとおりです。空走距離は運転者の状態によって変わります。",
+    "i18n": {
+      "zh": {
+        "question": "驾驶员疲劳时，从察觉危险到作出判断需要更长时间，因此空驶距离会变长。",
+        "explanation": "符合教则第5章第4节2(2)的规定。空驶距离随驾驶员的状态而变化。"
+      },
+      "en": {
+        "question": "When the driver is tired it takes longer to recognise danger and decide what to do, so the reaction distance becomes longer.",
+        "explanation": "This is Kyosoku Chapter 5 Section 4 item 2(2). Reaction distance changes with the condition of the driver."
+      },
+      "vi": {
+        "question": "Khi người lái xe mệt mỏi, việc nhận biết nguy hiểm và phán đoán mất nhiều thời gian hơn, nên quãng đường phản ứng dài ra.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 4 điểm 2(2). Quãng đường phản ứng thay đổi theo trạng thái của người lái xe."
+      },
+      "pt": {
+        "question": "Quando o condutor está cansado, leva mais tempo para perceber o perigo e decidir, de modo que a distância de reação aumenta.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 4, item 2(2). A distância de reação varia conforme o estado do condutor."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-4-003",
+    "category": "速度と車間距離",
+    "kp": "5-4-2",
+    "group": "L",
+    "source": "教則 第5章第4節2(2)",
+    "question_type": "text",
+    "qf": "QF-5-4-2-A-N-03",
+    "question_ja": "雨にぬれた道路を走る場合や重い荷物を積んでいる場合などは、制動距離が長くなる。",
+    "answer": true,
+    "explanation_ja": "教則第5章第4節2(2)のとおりです。制動距離は路面の状態や荷物の重さによって変わります。",
+    "i18n": {
+      "zh": {
+        "question": "在被雨淋湿的道路上行驶时，或者装载着沉重货物时，制动距离会变长。",
+        "explanation": "符合教则第5章第4节2(2)的规定。制动距离随路面状态和货物重量而变化。"
+      },
+      "en": {
+        "question": "Braking distance becomes longer when you drive on a road wet with rain or when you are carrying a heavy load.",
+        "explanation": "This is Kyosoku Chapter 5 Section 4 item 2(2). Braking distance changes with the state of the road surface and the weight of the load."
+      },
+      "vi": {
+        "question": "Quãng đường phanh dài ra khi bạn chạy trên đường ướt mưa hoặc khi chở hàng nặng.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 4 điểm 2(2). Quãng đường phanh thay đổi theo tình trạng mặt đường và trọng lượng hàng hóa."
+      },
+      "pt": {
+        "question": "A distância de frenagem aumenta quando você trafega em via molhada de chuva ou quando transporta carga pesada.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 4, item 2(2). A distância de frenagem varia conforme o estado do piso e o peso da carga."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-4-004",
+    "category": "速度と車間距離",
+    "kp": "5-4-2",
+    "group": "L",
+    "source": "教則 第5章第4節2(3)",
+    "question_type": "text",
+    "qf": "QF-5-4-2-A-N-04",
+    "question_ja": "路面が雨にぬれ、タイヤがすり減っている場合の停止距離は、乾燥した路面でタイヤの状態が良い場合に比べて2倍程度に延びることがある。",
+    "answer": true,
+    "explanation_ja": "教則第5章第4節2(3)のとおりです。路面とタイヤの状態が悪いときは、その分だけ速度を落とす必要があります。",
+    "i18n": {
+      "zh": {
+        "question": "路面被雨淋湿且轮胎磨损时的停止距离，与干燥路面、轮胎状态良好时相比，有时会延长到约2倍。",
+        "explanation": "符合教则第5章第4节2(3)的规定。路面和轮胎状态不好时，必须相应地降低速度。"
+      },
+      "en": {
+        "question": "When the road is wet with rain and the tyres are worn, the stopping distance can stretch to about twice what it is on a dry road with tyres in good condition.",
+        "explanation": "This is Kyosoku Chapter 5 Section 4 item 2(3). When the road surface and the tyres are in poor condition you have to reduce speed accordingly."
+      },
+      "vi": {
+        "question": "Khi mặt đường ướt mưa và lốp đã mòn, quãng đường dừng có thể dài gấp khoảng hai lần so với mặt đường khô và lốp còn tốt.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 4 điểm 2(3). Khi mặt đường và lốp ở tình trạng xấu, bạn phải giảm tốc độ tương ứng."
+      },
+      "pt": {
+        "question": "Com a via molhada de chuva e os pneus gastos, a distância de parada pode chegar a cerca do dobro da obtida em piso seco com pneus em bom estado.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 4, item 2(3). Quando o piso e os pneus estão em más condições, é preciso reduzir a velocidade na mesma medida."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-4-005",
+    "category": "徐行",
+    "kp": "5-4-4",
+    "group": "M",
+    "source": "教則 第5章第4節4",
+    "question_type": "text",
+    "qf": "QF-5-4-4-A-N-01",
+    "question_ja": "徐行とは、車がすぐ停止できるような速度で進むことをいう。",
+    "answer": true,
+    "explanation_ja": "教則第5章第4節4のとおりです。具体的な数値ではなく、すぐ停止できるかどうかで判断します。",
+    "i18n": {
+      "zh": {
+        "question": "所谓缓行（徐行），是指车辆以能够立即停车的速度行进。",
+        "explanation": "符合教则第5章第4节4的规定。判断标准不是具体数值，而是能否立即停车。"
+      },
+      "en": {
+        "question": "To proceed slowly (徐行) means to move at a speed from which the vehicle can stop immediately.",
+        "explanation": "This is Kyosoku Chapter 5 Section 4 item 4. The test is not a particular figure but whether you can stop at once."
+      },
+      "vi": {
+        "question": "Lưu thông chậm (徐行) nghĩa là đi với tốc độ mà xe có thể dừng lại ngay lập tức.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 4 điểm 4. Tiêu chí không phải là một con số cụ thể mà là việc có dừng ngay được hay không."
+      },
+      "pt": {
+        "question": "Prosseguir lentamente (徐行) significa andar a uma velocidade da qual o veículo consiga parar imediatamente.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 4, item 4. O critério não é um número determinado, e sim conseguir parar de imediato."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-4-006",
+    "category": "徐行",
+    "kp": "5-4-4",
+    "group": "M",
+    "source": "教則 第5章第4節4(4)",
+    "question_type": "text",
+    "qf": "QF-5-4-4-A-N-02",
+    "question_ja": "上り坂の頂上付近やこう配の急な下り坂を通行するときは、徐行しなければならない。",
+    "answer": true,
+    "explanation_ja": "教則第5章第4節4(4)のとおりです。こう配の急でない下り坂は、この徐行場所にはあたりません。",
+    "i18n": {
+      "zh": {
+        "question": "通过上坡坡顶附近或陡下坡时，必须缓行（徐行）。",
+        "explanation": "符合教则第5章第4节4(4)的规定。坡度不陡的下坡不属于这一缓行场所。"
+      },
+      "en": {
+        "question": "You must proceed slowly (徐行) when travelling near the crest of a hill or on a steep downgrade.",
+        "explanation": "This is Kyosoku Chapter 5 Section 4 item 4(4). A downhill stretch that is not steep is not one of these places."
+      },
+      "vi": {
+        "question": "Bạn phải lưu thông chậm (徐行) khi đi gần đỉnh dốc hoặc trên dốc xuống gấp.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 4 điểm 4(4). Đoạn dốc xuống không gấp không thuộc những nơi này."
+      },
+      "pt": {
+        "question": "Você deve prosseguir lentamente (徐行) ao transitar próximo ao topo de aclives ou em declive íngreme.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 4, item 4(4). Uma descida que não seja íngreme não é um desses locais."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-4-007",
+    "category": "速度と車間距離",
+    "kp": "5-4-2",
+    "group": "L",
+    "source": "教則 第5章第4節2(4)",
+    "question_type": "text",
+    "qf": "QF-5-4-2-A-N-05",
+    "question_ja": "大型自動車、中型自動車及び準中型自動車は、普通自動車に比べて運転席の位置が高く、車間距離が実際より長く感じられるため、車間距離が短くなりやすい。",
+    "answer": true,
+    "explanation_ja": "教則第5章第4節2(4)のとおりです。運転席から見下ろす形になるため、感覚と実際の距離がずれます。",
+    "i18n": {
+      "zh": {
+        "question": "大型汽车、中型汽车和准中型汽车与普通汽车相比驾驶席位置更高，车距感觉上比实际更长，因此车距容易变短。",
+        "explanation": "符合教则第5章第4节2(4)的规定。由于是从驾驶席俯视的角度，感觉与实际距离会产生偏差。"
+      },
+      "en": {
+        "question": "Large, medium and semi-medium vehicles have a higher driving position than ordinary vehicles, so the following distance feels longer than it really is and tends to become too short.",
+        "explanation": "This is Kyosoku Chapter 5 Section 4 item 2(4). Because you look down from the driving seat, what you feel and the real distance drift apart."
+      },
+      "vi": {
+        "question": "Xe cỡ lớn, cỡ trung và cỡ bán trung có vị trí ghế lái cao hơn xe thông thường, nên khoảng cách với xe phía trước có cảm giác dài hơn thực tế và dễ bị rút ngắn.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 4 điểm 2(4). Vì bạn nhìn xuống từ ghế lái nên cảm giác và khoảng cách thực tế lệch nhau."
+      },
+      "pt": {
+        "question": "Veículos grandes, médios e semimédios têm posição de condução mais alta que os comuns, então a distância do veículo à frente parece maior do que é e tende a ficar curta demais.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 4, item 2(4). Como você olha de cima a partir do banco do condutor, a sensação e a distância real se descolam."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-4-008",
+    "category": "ブレーキの掛け方",
+    "kp": "5-4-3",
+    "group": "L",
+    "source": "教則 第5章第4節3(2)",
+    "question_type": "text",
+    "qf": "QF-5-4-3-A-N-01",
+    "question_ja": "ブレーキを数回に分けて使うと、ブレーキ灯が点滅して後ろの車への合図となり、追突事故の防止に役立つ。",
+    "answer": true,
+    "explanation_ja": "教則第5章第4節3(2)のとおりです。この掛け方は、道路が滑りやすい状態のときにはとりわけ効果的です。",
+    "i18n": {
+      "zh": {
+        "question": "分几次使用刹车，刹车灯会闪烁，成为给后车的信号，有助于防止追尾事故。",
+        "explanation": "符合教则第5章第4节3(2)的规定。这种制动方法在道路湿滑时尤其有效。"
+      },
+      "en": {
+        "question": "Using the brakes in several separate applications makes the brake lights flash, which signals to the vehicle behind and helps prevent a rear-end collision.",
+        "explanation": "This is Kyosoku Chapter 5 Section 4 item 3(2). This way of braking is particularly effective when the road is slippery."
+      },
+      "vi": {
+        "question": "Phanh thành nhiều lần làm đèn phanh nhấp nháy, trở thành tín hiệu cho xe phía sau và giúp ngăn tai nạn đâm đuôi.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 4 điểm 3(2). Cách phanh này đặc biệt hiệu quả khi mặt đường trơn trượt."
+      },
+      "pt": {
+        "question": "Acionar o freio em várias aplicações sucessivas faz a luz de freio piscar, o que sinaliza ao veículo de trás e ajuda a evitar colisão traseira.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 4, item 3(2). Essa forma de frear é especialmente eficaz quando a via está escorregadia."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-4-009",
+    "category": "ブレーキの掛け方",
+    "kp": "5-4-3",
+    "group": "L",
+    "source": "教則 第5章第4節3(3)",
+    "question_type": "text",
+    "qf": "QF-5-4-3-A-N-02",
+    "question_ja": "アンチロックブレーキシステムを備えた自動車で急ブレーキを掛けるときは、システムを作動させるために、ブレーキペダルを一気に強く踏み込み、そのまま踏み込み続ける必要がある。",
+    "answer": true,
+    "explanation_ja": "教則第5章第4節3(3)のとおりです。この場合は、数回に分けて踏む掛け方をしません。",
+    "i18n": {
+      "zh": {
+        "question": "在装有防抱死制动系统（ABS）的汽车上紧急刹车时，为了让系统起作用，必须一口气用力踩下刹车踏板并保持踩住。",
+        "explanation": "符合教则第5章第4节3(3)的规定。这种情况下不采用分几次踩的制动方法。"
+      },
+      "en": {
+        "question": "When braking hard in a vehicle fitted with an anti-lock braking system (ABS), you have to press the brake pedal hard in one go and keep it pressed so that the system works.",
+        "explanation": "This is Kyosoku Chapter 5 Section 4 item 3(3). In this case you do not use the several-separate-applications method."
+      },
+      "vi": {
+        "question": "Khi phanh gấp trên xe có hệ thống chống bó cứng phanh (ABS), bạn phải đạp mạnh bàn đạp phanh một lần dứt khoát và giữ nguyên để hệ thống hoạt động.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 4 điểm 3(3). Trong trường hợp này không dùng cách phanh thành nhiều lần."
+      },
+      "pt": {
+        "question": "Ao frear bruscamente em um veículo equipado com sistema de freios antitravamento (ABS), é preciso pisar forte no pedal de uma só vez e manter a pressão para que o sistema atue.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 4, item 3(3). Nesse caso não se usa o método de várias aplicações sucessivas."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-4-010",
+    "category": "速度と車間距離",
+    "kp": "5-4-1",
+    "group": "L",
+    "source": "道交法施行令第11条（令和8年9月1日施行）",
+    "question_type": "text",
+    "qf": "QF-5-4-1-A-N-01",
+    "question_ja": "中央線も車両通行帯もなく、中央分離帯などで往復の方向別に分離されてもいない一般道路で、最高速度が標識や標示で指定されていないときの自動車の法定速度は、時速30キロメートルである。",
+    "answer": true,
+    "explanation_ja": "令和8年9月1日施行の道交法施行令第11条のとおりです。中央線や車両通行帯がある一般道路、中央分離帯などで分離されている一般道路では、従来どおり時速60キロメートルです。",
+    "i18n": {
+      "zh": {
+        "question": "在既没有中心线也没有车辆通行带、也未用中央分隔带等按往返方向分隔的一般道路上，未由标识（立牌）或标示指定最高速度时，汽车的法定最高速度是每小时30公里。",
+        "explanation": "符合2026年9月1日施行的道交法施行令第11条的规定。设有中心线或车辆通行带的一般道路、以及用中央分隔带等分隔的一般道路，仍然是每小时60公里。"
+      },
+      "en": {
+        "question": "On an ordinary road that has no center line and no vehicle lanes and is not divided by direction with a median strip, and where no maximum speed is posted by road sign or road marking, the legal maximum speed for a car is 30 km/h.",
+        "explanation": "This is Article 11 of the Road Traffic Act Enforcement Order as it stands from 1 September 2026. On an ordinary road that has a center line or vehicle lanes, or that is divided by a median strip, it remains 60 km/h."
+      },
+      "vi": {
+        "question": "Trên đường thông thường không có vạch giữa đường, không có làn đường và không được phân chia hai chiều bằng dải phân cách giữa, nếu không có biển báo giao thông hay vạch kẻ đường quy định tốc độ tối đa, thì tốc độ tối đa theo luật định của ô tô là 30 km/h.",
+        "explanation": "Đúng theo Điều 11 Nghị định thi hành Luật Giao thông đường bộ có hiệu lực từ ngày 1 tháng 9 năm 2026. Trên đường thông thường có vạch giữa đường hoặc làn đường, hoặc được phân chia bằng dải phân cách giữa, mức này vẫn là 60 km/h."
+      },
+      "pt": {
+        "question": "Em via comum sem linha divisória central, sem faixas de rolamento e não separada por sentido com canteiro central, e sem velocidade máxima indicada por sinalização vertical ou horizontal, a velocidade máxima legal do automóvel é de 30 km/h.",
+        "explanation": "É o Artigo 11 do Decreto de Execução da Lei de Trânsito, em vigor desde 1º de setembro de 2026. Em via comum com linha divisória central ou faixas de rolamento, ou separada por canteiro central, continuam valendo os 60 km/h."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免|外免",
+    "verify": true
+  },
+  {
+    "id": "K5-4-011",
+    "category": "速度と車間距離",
+    "kp": "5-4-2",
+    "group": "L",
+    "source": "教則 第5章第4節2(1)",
+    "question_type": "text",
+    "qf": "QF-5-4-2-D-SW-01",
+    "question_ja": "空走距離とは、ブレーキが効き始めてから車が停止するまでに車が走る距離をいう。",
+    "answer": false,
+    "explanation_ja": "誤りです。それは制動距離で、空走距離は運転者が危険を感じてからブレーキが実際に効き始めるまでに車が走る距離です。",
+    "i18n": {
+      "zh": {
+        "question": "所谓空驶距离，是指刹车开始起作用后到车辆停住为止车辆行驶的距离。",
+        "explanation": "错误。那是制动距离，空驶距离是驾驶员感到危险后到刹车实际开始起作用为止车辆行驶的距离。"
+      },
+      "en": {
+        "question": "Reaction distance is the distance the vehicle travels from the moment the brakes begin to work until it stops.",
+        "explanation": "This is wrong. That is the braking distance; reaction distance is what the vehicle travels between the driver sensing danger and the brakes actually beginning to work."
+      },
+      "vi": {
+        "question": "Quãng đường phản ứng là quãng đường xe đi được từ khi phanh bắt đầu ăn cho đến khi xe dừng hẳn.",
+        "explanation": "Sai. Đó là quãng đường phanh; quãng đường phản ứng là quãng đường xe đi được từ khi người lái xe cảm thấy nguy hiểm đến khi phanh thực sự bắt đầu ăn."
+      },
+      "pt": {
+        "question": "Distância de reação é a distância que o veículo percorre desde o momento em que os freios começam a atuar até ele parar.",
+        "explanation": "Está errado. Essa é a distância de frenagem; a distância de reação é a percorrida entre o condutor perceber o perigo e os freios começarem de fato a atuar."
+      }
+    },
+    "trap_type": "SW",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-4-012",
+    "category": "速度と車間距離",
+    "kp": "5-4-1",
+    "group": "L",
+    "source": "道交法施行令第11条（令和8年9月1日施行）",
+    "question_type": "text",
+    "qf": "QF-5-4-1-D-NU-01",
+    "question_ja": "中央線も車両通行帯もない一般道路では、最高速度の標識や標示がなければ、自動車は時速60キロメートルまで出してよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。令和8年9月1日施行の道交法施行令第11条により、中央線等のないこうした道路での自動車の法定速度は時速30キロメートルです。",
+    "i18n": {
+      "zh": {
+        "question": "在既没有中心线也没有车辆通行带的一般道路上，只要没有最高速度的标识（立牌）或标示，汽车就可以开到每小时60公里。",
+        "explanation": "错误。根据2026年9月1日施行的道交法施行令第11条，这类没有中心线等的道路上汽车的法定最高速度是每小时30公里。"
+      },
+      "en": {
+        "question": "On an ordinary road with no center line and no vehicle lanes, a car may be driven at up to 60 km/h as long as no maximum speed is posted by road sign or road marking.",
+        "explanation": "This is wrong. Under Article 11 of the Road Traffic Act Enforcement Order in force from 1 September 2026, the legal maximum speed for a car on such a road without a center line is 30 km/h."
+      },
+      "vi": {
+        "question": "Trên đường thông thường không có vạch giữa đường và không có làn đường, nếu không có biển báo giao thông hay vạch kẻ đường quy định tốc độ tối đa thì ô tô được chạy tới 60 km/h.",
+        "explanation": "Sai. Theo Điều 11 Nghị định thi hành Luật Giao thông đường bộ có hiệu lực từ ngày 1 tháng 9 năm 2026, tốc độ tối đa theo luật định của ô tô trên đường không có vạch giữa đường như vậy là 30 km/h."
+      },
+      "pt": {
+        "question": "Em via comum sem linha divisória central e sem faixas de rolamento, o automóvel pode trafegar a até 60 km/h desde que não haja velocidade máxima indicada por sinalização vertical ou horizontal.",
+        "explanation": "Está errado. Pelo Artigo 11 do Decreto de Execução da Lei de Trânsito, em vigor desde 1º de setembro de 2026, a velocidade máxima legal do automóvel nessa via sem linha divisória central é de 30 km/h."
+      }
+    },
+    "trap_type": "NU",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免|外免",
+    "verify": true
+  },
+  {
+    "id": "K5-4-013",
+    "category": "速度と車間距離",
+    "kp": "5-4-1",
+    "group": "L",
+    "source": "教則 第5章第4節1(1)",
+    "question_type": "text",
+    "qf": "QF-5-4-1-D-EI-01",
+    "question_ja": "標識や標示で最高速度が指定されている道路でも、まわりの車の流れに合わせるためであれば、その速度を超えて運転してよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第4節1(1)により、標識や標示で示されている最高速度を超えて運転してはならず、流れに合わせるという例外はありません。",
+    "i18n": {
+      "zh": {
+        "question": "即使是由标识（立牌）或标示指定了最高速度的道路，只要是为了配合周围车流，也可以超过该速度行驶。",
+        "explanation": "错误。根据教则第5章第4节1(1)，不得超过标识或标示所示的最高速度行驶，不存在「配合车流」这一例外。"
+      },
+      "en": {
+        "question": "Even on a road where a maximum speed is posted by road sign or road marking, you may exceed it in order to keep up with the flow of surrounding traffic.",
+        "explanation": "This is wrong. Kyosoku Chapter 5 Section 4 item 1(1) forbids driving above the maximum speed shown by a sign or marking, and there is no exception for keeping up with the flow."
+      },
+      "vi": {
+        "question": "Ngay cả trên đường đã có biển báo giao thông hoặc vạch kẻ đường quy định tốc độ tối đa, bạn vẫn được chạy quá tốc độ đó nếu là để theo kịp dòng xe xung quanh.",
+        "explanation": "Sai. Kyosoku Chương 5 Mục 4 điểm 1(1) cấm chạy quá tốc độ tối đa mà biển báo hoặc vạch kẻ đường chỉ ra, và không có ngoại lệ để theo kịp dòng xe."
+      },
+      "pt": {
+        "question": "Mesmo em via com velocidade máxima indicada por sinalização vertical ou horizontal, você pode excedê-la para acompanhar o fluxo dos veículos ao redor.",
+        "explanation": "Está errado. O Kyosoku, Capítulo 5, Seção 4, item 1(1), proíbe dirigir acima da velocidade máxima indicada pela sinalização, e não há exceção para acompanhar o fluxo."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-4-014",
+    "category": "徐行",
+    "kp": "5-4-4",
+    "group": "M",
+    "source": "教則 第5章第4節4(2)",
+    "question_type": "text",
+    "qf": "QF-5-4-4-D-EO-01",
+    "question_ja": "左右の見通しがきかない交差点を通行するときは、どのような場合でも徐行しなければならない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第4節4(2)により、信号機などによる交通整理が行われている場合や、優先道路を通行している場合は除かれます。",
+    "i18n": {
+      "zh": {
+        "question": "通过左右视野不好的交叉路口时，无论什么情况都必须缓行（徐行）。",
+        "explanation": "错误。根据教则第5章第4节4(2)，由信号灯等进行交通整理的情况，以及正在优先道路上通行的情况除外。"
+      },
+      "en": {
+        "question": "You must proceed slowly (徐行) whenever you go through an intersection with poor visibility to left and right, without exception.",
+        "explanation": "This is wrong. Kyosoku Chapter 5 Section 4 item 4(2) excepts intersections under traffic control by a traffic light and cases where you are travelling on a priority road."
+      },
+      "vi": {
+        "question": "Khi đi qua nút giao thông có tầm nhìn hạn chế sang trái và phải, bạn phải lưu thông chậm (徐行) trong mọi trường hợp.",
+        "explanation": "Sai. Kyosoku Chương 5 Mục 4 điểm 4(2) loại trừ nơi có điều khiển giao thông bằng đèn tín hiệu và trường hợp bạn đang đi trên đường ưu tiên."
+      },
+      "pt": {
+        "question": "Ao passar por cruzamento com pouca visibilidade para a esquerda e para a direita, você deve prosseguir lentamente (徐行) em qualquer caso.",
+        "explanation": "Está errado. O Kyosoku, Capítulo 5, Seção 4, item 4(2), excetua o cruzamento sob controle de trânsito por semáforo e o caso de você estar em via preferencial."
+      }
+    },
+    "trap_type": "EO",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-4-015",
+    "category": "ブレーキの掛け方",
+    "kp": "5-4-3",
+    "group": "L",
+    "source": "教則 第5章第4節3(3)",
+    "question_type": "text",
+    "qf": "QF-5-4-3-D-SW-01",
+    "question_ja": "アンチロックブレーキシステムを備えた自動車で急ブレーキを掛けるときは、ブレーキペダルを数回に分けて踏まなければならない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第4節3(3)により、この場合はシステムを作動させるために一気に強く踏み込み、そのまま踏み込み続けます。",
+    "i18n": {
+      "zh": {
+        "question": "在装有防抱死制动系统（ABS）的汽车上紧急刹车时，必须分几次踩下刹车踏板。",
+        "explanation": "错误。根据教则第5章第4节3(3)，这种情况下为了让系统起作用，要一口气用力踩下并保持踩住。"
+      },
+      "en": {
+        "question": "When braking hard in a vehicle fitted with an anti-lock braking system (ABS), you must press the brake pedal in several separate applications.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 4 item 3(3) you press hard in one go and keep the pedal pressed so that the system works."
+      },
+      "vi": {
+        "question": "Khi phanh gấp trên xe có hệ thống chống bó cứng phanh (ABS), bạn phải đạp bàn đạp phanh thành nhiều lần.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 4 điểm 3(3), trong trường hợp này bạn đạp mạnh một lần dứt khoát và giữ nguyên để hệ thống hoạt động."
+      },
+      "pt": {
+        "question": "Ao frear bruscamente em um veículo com sistema de freios antitravamento (ABS), é preciso pisar no pedal em várias aplicações sucessivas.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 4, item 3(3), nesse caso você pisa forte de uma só vez e mantém a pressão para que o sistema atue."
+      }
+    },
+    "trap_type": "SW",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-4-016",
+    "category": "速度と車間距離",
+    "kp": "5-4-2",
+    "group": "L",
+    "source": "教則 第5章第4節2(4)",
+    "question_type": "text",
+    "qf": "QF-5-4-2-D-NR-01",
+    "question_ja": "車間距離は、前の車が急に止まっても追突しない距離であればよいので、天候や路面の状態、荷物の重さは考えに入れる必要がない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第4節2(4)は、天候、路面やタイヤの状態、荷物の重さを考えに入れて車間距離をとることを求めています。",
+    "i18n": {
+      "zh": {
+        "question": "车距只要是前车突然停住也不会追尾的距离就可以，不需要把天气、路面状态和货物重量考虑在内。",
+        "explanation": "错误。教则第5章第4节2(4)要求把天气、路面和轮胎的状态、货物的重量考虑在内来保持车距。"
+      },
+      "en": {
+        "question": "A following distance only has to be one at which you would not run into the vehicle ahead if it stopped suddenly, so the weather, the road surface and the weight of the load need not be taken into account.",
+        "explanation": "This is wrong. Kyosoku Chapter 5 Section 4 item 2(4) requires you to take the weather, the state of the road and tyres and the weight of the load into account when keeping your distance."
+      },
+      "vi": {
+        "question": "Khoảng cách với xe phía trước chỉ cần đủ để không đâm vào xe đó khi nó dừng đột ngột, nên không cần tính đến thời tiết, tình trạng mặt đường và trọng lượng hàng hóa.",
+        "explanation": "Sai. Kyosoku Chương 5 Mục 4 điểm 2(4) yêu cầu giữ khoảng cách có tính đến thời tiết, tình trạng mặt đường và lốp, cùng trọng lượng hàng hóa."
+      },
+      "pt": {
+        "question": "A distância do veículo à frente só precisa ser aquela em que você não bateria se ele parasse de repente, de modo que o tempo, o estado do piso e o peso da carga não precisam ser considerados.",
+        "explanation": "Está errado. O Kyosoku, Capítulo 5, Seção 4, item 2(4), exige que se considerem o tempo, o estado do piso e dos pneus e o peso da carga ao manter a distância."
+      }
+    },
+    "trap_type": "NR",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-4-017",
+    "category": "速度と車間距離",
+    "kp": "5-4-1",
+    "group": "L",
+    "source": "教則 第5章第4節1(2)",
+    "question_type": "text",
+    "qf": "QF-5-4-1-D-EX-01",
+    "question_ja": "一般原動機付自転車は、標識によって最高速度が時速40キロメートルと指定されている道路では、時速40キロメートルまで出してよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第4節1(2)により、一般原動機付自転車は時速30キロメートルを超えて運転してはならず、指定速度がそれより高くても変わりません。",
+    "i18n": {
+      "zh": {
+        "question": "一般轻型摩托车在由标识（立牌）指定最高速度为每小时40公里的道路上，可以开到每小时40公里。",
+        "explanation": "错误。根据教则第5章第4节1(2)，一般轻型摩托车不得超过每小时30公里行驶，即使指定速度高于该值也不变。"
+      },
+      "en": {
+        "question": "On a road where a sign posts a maximum speed of 40 km/h, a general motorized bicycle (moped) may be ridden at up to 40 km/h.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 4 item 1(2) a general motorized bicycle must not be ridden above 30 km/h, and a higher posted speed does not change that."
+      },
+      "vi": {
+        "question": "Trên đường có biển báo giao thông quy định tốc độ tối đa 40 km/h, xe gắn máy (原付) được chạy tới 40 km/h.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 4 điểm 1(2), xe gắn máy không được chạy quá 30 km/h, và tốc độ quy định cao hơn cũng không thay đổi điều đó."
+      },
+      "pt": {
+        "question": "Em via onde a sinalização indica velocidade máxima de 40 km/h, o ciclomotor pode trafegar a até 40 km/h.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 4, item 1(2), o ciclomotor não pode trafegar acima de 30 km/h, e uma velocidade indicada mais alta não altera isso."
+      }
+    },
+    "trap_type": "EX",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-4-018",
+    "category": "速度と車間距離",
+    "kp": "5-4-1",
+    "group": "L",
+    "source": "教則 第5章第4節1(3)",
+    "question_type": "text",
+    "qf": "QF-5-4-1-D-EI-02",
+    "question_ja": "決められた最高速度の範囲内で運転していれば、雨で視界が悪いときでも速度を落とす必要はない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第4節1(3)は、決められた速度の範囲内であっても、道路や交通の状況、天候や視界をよく考えて安全な速度で走ることを求めています。",
+    "i18n": {
+      "zh": {
+        "question": "只要在规定的最高速度范围内行驶，即使下雨视野不好也不需要降低速度。",
+        "explanation": "错误。教则第5章第4节1(3)要求即使在规定速度范围内，也要充分考虑道路和交通状况、天气与视野，以安全的速度行驶。"
+      },
+      "en": {
+        "question": "As long as you stay within the posted maximum speed, you do not need to slow down even when rain makes visibility poor.",
+        "explanation": "This is wrong. Kyosoku Chapter 5 Section 4 item 1(3) asks you to drive at a safe speed with the road and traffic conditions, the weather and the visibility in mind, even within the permitted speed."
+      },
+      "vi": {
+        "question": "Chỉ cần chạy trong phạm vi tốc độ tối đa đã quy định thì dù trời mưa tầm nhìn kém bạn cũng không cần giảm tốc độ.",
+        "explanation": "Sai. Kyosoku Chương 5 Mục 4 điểm 1(3) yêu cầu chạy với tốc độ an toàn có cân nhắc tình hình đường sá và giao thông, thời tiết và tầm nhìn, ngay cả khi còn trong phạm vi tốc độ cho phép."
+      },
+      "pt": {
+        "question": "Desde que você fique dentro da velocidade máxima estabelecida, não precisa reduzir mesmo quando a chuva prejudica a visibilidade.",
+        "explanation": "Está errado. O Kyosoku, Capítulo 5, Seção 4, item 1(3), pede que se dirija em velocidade segura considerando as condições da via e do trânsito, o tempo e a visibilidade, mesmo dentro da velocidade permitida."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-4-019",
+    "category": "ブレーキの掛け方",
+    "kp": "5-4-3",
+    "group": "L",
+    "source": "教則 第5章第4節3(3)",
+    "question_type": "text",
+    "qf": "QF-5-4-3-D-EI-01",
+    "question_ja": "急ブレーキは危険を避けるためやむを得ない場合のほかは掛けてはいけないが、後ろに車がいないときは掛けてもよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第4節3(3)が認めているのは危険を避けるためやむを得ない場合だけで、後ろに車がいないことはその理由になりません。",
+    "i18n": {
+      "zh": {
+        "question": "急刹车除了为避免危险不得已的情况以外不得使用，但后面没有车时可以使用。",
+        "explanation": "错误。教则第5章第4节3(3)认可的只有为避免危险不得已的情况，后面没有车并不构成理由。"
+      },
+      "en": {
+        "question": "Sudden braking is not allowed except where it is unavoidable in order to avoid danger, but it is allowed when there is no vehicle behind you.",
+        "explanation": "This is wrong. Kyosoku Chapter 5 Section 4 item 3(3) allows it only where it is unavoidable to avoid danger, and an empty road behind is not such a reason."
+      },
+      "vi": {
+        "question": "Phanh gấp không được phép trừ khi bắt buộc để tránh nguy hiểm, nhưng khi phía sau không có xe nào thì được phép.",
+        "explanation": "Sai. Kyosoku Chương 5 Mục 4 điểm 3(3) chỉ cho phép khi bắt buộc để tránh nguy hiểm, và việc phía sau không có xe không phải là lý do đó."
+      },
+      "pt": {
+        "question": "A frenagem brusca não é permitida salvo quando inevitável para evitar perigo, mas é permitida quando não há veículo atrás de você.",
+        "explanation": "Está errado. O Kyosoku, Capítulo 5, Seção 4, item 3(3), só a admite quando inevitável para evitar perigo, e não haver veículo atrás não é esse motivo."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-4-020",
+    "category": "ブレーキの掛け方",
+    "kp": "5-4-3",
+    "group": "L",
+    "source": "教則 第5章第4節3(1)",
+    "question_type": "text",
+    "qf": "QF-5-4-3-D-EI-02",
+    "question_ja": "ブレーキは、止まりたい地点が決まっているときは、最初から必要な強さまで一気に踏み込んでよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第4節3(1)は、最初はできるだけ軽く踏み込み、それから必要な強さまで徐々に踏み込んでいくことを求めています。",
+    "i18n": {
+      "zh": {
+        "question": "刹车时，如果想停下的地点已经确定，就可以从一开始一口气踩到需要的力度。",
+        "explanation": "错误。教则第5章第4节3(1)要求最初尽量轻踩，然后再逐渐踩到需要的力度。"
+      },
+      "en": {
+        "question": "If you have already decided where you want to stop, you may press the brake straight to the strength you need from the start.",
+        "explanation": "This is wrong. Kyosoku Chapter 5 Section 4 item 3(1) asks you to press as lightly as you can at first and then build up gradually to the strength you need."
+      },
+      "vi": {
+        "question": "Khi đã xác định được điểm muốn dừng, bạn có thể đạp phanh mạnh tới mức cần thiết ngay từ đầu.",
+        "explanation": "Sai. Kyosoku Chương 5 Mục 4 điểm 3(1) yêu cầu lúc đầu đạp nhẹ nhất có thể rồi mới tăng dần tới mức cần thiết."
+      },
+      "pt": {
+        "question": "Se o ponto em que você quer parar já está definido, pode pisar no freio com a força necessária já desde o início.",
+        "explanation": "Está errado. O Kyosoku, Capítulo 5, Seção 4, item 3(1), pede que se pise o mais levemente possível no início e depois se aumente aos poucos até a força necessária."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  }
+]

@@ -1,0 +1,662 @@
+[
+  {
+    "id": "K5-7-001",
+    "category": "環状交差点",
+    "kp": "5-7-4",
+    "group": "Q",
+    "source": "教則 第5章第7節4(3) / 道交法第37条の2第1項・第2項",
+    "question_type": "text",
+    "qf": "QF-5-7-4-A-N-01",
+    "question_ja": "環状交差点に入ろうとするときは、徐行するとともに、環状交差点内を通行している車の進行を妨げてはいけない。",
+    "answer": true,
+    "explanation_ja": "道交法第37条の2第1項・第2項のとおりです。環状交差点に入ろうとするときは徐行しなければならず、環状交差点内を通行している車が優先します。",
+    "i18n": {
+      "zh": {
+        "question": "准备驶入环形交叉路口时，必须缓行（徐行），并且不得妨碍正在环形交叉路口内通行的车辆通行。",
+        "explanation": "符合道交法第37条之2第1款、第2款的规定。准备驶入环形交叉路口时必须缓行，正在环形交叉路口内通行的车辆优先。"
+      },
+      "en": {
+        "question": "When you are about to enter a roundabout you must proceed slowly (徐行) and must not obstruct the progress of a vehicle already travelling inside the roundabout.",
+        "explanation": "This is Article 37-2 paragraphs 1 and 2 of the Road Traffic Act. You must proceed slowly when entering, and vehicles already travelling inside the roundabout have priority."
+      },
+      "vi": {
+        "question": "Khi sắp đi vào giao lộ vòng xuyến, bạn phải lưu thông chậm (徐行) và không được cản trở xe đang lưu thông bên trong giao lộ vòng xuyến.",
+        "explanation": "Đúng theo Điều 37-2 khoản 1 và khoản 2 Luật Giao thông đường bộ. Khi sắp đi vào bạn phải lưu thông chậm, và xe đang lưu thông bên trong giao lộ vòng xuyến được ưu tiên."
+      },
+      "pt": {
+        "question": "Ao entrar em uma rotatória, você deve prosseguir lentamente (徐行) e não deve obstruir a passagem dos veículos que já circulam dentro da rotatória.",
+        "explanation": "É o Artigo 37-2, parágrafos 1 e 2, da Lei de Trânsito. Ao entrar você deve prosseguir lentamente, e os veículos que já circulam dentro da rotatória têm preferência."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-7-002",
+    "category": "環状交差点",
+    "kp": "5-7-4",
+    "group": "Q",
+    "source": "教則 第5章第7節4(1) / 道交法第35条の2第1項",
+    "question_type": "text",
+    "qf": "QF-5-7-4-A-N-02",
+    "question_ja": "環状交差点で右折するときは、あらかじめできるだけ道路の左端に寄り、環状交差点の側端に沿って徐行しながら通行しなければならない。",
+    "answer": true,
+    "explanation_ja": "道交法第35条の2第1項のとおりです。環状交差点では右折の場合も左折の場合も、道路の左端に寄り、側端に沿って徐行します。",
+    "i18n": {
+      "zh": {
+        "question": "在环形交叉路口右拐弯时，必须事先尽量靠道路左端，沿着环形交叉路口的外侧边缘缓行（徐行）通过。",
+        "explanation": "符合道交法第35条之2第1款的规定。在环形交叉路口，无论右拐弯还是左拐弯，都要靠道路左端、沿外侧边缘缓行。"
+      },
+      "en": {
+        "question": "When you turn right at a roundabout you must first keep as far to the left of the road as you can and proceed slowly (徐行) along the outer edge of the roundabout.",
+        "explanation": "This is Article 35-2 paragraph 1 of the Road Traffic Act. At a roundabout you keep to the left of the road and proceed slowly along the outer edge whether you are turning right or left."
+      },
+      "vi": {
+        "question": "Khi rẽ phải tại giao lộ vòng xuyến, bạn phải đi sát mép trái của đường từ trước và lưu thông chậm (徐行) dọc theo mép ngoài của giao lộ vòng xuyến.",
+        "explanation": "Đúng theo Điều 35-2 khoản 1 Luật Giao thông đường bộ. Tại giao lộ vòng xuyến, dù rẽ phải hay rẽ trái bạn đều đi sát mép trái của đường và lưu thông chậm dọc theo mép ngoài."
+      },
+      "pt": {
+        "question": "Ao converter à direita em uma rotatória, você deve antes manter-se o mais à esquerda possível da via e prosseguir lentamente (徐行) ao longo da borda externa da rotatória.",
+        "explanation": "É o Artigo 35-2, parágrafo 1, da Lei de Trânsito. Na rotatória você se mantém à esquerda da via e prossegue lentamente ao longo da borda externa, tanto para converter à direita quanto à esquerda."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-7-003",
+    "category": "環状交差点",
+    "kp": "5-7-4",
+    "group": "Q",
+    "source": "教則 第5章第7節4(2)",
+    "question_type": "text",
+    "qf": "QF-5-7-4-A-N-03",
+    "question_ja": "環状交差点を通行するときに、矢印などの標示によって通行方法が指定されているときは、その指定に従わなければならない。",
+    "answer": true,
+    "explanation_ja": "教則第5章第7節4(2)のとおりです。指定があるときは、標示が示す部分を通行します。",
+    "i18n": {
+      "zh": {
+        "question": "通行环形交叉路口时，如果箭头等路面标示指定了通行方法，必须按照指定通行。",
+        "explanation": "符合教则第5章第7节4(2)的规定。有指定时，按标示所示的部分通行。"
+      },
+      "en": {
+        "question": "When arrows or other road markings (標示) specify how to travel through a roundabout, you must follow what they specify.",
+        "explanation": "This is Kyosoku Chapter 5 Section 7 item 4(2). Where such a specification exists, you travel on the part the marking shows."
+      },
+      "vi": {
+        "question": "Khi đi qua giao lộ vòng xuyến, nếu mũi tên hoặc vạch kẻ đường (kí hiệu trên mặt đường) chỉ định cách lưu thông thì bạn phải tuân theo chỉ định đó.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 7 điểm 4(2). Khi có chỉ định, bạn đi trên phần mà vạch kẻ đường chỉ ra."
+      },
+      "pt": {
+        "question": "Ao transitar por uma rotatória, se setas ou outra sinalização horizontal indicarem a forma de circular, você deve seguir essa indicação.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 7, item 4(2). Havendo indicação, você circula pela parte que a sinalização horizontal mostra."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-5-001",
+    "category": "環状交差点",
+    "kp": "5-5-1",
+    "group": "N",
+    "source": "教則 第5章第5節1(2) / 道交法第53条第2項",
+    "question_type": "text",
+    "qf": "QF-5-5-1-A-N-01",
+    "question_ja": "環状交差点を出るときの合図は、出ようとする地点の直前の出口の側方を通過したときに行う。",
+    "answer": true,
+    "explanation_ja": "教則第5章第5節1(2)のとおりです。左側の方向指示器を操作するか、右腕の肘を垂直に上に曲げるなどの手による合図を行います。",
+    "i18n": {
+      "zh": {
+        "question": "驶出环形交叉路口时的打信号（转向灯或手势），在通过准备驶出地点前一个出口的侧方时进行。",
+        "explanation": "符合教则第5章第5节1(2)的规定。操作左侧方向指示器，或者将右臂肘部垂直上举等，用手势打信号。"
+      },
+      "en": {
+        "question": "The signal for leaving a roundabout is given when you have passed the side of the exit immediately before the one you intend to take.",
+        "explanation": "This is Kyosoku Chapter 5 Section 5 item 1(2). You either operate the left turn indicator or give a hand signal, such as raising the right forearm vertically at the elbow."
+      },
+      "vi": {
+        "question": "Báo hiệu (bằng xi nhan hoặc tay) khi ra khỏi giao lộ vòng xuyến được thực hiện khi bạn đã đi qua bên cạnh lối ra ngay trước lối ra mà bạn định đi.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 5 điểm 1(2). Bạn bật đèn xi nhan bên trái hoặc ra hiệu bằng tay, chẳng hạn gập cẳng tay phải dựng thẳng lên."
+      },
+      "pt": {
+        "question": "O sinal para sair de uma rotatória é dado quando você passa ao lado da saída imediatamente anterior àquela que pretende tomar.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 5, item 1(2). Você aciona a seta esquerda ou sinaliza com a mão, por exemplo dobrando o antebraço direito verticalmente."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-5-002",
+    "category": "環状交差点",
+    "kp": "5-5-1",
+    "group": "N",
+    "source": "教則 第5章第5節1(2)",
+    "question_type": "text",
+    "qf": "QF-5-5-1-A-N-02",
+    "question_ja": "環状交差点に入った直後の出口を出る場合は、その環状交差点に入ったときに合図を行う。",
+    "answer": true,
+    "explanation_ja": "教則第5章第5節1(2)のとおりです。それ以外の場合は、出ようとする地点の直前の出口の側方を通過したときに合図を行います。",
+    "i18n": {
+      "zh": {
+        "question": "从驶入环形交叉路口后紧接着的第一个出口驶出时，在驶入该环形交叉路口时就打信号（转向灯或手势）。",
+        "explanation": "符合教则第5章第5节1(2)的规定。其他情况下，在通过准备驶出地点前一个出口的侧方时打信号。"
+      },
+      "en": {
+        "question": "If you are taking the exit immediately after entering a roundabout, you give the signal at the moment you enter that roundabout.",
+        "explanation": "This is Kyosoku Chapter 5 Section 5 item 1(2). In every other case you signal when you have passed the side of the exit immediately before the one you intend to take."
+      },
+      "vi": {
+        "question": "Nếu bạn ra ở lối ra ngay sau khi vào giao lộ vòng xuyến, bạn báo hiệu (bằng xi nhan hoặc tay) ngay lúc đi vào giao lộ vòng xuyến đó.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 5 điểm 1(2). Trong các trường hợp khác, bạn báo hiệu khi đã đi qua bên cạnh lối ra ngay trước lối ra mà bạn định đi."
+      },
+      "pt": {
+        "question": "Se você vai tomar a saída imediatamente seguinte à entrada na rotatória, o sinal é dado no momento em que você entra nessa rotatória.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 5, item 1(2). Nos demais casos você sinaliza ao passar ao lado da saída imediatamente anterior àquela que pretende tomar."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-5-003",
+    "category": "環状交差点",
+    "kp": "5-5-1",
+    "group": "N",
+    "source": "道交法第53条第2項 / 教則 第5章第5節1(2)",
+    "question_type": "text",
+    "qf": "QF-5-5-1-A-N-03",
+    "question_ja": "環状交差点の中で徐行したり停止したり後退したりしようとするときは、合図をしなければならない。",
+    "answer": true,
+    "explanation_ja": "道交法第53条第2項のとおりです。環状交差点では、出るときとこれらの行為をするときに合図が必要です。",
+    "i18n": {
+      "zh": {
+        "question": "在环形交叉路口内准备缓行（徐行）、停止或后退时，必须打信号（转向灯或手势）。",
+        "explanation": "符合道交法第53条第2款的规定。在环形交叉路口，驶出时和做这些动作时需要打信号。"
+      },
+      "en": {
+        "question": "You must signal when you are about to proceed slowly (徐行), stop or reverse inside a roundabout.",
+        "explanation": "This is Article 53 paragraph 2 of the Road Traffic Act. At a roundabout a signal is required when leaving and when performing these actions."
+      },
+      "vi": {
+        "question": "Bạn phải báo hiệu (bằng xi nhan hoặc tay) khi sắp lưu thông chậm (徐行), dừng lại hoặc lùi xe bên trong giao lộ vòng xuyến.",
+        "explanation": "Đúng theo Điều 53 khoản 2 Luật Giao thông đường bộ. Tại giao lộ vòng xuyến, cần báo hiệu khi ra khỏi và khi thực hiện những hành vi này."
+      },
+      "pt": {
+        "question": "Você deve sinalizar quando for prosseguir lentamente (徐行), parar ou dar marcha à ré dentro de uma rotatória.",
+        "explanation": "É o Artigo 53, parágrafo 2, da Lei de Trânsito. Na rotatória o sinal é exigido ao sair e ao executar esses atos."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-7-004",
+    "category": "環状交差点",
+    "kp": "5-7-1",
+    "group": "Q",
+    "source": "教則 第5章第7節1(2) / 道交法第37条の2第3項",
+    "question_type": "text",
+    "qf": "QF-5-7-1-A-N-01",
+    "question_ja": "環状交差点に入ろうとするときや環状交差点内を通行するときは、環状交差点内を通行する車のほか、環状交差点に入ろうとする車や、環状交差点やその直近で道路を横断する歩行者にも特に注意しなければならない。",
+    "answer": true,
+    "explanation_ja": "道交法第37条の2第3項のとおりです。そのうえで、環状交差点の状況に応じ、できる限り安全な速度と方法で進行します。",
+    "i18n": {
+      "zh": {
+        "question": "准备驶入环形交叉路口或在环形交叉路口内通行时，除了环形交叉路口内通行的车辆以外，对准备驶入的车辆以及在环形交叉路口或其紧邻处横穿道路的步行者也必须特别注意。",
+        "explanation": "符合道交法第37条之2第3款的规定。在此基础上，还要根据环形交叉路口的状况，以尽可能安全的速度和方法行驶。"
+      },
+      "en": {
+        "question": "When you are about to enter a roundabout or are travelling inside one, you must pay particular attention not only to vehicles travelling inside it but also to vehicles about to enter it and to pedestrians crossing the road at or immediately beside it.",
+        "explanation": "This is Article 37-2 paragraph 3 of the Road Traffic Act. On top of that you must proceed at the safest possible speed and in the safest possible manner for the state of the roundabout."
+      },
+      "vi": {
+        "question": "Khi sắp đi vào giao lộ vòng xuyến hoặc khi đang lưu thông bên trong, bạn phải đặc biệt chú ý không chỉ tới xe đang lưu thông bên trong mà còn tới xe sắp đi vào và người đi bộ đang băng qua đường tại hoặc ngay sát giao lộ vòng xuyến.",
+        "explanation": "Đúng theo Điều 37-2 khoản 3 Luật Giao thông đường bộ. Ngoài ra, bạn phải đi với tốc độ và cách thức an toàn nhất có thể tùy theo tình hình của giao lộ vòng xuyến."
+      },
+      "pt": {
+        "question": "Ao entrar em uma rotatória ou ao circular dentro dela, você deve prestar atenção especial não só aos veículos que circulam dentro dela, mas também aos que estão prestes a entrar e aos pedestres que atravessam a via na rotatória ou logo ao lado dela.",
+        "explanation": "É o Artigo 37-2, parágrafo 3, da Lei de Trânsito. Além disso, você deve seguir na velocidade e da maneira mais seguras possíveis conforme a situação da rotatória."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-7-005",
+    "category": "環状交差点",
+    "kp": "5-7-4",
+    "group": "Q",
+    "source": "道交法第4条第3項 / 教則 第3章第3節(2)イ",
+    "question_type": "text",
+    "qf": "QF-5-7-4-A-N-04",
+    "question_ja": "環状交差点とは、車の通行の用に供する部分が環状の交差点のうち、「環状の交差点における右回り通行」の標識によって、車がその部分を右回りに通行すべきことが指定されているものをいう。",
+    "answer": true,
+    "explanation_ja": "道交法第4条第3項の定義のとおりです。環状の形をしていても、この指定がなければ環状交差点ではありません。",
+    "i18n": {
+      "zh": {
+        "question": "所谓环形交叉路口，是指供车辆通行的部分呈环状的交叉路口中，由「环形交叉路口内右回りに通行」的标识（立牌）指定车辆应在该部分顺时针通行者。",
+        "explanation": "符合道交法第4条第3款的定义。即使形状是环形，没有这一指定也不是环形交叉路口。"
+      },
+      "en": {
+        "question": "A roundabout is an intersection whose vehicle carriageway is circular and on which a road sign specifies that vehicles are to travel around that part clockwise.",
+        "explanation": "This is the definition in Article 4 paragraph 3 of the Road Traffic Act. A circular layout without that specification is not a roundabout."
+      },
+      "vi": {
+        "question": "Giao lộ vòng xuyến là nút giao thông có phần đường dành cho xe chạy hình vòng tròn và được biển báo giao thông chỉ định rằng xe phải đi vòng phần đó theo chiều kim đồng hồ.",
+        "explanation": "Đúng theo định nghĩa tại Điều 4 khoản 3 Luật Giao thông đường bộ. Chỉ có hình dạng vòng tròn mà không có chỉ định đó thì không phải là giao lộ vòng xuyến."
+      },
+      "pt": {
+        "question": "Rotatória é o cruzamento cuja parte destinada à circulação de veículos é circular e no qual uma sinalização vertical determina que os veículos devem percorrer essa parte no sentido horário.",
+        "explanation": "É a definição do Artigo 4, parágrafo 3, da Lei de Trânsito. Um traçado circular sem essa determinação não é uma rotatória."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-7-006",
+    "category": "環状交差点",
+    "kp": "5-7-4",
+    "group": "Q",
+    "source": "道交法第35条の2第1項（第34条第5項にかかわらず）",
+    "question_type": "text",
+    "qf": "QF-5-7-4-A-N-05",
+    "question_ja": "一般原動機付自転車が環状交差点で右折するときは、二段階の右折方法によらず、あらかじめできるだけ道路の左端に寄り、環状交差点の側端に沿って徐行しながら通行する。",
+    "answer": true,
+    "explanation_ja": "道交法第35条の2第1項のとおりです。同項は二段階右折を定めた第34条第5項にかかわらず適用されるので、環状交差点では二段階右折を行いません。",
+    "i18n": {
+      "zh": {
+        "question": "一般轻型摩托车在环形交叉路口右拐弯时，不采用二阶段右拐弯的方法，而是事先尽量靠道路左端，沿着环形交叉路口的外侧边缘缓行（徐行）通过。",
+        "explanation": "符合道交法第35条之2第1款的规定。该款不受规定二阶段右拐弯的第34条第5款约束，因此在环形交叉路口不进行二阶段右拐弯。"
+      },
+      "en": {
+        "question": "When a general motorized bicycle (moped) turns right at a roundabout it does not use the two-step right turn; it keeps as far to the left of the road as it can and proceeds slowly (徐行) along the outer edge of the roundabout.",
+        "explanation": "This is Article 35-2 paragraph 1 of the Road Traffic Act. That paragraph applies notwithstanding Article 34 paragraph 5, which sets out the two-step right turn, so no two-step right turn is made at a roundabout."
+      },
+      "vi": {
+        "question": "Khi xe gắn máy (原付) rẽ phải tại giao lộ vòng xuyến, xe không dùng cách rẽ phải hai bước mà đi sát mép trái của đường từ trước và lưu thông chậm (徐行) dọc theo mép ngoài của giao lộ vòng xuyến.",
+        "explanation": "Đúng theo Điều 35-2 khoản 1 Luật Giao thông đường bộ. Khoản này được áp dụng bất kể Điều 34 khoản 5 quy định cách rẽ phải hai bước, nên tại giao lộ vòng xuyến không rẽ phải hai bước."
+      },
+      "pt": {
+        "question": "Quando um ciclomotor converte à direita em uma rotatória, ele não usa a conversão à direita em duas etapas; mantém-se o mais à esquerda possível da via e prossegue lentamente (徐行) ao longo da borda externa da rotatória.",
+        "explanation": "É o Artigo 35-2, parágrafo 1, da Lei de Trânsito. Esse parágrafo se aplica não obstante o Artigo 34, parágrafo 5, que trata da conversão em duas etapas, de modo que ela não é feita na rotatória."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-5-004",
+    "category": "環状交差点",
+    "kp": "5-5-1",
+    "group": "N",
+    "source": "道交法第53条第2項・第4項 / 教則 第5章第5節1(3)",
+    "question_type": "text",
+    "qf": "QF-5-5-1-A-N-04",
+    "question_ja": "環状交差点で行う合図は、その行為が終わるまで続け、終わったときは速やかにやめなければならない。",
+    "answer": true,
+    "explanation_ja": "道交法第53条第2項・第4項のとおりです。また、その行為をしないのに合図をしてはいけません。",
+    "i18n": {
+      "zh": {
+        "question": "在环形交叉路口打的信号（转向灯或手势），要持续到该动作结束为止，动作结束后必须立即停止打信号。",
+        "explanation": "符合道交法第53条第2款、第4款的规定。此外，不做该动作时不得打信号。"
+      },
+      "en": {
+        "question": "A signal given at a roundabout must be kept up until the action is finished, and stopped promptly once it is.",
+        "explanation": "This is Article 53 paragraphs 2 and 4 of the Road Traffic Act. You must also not signal when you are not going to perform the action."
+      },
+      "vi": {
+        "question": "Báo hiệu (bằng xi nhan hoặc tay) tại giao lộ vòng xuyến phải được duy trì cho đến khi hành vi kết thúc, và phải tắt ngay khi hành vi đã xong.",
+        "explanation": "Đúng theo Điều 53 khoản 2 và khoản 4 Luật Giao thông đường bộ. Ngoài ra, không được báo hiệu khi bạn không thực hiện hành vi đó."
+      },
+      "pt": {
+        "question": "O sinal dado na rotatória deve ser mantido até que o ato termine e desligado imediatamente depois disso.",
+        "explanation": "É o Artigo 53, parágrafos 2 e 4, da Lei de Trânsito. Também não se deve sinalizar quando não se vai executar o ato."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-7-007",
+    "category": "環状交差点",
+    "kp": "5-7-4",
+    "group": "Q",
+    "source": "道交法第37条の2第1項",
+    "question_type": "text",
+    "qf": "QF-5-7-4-D-EI-01",
+    "question_ja": "環状交差点内を通行している車があっても、自分の車のほうが先に環状交差点の入口に近づいていたときは、そのまま環状交差点に入ってよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。道交法第37条の2第1項により、環状交差点内を通行している車の進行を妨げてはならず、入口に近づいた順序は関係ありません。",
+    "i18n": {
+      "zh": {
+        "question": "即使有车辆正在环形交叉路口内通行，只要自己的车先接近环形交叉路口入口，就可以直接驶入。",
+        "explanation": "错误。根据道交法第37条之2第1款，不得妨碍正在环形交叉路口内通行的车辆通行，接近入口的先后顺序与此无关。"
+      },
+      "en": {
+        "question": "Even if a vehicle is travelling inside the roundabout, you may go straight in as long as your own vehicle reached the entrance first.",
+        "explanation": "This is wrong. Under Article 37-2 paragraph 1 of the Road Traffic Act you must not obstruct the progress of a vehicle already travelling inside the roundabout, and the order in which vehicles reached the entrance makes no difference."
+      },
+      "vi": {
+        "question": "Dù có xe đang lưu thông bên trong giao lộ vòng xuyến, nếu xe của bạn đến lối vào trước thì bạn vẫn được đi thẳng vào.",
+        "explanation": "Sai. Theo Điều 37-2 khoản 1 Luật Giao thông đường bộ, bạn không được cản trở xe đang lưu thông bên trong giao lộ vòng xuyến, và thứ tự đến lối vào không có ý nghĩa gì."
+      },
+      "pt": {
+        "question": "Mesmo que haja um veículo circulando dentro da rotatória, você pode entrar direto desde que o seu veículo tenha chegado antes à entrada.",
+        "explanation": "Está errado. Pelo Artigo 37-2, parágrafo 1, da Lei de Trânsito, você não deve obstruir a passagem do veículo que já circula dentro da rotatória, e a ordem de chegada à entrada não importa."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-7-008",
+    "category": "環状交差点",
+    "kp": "5-7-4",
+    "group": "Q",
+    "source": "道交法第37条の2第2項",
+    "question_type": "text",
+    "qf": "QF-5-7-4-D-SW-01",
+    "question_ja": "環状交差点に入ろうとするときは、入口の停止線の直前で一時停止しなければならない。",
+    "answer": false,
+    "explanation_ja": "誤りです。道交法第37条の2第2項が求めているのは徐行であって、一時停止ではありません。",
+    "i18n": {
+      "zh": {
+        "question": "准备驶入环形交叉路口时，必须在入口停止线的正前方暂停（一時停止）。",
+        "explanation": "错误。道交法第37条之2第2款要求的是缓行（徐行），不是暂停。"
+      },
+      "en": {
+        "question": "When you are about to enter a roundabout you must come to a complete stop (一時停止) just before the stop line at the entrance.",
+        "explanation": "This is wrong. Article 37-2 paragraph 2 of the Road Traffic Act requires you to proceed slowly, not to come to a complete stop."
+      },
+      "vi": {
+        "question": "Khi sắp đi vào giao lộ vòng xuyến, bạn phải tạm dừng (一時停止) ngay trước vạch dừng ở lối vào.",
+        "explanation": "Sai. Điều 37-2 khoản 2 Luật Giao thông đường bộ yêu cầu lưu thông chậm, không phải tạm dừng."
+      },
+      "pt": {
+        "question": "Ao entrar em uma rotatória, você deve fazer parada obrigatória (一時停止) logo antes da linha de parada da entrada.",
+        "explanation": "Está errado. O Artigo 37-2, parágrafo 2, da Lei de Trânsito exige prosseguir lentamente, não parar completamente."
+      }
+    },
+    "trap_type": "SW",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-7-009",
+    "category": "環状交差点",
+    "kp": "5-7-4",
+    "group": "Q",
+    "source": "道交法第35条の2第1項",
+    "question_type": "text",
+    "qf": "QF-5-7-4-D-SW-02",
+    "question_ja": "環状交差点で右折するときは、あらかじめできるだけ道路の中央に寄り、交差点の中心のすぐ内側を徐行しながら通行する。",
+    "answer": false,
+    "explanation_ja": "誤りです。それは環状交差点以外の交差点での右折方法で、環状交差点では道路の左端に寄り、側端に沿って徐行します。",
+    "i18n": {
+      "zh": {
+        "question": "在环形交叉路口右拐弯时，事先尽量靠道路中央，沿交叉路口中心的紧内侧缓行（徐行）通过。",
+        "explanation": "错误。那是环形交叉路口以外的交叉路口的右拐弯方法，在环形交叉路口要靠道路左端、沿外侧边缘缓行。"
+      },
+      "en": {
+        "question": "When you turn right at a roundabout you first keep as close to the centre of the road as you can and proceed slowly (徐行) just inside the centre of the intersection.",
+        "explanation": "This is wrong. That is how you turn right at an intersection other than a roundabout; at a roundabout you keep to the left of the road and proceed slowly along the outer edge."
+      },
+      "vi": {
+        "question": "Khi rẽ phải tại giao lộ vòng xuyến, bạn đi sát tim đường từ trước và lưu thông chậm (徐行) ngay phía trong tâm của nút giao thông.",
+        "explanation": "Sai. Đó là cách rẽ phải tại nút giao thông không phải vòng xuyến; tại giao lộ vòng xuyến bạn đi sát mép trái của đường và lưu thông chậm dọc theo mép ngoài."
+      },
+      "pt": {
+        "question": "Ao converter à direita em uma rotatória, você se aproxima o máximo possível do centro da via e prossegue lentamente (徐行) logo por dentro do centro do cruzamento.",
+        "explanation": "Está errado. Essa é a forma de converter à direita em um cruzamento que não seja rotatória; na rotatória você se mantém à esquerda da via e prossegue lentamente pela borda externa."
+      }
+    },
+    "trap_type": "SW",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-7-010",
+    "category": "環状交差点",
+    "kp": "5-7-4",
+    "group": "Q",
+    "source": "道交法第37条の2第1項（第36条第1項は適用されない）",
+    "question_type": "text",
+    "qf": "QF-5-7-4-D-EI-02",
+    "question_ja": "環状交差点内では、左方から進行してくる車があるときは、その車の進行を妨げてはならない。",
+    "answer": false,
+    "explanation_ja": "誤りです。左方優先を定めた道交法第36条第1項は環状交差点には適用されず、優先するのは環状交差点内を通行している車です。",
+    "i18n": {
+      "zh": {
+        "question": "在环形交叉路口内，有从左方驶来的车辆时，不得妨碍该车辆通行。",
+        "explanation": "错误。规定左方优先的道交法第36条第1款不适用于环形交叉路口，优先的是正在环形交叉路口内通行的车辆。"
+      },
+      "en": {
+        "question": "Inside a roundabout you must not obstruct the progress of a vehicle coming from your left.",
+        "explanation": "This is wrong. Article 36 paragraph 1 of the Road Traffic Act, which gives priority to traffic from the left, does not apply at a roundabout; priority belongs to vehicles already travelling inside it."
+      },
+      "vi": {
+        "question": "Bên trong giao lộ vòng xuyến, khi có xe đi tới từ bên trái thì bạn không được cản trở xe đó lưu thông.",
+        "explanation": "Sai. Điều 36 khoản 1 Luật Giao thông đường bộ quy định ưu tiên xe từ bên trái không áp dụng cho giao lộ vòng xuyến; xe đang lưu thông bên trong mới là xe được ưu tiên."
+      },
+      "pt": {
+        "question": "Dentro de uma rotatória você não deve obstruir a passagem de um veículo que vem da sua esquerda.",
+        "explanation": "Está errado. O Artigo 36, parágrafo 1, da Lei de Trânsito, que dá preferência a quem vem da esquerda, não se aplica à rotatória; a preferência é dos veículos que já circulam dentro dela."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-5-005",
+    "category": "環状交差点",
+    "kp": "5-5-1",
+    "group": "N",
+    "source": "道交法第53条第2項",
+    "question_type": "text",
+    "qf": "QF-5-5-1-D-EX-01",
+    "question_ja": "環状交差点に入ろうとするときは、左側の方向指示器を操作して合図をしなければならない。",
+    "answer": false,
+    "explanation_ja": "誤りです。道交法第53条第2項により、環状交差点で合図が必要なのは出るときと徐行・停止・後退をするときで、入るときの合図は必要ありません。",
+    "i18n": {
+      "zh": {
+        "question": "准备驶入环形交叉路口时，必须操作左侧方向指示器打信号（转向灯或手势）。",
+        "explanation": "错误。根据道交法第53条第2款，在环形交叉路口需要打信号的是驶出时以及缓行（徐行）、停止、后退时，驶入时不需要打信号。"
+      },
+      "en": {
+        "question": "When you are about to enter a roundabout you must signal with the left turn indicator.",
+        "explanation": "This is wrong. Under Article 53 paragraph 2 of the Road Traffic Act a signal is required at a roundabout when leaving and when proceeding slowly (徐行), stopping or reversing, and no signal is required on entry."
+      },
+      "vi": {
+        "question": "Khi sắp đi vào giao lộ vòng xuyến, bạn phải bật đèn xi nhan bên trái để báo hiệu.",
+        "explanation": "Sai. Theo Điều 53 khoản 2 Luật Giao thông đường bộ, tại giao lộ vòng xuyến chỉ cần báo hiệu khi ra khỏi và khi lưu thông chậm (徐行), dừng lại hoặc lùi xe, còn khi đi vào thì không cần."
+      },
+      "pt": {
+        "question": "Ao entrar em uma rotatória você deve sinalizar com a seta esquerda.",
+        "explanation": "Está errado. Pelo Artigo 53, parágrafo 2, da Lei de Trânsito, na rotatória o sinal é exigido ao sair e ao prosseguir lentamente (徐行), parar ou dar marcha à ré, e não é exigido na entrada."
+      }
+    },
+    "trap_type": "EX",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-5-006",
+    "category": "環状交差点",
+    "kp": "5-5-1",
+    "group": "N",
+    "source": "教則 第5章第5節1(2)",
+    "question_type": "text",
+    "qf": "QF-5-5-1-D-EO-01",
+    "question_ja": "環状交差点を出るときの合図は、どの出口から出る場合であっても、出ようとする地点の直前の出口の側方を通過したときに行う。",
+    "answer": false,
+    "explanation_ja": "誤りです。環状交差点に入った直後の出口を出る場合は、その環状交差点に入ったときに合図を行います。",
+    "i18n": {
+      "zh": {
+        "question": "驶出环形交叉路口时的打信号（转向灯或手势），无论从哪个出口驶出，都在通过准备驶出地点前一个出口的侧方时进行。",
+        "explanation": "错误。从驶入环形交叉路口后紧接着的第一个出口驶出时，在驶入该环形交叉路口时就打信号。"
+      },
+      "en": {
+        "question": "The signal for leaving a roundabout is given when you have passed the side of the exit immediately before the one you intend to take, whichever exit that is.",
+        "explanation": "This is wrong. If you are taking the exit immediately after entering the roundabout, you signal at the moment you enter it."
+      },
+      "vi": {
+        "question": "Báo hiệu (bằng xi nhan hoặc tay) khi ra khỏi giao lộ vòng xuyến được thực hiện khi đã đi qua bên cạnh lối ra ngay trước lối ra định đi, bất kể đó là lối ra nào.",
+        "explanation": "Sai. Nếu bạn ra ở lối ra ngay sau khi vào giao lộ vòng xuyến, bạn báo hiệu ngay lúc đi vào giao lộ vòng xuyến đó."
+      },
+      "pt": {
+        "question": "O sinal para sair de uma rotatória é dado ao passar ao lado da saída imediatamente anterior à pretendida, seja qual for essa saída.",
+        "explanation": "Está errado. Se você vai tomar a saída imediatamente seguinte à entrada, o sinal é dado no momento em que você entra na rotatória."
+      }
+    },
+    "trap_type": "EO",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-7-011",
+    "category": "環状交差点",
+    "kp": "5-7-4",
+    "group": "Q",
+    "source": "道交法第37条の2第2項",
+    "question_type": "text",
+    "qf": "QF-5-7-4-D-EI-03",
+    "question_ja": "環状交差点に入ろうとするときでも、環状交差点内に車がいないことが確かめられたときは、徐行しなくてもよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。道交法第37条の2第2項の徐行の義務に、環状交差点内に車がいない場合の例外はありません。",
+    "i18n": {
+      "zh": {
+        "question": "即使是准备驶入环形交叉路口时，只要确认环形交叉路口内没有车辆，也可以不缓行（徐行）。",
+        "explanation": "错误。道交法第37条之2第2款的缓行义务，没有「环形交叉路口内无车时」这一例外。"
+      },
+      "en": {
+        "question": "Even when you are about to enter a roundabout, you need not proceed slowly (徐行) once you have confirmed that there is no vehicle inside it.",
+        "explanation": "This is wrong. The duty to proceed slowly in Article 37-2 paragraph 2 of the Road Traffic Act has no exception for a roundabout that happens to be empty."
+      },
+      "vi": {
+        "question": "Ngay cả khi sắp đi vào giao lộ vòng xuyến, nếu đã xác nhận bên trong không có xe nào thì bạn không cần lưu thông chậm (徐行).",
+        "explanation": "Sai. Nghĩa vụ lưu thông chậm tại Điều 37-2 khoản 2 Luật Giao thông đường bộ không có ngoại lệ cho trường hợp bên trong giao lộ vòng xuyến không có xe."
+      },
+      "pt": {
+        "question": "Mesmo ao entrar em uma rotatória, você não precisa prosseguir lentamente (徐行) se confirmar que não há nenhum veículo dentro dela.",
+        "explanation": "Está errado. O dever de prosseguir lentamente do Artigo 37-2, parágrafo 2, da Lei de Trânsito não tem exceção para a rotatória vazia."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-7-012",
+    "category": "環状交差点",
+    "kp": "5-7-1",
+    "group": "Q",
+    "source": "道交法第37条の2第3項",
+    "question_type": "text",
+    "qf": "QF-5-7-1-D-NR-01",
+    "question_ja": "環状交差点を通行するときに特に注意しなければならないのは、環状交差点内を通行している車だけである。",
+    "answer": false,
+    "explanation_ja": "誤りです。道交法第37条の2第3項は、環状交差点に入ろうとする車や、環状交差点やその直近で道路を横断する歩行者にも特に注意することを求めています。",
+    "i18n": {
+      "zh": {
+        "question": "通行环形交叉路口时必须特别注意的，只有正在环形交叉路口内通行的车辆。",
+        "explanation": "错误。道交法第37条之2第3款要求对准备驶入环形交叉路口的车辆，以及在环形交叉路口或其紧邻处横穿道路的步行者也特别注意。"
+      },
+      "en": {
+        "question": "The only traffic you have to pay particular attention to when travelling through a roundabout is the vehicles already inside it.",
+        "explanation": "This is wrong. Article 37-2 paragraph 3 of the Road Traffic Act also requires particular attention to vehicles about to enter and to pedestrians crossing the road at or immediately beside the roundabout."
+      },
+      "vi": {
+        "question": "Khi đi qua giao lộ vòng xuyến, đối tượng duy nhất bạn phải đặc biệt chú ý là xe đang lưu thông bên trong.",
+        "explanation": "Sai. Điều 37-2 khoản 3 Luật Giao thông đường bộ còn yêu cầu đặc biệt chú ý tới xe sắp đi vào và người đi bộ đang băng qua đường tại hoặc ngay sát giao lộ vòng xuyến."
+      },
+      "pt": {
+        "question": "Ao circular por uma rotatória, os únicos a quem você precisa dar atenção especial são os veículos que já estão dentro dela.",
+        "explanation": "Está errado. O Artigo 37-2, parágrafo 3, da Lei de Trânsito também exige atenção especial aos veículos prestes a entrar e aos pedestres que atravessam a via na rotatória ou logo ao lado dela."
+      }
+    },
+    "trap_type": "NR",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-5-007",
+    "category": "環状交差点",
+    "kp": "5-5-1",
+    "group": "N",
+    "source": "教則 第5章第5節1(2)",
+    "question_type": "text",
+    "qf": "QF-5-5-1-D-OR-01",
+    "question_ja": "環状交差点を出ようとするときは、先に合図をしてから、バックミラーなどで後方の安全を確かめる。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第5節1(2)では、あらかじめバックミラーなどで安全を確かめてから合図をすることになっています。",
+    "i18n": {
+      "zh": {
+        "question": "准备驶出环形交叉路口时，先打信号（转向灯或手势），然后再用后视镜等确认后方安全。",
+        "explanation": "错误。教则第5章第5节1(2)规定，要先用后视镜等确认安全，然后再打信号。"
+      },
+      "en": {
+        "question": "When you are about to leave a roundabout you signal first and then check behind you in the rear-view mirror and so on.",
+        "explanation": "This is wrong. Kyosoku Chapter 5 Section 5 item 1(2) has you check that it is safe in the rear-view mirror and so on first, and signal after that."
+      },
+      "vi": {
+        "question": "Khi sắp ra khỏi giao lộ vòng xuyến, bạn báo hiệu (bằng xi nhan hoặc tay) trước rồi mới kiểm tra an toàn phía sau bằng gương chiếu hậu.",
+        "explanation": "Sai. Kyosoku Chương 5 Mục 5 điểm 1(2) quy định trước hết phải kiểm tra an toàn bằng gương chiếu hậu rồi mới báo hiệu."
+      },
+      "pt": {
+        "question": "Ao sair de uma rotatória você sinaliza primeiro e depois verifica a segurança atrás pelo espelho retrovisor.",
+        "explanation": "Está errado. O Kyosoku, Capítulo 5, Seção 5, item 1(2), manda verificar antes a segurança pelo espelho retrovisor e só então sinalizar."
+      }
+    },
+    "trap_type": "OR",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-7-013",
+    "category": "環状交差点",
+    "kp": "5-7-4",
+    "group": "Q",
+    "source": "道交法第37条の2第1項（第36条第2項は適用されない）",
+    "question_type": "text",
+    "qf": "QF-5-7-4-D-EI-04",
+    "question_ja": "環状交差点は交通整理の行われていない交差点であるから、道幅の広い道路から入る車が優先する。",
+    "answer": false,
+    "explanation_ja": "誤りです。道幅による優先を定めた道交法第36条第2項は環状交差点には適用されず、道幅にかかわらず環状交差点内を通行している車が優先します。",
+    "i18n": {
+      "zh": {
+        "question": "环形交叉路口属于未进行交通整理的交叉路口，因此从路面较宽的道路驶入的车辆优先。",
+        "explanation": "错误。规定按路宽定优先的道交法第36条第2款不适用于环形交叉路口，无论路宽如何，正在环形交叉路口内通行的车辆优先。"
+      },
+      "en": {
+        "question": "A roundabout is an intersection without traffic control, so a vehicle entering from the wider road has priority.",
+        "explanation": "This is wrong. Article 36 paragraph 2 of the Road Traffic Act, which gives priority by road width, does not apply at a roundabout; whatever the widths, priority belongs to vehicles already travelling inside it."
+      },
+      "vi": {
+        "question": "Giao lộ vòng xuyến là nút giao thông không có điều khiển giao thông, nên xe đi vào từ đường rộng hơn được ưu tiên.",
+        "explanation": "Sai. Điều 36 khoản 2 Luật Giao thông đường bộ quy định ưu tiên theo bề rộng đường không áp dụng cho giao lộ vòng xuyến; bất kể bề rộng, xe đang lưu thông bên trong mới được ưu tiên."
+      },
+      "pt": {
+        "question": "A rotatória é um cruzamento sem controle de trânsito, então o veículo que entra pela via mais larga tem preferência.",
+        "explanation": "Está errado. O Artigo 36, parágrafo 2, da Lei de Trânsito, que dá preferência pela largura da via, não se aplica à rotatória; independentemente da largura, a preferência é dos veículos que já circulam dentro dela."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  }
+]

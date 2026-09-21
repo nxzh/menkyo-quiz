@@ -1,0 +1,64 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/nxzh/menkyo-quiz/schema/question.schema.json",
+  "title": "Menkyo question",
+  "type": "object",
+  "required": ["id", "category", "kp", "group", "source", "question_type", "qf",
+               "question_ja", "answer", "explanation_ja", "i18n",
+               "trap_type", "difficulty", "exam_scope"],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^(K[0-9]+-[0-9]+(-[0-9]+)?|KS|KM|KL)-[0-9]{3}$",
+      "description": "text: K{chapter}-{section}-{nnn}; sign: KS-{nnn}; marking: KM-{nnn}; outside the kyosoku: KL-{nnn}"
+    },
+    "category": { "type": "string", "minLength": 1 },
+    "kp": { "type": "string", "minLength": 1, "description": "Knowledge point: kyosoku chapter-section-item, e.g. 5-7-4" },
+    "group": { "type": "string", "enum": ["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U"] },
+    "source": { "type": "string", "minLength": 1, "description": "教則 第X章第X節X / 道交法第X条 — the provision the answer rests on" },
+    "question_type": { "type": "string", "enum": ["text","sign","marking","signal"] },
+    "qf": { "type": "string", "pattern": "^QF-.+-[AD]-(N|SW|EI|EO|SS|AB|EX|NU|OR|SC|NR)-[0-9]{2}$" },
+    "image": {
+      "type": "object",
+      "required": ["sign_no", "file", "license"],
+      "additionalProperties": false,
+      "properties": {
+        "sign_no": { "type": "string" },
+        "file": { "type": "string", "description": "path under signs/" },
+        "url": { "type": "string" },
+        "license": { "type": "string" },
+        "file_verified": { "type": "boolean" }
+      }
+    },
+    "question_ja": { "type": "string", "minLength": 1 },
+    "answer": { "type": "boolean" },
+    "explanation_ja": { "type": "string", "minLength": 1 },
+    "i18n": {
+      "type": "object",
+      "required": ["zh","en","vi","pt"],
+      "additionalProperties": false,
+      "properties": {
+        "zh": { "$ref": "#/$defs/lang" },
+        "en": { "$ref": "#/$defs/lang" },
+        "vi": { "$ref": "#/$defs/lang" },
+        "pt": { "$ref": "#/$defs/lang" }
+      }
+    },
+    "trap_type": { "type": "string", "enum": ["N","SW","EI","EO","SS","AB","EX","NU","OR","SC","NR"] },
+    "difficulty": { "type": "integer", "minimum": 1, "maximum": 3 },
+    "exam_scope": { "type": "string", "enum": ["仮免|本免|外免","仮免|本免","本免|外免","本免"] },
+    "verify": { "type": "boolean", "description": "written only when true" }
+  },
+  "$defs": {
+    "lang": {
+      "type": "object",
+      "required": ["question","explanation"],
+      "additionalProperties": false,
+      "properties": {
+        "question": { "type": "string", "minLength": 1 },
+        "explanation": { "type": "string", "minLength": 1 }
+      }
+    }
+  }
+}
