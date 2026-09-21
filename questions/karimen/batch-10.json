@@ -1,0 +1,662 @@
+[
+  {
+    "id": "K5-1-021",
+    "category": "チャイルドシート",
+    "kp": "5-1-4",
+    "group": "G",
+    "source": "教則 第5章第1節4(1)",
+    "question_type": "text",
+    "qf": "QF-5-1-4-A-N-01",
+    "question_ja": "幼児を自動車に乗せるときは、その幼児の発育の程度に応じた形状のチャイルドシートを使用させなければならないが、病気などやむを得ない理由がある場合は別である。",
+    "answer": true,
+    "explanation_ja": "教則第5章第1節4(1)のとおりです。チャイルドシートは、子供が運転操作の支障となることを防ぐ効果もあります。",
+    "i18n": {
+      "zh": {
+        "question": "让幼儿乘车时，必须使用与该幼儿发育程度相适应的形状的儿童座椅，但因疾病等不得已的理由的情况除外。",
+        "explanation": "符合教则第5章第1节4(1)的规定。儿童座椅还有防止孩子妨碍驾驶操作的效果。"
+      },
+      "en": {
+        "question": "When you carry an infant in a car you must have them use a child seat shaped to suit their stage of growth, except where illness or another unavoidable reason applies.",
+        "explanation": "This is Kyosoku Chapter 5 Section 1 item 4(1). A child seat also keeps the child from interfering with driving."
+      },
+      "vi": {
+        "question": "Khi chở trẻ nhỏ trên ô tô, bạn phải cho trẻ dùng ghế trẻ em có hình dạng phù hợp với mức phát triển của trẻ, trừ khi có bệnh tật hoặc lý do bất khả kháng khác.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 1 điểm 4(1). Ghế trẻ em còn giúp trẻ không gây trở ngại cho việc điều khiển xe."
+      },
+      "pt": {
+        "question": "Ao transportar uma criança pequena no automóvel você deve usar uma cadeirinha com formato adequado ao estágio de desenvolvimento dela, salvo doença ou outro motivo inevitável.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 1, item 4(1). A cadeirinha também impede que a criança atrapalhe a condução."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-1-022",
+    "category": "チャイルドシート",
+    "kp": "5-1-4",
+    "group": "G",
+    "source": "教則 第5章第1節4(1)",
+    "question_type": "text",
+    "qf": "QF-5-1-4-A-N-02",
+    "question_ja": "シートベルトを適切に着用させることができない子供には、チャイルドシートを使用させるようにする。",
+    "answer": true,
+    "explanation_ja": "教則第5章第1節4(1)のとおりです。チャイルドシートは、交通事故に遭った場合の被害を大幅に軽減します。",
+    "i18n": {
+      "zh": {
+        "question": "对于无法正确系好安全带的孩子，要让其使用儿童座椅。",
+        "explanation": "符合教则第5章第1节4(1)的规定。儿童座椅能大幅减轻遭遇交通事故时的伤害。"
+      },
+      "en": {
+        "question": "A child who cannot be fitted properly with a seat belt should be put in a child seat.",
+        "explanation": "This is Kyosoku Chapter 5 Section 1 item 4(1). A child seat greatly reduces the harm suffered in a traffic accident."
+      },
+      "vi": {
+        "question": "Trẻ không thể thắt dây an toàn đúng cách thì nên được đặt vào ghế trẻ em.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 1 điểm 4(1). Ghế trẻ em giảm mạnh thiệt hại khi xảy ra tai nạn giao thông."
+      },
+      "pt": {
+        "question": "A criança que não consegue usar corretamente o cinto de segurança deve ser colocada em cadeirinha.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 1, item 4(1). A cadeirinha reduz muito os danos sofridos em um acidente de trânsito."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-1-023",
+    "category": "チャイルドシート",
+    "kp": "5-1-4",
+    "group": "G",
+    "source": "教則 第5章第1節4(2)",
+    "question_type": "text",
+    "qf": "QF-5-1-4-A-N-03",
+    "question_ja": "チャイルドシートは子供の体格に合い座席に確実に固定できるものを選び、取扱説明書などに従って確実に固定して使用させる。",
+    "answer": true,
+    "explanation_ja": "教則第5章第1節4(2)のとおりです。使用の方法を誤ると、チャイルドシートの効果はなくなります。",
+    "i18n": {
+      "zh": {
+        "question": "儿童座椅要选择适合孩子体格、能够牢固固定在座位上的，并按照说明书等确实固定后使用。",
+        "explanation": "符合教则第5章第1节4(2)的规定。使用方法有误，儿童座椅就失去效果。"
+      },
+      "en": {
+        "question": "Choose a child seat that fits the child's build and can be fixed firmly to the seat, and fit it securely following the instruction manual.",
+        "explanation": "This is Kyosoku Chapter 5 Section 1 item 4(2). Used the wrong way, a child seat loses its effect."
+      },
+      "vi": {
+        "question": "Hãy chọn ghế trẻ em vừa với vóc dáng của trẻ và có thể cố định chắc vào ghế, rồi lắp chắc chắn theo hướng dẫn sử dụng.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 1 điểm 4(2). Dùng sai cách thì ghế trẻ em mất tác dụng."
+      },
+      "pt": {
+        "question": "Escolha uma cadeirinha que sirva ao porte da criança e possa ser fixada com firmeza ao banco, e instale-a bem conforme o manual.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 1, item 4(2). Usada de forma errada, a cadeirinha perde o efeito."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-1-024",
+    "category": "発進の安全確認",
+    "kp": "5-1-5",
+    "group": "G",
+    "source": "教則 第5章第1節5(1)",
+    "question_type": "text",
+    "qf": "QF-5-1-5-A-N-01",
+    "question_ja": "車に乗る前に、車の前後に人がいないか、車の下に子供がいないかを確かめる。",
+    "answer": true,
+    "explanation_ja": "教則第5章第1節5(1)のとおりです。運転席からは見えない位置に子供がいることがあります。",
+    "i18n": {
+      "zh": {
+        "question": "上车前要确认车的前后有没有人，车下有没有孩子。",
+        "explanation": "符合教则第5章第1节5(1)的规定。孩子有可能在驾驶席看不到的位置。"
+      },
+      "en": {
+        "question": "Before getting into the vehicle, check that nobody is in front of or behind it and that no child is underneath it.",
+        "explanation": "This is Kyosoku Chapter 5 Section 1 item 5(1). A child may be somewhere the driving seat cannot see."
+      },
+      "vi": {
+        "question": "Trước khi lên xe, hãy kiểm tra không có ai ở phía trước hay phía sau xe và không có trẻ nào ở gầm xe.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 1 điểm 5(1). Trẻ có thể ở chỗ mà từ ghế lái không nhìn thấy được."
+      },
+      "pt": {
+        "question": "Antes de entrar no veículo, verifique que não há ninguém à frente nem atrás dele e que nenhuma criança está embaixo.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 1, item 5(1). Uma criança pode estar num ponto que o banco do condutor não alcança."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-1-025",
+    "category": "発進の安全確認",
+    "kp": "5-1-5",
+    "group": "G",
+    "source": "教則 第5章第1節5(2)",
+    "question_type": "text",
+    "qf": "QF-5-1-5-A-N-02",
+    "question_ja": "発進するときは、方向指示器などによって発進の合図をし、もう一度バックミラーなどで前後左右の安全を確かめてから発進する。",
+    "answer": true,
+    "explanation_ja": "教則第5章第1節5(2)のとおりです。合図をしたあとにもう一度確認するのが、この項の順序です。",
+    "i18n": {
+      "zh": {
+        "question": "起步时要用方向指示器等发出起步信号，再用后视镜等确认一次前后左右的安全，然后起步。",
+        "explanation": "符合教则第5章第1节5(2)的规定。发出信号后再确认一次，就是该项规定的顺序。"
+      },
+      "en": {
+        "question": "To move off you signal with the turn indicator and then check once more in the mirrors that it is safe front, rear and to both sides before starting.",
+        "explanation": "This is Kyosoku Chapter 5 Section 1 item 5(2). Checking again after signalling is the order this item sets out."
+      },
+      "vi": {
+        "question": "Khi chuyển bánh, bạn báo hiệu bằng đèn xi nhan rồi kiểm tra lại một lần nữa bằng gương chiếu hậu rằng phía trước, phía sau và hai bên đều an toàn.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 1 điểm 5(2). Kiểm tra lại sau khi báo hiệu chính là trình tự mà điểm này đặt ra."
+      },
+      "pt": {
+        "question": "Para arrancar você sinaliza com a seta e então confere mais uma vez pelos espelhos que está seguro à frente, atrás e dos dois lados.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 1, item 5(2). Conferir de novo depois de sinalizar é a ordem que esse item estabelece."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-1-026",
+    "category": "発進の安全確認",
+    "kp": "5-1-5",
+    "group": "G",
+    "source": "教則 第5章第1節5(3)",
+    "question_type": "text",
+    "qf": "QF-5-1-5-A-N-03",
+    "question_ja": "バックで発進することは危険なので、車庫などに入れるときは、あらかじめ発進しやすいようにバックで入れておく。",
+    "answer": true,
+    "explanation_ja": "教則第5章第1節5(3)のとおりです。やむを得ずバックで発進するときは、同乗者などに後方の確認を手伝ってもらいます。",
+    "i18n": {
+      "zh": {
+        "question": "倒车起步很危险，所以停进车库等场所时，事先倒着停进去，以便起步时方便。",
+        "explanation": "符合教则第5章第1节5(3)的规定。不得已要倒车起步时，请同乘者等帮忙确认后方。"
+      },
+      "en": {
+        "question": "Moving off in reverse is dangerous, so when you put the car into a garage you back it in beforehand to make moving off easier.",
+        "explanation": "This is Kyosoku Chapter 5 Section 1 item 5(3). If you have no choice but to reverse out, have a passenger help you check behind."
+      },
+      "vi": {
+        "question": "Chuyển bánh bằng cách lùi là nguy hiểm, nên khi đưa xe vào nhà xe bạn lùi vào từ trước để lúc đi cho dễ.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 1 điểm 5(3). Nếu buộc phải lùi ra, hãy nhờ hành khách giúp quan sát phía sau."
+      },
+      "pt": {
+        "question": "Sair de ré é perigoso, por isso ao guardar o carro na garagem você entra de ré antes, para facilitar a saída.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 1, item 5(3). Se não houver alternativa a sair de ré, peça a um passageiro que ajude a olhar atrás."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-1-027",
+    "category": "発進の安全確認",
+    "kp": "5-1-5",
+    "group": "G",
+    "source": "教則 第5章第1節5(3)",
+    "question_type": "text",
+    "qf": "QF-5-1-5-A-N-04",
+    "question_ja": "やむを得ずバックで発進する場合で、後方の見通しがよくないときや狭い道路から広い道路に出るときは、同乗者などに後方の確認を手伝ってもらう。",
+    "answer": true,
+    "explanation_ja": "教則第5章第1節5(3)のとおりです。バックミラーだけでは見えない範囲が残ります。",
+    "i18n": {
+      "zh": {
+        "question": "不得已要倒车起步，而后方视野不好或者要从窄路驶入宽路时，请同乘者等帮忙确认后方。",
+        "explanation": "符合教则第5章第1节5(3)的规定。仅靠后视镜仍会留下看不见的范围。"
+      },
+      "en": {
+        "question": "If you have no choice but to reverse out and the view behind is poor, or you are coming from a narrow road onto a wide one, have a passenger help you check behind.",
+        "explanation": "This is Kyosoku Chapter 5 Section 1 item 5(3). The mirrors alone leave areas you cannot see."
+      },
+      "vi": {
+        "question": "Nếu buộc phải lùi ra mà tầm nhìn phía sau kém, hoặc bạn đi từ đường hẹp ra đường rộng, hãy nhờ hành khách giúp quan sát phía sau.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 1 điểm 5(3). Chỉ dựa vào gương chiếu hậu thì vẫn còn những vùng không nhìn thấy."
+      },
+      "pt": {
+        "question": "Se não houver alternativa a sair de ré e a visão atrás for ruim, ou se você sair de uma via estreita para uma larga, peça a um passageiro que ajude a olhar atrás.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 1, item 5(3). Só com os espelhos restam áreas que você não enxerga."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-1-028",
+    "category": "運転姿勢",
+    "kp": "5-1-2",
+    "group": "G",
+    "source": "教則 第5章第1節2(2)",
+    "question_type": "text",
+    "qf": "QF-5-1-2-A-N-04",
+    "question_ja": "運転するときは活動しやすいような服装をし、げたやハイヒールなどを履いて運転してはいけない。",
+    "answer": true,
+    "explanation_ja": "教則第5章第1節2(2)のとおりです。ペダルの操作が確実にできないと危険だからです。",
+    "i18n": {
+      "zh": {
+        "question": "驾驶时要穿便于活动的服装，不得穿木屐或高跟鞋等驾驶。",
+        "explanation": "符合教则第5章第1节2(2)的规定。因为无法确实操作踏板会造成危险。"
+      },
+      "en": {
+        "question": "Dress so that you can move freely when driving, and do not drive in wooden clogs, high heels or similar footwear.",
+        "explanation": "This is Kyosoku Chapter 5 Section 1 item 2(2). Being unable to work the pedals reliably is dangerous."
+      },
+      "vi": {
+        "question": "Hãy mặc trang phục dễ cử động khi lái xe, và không lái xe khi mang guốc gỗ, giày cao gót hay loại tương tự.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 1 điểm 2(2). Không đạp bàn đạp được chắc chắn thì rất nguy hiểm."
+      },
+      "pt": {
+        "question": "Vista-se de modo a poder se mover com facilidade ao dirigir, e não dirija de tamancos, salto alto ou calçado semelhante.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 1, item 2(2). Não conseguir acionar os pedais com segurança é perigoso."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-1-029",
+    "category": "運転姿勢",
+    "kp": "5-1-2",
+    "group": "G",
+    "source": "教則 第5章第1節2(4)",
+    "question_type": "text",
+    "qf": "QF-5-1-2-A-N-05",
+    "question_ja": "スマートフォンなどの携帯電話は、運転する前に電源を切ったりドライブモードに設定したりして、呼出音が鳴らないようにしておくとよい。",
+    "answer": true,
+    "explanation_ja": "教則第5章第1節2(4)のとおりです。呼出音そのものが注意をそらす原因になります。",
+    "i18n": {
+      "zh": {
+        "question": "智能手机等移动电话，最好在驾驶前关闭电源或设定为驾驶模式，使其不会响起来电铃声。",
+        "explanation": "符合教则第5章第1节2(4)的规定。来电铃声本身就是分散注意力的原因。"
+      },
+      "en": {
+        "question": "Before driving it is best to switch a smartphone off or set it to driving mode so that it does not ring.",
+        "explanation": "This is Kyosoku Chapter 5 Section 1 item 2(4). The ring itself is what pulls your attention away."
+      },
+      "vi": {
+        "question": "Trước khi lái xe, tốt nhất hãy tắt nguồn điện thoại thông minh hoặc đặt ở chế độ lái xe để nó không đổ chuông.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 1 điểm 2(4). Chính tiếng chuông là thứ kéo sự chú ý của bạn đi."
+      },
+      "pt": {
+        "question": "Antes de dirigir, o melhor é desligar o smartphone ou colocá-lo em modo de condução para que não toque.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 1, item 2(4). O próprio toque é o que desvia a sua atenção."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-1-030",
+    "category": "運転姿勢",
+    "kp": "5-1-2",
+    "group": "G",
+    "source": "教則 第5章第1節2(3)",
+    "question_type": "text",
+    "qf": "QF-5-1-2-A-N-06",
+    "question_ja": "ひじを窓わくに載せて運転するのはやめるようにする。",
+    "answer": true,
+    "explanation_ja": "教則第5章第1節2(3)のとおりです。とっさのハンドル操作ができなくなります。",
+    "i18n": {
+      "zh": {
+        "question": "不要把肘部搭在窗框上驾驶。",
+        "explanation": "符合教则第5章第1节2(3)的规定。这样会导致无法紧急操作方向盘。"
+      },
+      "en": {
+        "question": "Do not drive with your elbow resting on the window frame.",
+        "explanation": "This is Kyosoku Chapter 5 Section 1 item 2(3). It leaves you unable to steer quickly if you need to."
+      },
+      "vi": {
+        "question": "Đừng lái xe với khuỷu tay tì lên khung cửa sổ.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 1 điểm 2(3). Tư thế đó khiến bạn không đánh lái kịp khi cần."
+      },
+      "pt": {
+        "question": "Não dirija com o cotovelo apoiado no batente da janela.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 1, item 2(3). Isso impede uma esterçada rápida quando preciso."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-1-031",
+    "category": "チャイルドシート",
+    "kp": "5-1-4",
+    "group": "G",
+    "source": "教則 第5章第1節4(1)",
+    "question_type": "text",
+    "qf": "QF-5-1-4-D-EI-01",
+    "question_ja": "幼児を自動車に乗せるときでも、保護者が抱いていればチャイルドシートを使用させなくてよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第1節4(1)により、幼児には発育の程度に応じたチャイルドシートを使用させなければならず、抱くことは例外になりません。",
+    "i18n": {
+      "zh": {
+        "question": "让幼儿乘车时，只要由监护人抱着，就可以不使用儿童座椅。",
+        "explanation": "错误。根据教则第5章第1节4(1)，必须让幼儿使用与发育程度相适应的儿童座椅，抱着并不构成例外。"
+      },
+      "en": {
+        "question": "Even when carrying an infant in a car, no child seat is needed as long as a guardian is holding them.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 1 item 4(1) an infant must be put in a child seat suited to their stage of growth, and being held is not an exception."
+      },
+      "vi": {
+        "question": "Ngay cả khi chở trẻ nhỏ trên ô tô, không cần ghế trẻ em miễn là người giám hộ đang bế trẻ.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 1 điểm 4(1), trẻ nhỏ phải được đặt vào ghế phù hợp với mức phát triển, và việc được bế không phải ngoại lệ."
+      },
+      "pt": {
+        "question": "Mesmo transportando uma criança pequena, não é preciso cadeirinha desde que um responsável a segure no colo.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 1, item 4(1), a criança deve ir em cadeirinha adequada ao seu desenvolvimento, e ser segurada no colo não é exceção."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-1-032",
+    "category": "チャイルドシート",
+    "kp": "5-1-4",
+    "group": "G",
+    "source": "教則 第5章第1節4(2)",
+    "question_type": "text",
+    "qf": "QF-5-1-4-D-EI-02",
+    "question_ja": "チャイルドシートは、子供の体格に合っていれば座席に固定しなくても効果がある。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第1節4(2)により、座席に確実に固定できるものを選び、取扱説明書などに従って確実に固定しなければ効果がなくなります。",
+    "i18n": {
+      "zh": {
+        "question": "儿童座椅只要适合孩子的体格，即使不固定在座位上也有效果。",
+        "explanation": "错误。根据教则第5章第1节4(2)，必须选择能牢固固定在座位上的，并按说明书等确实固定，否则就失去效果。"
+      },
+      "en": {
+        "question": "A child seat works as long as it fits the child's build, even if it is not fixed to the seat.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 1 item 4(2) you must choose one that can be fixed firmly to the seat and fit it securely per the manual, or it loses its effect."
+      },
+      "vi": {
+        "question": "Ghế trẻ em chỉ cần vừa vóc dáng của trẻ là có tác dụng, dù không cố định vào ghế xe.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 1 điểm 4(2), phải chọn loại cố định chắc được vào ghế và lắp đúng theo hướng dẫn, nếu không sẽ mất tác dụng."
+      },
+      "pt": {
+        "question": "A cadeirinha funciona desde que sirva ao porte da criança, mesmo sem estar fixada ao banco.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 1, item 4(2), é preciso escolher uma que se fixe com firmeza ao banco e instalá-la conforme o manual, ou ela perde o efeito."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-1-033",
+    "category": "発進の安全確認",
+    "kp": "5-1-5",
+    "group": "G",
+    "source": "教則 第5章第1節5(2)",
+    "question_type": "text",
+    "qf": "QF-5-1-5-D-OR-01",
+    "question_ja": "発進するときは、まずバックミラーなどで前後左右の安全を確かめ、車が動き出してから発進の合図をする。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第1節5(2)により、発進の合図をしてからもう一度安全を確かめて発進します。",
+    "i18n": {
+      "zh": {
+        "question": "起步时先用后视镜等确认前后左右的安全，等车动起来之后再发出起步信号。",
+        "explanation": "错误。根据教则第5章第1节5(2)，要先发出起步信号，再确认一次安全后起步。"
+      },
+      "en": {
+        "question": "To move off you first check in the mirrors that it is safe all round, and give the signal once the vehicle is already moving.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 1 item 5(2) you give the signal to move off and then check again before starting."
+      },
+      "vi": {
+        "question": "Khi chuyển bánh, trước hết bạn kiểm tra an toàn xung quanh bằng gương, rồi báo hiệu sau khi xe đã bắt đầu lăn bánh.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 1 điểm 5(2), bạn báo hiệu chuyển bánh rồi kiểm tra lại một lần nữa trước khi đi."
+      },
+      "pt": {
+        "question": "Para arrancar você primeiro confere pelos espelhos que está seguro em volta e sinaliza depois que o veículo já começou a andar.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 1, item 5(2), você sinaliza a saída e então confere de novo antes de arrancar."
+      }
+    },
+    "trap_type": "OR",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-1-034",
+    "category": "発進の安全確認",
+    "kp": "5-1-5",
+    "group": "G",
+    "source": "教則 第5章第1節5(1)",
+    "question_type": "text",
+    "qf": "QF-5-1-5-D-NR-01",
+    "question_ja": "車に乗る前に確かめるのは車の前後に人がいないかどうかだけで、車の下までは確かめなくてよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第1節5(1)により、車の下に子供がいないかどうかも確かめます。",
+    "i18n": {
+      "zh": {
+        "question": "上车前要确认的只是车的前后有没有人，不需要确认到车下。",
+        "explanation": "错误。根据教则第5章第1节5(1)，还要确认车下有没有孩子。"
+      },
+      "en": {
+        "question": "Before getting into the vehicle you only need to check that nobody is in front of or behind it; underneath it need not be checked.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 1 item 5(1) you also check that no child is underneath the vehicle."
+      },
+      "vi": {
+        "question": "Trước khi lên xe bạn chỉ cần kiểm tra không có ai ở phía trước hay sau xe; gầm xe thì không cần kiểm tra.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 1 điểm 5(1), bạn còn phải kiểm tra không có trẻ nào ở gầm xe."
+      },
+      "pt": {
+        "question": "Antes de entrar no veículo basta verificar que não há ninguém à frente ou atrás; embaixo dele não precisa ser conferido.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 1, item 5(1), você também verifica que nenhuma criança está embaixo do veículo."
+      }
+    },
+    "trap_type": "NR",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-1-035",
+    "category": "発進の安全確認",
+    "kp": "5-1-5",
+    "group": "G",
+    "source": "教則 第5章第1節5(3)",
+    "question_type": "text",
+    "qf": "QF-5-1-5-D-SW-01",
+    "question_ja": "車庫などに入れるときは、出るときにバックで発進できるように、前向きで入れておくとよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第1節5(3)により、バックで発進することは危険なので、あらかじめバックで車庫に入れておきます。",
+    "i18n": {
+      "zh": {
+        "question": "停进车库等场所时，为了出来时能倒车起步，最好车头朝前停进去。",
+        "explanation": "错误。根据教则第5章第1节5(3)，倒车起步很危险，所以要事先倒着停进车库。"
+      },
+      "en": {
+        "question": "When you put the car into a garage it is best to drive in nose first, so that you can reverse out when you leave.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 1 item 5(3) moving off in reverse is dangerous, so you back into the garage beforehand."
+      },
+      "vi": {
+        "question": "Khi đưa xe vào nhà xe, tốt nhất là đi thẳng đầu xe vào để lúc ra có thể lùi ra.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 1 điểm 5(3), chuyển bánh bằng cách lùi là nguy hiểm, nên bạn lùi vào nhà xe từ trước."
+      },
+      "pt": {
+        "question": "Ao guardar o carro na garagem, o melhor é entrar de frente para poder sair de ré depois.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 1, item 5(3), sair de ré é perigoso, por isso você entra de ré na garagem antes."
+      }
+    },
+    "trap_type": "SW",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-1-036",
+    "category": "運転姿勢",
+    "kp": "5-1-2",
+    "group": "G",
+    "source": "教則 第5章第1節2(4)",
+    "question_type": "text",
+    "qf": "QF-5-1-2-D-EX-01",
+    "question_ja": "走行中にカーナビゲーション装置の画像を注視してはいけないのは、画面が大きい装置に限られる。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第1節2(4)は装置の大きさによる区別をしておらず、走行中に表示された画像を注視すること自体を禁じています。",
+    "i18n": {
+      "zh": {
+        "question": "行驶中不得注视导航装置画面，这仅限于画面较大的装置。",
+        "explanation": "错误。教则第5章第1节2(4)并未按装置大小作区分，禁止的是行驶中注视所显示画面这一行为本身。"
+      },
+      "en": {
+        "question": "The ban on gazing at a car navigation screen while moving applies only to devices with a large display.",
+        "explanation": "This is wrong. Kyosoku Chapter 5 Section 1 item 2(4) draws no distinction by size of device; it prohibits gazing at the displayed image while moving, full stop."
+      },
+      "vi": {
+        "question": "Lệnh cấm nhìn chăm chú vào màn hình dẫn đường khi xe chạy chỉ áp dụng cho thiết bị có màn hình lớn.",
+        "explanation": "Sai. Kyosoku Chương 5 Mục 1 điểm 2(4) không phân biệt theo kích thước thiết bị; nó cấm chính việc nhìn chăm chú vào hình ảnh hiển thị khi xe đang chạy."
+      },
+      "pt": {
+        "question": "A proibição de fixar o olhar no navegador em movimento vale só para aparelhos de tela grande.",
+        "explanation": "Está errado. O Kyosoku, Capítulo 5, Seção 1, item 2(4), não distingue pelo tamanho do aparelho; ele proíbe fixar o olhar na imagem exibida com o veículo em movimento."
+      }
+    },
+    "trap_type": "EX",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-1-037",
+    "category": "シートベルト",
+    "kp": "5-1-3",
+    "group": "G",
+    "source": "教則 第5章第1節3(2)",
+    "question_type": "text",
+    "qf": "QF-5-1-3-D-SW-02",
+    "question_ja": "シートベルトを正しく着用するには、シートの背を後ろに倒し、腰ベルトを腹部に当てて締める。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第1節3(2)により、シートの背は倒さずに深く腰掛け、腰ベルトは骨盤を巻くように締めます。",
+    "i18n": {
+      "zh": {
+        "question": "正确系安全带的方法是把座椅靠背向后放倒，把腰带系在腹部。",
+        "explanation": "错误。根据教则第5章第1节3(2)，不要放倒靠背，要深坐，腰带要像箍住骨盆那样系。"
+      },
+      "en": {
+        "question": "To wear a seat belt correctly you recline the seat back and fasten the lap belt across the abdomen.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 1 item 3(2) you keep the seat back upright, sit well back, and fasten the lap belt around the pelvis."
+      },
+      "vi": {
+        "question": "Để thắt dây an toàn đúng cách, bạn ngả lưng ghế ra sau và thắt dây hông ngang vùng bụng.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 1 điểm 3(2), bạn giữ lưng ghế dựng, ngồi sâu vào ghế, và thắt dây hông ôm quanh khung chậu."
+      },
+      "pt": {
+        "question": "Para usar o cinto corretamente você reclina o encosto e prende o cinto subabdominal sobre o abdome.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 1, item 3(2), mantém-se o encosto erguido, senta-se bem no fundo e prende-se o cinto sobre a pelve."
+      }
+    },
+    "trap_type": "SW",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-1-038",
+    "category": "シートベルト",
+    "kp": "5-1-3",
+    "group": "G",
+    "source": "教則 第5章第1節3(2)",
+    "question_type": "text",
+    "qf": "QF-5-1-3-D-NR-01",
+    "question_ja": "シートベルトは、バックルの金具が確実に差し込まれてさえいれば、ねじれていても差し支えない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第1節3(2)により、ベルトがねじれていないかどうかも確認することとされています。",
+    "i18n": {
+      "zh": {
+        "question": "安全带只要带扣的金属件确实插好，即使扭曲也没有关系。",
+        "explanation": "错误。根据教则第5章第1节3(2)，还要确认安全带有没有扭曲。"
+      },
+      "en": {
+        "question": "As long as the buckle tongue is fully home, it does not matter if the seat belt is twisted.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 1 item 3(2) you also check that the belt is not twisted."
+      },
+      "vi": {
+        "question": "Miễn là đầu khóa đã cài chặt thì dây an toàn có bị xoắn cũng không sao.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 1 điểm 3(2), bạn còn phải kiểm tra dây có bị xoắn hay không."
+      },
+      "pt": {
+        "question": "Desde que a lingueta esteja bem encaixada na fivela, não importa se o cinto está torcido.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 1, item 3(2), também se verifica se o cinto não está torcido."
+      }
+    },
+    "trap_type": "NR",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-1-039",
+    "category": "発進の安全確認",
+    "kp": "5-1-5",
+    "group": "G",
+    "source": "教則 第5章第1節5(1)",
+    "question_type": "text",
+    "qf": "QF-5-1-5-D-SC-01",
+    "question_ja": "駐車場に人影が見えなかったので、車の周りを確かめずに乗り込んですぐ発進した。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第1節5(1)により、車に乗る前に車の前後に人がいないか、車の下に子供がいないかを確かめなければなりません。",
+    "i18n": {
+      "zh": {
+        "question": "因为停车场看不到人影，就没有确认车周围直接上车立刻起步了。",
+        "explanation": "错误。根据教则第5章第1节5(1)，上车前必须确认车的前后有没有人、车下有没有孩子。"
+      },
+      "en": {
+        "question": "Because you saw nobody about in the car park, you got in without checking around the vehicle and moved off at once.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 1 item 5(1) you must check before getting in that nobody is in front of or behind the vehicle and that no child is underneath it."
+      },
+      "vi": {
+        "question": "Vì không thấy bóng người nào trong bãi đỗ, bạn lên xe mà không kiểm tra quanh xe rồi chuyển bánh ngay.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 1 điểm 5(1), trước khi lên xe bạn phải kiểm tra không có ai ở trước sau xe và không có trẻ nào ở gầm xe."
+      },
+      "pt": {
+        "question": "Como não via ninguém no estacionamento, você entrou sem conferir ao redor do veículo e arrancou em seguida.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 1, item 5(1), antes de entrar você deve verificar que não há ninguém à frente ou atrás e que nenhuma criança está embaixo do veículo."
+      }
+    },
+    "trap_type": "SC",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-1-040",
+    "category": "チャイルドシート",
+    "kp": "5-1-4",
+    "group": "G",
+    "source": "教則 第5章第1節4(1)",
+    "question_type": "text",
+    "qf": "QF-5-1-4-D-EX-01",
+    "question_ja": "チャイルドシートを使用させなければならないのは、シートベルトを適切に着用させることができない子供のうち、小学生に限られる。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第1節4(1)により、特に幼児には発育の程度に応じたチャイルドシートを使用させなければなりません。",
+    "i18n": {
+      "zh": {
+        "question": "必须使用儿童座椅的，仅限于无法正确系好安全带的孩子中的小学生。",
+        "explanation": "错误。根据教则第5章第1节4(1)，特别是幼儿必须使用与发育程度相适应的儿童座椅。"
+      },
+      "en": {
+        "question": "The requirement to use a child seat applies only to primary-school children among those who cannot be fitted properly with a seat belt.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 1 item 4(1) it is infants in particular who must be put in a child seat suited to their stage of growth."
+      },
+      "vi": {
+        "question": "Yêu cầu dùng ghế trẻ em chỉ áp dụng cho học sinh tiểu học trong số những trẻ không thắt dây an toàn đúng cách được.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 1 điểm 4(1), chính trẻ nhỏ mới là đối tượng bắt buộc phải dùng ghế phù hợp với mức phát triển."
+      },
+      "pt": {
+        "question": "A exigência de cadeirinha vale só para crianças em idade escolar entre as que não conseguem usar o cinto corretamente.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 1, item 4(1), são justamente as crianças pequenas que devem ir em cadeirinha adequada ao seu desenvolvimento."
+      }
+    },
+    "trap_type": "EX",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  }
+]

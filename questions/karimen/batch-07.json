@@ -1,0 +1,662 @@
+[
+  {
+    "id": "K5-2-021",
+    "category": "緊急自動車などの優先",
+    "kp": "5-2-5",
+    "group": "I",
+    "source": "教則 第5章第2節5",
+    "question_type": "text",
+    "qf": "QF-5-2-5-A-N-01",
+    "question_ja": "緊急自動車が近づいてきたときは、交差点の付近では、交差点を避けて道路の左側に寄り、一時停止しなければならない。",
+    "answer": true,
+    "explanation_ja": "教則第5章第2節5のとおりです。交差点の中で止まると、緊急自動車の進路をふさぐことになります。",
+    "i18n": {
+      "zh": {
+        "question": "紧急车辆驶近时，在交叉路口附近必须避开交叉路口、靠道路左侧暂停（一時停止）。",
+        "explanation": "符合教则第5章第2节5的规定。在交叉路口中停车会挡住紧急车辆的行驶路线。"
+      },
+      "en": {
+        "question": "When an emergency vehicle approaches, near an intersection you must keep clear of the intersection, pull over to the left of the road and come to a complete stop (一時停止).",
+        "explanation": "This is Kyosoku Chapter 5 Section 2 item 5. Stopping inside the intersection would block the emergency vehicle's path."
+      },
+      "vi": {
+        "question": "Khi xe ưu tiên đến gần, ở khu vực gần nút giao thông bạn phải tránh nút giao, tấp vào bên trái đường và tạm dừng (一時停止).",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 2 điểm 5. Dừng trong nút giao sẽ chắn đường xe ưu tiên."
+      },
+      "pt": {
+        "question": "Quando um veículo de emergência se aproxima, perto de um cruzamento você deve evitar o cruzamento, encostar à esquerda da via e fazer parada obrigatória (一時停止).",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 2, item 5. Parar dentro do cruzamento bloquearia o caminho do veículo de emergência."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-2-022",
+    "category": "緊急自動車などの優先",
+    "kp": "5-2-5",
+    "group": "I",
+    "source": "教則 第5章第2節5",
+    "question_type": "text",
+    "qf": "QF-5-2-5-A-N-02",
+    "question_ja": "緊急自動車が近づいてきたとき、交差点の付近以外のところでは、道路の左側に寄って進路を譲らなければならない。",
+    "answer": true,
+    "explanation_ja": "教則第5章第2節5のとおりです。一時停止までは求められませんが、進路は譲らなければなりません。",
+    "i18n": {
+      "zh": {
+        "question": "紧急车辆驶近时，在交叉路口附近以外的地方，必须靠道路左侧让出行驶路线。",
+        "explanation": "符合教则第5章第2节5的规定。虽然不要求暂停（一時停止），但必须让路。"
+      },
+      "en": {
+        "question": "When an emergency vehicle approaches, at places other than near an intersection you must pull over to the left of the road and give way.",
+        "explanation": "This is Kyosoku Chapter 5 Section 2 item 5. A complete stop is not required there, but you must still give way."
+      },
+      "vi": {
+        "question": "Khi xe ưu tiên đến gần, ở những nơi không phải gần nút giao thông bạn phải tấp vào bên trái đường và nhường đường.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 2 điểm 5. Ở đó không bắt buộc tạm dừng, nhưng vẫn phải nhường đường."
+      },
+      "pt": {
+        "question": "Quando um veículo de emergência se aproxima, em locais que não sejam perto de cruzamento você deve encostar à esquerda da via e dar passagem.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 2, item 5. Ali não se exige parada completa, mas ainda assim é preciso dar passagem."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-2-023",
+    "category": "緊急自動車などの優先",
+    "kp": "5-2-5",
+    "group": "I",
+    "source": "教則 第5章第2節5",
+    "question_type": "text",
+    "qf": "QF-5-2-5-A-N-03",
+    "question_ja": "一方通行の道路で左側に寄るとかえって緊急自動車の妨げとなるようなときは、右側に寄らなければならない。",
+    "answer": true,
+    "explanation_ja": "教則第5章第2節5のとおりです。譲り方は、緊急自動車の通行を妨げないかどうかで決まります。",
+    "i18n": {
+      "zh": {
+        "question": "在单向通行的道路上靠左反而会妨碍紧急车辆时，必须靠右侧。",
+        "explanation": "符合教则第5章第2节5的规定。如何让路取决于是否会妨碍紧急车辆通行。"
+      },
+      "en": {
+        "question": "On a one-way road, where pulling over to the left would get in the emergency vehicle's way instead, you must pull over to the right.",
+        "explanation": "This is Kyosoku Chapter 5 Section 2 item 5. How you give way is decided by what does not obstruct the emergency vehicle."
+      },
+      "vi": {
+        "question": "Trên đường một chiều, nếu tấp vào bên trái lại cản trở xe ưu tiên thì bạn phải tấp vào bên phải.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 2 điểm 5. Cách nhường đường được quyết định bởi điều gì không cản trở xe ưu tiên."
+      },
+      "pt": {
+        "question": "Em via de mão única, se encostar à esquerda for atrapalhar o veículo de emergência, você deve encostar à direita.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 2, item 5. A forma de dar passagem é definida pelo que não obstrui o veículo de emergência."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-2-024",
+    "category": "緊急自動車などの優先",
+    "kp": "5-2-6",
+    "group": "I",
+    "source": "教則 第5章第2節6(1)",
+    "question_type": "text",
+    "qf": "QF-5-2-6-A-N-01",
+    "question_ja": "停留所で止まっている路線バスなどが方向指示器などで発進の合図をしたときは後方の車はその発進を妨げてはいけないが、急ブレーキや急ハンドルで避けなければならないような場合は別である。",
+    "answer": true,
+    "explanation_ja": "教則第5章第2節6(1)のとおりです。譲る義務は、危険を生じさせてまで負うものではありません。",
+    "i18n": {
+      "zh": {
+        "question": "停靠在公交站的公交车等用方向指示器等发出起步信号时，后方车辆不得妨碍其起步，但必须以急刹车或急打方向盘才能避让的情况除外。",
+        "explanation": "符合教则第5章第2节6(1)的规定。让行的义务并不要求以制造危险为代价。"
+      },
+      "en": {
+        "question": "When a route bus stopped at a stop signals that it is moving off, a vehicle behind must not obstruct it, except where avoiding it would take sudden braking or sudden steering.",
+        "explanation": "This is Kyosoku Chapter 5 Section 2 item 6(1). The duty to give way is not owed at the cost of creating danger."
+      },
+      "vi": {
+        "question": "Khi xe buýt tuyến đang dừng ở trạm báo hiệu chuyển bánh, xe phía sau không được cản trở, trừ khi việc tránh nó đòi hỏi phanh gấp hoặc đánh lái gấp.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 2 điểm 6(1). Nghĩa vụ nhường đường không đến mức phải tạo ra nguy hiểm."
+      },
+      "pt": {
+        "question": "Quando um ônibus de linha parado no ponto sinaliza que vai sair, o veículo de trás não deve obstruí-lo, salvo se desviar exigisse frenagem brusca ou esterçada brusca.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 2, item 6(1). O dever de dar passagem não se impõe ao custo de criar perigo."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-2-025",
+    "category": "緊急自動車などの優先",
+    "kp": "5-2-6",
+    "group": "I",
+    "source": "教則 第5章第2節6(2)",
+    "question_type": "text",
+    "qf": "QF-5-2-6-A-N-02",
+    "question_ja": "路線バスなどの専用通行帯が指定されている道路でも、小型特殊自動車、原動機付自転車、軽車両はその通行帯を通行することができる。",
+    "answer": true,
+    "explanation_ja": "教則第5章第2節6(2)のとおりです。専用通行帯から除かれているのは、この三種類の車です。",
+    "i18n": {
+      "zh": {
+        "question": "即使是指定了公交车等专用通行带的道路，小型特殊汽车、轻型摩托车、轻车辆也可以通行该通行带。",
+        "explanation": "符合教则第5章第2节6(2)的规定。被排除在专用通行带之外的就是这三类车。"
+      },
+      "en": {
+        "question": "Even on a road with a lane designated for route buses, small special vehicles, motorized bicycles and light road vehicles may use that lane.",
+        "explanation": "This is Kyosoku Chapter 5 Section 2 item 6(2). Those three kinds of vehicle are the ones excluded from the restriction."
+      },
+      "vi": {
+        "question": "Ngay trên đường đã chỉ định làn dành riêng cho xe buýt tuyến, xe chuyên dùng cỡ nhỏ, xe gắn máy và xe thô sơ vẫn được đi ở làn đó.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 2 điểm 6(2). Ba loại xe đó là những loại được loại trừ khỏi hạn chế này."
+      },
+      "pt": {
+        "question": "Mesmo em via com faixa designada para ônibus de linha, veículos especiais pequenos, ciclomotores e veículos leves podem usar essa faixa.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 2, item 6(2). Esses três tipos de veículo são os excluídos da restrição."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-2-026",
+    "category": "緊急自動車などの優先",
+    "kp": "5-2-6",
+    "group": "I",
+    "source": "教則 第5章第2節6(2)",
+    "question_type": "text",
+    "qf": "QF-5-2-6-A-N-03",
+    "question_ja": "路線バスなどの専用通行帯でも、右左折をするため道路の右端、中央や左端に寄る場合や、工事などでやむを得ない場合は通行することができる。",
+    "answer": true,
+    "explanation_ja": "教則第5章第2節6(2)のとおりです。専用通行帯の規制は、通行帯をそのまま走り続けることを禁じるものです。",
+    "i18n": {
+      "zh": {
+        "question": "即使是公交车等专用通行带，为右拐弯或左拐弯而靠道路右端、中央或左端时，以及因施工等不得已时，也可以通行。",
+        "explanation": "符合教则第5章第2节6(2)的规定。专用通行带的限制针对的是一直沿该通行带行驶。"
+      },
+      "en": {
+        "question": "Even in a lane designated for route buses you may use it when pulling to the right edge, the centre or the left edge of the road in order to turn, and where road works or the like leave no alternative.",
+        "explanation": "This is Kyosoku Chapter 5 Section 2 item 6(2). The restriction is aimed at travelling along the lane, not at crossing it."
+      },
+      "vi": {
+        "question": "Ngay ở làn dành riêng cho xe buýt tuyến, bạn vẫn được đi vào khi tấp sang mép phải, tim đường hay mép trái để rẽ, và khi thi công đường hoặc lý do tương tự không cho lựa chọn khác.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 2 điểm 6(2). Hạn chế này nhắm vào việc chạy dọc theo làn, không phải việc cắt qua."
+      },
+      "pt": {
+        "question": "Mesmo na faixa designada para ônibus de linha você pode usá-la ao encostar na borda direita, no centro ou na borda esquerda da via para converter, e quando obras ou situação semelhante não deixarem alternativa.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 2, item 6(2). A restrição visa percorrer a faixa, não atravessá-la."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-2-027",
+    "category": "緊急自動車などの優先",
+    "kp": "5-2-6",
+    "group": "I",
+    "source": "教則 第5章第2節6(3)",
+    "question_type": "text",
+    "qf": "QF-5-2-6-A-N-04",
+    "question_ja": "路線バスなどの優先通行帯を通行している自動車は、路線バスなどが近づいてきたときは、速やかにそこから出なければならない。",
+    "answer": true,
+    "explanation_ja": "教則第5章第2節6(3)のとおりです。優先通行帯は、専用通行帯とは違い、ほかの自動車も通行することができます。",
+    "i18n": {
+      "zh": {
+        "question": "在公交车等优先通行带上通行的汽车，在公交车等驶近时必须迅速驶离该通行带。",
+        "explanation": "符合教则第5章第2节6(3)的规定。优先通行带与专用通行带不同，其他汽车也可以通行。"
+      },
+      "en": {
+        "question": "A car travelling in a lane where route buses have priority must leave that lane promptly when a route bus approaches.",
+        "explanation": "This is Kyosoku Chapter 5 Section 2 item 6(3). Unlike a designated lane, a priority lane may be used by other cars as well."
+      },
+      "vi": {
+        "question": "Ô tô đang đi ở làn ưu tiên cho xe buýt tuyến phải nhanh chóng ra khỏi làn đó khi có xe buýt tuyến đến gần.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 2 điểm 6(3). Khác với làn dành riêng, làn ưu tiên vẫn cho phép ô tô khác đi vào."
+      },
+      "pt": {
+        "question": "O automóvel que trafega em faixa de preferência para ônibus de linha deve sair dela sem demora quando um ônibus se aproximar.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 2, item 6(3). Ao contrário da faixa exclusiva, a de preferência pode ser usada também por outros automóveis."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-2-028",
+    "category": "緊急自動車などの優先",
+    "kp": "5-2-6",
+    "group": "I",
+    "source": "教則 第5章第2節6(3)",
+    "question_type": "text",
+    "qf": "QF-5-2-6-A-N-05",
+    "question_ja": "交通が混雑していて、路線バスなどが近づいてきても優先通行帯から出られなくなるおそれがあるときは、はじめからその通行帯を通行してはいけない。",
+    "answer": true,
+    "explanation_ja": "教則第5章第2節6(3)のとおりです。出られなくなってからでは、路線バスの通行を妨げてしまいます。",
+    "i18n": {
+      "zh": {
+        "question": "交通拥堵、公交车等驶近时有可能无法驶离优先通行带的情况下，一开始就不得通行该通行带。",
+        "explanation": "符合教则第5章第2节6(3)的规定。等到无法驶离时，就已经妨碍了公交车通行。"
+      },
+      "en": {
+        "question": "Where traffic is congested and you might be unable to leave the priority lane once a route bus approaches, you must not enter that lane in the first place.",
+        "explanation": "This is Kyosoku Chapter 5 Section 2 item 6(3). By the time you cannot get out, you are already obstructing the bus."
+      },
+      "vi": {
+        "question": "Khi giao thông đông đúc và có nguy cơ bạn không ra được khỏi làn ưu tiên lúc xe buýt tuyến đến gần, thì ngay từ đầu bạn không được đi vào làn đó.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 2 điểm 6(3). Đến lúc không ra được thì bạn đã cản trở xe buýt rồi."
+      },
+      "pt": {
+        "question": "Quando o trânsito está congestionado e você pode não conseguir sair da faixa de preferência ao se aproximar um ônibus de linha, não deve entrar nessa faixa desde o início.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 2, item 6(3). Quando já não dá para sair, você está obstruindo o ônibus."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-2-029",
+    "category": "緊急自動車などの優先",
+    "kp": "5-2-6",
+    "group": "I",
+    "source": "教則 第5章第2節6(2)",
+    "question_type": "text",
+    "qf": "QF-5-2-6-A-N-06",
+    "question_ja": "普通自転車の専用通行帯が指定されている道路では、特定小型原動機付自転車と軽車両を除くほかの車は、その通行帯を通行してはいけない。",
+    "answer": true,
+    "explanation_ja": "教則第5章第2節6(2)のとおりです。路線バスなどの専用通行帯とは、除かれる車の範囲が違います。",
+    "i18n": {
+      "zh": {
+        "question": "在指定了普通自行车专用通行带的道路上，除特定小型轻型摩托车和轻车辆以外的其他车辆不得通行该通行带。",
+        "explanation": "符合教则第5章第2节6(2)的规定。它与公交车等专用通行带被排除的车辆范围不同。"
+      },
+      "en": {
+        "question": "On a road with a lane designated for ordinary bicycles, every vehicle other than a specified small motorized bicycle or a light road vehicle must stay out of that lane.",
+        "explanation": "This is Kyosoku Chapter 5 Section 2 item 6(2). The set of vehicles excluded differs from that for a route bus lane."
+      },
+      "vi": {
+        "question": "Trên đường có làn dành riêng cho xe đạp thường, mọi xe khác ngoài xe gắn máy cỡ nhỏ đặc định và xe thô sơ đều không được đi vào làn đó.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 2 điểm 6(2). Nhóm xe được loại trừ khác với nhóm ở làn xe buýt tuyến."
+      },
+      "pt": {
+        "question": "Em via com faixa designada para bicicletas comuns, todo veículo que não seja ciclomotor pequeno especificado ou veículo leve deve ficar fora dessa faixa.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 2, item 6(2). O conjunto de veículos excluídos é diferente do da faixa de ônibus de linha."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-2-030",
+    "category": "緊急自動車などの優先",
+    "kp": "5-2-5",
+    "group": "I",
+    "source": "教則 第5章第2節5",
+    "question_type": "text",
+    "qf": "QF-5-2-5-A-N-04",
+    "question_ja": "緊急自動車に進路を譲るときは、交差点の付近かそれ以外かによって、一時停止するか進路を譲るだけでよいかが分かれる。",
+    "answer": true,
+    "explanation_ja": "教則第5章第2節5のとおりです。交差点の付近では交差点を避けて一時停止し、それ以外では左側に寄って進路を譲ります。",
+    "i18n": {
+      "zh": {
+        "question": "给紧急车辆让路时，根据是在交叉路口附近还是其他地方，分为需要暂停（一時停止）和只需让路两种情况。",
+        "explanation": "符合教则第5章第2节5的规定。在交叉路口附近要避开交叉路口暂停，其他地方靠左让路即可。"
+      },
+      "en": {
+        "question": "Whether you must come to a complete stop (一時停止) or need only give way when making room for an emergency vehicle depends on whether you are near an intersection.",
+        "explanation": "This is Kyosoku Chapter 5 Section 2 item 5. Near an intersection you keep clear of it and stop; elsewhere you pull to the left and give way."
+      },
+      "vi": {
+        "question": "Việc bạn phải tạm dừng (一時停止) hay chỉ cần nhường đường cho xe ưu tiên tùy thuộc vào việc bạn có đang ở gần nút giao thông hay không.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 2 điểm 5. Gần nút giao thì tránh nút giao và dừng lại; nơi khác thì tấp vào trái và nhường đường."
+      },
+      "pt": {
+        "question": "Se você deve fazer parada obrigatória (一時停止) ou apenas dar passagem a um veículo de emergência depende de estar ou não perto de um cruzamento.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 2, item 5. Perto do cruzamento você o evita e para; nos demais locais encosta à esquerda e dá passagem."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-2-031",
+    "category": "緊急自動車などの優先",
+    "kp": "5-2-5",
+    "group": "I",
+    "source": "教則 第5章第2節5",
+    "question_type": "text",
+    "qf": "QF-5-2-5-D-SW-01",
+    "question_ja": "緊急自動車が近づいてきたときは、交差点の付近では交差点の中に入ってから道路の左側に寄り、一時停止しなければならない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第2節5により、交差点の付近では交差点を避けて道路の左側に寄り、一時停止します。",
+    "i18n": {
+      "zh": {
+        "question": "紧急车辆驶近时，在交叉路口附近必须先进入交叉路口内再靠道路左侧暂停（一時停止）。",
+        "explanation": "错误。根据教则第5章第2节5，在交叉路口附近要避开交叉路口、靠道路左侧暂停。"
+      },
+      "en": {
+        "question": "When an emergency vehicle approaches, near an intersection you must move into the intersection first and then pull to the left and come to a complete stop (一時停止).",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 2 item 5 you keep clear of the intersection, pull to the left of the road and stop."
+      },
+      "vi": {
+        "question": "Khi xe ưu tiên đến gần, ở gần nút giao thông bạn phải tiến vào trong nút giao rồi mới tấp vào bên trái và tạm dừng (一時停止).",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 2 điểm 5, bạn tránh nút giao, tấp vào bên trái đường rồi dừng lại."
+      },
+      "pt": {
+        "question": "Quando um veículo de emergência se aproxima, perto de um cruzamento você deve entrar no cruzamento e só então encostar à esquerda e fazer parada obrigatória (一時停止).",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 2, item 5, você evita o cruzamento, encosta à esquerda da via e para."
+      }
+    },
+    "trap_type": "SW",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-2-032",
+    "category": "緊急自動車などの優先",
+    "kp": "5-2-5",
+    "group": "I",
+    "source": "教則 第5章第2節5",
+    "question_type": "text",
+    "qf": "QF-5-2-5-D-SW-02",
+    "question_ja": "緊急自動車が近づいてきたとき、交差点の付近以外のところでは、道路の左側に寄って一時停止しなければならない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第2節5により、交差点の付近以外では道路の左側に寄って進路を譲れば足り、一時停止までは求められていません。",
+    "i18n": {
+      "zh": {
+        "question": "紧急车辆驶近时，在交叉路口附近以外的地方，必须靠道路左侧暂停（一時停止）。",
+        "explanation": "错误。根据教则第5章第2节5，在交叉路口附近以外靠道路左侧让路即可，并不要求暂停。"
+      },
+      "en": {
+        "question": "When an emergency vehicle approaches, at places other than near an intersection you must pull to the left of the road and come to a complete stop (一時停止).",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 2 item 5 it is enough to pull to the left and give way there; a complete stop is not required."
+      },
+      "vi": {
+        "question": "Khi xe ưu tiên đến gần, ở những nơi không phải gần nút giao thông bạn phải tấp vào bên trái đường và tạm dừng (一時停止).",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 2 điểm 5, ở đó chỉ cần tấp vào bên trái và nhường đường, không bắt buộc tạm dừng."
+      },
+      "pt": {
+        "question": "Quando um veículo de emergência se aproxima, em locais que não sejam perto de cruzamento você deve encostar à esquerda e fazer parada obrigatória (一時停止).",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 2, item 5, ali basta encostar à esquerda e dar passagem; não se exige parada completa."
+      }
+    },
+    "trap_type": "SW",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-2-033",
+    "category": "緊急自動車などの優先",
+    "kp": "5-2-5",
+    "group": "I",
+    "source": "教則 第5章第2節5",
+    "question_type": "text",
+    "qf": "QF-5-2-5-D-EO-01",
+    "question_ja": "一方通行の道路で緊急自動車が近づいてきたときも、道路の左側に寄って進路を譲れば足りる。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第2節5により、左側に寄るとかえって緊急自動車の妨げとなるようなときは、右側に寄らなければなりません。",
+    "i18n": {
+      "zh": {
+        "question": "在单向通行的道路上紧急车辆驶近时，也只要靠道路左侧让路就可以。",
+        "explanation": "错误。根据教则第5章第2节5，靠左反而会妨碍紧急车辆时，必须靠右侧。"
+      },
+      "en": {
+        "question": "On a one-way road too, it is enough to pull over to the left of the road and give way when an emergency vehicle approaches.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 2 item 5, where pulling to the left would get in the emergency vehicle's way instead, you must pull to the right."
+      },
+      "vi": {
+        "question": "Trên đường một chiều cũng vậy, khi xe ưu tiên đến gần chỉ cần tấp vào bên trái đường và nhường đường là đủ.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 2 điểm 5, nếu tấp vào bên trái lại cản trở xe ưu tiên thì bạn phải tấp vào bên phải."
+      },
+      "pt": {
+        "question": "Em via de mão única também basta encostar à esquerda e dar passagem quando um veículo de emergência se aproxima.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 2, item 5, se encostar à esquerda for atrapalhar o veículo de emergência, você deve encostar à direita."
+      }
+    },
+    "trap_type": "EO",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-2-034",
+    "category": "緊急自動車などの優先",
+    "kp": "5-2-6",
+    "group": "I",
+    "source": "教則 第5章第2節6(1)",
+    "question_type": "text",
+    "qf": "QF-5-2-6-D-EI-01",
+    "question_ja": "停留所で発進の合図をした路線バスがあっても、自分の車が先に通過できるときは、その発進を妨げてもよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第2節6(1)により、例外となるのは急ブレーキや急ハンドルで避けなければならないような場合だけです。",
+    "i18n": {
+      "zh": {
+        "question": "即使有公交车在公交站发出了起步信号，只要自己的车能先通过，也可以妨碍其起步。",
+        "explanation": "错误。根据教则第5章第2节6(1)，例外只有必须以急刹车或急打方向盘才能避让的情况。"
+      },
+      "en": {
+        "question": "Even when a route bus at a stop has signalled that it is moving off, you may obstruct it as long as your own vehicle can get past first.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 2 item 6(1) the only exception is where avoiding it would take sudden braking or sudden steering."
+      },
+      "vi": {
+        "question": "Dù xe buýt tuyến ở trạm đã báo hiệu chuyển bánh, bạn vẫn được cản trở nó miễn là xe bạn qua trước được.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 2 điểm 6(1), ngoại lệ duy nhất là khi việc tránh nó đòi hỏi phanh gấp hoặc đánh lái gấp."
+      },
+      "pt": {
+        "question": "Mesmo que o ônibus de linha no ponto tenha sinalizado que vai sair, você pode obstruí-lo desde que o seu veículo consiga passar antes.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 2, item 6(1), a única exceção é quando desviar exigiria frenagem brusca ou esterçada brusca."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-2-035",
+    "category": "緊急自動車などの優先",
+    "kp": "5-2-6",
+    "group": "I",
+    "source": "教則 第5章第2節6(2)",
+    "question_type": "text",
+    "qf": "QF-5-2-6-D-EX-01",
+    "question_ja": "路線バスなどの専用通行帯が指定されている道路では、すべての車がその通行帯を通行してはいけない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第2節6(2)により、小型特殊自動車、原動機付自転車、軽車両は除かれます。",
+    "i18n": {
+      "zh": {
+        "question": "在指定了公交车等专用通行带的道路上，所有车辆都不得通行该通行带。",
+        "explanation": "错误。根据教则第5章第2节6(2)，小型特殊汽车、轻型摩托车、轻车辆除外。"
+      },
+      "en": {
+        "question": "On a road with a lane designated for route buses, no vehicle at all may use that lane.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 2 item 6(2), small special vehicles, motorized bicycles and light road vehicles are excluded."
+      },
+      "vi": {
+        "question": "Trên đường có làn dành riêng cho xe buýt tuyến, không một xe nào được đi ở làn đó.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 2 điểm 6(2), xe chuyên dùng cỡ nhỏ, xe gắn máy và xe thô sơ được loại trừ."
+      },
+      "pt": {
+        "question": "Em via com faixa designada para ônibus de linha, nenhum veículo pode usar essa faixa.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 2, item 6(2), veículos especiais pequenos, ciclomotores e veículos leves estão excluídos."
+      }
+    },
+    "trap_type": "EX",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-2-036",
+    "category": "緊急自動車などの優先",
+    "kp": "5-2-6",
+    "group": "I",
+    "source": "教則 第5章第2節6(2)",
+    "question_type": "text",
+    "qf": "QF-5-2-6-D-EO-01",
+    "question_ja": "路線バスなどの専用通行帯が指定されている道路では、右左折をするためであっても、その通行帯に入ってはいけない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第2節6(2)により、右左折をするため道路の右端、中央や左端に寄る場合や、工事などでやむを得ない場合は別です。",
+    "i18n": {
+      "zh": {
+        "question": "在指定了公交车等专用通行带的道路上，即使是为了右拐弯或左拐弯，也不得进入该通行带。",
+        "explanation": "错误。根据教则第5章第2节6(2)，为右拐弯或左拐弯而靠道路右端、中央或左端时，以及因施工等不得已时除外。"
+      },
+      "en": {
+        "question": "On a road with a lane designated for route buses you must not enter that lane even in order to turn right or left.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 2 item 6(2) pulling to the right edge, the centre or the left edge of the road in order to turn is an exception, as are road works and the like."
+      },
+      "vi": {
+        "question": "Trên đường có làn dành riêng cho xe buýt tuyến, bạn không được đi vào làn đó ngay cả để rẽ phải hay rẽ trái.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 2 điểm 6(2), việc tấp sang mép phải, tim đường hay mép trái để rẽ là ngoại lệ, cũng như thi công đường và tình huống tương tự."
+      },
+      "pt": {
+        "question": "Em via com faixa designada para ônibus de linha você não pode entrar nessa faixa nem mesmo para converter à direita ou à esquerda.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 2, item 6(2), encostar na borda direita, no centro ou na borda esquerda para converter é exceção, assim como obras e situações semelhantes."
+      }
+    },
+    "trap_type": "EO",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-2-037",
+    "category": "緊急自動車などの優先",
+    "kp": "5-2-6",
+    "group": "I",
+    "source": "教則 第5章第2節6(3)",
+    "question_type": "text",
+    "qf": "QF-5-2-6-D-EI-02",
+    "question_ja": "路線バスなどの優先通行帯を通行している自動車は、路線バスなどが近づいてきても、交通が混雑していればそこから出なくてよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第2節6(3)により、混雑していて出られなくなるおそれがあるときは、はじめからその通行帯を通行してはいけません。",
+    "i18n": {
+      "zh": {
+        "question": "在公交车等优先通行带上通行的汽车，即使公交车等驶近，只要交通拥堵就可以不驶离。",
+        "explanation": "错误。根据教则第5章第2节6(3)，拥堵而有可能无法驶离时，一开始就不得通行该通行带。"
+      },
+      "en": {
+        "question": "A car in a lane where route buses have priority need not leave it when a bus approaches, as long as the traffic is congested.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 2 item 6(3), if congestion might leave you unable to get out, you must not enter the lane in the first place."
+      },
+      "vi": {
+        "question": "Ô tô đang ở làn ưu tiên cho xe buýt tuyến không cần ra khỏi làn khi xe buýt đến gần, miễn là giao thông đang đông đúc.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 2 điểm 6(3), nếu tình trạng đông đúc có thể khiến bạn không ra được thì ngay từ đầu bạn không được đi vào làn đó."
+      },
+      "pt": {
+        "question": "O automóvel na faixa de preferência para ônibus de linha não precisa sair dela quando um ônibus se aproxima, desde que o trânsito esteja congestionado.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 2, item 6(3), se o congestionamento puder impedir você de sair, não deve entrar na faixa desde o início."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-2-038",
+    "category": "緊急自動車などの優先",
+    "kp": "5-2-5",
+    "group": "I",
+    "source": "教則 第5章第2節5",
+    "question_type": "text",
+    "qf": "QF-5-2-5-D-SC-01",
+    "question_ja": "交差点の手前で後方から緊急自動車が近づいてきたが、もう少しで交差点だったので、交差点の中まで進んでから左に寄って停止した。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第2節5により、交差点の付近では交差点を避けて道路の左側に寄り、一時停止しなければなりません。",
+    "i18n": {
+      "zh": {
+        "question": "在交叉路口跟前后方有紧急车辆驶近，但因为马上就到交叉路口了，就先驶入交叉路口内再靠左停住。",
+        "explanation": "错误。根据教则第5章第2节5，在交叉路口附近必须避开交叉路口、靠道路左侧暂停（一時停止）。"
+      },
+      "en": {
+        "question": "An emergency vehicle came up behind you just before an intersection, and because the intersection was close you drove into it before pulling left and stopping.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 2 item 5 you must keep clear of the intersection, pull to the left of the road and come to a complete stop (一時停止)."
+      },
+      "vi": {
+        "question": "Xe ưu tiên đến từ phía sau ngay trước nút giao thông, và vì nút giao đã gần nên bạn tiến vào trong nút giao rồi mới tấp trái và dừng lại.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 2 điểm 5, bạn phải tránh nút giao, tấp vào bên trái đường và tạm dừng (一時停止)."
+      },
+      "pt": {
+        "question": "Um veículo de emergência surgiu atrás de você pouco antes de um cruzamento e, como ele estava perto, você entrou nele antes de encostar à esquerda e parar.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 2, item 5, você deve evitar o cruzamento, encostar à esquerda da via e fazer parada obrigatória (一時停止)."
+      }
+    },
+    "trap_type": "SC",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-2-039",
+    "category": "緊急自動車などの優先",
+    "kp": "5-2-6",
+    "group": "I",
+    "source": "教則 第5章第2節6(2)",
+    "question_type": "text",
+    "qf": "QF-5-2-6-D-EX-02",
+    "question_ja": "普通自転車の専用通行帯が指定されている道路では、自転車以外のすべての車がその通行帯を通行してはいけない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第2節6(2)により、特定小型原動機付自転車と軽車両は、その通行帯を通行することができます。",
+    "i18n": {
+      "zh": {
+        "question": "在指定了普通自行车专用通行带的道路上，自行车以外的所有车辆都不得通行该通行带。",
+        "explanation": "错误。根据教则第5章第2节6(2)，特定小型轻型摩托车和轻车辆可以通行该通行带。"
+      },
+      "en": {
+        "question": "On a road with a lane designated for ordinary bicycles, every vehicle other than a bicycle must stay out of that lane.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 2 item 6(2), specified small motorized bicycles and light road vehicles may use that lane."
+      },
+      "vi": {
+        "question": "Trên đường có làn dành riêng cho xe đạp thường, mọi xe ngoài xe đạp đều không được đi vào làn đó.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 2 điểm 6(2), xe gắn máy cỡ nhỏ đặc định và xe thô sơ vẫn được đi ở làn đó."
+      },
+      "pt": {
+        "question": "Em via com faixa designada para bicicletas comuns, todo veículo que não seja bicicleta deve ficar fora dessa faixa.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 2, item 6(2), ciclomotores pequenos especificados e veículos leves podem usar essa faixa."
+      }
+    },
+    "trap_type": "EX",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-2-040",
+    "category": "緊急自動車などの優先",
+    "kp": "5-2-6",
+    "group": "I",
+    "source": "教則 第5章第2節6(3)",
+    "question_type": "text",
+    "qf": "QF-5-2-6-D-EI-03",
+    "question_ja": "路線バスなどの優先通行帯は、路線バスなどが近づいてこない限り、混雑していても通行し続けてよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第2節6(3)により、混雑していて出られなくなるおそれがあるときは、はじめからその通行帯を通行してはいけません。",
+    "i18n": {
+      "zh": {
+        "question": "公交车等优先通行带，只要公交车等没有驶近，即使拥堵也可以继续通行。",
+        "explanation": "错误。根据教则第5章第2节6(3)，拥堵而有可能无法驶离时，一开始就不得通行该通行带。"
+      },
+      "en": {
+        "question": "You may keep travelling in a lane where route buses have priority even in congestion, as long as no bus is approaching.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 2 item 6(3), if congestion might leave you unable to get out, you must not enter the lane in the first place."
+      },
+      "vi": {
+        "question": "Bạn được tiếp tục đi ở làn ưu tiên cho xe buýt tuyến ngay cả khi đông đúc, miễn là chưa có xe buýt nào đến gần.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 2 điểm 6(3), nếu tình trạng đông đúc có thể khiến bạn không ra được thì ngay từ đầu bạn không được đi vào làn đó."
+      },
+      "pt": {
+        "question": "Você pode continuar trafegando na faixa de preferência para ônibus de linha mesmo no congestionamento, desde que nenhum ônibus se aproxime.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 2, item 6(3), se o congestionamento puder impedir você de sair, não deve entrar na faixa desde o início."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  }
+]
