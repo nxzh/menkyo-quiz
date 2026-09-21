@@ -42,11 +42,17 @@ ZH_BLUE = re.compile(r"蓝(灯|色的灯)")
 
 ABSOLUTE_JA = ("必ず", "どんな場合でも", "一切", "決して", "絶対に")
 
-SENT_END = re.compile(r"[。．.!?！？]")
+# A period is a sentence end only when it really ends a sentence: not inside a
+# decimal (1.5 metres vs 1,5 metro) and not closing an abbreviation (etc., v.v.).
+DECIMAL = re.compile(r"(?<=\d)[.,](?=\d)")
+ABBREV = re.compile(r"\b(etc|Dr|Mr|Mrs|Ms|vs|No|v\.v|Sr|Sra)\.", re.IGNORECASE)
+SENT_END = re.compile(r"[。．！？]|[.!?](?=[\s\u00a0]|$)")
 
 
 def sentences(text):
-    return len([s for s in SENT_END.split(text) if s.strip()])
+    t = DECIMAL.sub("", text)
+    t = ABBREV.sub(lambda m: m.group(0)[:-1], t)
+    return len(SENT_END.findall(t.strip()))
 
 
 def check_batch(path, seen_ids, seen_qf, errors, warns):

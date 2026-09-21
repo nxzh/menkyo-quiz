@@ -1,0 +1,662 @@
+[
+  {
+    "id": "K5-3-001",
+    "category": "歩行者などの保護",
+    "kp": "5-3-7",
+    "group": "K",
+    "source": "教則 第5章第3節7(2)",
+    "question_type": "text",
+    "qf": "QF-5-3-7-A-N-01",
+    "question_ja": "追越しなどのため特定小型原動機付自転車や自転車のそばを通るときは、ふらつきなどを予想して、これらとの間に安全な間隔を空けるか、徐行しなければならない。",
+    "answer": true,
+    "explanation_ja": "教則第5章第3節7(2)のとおりです。これらの車は不安定で、運転者の身体を防護する機能がないという構造上の特性を持っています。",
+    "i18n": {
+      "zh": {
+        "question": "为超车等原因从特定小型轻型摩托车或自行车旁边通过时，必须预想到其摇晃，与其留出安全间隔，或者缓行（徐行）。",
+        "explanation": "符合教则第5章第3节7(2)的规定。这类车辆不稳定，并且在构造上不具备保护驾驶人身体的功能。"
+      },
+      "en": {
+        "question": "When you pass a specified small motorized bicycle or a bicycle, for overtaking or any other reason, you must anticipate that it may wobble and either leave a safe clearance or proceed slowly (徐行).",
+        "explanation": "This is Kyosoku Chapter 5 Section 3 item 7(2). These vehicles are unstable and structurally have nothing to protect the rider's body."
+      },
+      "vi": {
+        "question": "Khi đi qua bên cạnh xe gắn máy cỡ nhỏ đặc định hoặc xe đạp, dù để vượt xe hay vì lý do khác, bạn phải lường trước việc xe đó loạng choạng và hoặc chừa khoảng cách an toàn, hoặc lưu thông chậm (徐行).",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 3 điểm 7(2). Những xe này không ổn định và về cấu tạo không có gì bảo vệ cơ thể người lái."
+      },
+      "pt": {
+        "question": "Ao passar ao lado de um ciclomotor pequeno especificado ou de uma bicicleta, seja para ultrapassagem ou por outro motivo, você deve prever que ele possa oscilar e então deixar um espaço seguro ou prosseguir lentamente (徐行).",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 3, item 7(2). Esses veículos são instáveis e, por construção, não têm nada que proteja o corpo do condutor."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-3-002",
+    "category": "歩行者などの保護",
+    "kp": "5-3-1",
+    "group": "K",
+    "source": "教則 第5章第3節1(1)",
+    "question_type": "text",
+    "qf": "QF-5-3-1-A-N-01",
+    "question_ja": "歩行者のそばを通るときは、歩行者との間に安全な間隔を空けるか、徐行しなければならない。",
+    "answer": true,
+    "explanation_ja": "教則第5章第3節1(1)のとおりです。安全な間隔が空けられないときは徐行することになります。",
+    "i18n": {
+      "zh": {
+        "question": "从步行者旁边通过时，必须与步行者之间留出安全间隔，或者缓行（徐行）。",
+        "explanation": "符合教则第5章第3节1(1)的规定。无法留出安全间隔时，就要缓行。"
+      },
+      "en": {
+        "question": "When you pass a pedestrian you must either leave a safe clearance between your vehicle and the pedestrian or proceed slowly (徐行).",
+        "explanation": "This is Kyosoku Chapter 5 Section 3 item 1(1). Where a safe clearance cannot be left, you proceed slowly instead."
+      },
+      "vi": {
+        "question": "Khi đi qua bên cạnh người đi bộ, bạn phải chừa khoảng cách an toàn với người đó hoặc lưu thông chậm (徐行).",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 3 điểm 1(1). Khi không thể chừa khoảng cách an toàn thì phải lưu thông chậm."
+      },
+      "pt": {
+        "question": "Ao passar por um pedestre, você deve deixar um espaço seguro entre o veículo e ele ou prosseguir lentamente (徐行).",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 3, item 1(1). Quando não é possível deixar um espaço seguro, você prossegue lentamente."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-3-003",
+    "category": "歩行者などの保護",
+    "kp": "5-3-2",
+    "group": "K",
+    "source": "教則 第5章第3節2(3)",
+    "question_type": "text",
+    "qf": "QF-5-3-2-A-N-01",
+    "question_ja": "横断歩道や自転車横断帯やその手前で止まっている車があるときは、そのそばを通って前方に出る前に一時停止をしなければならない。",
+    "answer": true,
+    "explanation_ja": "教則第5章第3節2(3)のとおりです。止まっている車の陰から横断してくる人が見えないためです。",
+    "i18n": {
+      "zh": {
+        "question": "在人行横道、自行车横穿带或其跟前有停住的车辆时，必须在从其旁边通过驶到前方之前暂停（一時停止）。",
+        "explanation": "符合教则第5章第3节2(3)的规定。因为从停住车辆的阴影处横穿过来的人看不见。"
+      },
+      "en": {
+        "question": "When a vehicle is stopped at or just before a pedestrian crossing or a bicycle crossing, you must come to a complete stop (一時停止) before passing it and moving ahead of it.",
+        "explanation": "This is Kyosoku Chapter 5 Section 3 item 2(3). Someone crossing from behind the stopped vehicle cannot be seen."
+      },
+      "vi": {
+        "question": "Khi có xe đang dừng tại hoặc ngay trước vạch sang đường cho người đi bộ hay vạch sang đường cho xe đạp, bạn phải tạm dừng (一時停止) trước khi đi qua xe đó và tiến lên phía trước.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 3 điểm 2(3). Người băng qua từ phía khuất sau xe đang dừng thì không nhìn thấy được."
+      },
+      "pt": {
+        "question": "Quando há um veículo parado na faixa de pedestres ou na faixa para ciclistas, ou logo antes delas, você deve fazer parada obrigatória (一時停止) antes de passar por ele e seguir à frente.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 3, item 2(3). Quem atravessa por trás do veículo parado não pode ser visto."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-3-004",
+    "category": "歩行者などの保護",
+    "kp": "5-3-2",
+    "group": "K",
+    "source": "教則 第5章第3節2(4)",
+    "question_type": "text",
+    "qf": "QF-5-3-2-A-N-02",
+    "question_ja": "横断歩道や自転車横断帯とその手前から30メートル以内の場所では、ほかの車を追い越したり、追い抜いたりしてはいけない。",
+    "answer": true,
+    "explanation_ja": "教則第5章第3節2(4)のとおりです。進路を変える追越しだけでなく、進路を変えない追抜きも禁止されています。",
+    "i18n": {
+      "zh": {
+        "question": "在人行横道、自行车横穿带及其跟前30米以内的场所，不得超车，也不得超过（不变道）其他车辆。",
+        "explanation": "符合教则第5章第3节2(4)的规定。不仅变更路线的超车被禁止，不变更路线的超过也被禁止。"
+      },
+      "en": {
+        "question": "Within a pedestrian crossing or a bicycle crossing and the 30 metres before it, you must not overtake another vehicle or pass it without changing lanes.",
+        "explanation": "This is Kyosoku Chapter 5 Section 3 item 2(4). Not only overtaking, which involves changing course, but also passing without changing lanes is prohibited."
+      },
+      "vi": {
+        "question": "Trong phạm vi vạch sang đường cho người đi bộ hoặc vạch sang đường cho xe đạp và 30 mét trước đó, bạn không được vượt xe khác cũng không được vượt lên (không chuyển làn).",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 3 điểm 2(4). Không chỉ vượt xe có đổi hướng mà cả việc vượt lên không chuyển làn cũng bị cấm."
+      },
+      "pt": {
+        "question": "Na faixa de pedestres ou na faixa para ciclistas e nos 30 metros anteriores a elas, você não pode ultrapassar outro veículo nem passar à frente dele sem mudar de faixa.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 3, item 2(4). Não só a ultrapassagem, que envolve mudar de trajetória, mas também passar à frente sem mudar de faixa é proibido."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-3-005",
+    "category": "歩行者などの保護",
+    "kp": "5-3-1",
+    "group": "K",
+    "source": "教則 第5章第3節1(3)",
+    "question_type": "text",
+    "qf": "QF-5-3-1-A-N-02",
+    "question_ja": "停留所で止まっている路面電車の後方では停止して乗り降りする人がいなくなるまで待たなければならないが、乗り降りする人がいないときで路面電車との間に1.5メートル以上あるときや、安全地帯があるときは、徐行して進むことができる。",
+    "answer": true,
+    "explanation_ja": "教則第5章第3節1(3)のとおりです。徐行して進めるのは、この二つの場合に限られます。",
+    "i18n": {
+      "zh": {
+        "question": "在停靠于公交站的路面电车后方必须停住，等到上下车的人没有为止，但在没有上下车的人且与路面电车之间有1.5米以上时，或者有安全地带时，可以缓行（徐行）通过。",
+        "explanation": "符合教则第5章第3节1(3)的规定。可以缓行通过的，仅限这两种情况。"
+      },
+      "en": {
+        "question": "Behind a streetcar (tram) stopped at a stop you must stop and wait until nobody is getting on or off, but you may proceed slowly (徐行) when nobody is getting on or off and there is at least 1.5 metres between you and the streetcar, or when there is a safety zone.",
+        "explanation": "This is Kyosoku Chapter 5 Section 3 item 1(3). Those two cases are the only ones in which you may proceed slowly."
+      },
+      "vi": {
+        "question": "Phía sau tàu điện mặt đất đang dừng ở trạm dừng, bạn phải dừng lại và đợi cho đến khi không còn ai lên xuống, nhưng khi không có ai lên xuống và giữa bạn với tàu điện có từ 1,5 mét trở lên, hoặc khi có khu vực an toàn, thì bạn được lưu thông chậm (徐行) mà đi tiếp.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 3 điểm 1(3). Chỉ trong hai trường hợp đó bạn mới được đi chậm mà qua."
+      },
+      "pt": {
+        "question": "Atrás de um bonde parado no ponto de parada você deve parar e esperar até que ninguém esteja embarcando ou desembarcando, mas pode prosseguir lentamente (徐行) quando ninguém embarca ou desembarca e há pelo menos 1,5 metro entre você e o bonde, ou quando há uma zona de segurança.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 3, item 1(3). Esses dois casos são os únicos em que se pode prosseguir lentamente."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-3-006",
+    "category": "歩行者などの保護",
+    "kp": "5-3-3",
+    "group": "K",
+    "source": "教則 第5章第3節3",
+    "question_type": "text",
+    "qf": "QF-5-3-3-A-N-01",
+    "question_ja": "白や黄のつえを持った人や盲導犬を連れた人が歩いている場合には、一時停止か徐行をして、これらの人が安全に通れるようにしなければならない。",
+    "answer": true,
+    "explanation_ja": "教則第5章第3節3のとおりです。身体障害者用の車で通行している人がいる場合も同じです。",
+    "i18n": {
+      "zh": {
+        "question": "有拿着白色或黄色手杖的人、带着导盲犬的人在行走时，必须暂停（一時停止）或缓行（徐行），让这些人能够安全通过。",
+        "explanation": "符合教则第5章第3节3的规定。有人使用残疾人专用车辆通行时也一样。"
+      },
+      "en": {
+        "question": "When a person carrying a white or yellow cane or accompanied by a guide dog is walking, you must come to a complete stop (一時停止) or proceed slowly (徐行) so that they can pass safely.",
+        "explanation": "This is Kyosoku Chapter 5 Section 3 item 3. The same applies to a person travelling in a vehicle for people with disabilities."
+      },
+      "vi": {
+        "question": "Khi có người cầm gậy trắng hoặc vàng, hoặc người đi cùng chó dẫn đường, bạn phải tạm dừng (一時停止) hoặc lưu thông chậm (徐行) để những người này đi qua an toàn.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 3 điểm 3. Điều tương tự áp dụng cho người di chuyển bằng xe dành cho người khuyết tật."
+      },
+      "pt": {
+        "question": "Quando caminha uma pessoa com bengala branca ou amarela ou acompanhada de cão-guia, você deve fazer parada obrigatória (一時停止) ou prosseguir lentamente (徐行) para que ela passe em segurança.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 3, item 3. O mesmo vale para quem se desloca em veículo para pessoas com deficiência."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-3-007",
+    "category": "歩行者用道路など",
+    "kp": "5-3-6",
+    "group": "J",
+    "source": "教則 第5章第3節6(2)",
+    "question_type": "text",
+    "qf": "QF-5-3-6-A-N-01",
+    "question_ja": "道路に面した場所に出入りするため歩道や路側帯を横切る場合には、その直前で一時停止をするとともに、歩行者の通行を妨げないようにしなければならない。",
+    "answer": true,
+    "explanation_ja": "教則第5章第3節6(2)のとおりです。歩行者がいないときでも一時停止は必要です。",
+    "i18n": {
+      "zh": {
+        "question": "为进出面向道路的场所而横穿人行道或路侧带时，必须在其正前方暂停（一時停止），同时不得妨碍步行者通行。",
+        "explanation": "符合教则第5章第3节6(2)的规定。即使没有步行者，也必须暂停。"
+      },
+      "en": {
+        "question": "When you cross a sidewalk or a side strip (路側帯) to enter or leave a place facing the road, you must come to a complete stop (一時停止) just before it and must not obstruct pedestrians.",
+        "explanation": "This is Kyosoku Chapter 5 Section 3 item 6(2). The stop is required even when there is no pedestrian there."
+      },
+      "vi": {
+        "question": "Khi băng qua vỉa hè hoặc lề đường (路側帯) để ra vào một địa điểm tiếp giáp đường, bạn phải tạm dừng (一時停止) ngay trước đó và không được cản trở người đi bộ lưu thông.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 3 điểm 6(2). Việc tạm dừng là bắt buộc ngay cả khi không có người đi bộ nào."
+      },
+      "pt": {
+        "question": "Ao atravessar a calçada ou a faixa lateral (路側帯) para entrar ou sair de um local voltado para a via, você deve fazer parada obrigatória (一時停止) logo antes dela e não deve obstruir os pedestres.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 3, item 6(2). A parada é exigida mesmo quando não há nenhum pedestre ali."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K3-1-001",
+    "category": "特定小型原動機付自転車",
+    "kp": "3-1-1",
+    "group": "U",
+    "source": "教則 第3章第1節1(3)(4)",
+    "question_type": "text",
+    "qf": "QF-3-1-1-A-N-01",
+    "question_ja": "特定小型原動機付自転車は二人乗りをしてはならず、また、16歳未満の人に貸してはいけない。",
+    "answer": true,
+    "explanation_ja": "教則第3章第1節1(3)(4)のとおりです。年齢の制限は運転する人だけでなく、貸す側にも掛かります。",
+    "i18n": {
+      "zh": {
+        "question": "特定小型轻型摩托车（电动滑板车等）不得双人乘坐，也不得借给未满16岁的人。",
+        "explanation": "符合教则第3章第1节1(3)(4)的规定。年龄限制不仅适用于驾驶的人，也适用于出借的一方。"
+      },
+      "en": {
+        "question": "A specified small motorized bicycle (e-scooter, etc.) must not carry two people, and must not be lent to anyone under 16.",
+        "explanation": "This is Kyosoku Chapter 3 Section 1 item 1(3) and (4). The age limit binds not only the rider but also the person lending the vehicle."
+      },
+      "vi": {
+        "question": "Xe gắn máy cỡ nhỏ đặc định (xe scooter điện) không được chở hai người và không được cho người dưới 16 tuổi mượn.",
+        "explanation": "Đúng theo Kyosoku Chương 3 Mục 1 điểm 1(3) và (4). Giới hạn tuổi ràng buộc không chỉ người lái mà cả người cho mượn xe."
+      },
+      "pt": {
+        "question": "O ciclomotor pequeno especificado (patinete elétrico) não pode levar duas pessoas nem ser emprestado a menores de 16 anos.",
+        "explanation": "É o Kyosoku, Capítulo 3, Seção 1, item 1(3) e (4). O limite de idade vincula não só quem conduz, mas também quem empresta o veículo."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K3-3-001",
+    "category": "特定小型原動機付自転車・自転車",
+    "kp": "3-3-1",
+    "group": "U",
+    "source": "教則 第3章第3節1(1)",
+    "question_type": "text",
+    "qf": "QF-3-3-1-A-N-01",
+    "question_ja": "特定小型原動機付自転車や自転車は、歩道と車道の区別のある道路では車道を通るのが原則であり、高速自動車国道や自動車専用道路に入ってはいけない。",
+    "answer": true,
+    "explanation_ja": "教則第3章第3節1(1)のとおりです。普通自転車は、自転車道のあるところでは、道路工事などの場合を除き自転車道を通らなければなりません。",
+    "i18n": {
+      "zh": {
+        "question": "特定小型轻型摩托车（电动滑板车等）和自行车，在有人行道与车行道区分的道路上原则上走车行道，并且不得进入高速公路或汽车专用道路。",
+        "explanation": "符合教则第3章第3节1(1)的规定。普通自行车在设有自行车道的地方，除道路施工等情况外必须走自行车道。"
+      },
+      "en": {
+        "question": "On a road where the sidewalk and the roadway are separate, a specified small motorized bicycle or a bicycle travels on the roadway as a rule, and it must not enter a national expressway or a motor-vehicle-only road.",
+        "explanation": "This is Kyosoku Chapter 3 Section 3 item 1(1). Where there is a bicycle path, an ordinary bicycle must use it except in cases such as road works."
+      },
+      "vi": {
+        "question": "Trên đường có phân biệt vỉa hè và lòng đường, xe gắn máy cỡ nhỏ đặc định và xe đạp về nguyên tắc đi trên lòng đường, và không được đi vào đường cao tốc quốc gia hay đường chỉ dành cho ô tô.",
+        "explanation": "Đúng theo Kyosoku Chương 3 Mục 3 điểm 1(1). Ở nơi có đường dành cho xe đạp, xe đạp thường phải đi trên đó trừ các trường hợp như thi công đường."
+      },
+      "pt": {
+        "question": "Em via onde a calçada e a pista são separadas, o ciclomotor pequeno especificado e a bicicleta circulam pela pista como regra, e não podem entrar em via expressa nacional nem em via exclusiva para automóveis.",
+        "explanation": "É o Kyosoku, Capítulo 3, Seção 3, item 1(1). Onde há ciclovia, a bicicleta comum deve usá-la, salvo em casos como obras na via."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-3-008",
+    "category": "歩行者などの保護",
+    "kp": "5-3-4",
+    "group": "K",
+    "source": "教則 第5章第3節4(2)",
+    "question_type": "text",
+    "qf": "QF-5-3-4-A-N-01",
+    "question_ja": "止まっている通学通園バスのそばを通るときは、徐行して安全を確かめなければならない。",
+    "answer": true,
+    "explanation_ja": "教則第5章第3節4(2)のとおりです。バスの前後から子供が飛び出してくることがあります。",
+    "i18n": {
+      "zh": {
+        "question": "从停住的校车（幼儿园校车）旁边通过时，必须缓行（徐行）并确认安全。",
+        "explanation": "符合教则第5章第3节4(2)的规定。可能有孩子从校车的前后突然跑出来。"
+      },
+      "en": {
+        "question": "When you pass a stopped school or kindergarten bus, you must proceed slowly (徐行) and check that it is safe.",
+        "explanation": "This is Kyosoku Chapter 5 Section 3 item 4(2). A child may run out from in front of or behind the bus."
+      },
+      "vi": {
+        "question": "Khi đi qua bên cạnh xe đưa đón học sinh đang dừng, bạn phải lưu thông chậm (徐行) và kiểm tra an toàn.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 3 điểm 4(2). Trẻ em có thể lao ra từ phía trước hoặc phía sau xe."
+      },
+      "pt": {
+        "question": "Ao passar por um ônibus escolar parado, você deve prosseguir lentamente (徐行) e verificar a segurança.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 3, item 4(2). Uma criança pode surgir correndo pela frente ou por trás do ônibus."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-3-009",
+    "category": "歩行者などの保護",
+    "kp": "5-3-2",
+    "group": "K",
+    "source": "教則 第5章第3節2(2)",
+    "question_type": "text",
+    "qf": "QF-5-3-2-D-SW-01",
+    "question_ja": "横断歩道を横断しようとしている歩行者がいるときは、徐行して歩行者に道を譲らなければならない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第3節2(2)により、この場合は横断歩道の手前（停止線があるときはその手前）で一時停止をして道を譲らなければなりません。",
+    "i18n": {
+      "zh": {
+        "question": "有步行者正要横穿人行横道时，必须缓行（徐行）给步行者让路。",
+        "explanation": "错误。根据教则第5章第3节2(2)，这种情况下必须在人行横道跟前（有停止线时在其跟前）暂停（一時停止）让路。"
+      },
+      "en": {
+        "question": "When a pedestrian is about to cross at a pedestrian crossing, you must proceed slowly (徐行) and give way to them.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 3 item 2(2) you must come to a complete stop (一時停止) before the crossing, or before the stop line where there is one, and give way."
+      },
+      "vi": {
+        "question": "Khi có người đi bộ sắp băng qua vạch sang đường cho người đi bộ, bạn phải lưu thông chậm (徐行) và nhường đường cho họ.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 3 điểm 2(2), trong trường hợp này bạn phải tạm dừng (一時停止) trước vạch sang đường, hoặc trước vạch dừng nếu có, rồi nhường đường."
+      },
+      "pt": {
+        "question": "Quando um pedestre está prestes a atravessar na faixa de pedestres, você deve prosseguir lentamente (徐行) e dar passagem a ele.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 3, item 2(2), você deve fazer parada obrigatória (一時停止) antes da faixa, ou antes da linha de parada quando houver, e dar passagem."
+      }
+    },
+    "trap_type": "SW",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-3-010",
+    "category": "歩行者などの保護",
+    "kp": "5-3-7",
+    "group": "K",
+    "source": "教則 第5章第3節7(2)",
+    "question_type": "text",
+    "qf": "QF-5-3-7-D-EI-01",
+    "question_ja": "自転車のそばを通るとき、安全な間隔を空けられない場合でも、警音器を鳴らして知らせればそのままの速度で通過してよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第3節7(2)が認めているのは安全な間隔を空けることか徐行することで、警音器を鳴らせば足りるという例外はありません。",
+    "i18n": {
+      "zh": {
+        "question": "从自行车旁边通过时，即使无法留出安全间隔，只要鸣喇叭告知，就可以保持原速通过。",
+        "explanation": "错误。教则第5章第3节7(2)认可的是留出安全间隔或者缓行（徐行），不存在「鸣喇叭即可」这一例外。"
+      },
+      "en": {
+        "question": "When passing a bicycle, even if you cannot leave a safe clearance, you may go by at the same speed as long as you sound the horn to warn the rider.",
+        "explanation": "This is wrong. Kyosoku Chapter 5 Section 3 item 7(2) allows leaving a safe clearance or proceeding slowly (徐行), and there is no exception that sounding the horn is enough."
+      },
+      "vi": {
+        "question": "Khi đi qua bên cạnh xe đạp, dù không thể chừa khoảng cách an toàn, bạn vẫn được đi qua với nguyên tốc độ miễn là bấm còi báo cho người đi xe đạp.",
+        "explanation": "Sai. Kyosoku Chương 5 Mục 3 điểm 7(2) cho phép chừa khoảng cách an toàn hoặc lưu thông chậm (徐行), và không có ngoại lệ rằng chỉ cần bấm còi là đủ."
+      },
+      "pt": {
+        "question": "Ao passar ao lado de uma bicicleta, mesmo que não consiga deixar um espaço seguro, você pode passar na mesma velocidade desde que toque a buzina para avisar o ciclista.",
+        "explanation": "Está errado. O Kyosoku, Capítulo 5, Seção 3, item 7(2), admite deixar um espaço seguro ou prosseguir lentamente (徐行), e não há exceção que baste buzinar."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-3-011",
+    "category": "歩行者などの保護",
+    "kp": "5-3-1",
+    "group": "K",
+    "source": "教則 第5章第3節1(3)",
+    "question_type": "text",
+    "qf": "QF-5-3-1-D-EO-01",
+    "question_ja": "停留所で止まっている路面電車の後方では、いつでも停止して、乗り降りする人がいなくなるまで待たなければならない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第3節1(3)により、乗り降りする人がいないときで路面電車との間に1.5メートル以上あるときや、安全地帯があるときは、徐行して進むことができます。",
+    "i18n": {
+      "zh": {
+        "question": "在停靠于公交站的路面电车后方，任何时候都必须停住，等到上下车的人没有为止。",
+        "explanation": "错误。根据教则第5章第3节1(3)，在没有上下车的人且与路面电车之间有1.5米以上时，或者有安全地带时，可以缓行（徐行）通过。"
+      },
+      "en": {
+        "question": "Behind a streetcar (tram) stopped at a stop you must always stop and wait until nobody is getting on or off.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 3 item 1(3) you may proceed slowly (徐行) when nobody is getting on or off and there is at least 1.5 metres between you and the streetcar, or when there is a safety zone."
+      },
+      "vi": {
+        "question": "Phía sau tàu điện mặt đất đang dừng ở trạm dừng, lúc nào bạn cũng phải dừng lại và đợi cho đến khi không còn ai lên xuống.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 3 điểm 1(3), khi không có ai lên xuống và giữa bạn với tàu điện có từ 1,5 mét trở lên, hoặc khi có khu vực an toàn, bạn được lưu thông chậm (徐行) mà đi tiếp."
+      },
+      "pt": {
+        "question": "Atrás de um bonde parado no ponto de parada você sempre tem de parar e esperar até que ninguém esteja embarcando ou desembarcando.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 3, item 1(3), você pode prosseguir lentamente (徐行) quando ninguém embarca ou desembarca e há pelo menos 1,5 metro entre você e o bonde, ou quando há uma zona de segurança."
+      }
+    },
+    "trap_type": "EO",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-3-012",
+    "category": "歩行者などの保護",
+    "kp": "5-3-2",
+    "group": "K",
+    "source": "教則 第5章第3節2(4)",
+    "question_type": "text",
+    "qf": "QF-5-3-2-D-NR-01",
+    "question_ja": "横断歩道とその手前から30メートル以内の場所で禁止されているのは追越しだけであり、進路を変えずに前の車の側方を通過する追抜きは禁止されていない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第3節2(4)は、この場所では追越しも追抜きも禁止しています。",
+    "i18n": {
+      "zh": {
+        "question": "在人行横道及其跟前30米以内的场所，被禁止的只有超车，不变更路线从前车侧方通过的超过（不变道）并未被禁止。",
+        "explanation": "错误。教则第5章第3节2(4)在这一场所既禁止超车，也禁止超过。"
+      },
+      "en": {
+        "question": "Within a pedestrian crossing and the 30 metres before it, only overtaking is prohibited; passing a vehicle at its side without changing course is not.",
+        "explanation": "This is wrong. Kyosoku Chapter 5 Section 3 item 2(4) prohibits both overtaking and passing without changing lanes in that place."
+      },
+      "vi": {
+        "question": "Trong phạm vi vạch sang đường cho người đi bộ và 30 mét trước đó, chỉ việc vượt xe bị cấm; việc vượt lên (không chuyển làn) bên cạnh xe phía trước thì không bị cấm.",
+        "explanation": "Sai. Kyosoku Chương 5 Mục 3 điểm 2(4) cấm cả vượt xe lẫn vượt lên không chuyển làn tại nơi đó."
+      },
+      "pt": {
+        "question": "Na faixa de pedestres e nos 30 metros anteriores a ela, apenas a ultrapassagem é proibida; passar à frente pelo lado sem mudar de trajetória não é.",
+        "explanation": "Está errado. O Kyosoku, Capítulo 5, Seção 3, item 2(4), proíbe nesse local tanto a ultrapassagem quanto passar à frente sem mudar de faixa."
+      }
+    },
+    "trap_type": "NR",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-3-013",
+    "category": "歩行者用道路など",
+    "kp": "5-3-6",
+    "group": "J",
+    "source": "教則 第5章第3節6(1)",
+    "question_type": "text",
+    "qf": "QF-5-3-6-D-EI-01",
+    "question_ja": "歩行者用道路は、沿道に車庫を持つ車であれば、特に通行を認められていなくても通行することができる。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第3節6(1)により、歩行者用道路を通行できるのは特に通行を認められた車だけで、その場合も歩行者に注意して徐行しなければなりません。",
+    "i18n": {
+      "zh": {
+        "question": "步行者专用道路，只要是在沿路拥有车库的车辆，即使没有得到特别的通行许可也可以通行。",
+        "explanation": "错误。根据教则第5章第3节6(1)，能够通行步行者专用道路的只有获得特别许可的车辆，而且这种情况下也必须注意步行者并缓行（徐行）。"
+      },
+      "en": {
+        "question": "A vehicle with a garage on a pedestrian-only road may use that road even without being specially permitted to.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 3 item 6(1) only vehicles specially permitted may use a pedestrian-only road, and even then they must proceed slowly (徐行) with care for pedestrians."
+      },
+      "vi": {
+        "question": "Xe có nhà để xe nằm trên đường dành riêng cho người đi bộ thì được đi vào đường đó ngay cả khi không được cho phép đặc biệt.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 3 điểm 6(1), chỉ xe được cho phép đặc biệt mới được đi trên đường dành riêng cho người đi bộ, và ngay cả khi đó cũng phải lưu thông chậm (徐行) và chú ý người đi bộ."
+      },
+      "pt": {
+        "question": "O veículo que tem garagem em uma via exclusiva de pedestres pode circular por ela mesmo sem autorização especial.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 3, item 6(1), só veículos especialmente autorizados podem circular em via exclusiva de pedestres, e ainda assim devem prosseguir lentamente (徐行) com atenção aos pedestres."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K3-3-002",
+    "category": "特定小型原動機付自転車・自転車",
+    "kp": "3-3-1",
+    "group": "U",
+    "source": "教則 第3章第3節1(4)",
+    "question_type": "text",
+    "qf": "QF-3-3-1-D-EX-01",
+    "question_ja": "特例特定小型原動機付自転車は、最高速度表示灯を点滅させていれば、どの歩道でも通行することができる。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第3章第3節1(4)により、歩道を通行できるのは特例特定小型原動機付自転車・普通自転車歩道通行可の標識や標示がある歩道に限られます。",
+    "i18n": {
+      "zh": {
+        "question": "特例特定小型轻型摩托车只要让最高速度显示灯闪烁，就可以在任何人行道上通行。",
+        "explanation": "错误。根据教则第3章第3节1(4)，可以通行的人行道仅限于设有「特例特定小型轻型摩托车・普通自行车可通行人行道」标识（立牌）或标示的人行道。"
+      },
+      "en": {
+        "question": "An exceptional specified small motorized bicycle may travel on any sidewalk as long as its maximum-speed indicator lamp is flashing.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 3 Section 3 item 1(4) it may travel only on a sidewalk carrying the road sign or road marking that permits exceptional specified small motorized bicycles and ordinary bicycles on the sidewalk."
+      },
+      "vi": {
+        "question": "Xe gắn máy cỡ nhỏ đặc định theo ngoại lệ được đi trên bất kỳ vỉa hè nào miễn là đèn hiển thị tốc độ tối đa đang nhấp nháy.",
+        "explanation": "Sai. Theo Kyosoku Chương 3 Mục 3 điểm 1(4), xe chỉ được đi trên vỉa hè có biển báo giao thông hoặc vạch kẻ đường cho phép xe gắn máy cỡ nhỏ đặc định theo ngoại lệ và xe đạp thường đi trên vỉa hè."
+      },
+      "pt": {
+        "question": "O ciclomotor pequeno especificado sob exceção pode circular em qualquer calçada desde que a luz indicadora de velocidade máxima esteja piscando.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 3, Seção 3, item 1(4), ele só pode circular em calçada com a sinalização vertical ou horizontal que autoriza esses ciclomotores e as bicicletas comuns na calçada."
+      }
+    },
+    "trap_type": "EX",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K3-1-002",
+    "category": "特定小型原動機付自転車",
+    "kp": "3-1-1",
+    "group": "U",
+    "source": "教則 第3章第1節1(8)",
+    "question_type": "text",
+    "qf": "QF-3-1-1-D-EX-01",
+    "question_ja": "特定小型原動機付自転車に乗るときは、乗車用ヘルメットをかぶらなければならず、かぶっていない人は運転することができない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第3章第1節1(8)は乗車用ヘルメットをかぶるよう努めることを求めているもので、かぶらなければ運転できないとはされていません。",
+    "i18n": {
+      "zh": {
+        "question": "骑乘特定小型轻型摩托车（电动滑板车等）时必须佩戴骑乘用头盔，未佩戴的人不能驾驶。",
+        "explanation": "错误。教则第3章第1节1(8)要求的是努力佩戴骑乘用头盔，并未规定不戴就不能驾驶。"
+      },
+      "en": {
+        "question": "You must wear a safety helmet to ride a specified small motorized bicycle (e-scooter, etc.), and anyone not wearing one may not ride.",
+        "explanation": "This is wrong. Kyosoku Chapter 3 Section 1 item 1(8) asks riders to make an effort to wear a safety helmet; it does not say that riding without one is not allowed."
+      },
+      "vi": {
+        "question": "Khi đi xe gắn máy cỡ nhỏ đặc định (xe scooter điện) bạn phải đội mũ bảo hiểm, và ai không đội thì không được điều khiển xe.",
+        "explanation": "Sai. Kyosoku Chương 3 Mục 1 điểm 1(8) yêu cầu người đi cố gắng đội mũ bảo hiểm; điều đó không có nghĩa là không đội thì không được đi."
+      },
+      "pt": {
+        "question": "Para conduzir um ciclomotor pequeno especificado (patinete elétrico) é obrigatório usar capacete, e quem não o usa não pode conduzir.",
+        "explanation": "Está errado. O Kyosoku, Capítulo 3, Seção 1, item 1(8), pede que o condutor se esforce por usar capacete; não diz que conduzir sem ele seja proibido."
+      }
+    },
+    "trap_type": "EX",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K3-3-003",
+    "category": "特定小型原動機付自転車・自転車",
+    "kp": "3-3-1",
+    "group": "U",
+    "source": "教則 第3章第3節1(6)",
+    "question_type": "text",
+    "qf": "QF-3-3-1-D-EI-01",
+    "question_ja": "自転車が道路を横断しようとするときは、近くに自転車横断帯があっても、横断歩道があればどちらを通ってもよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第3章第3節1(6)により、近くに自転車横断帯があるときは、その自転車横断帯を通行しなければなりません。",
+    "i18n": {
+      "zh": {
+        "question": "自行车要横穿道路时，即使附近有自行车横穿带，只要有人行横道，走哪一个都可以。",
+        "explanation": "错误。根据教则第3章第3节1(6)，附近有自行车横穿带时，必须通行该自行车横穿带。"
+      },
+      "en": {
+        "question": "When a bicycle is about to cross the road it may use either a nearby bicycle crossing or a pedestrian crossing, whichever it likes.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 3 Section 3 item 1(6), where there is a bicycle crossing nearby, the bicycle must use that bicycle crossing."
+      },
+      "vi": {
+        "question": "Khi xe đạp sắp băng qua đường, dù gần đó có vạch sang đường cho xe đạp, nếu có vạch sang đường cho người đi bộ thì đi đường nào cũng được.",
+        "explanation": "Sai. Theo Kyosoku Chương 3 Mục 3 điểm 1(6), khi gần đó có vạch sang đường cho xe đạp thì xe đạp phải đi theo vạch sang đường cho xe đạp đó."
+      },
+      "pt": {
+        "question": "Quando uma bicicleta vai atravessar a via, pode usar tanto a faixa para ciclistas próxima quanto a faixa de pedestres, à escolha.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 3, Seção 3, item 1(6), havendo faixa para ciclistas por perto, a bicicleta deve usar essa faixa para ciclistas."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-3-014",
+    "category": "歩行者などの保護",
+    "kp": "5-3-4",
+    "group": "K",
+    "source": "教則 第5章第3節4(2)",
+    "question_type": "text",
+    "qf": "QF-5-3-4-D-SC-01",
+    "question_ja": "見通しのよい道路だったので、停まっている通学通園バスのそばを時速40キロメートルのまま通過した。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第3節4(2)により、止まっている通学通園バスのそばを通るときは、見通しにかかわらず徐行して安全を確かめなければなりません。",
+    "i18n": {
+      "zh": {
+        "question": "因为是视野良好的道路，所以保持每小时40公里的速度从停住的校车（幼儿园校车）旁边通过了。",
+        "explanation": "错误。根据教则第5章第3节4(2)，从停住的校车旁边通过时，无论视野如何都必须缓行（徐行）并确认安全。"
+      },
+      "en": {
+        "question": "Because the road had a clear view, you passed a stopped school or kindergarten bus at 40 km/h without slowing.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 3 item 4(2) you must proceed slowly (徐行) and check that it is safe when passing a stopped school bus, whatever the view is like."
+      },
+      "vi": {
+        "question": "Vì đường có tầm nhìn tốt nên bạn đã đi qua bên cạnh xe đưa đón học sinh đang dừng với nguyên tốc độ 40 km/h.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 3 điểm 4(2), khi đi qua bên cạnh xe đưa đón học sinh đang dừng, bạn phải lưu thông chậm (徐行) và kiểm tra an toàn bất kể tầm nhìn thế nào."
+      },
+      "pt": {
+        "question": "Como a via tinha boa visibilidade, você passou ao lado de um ônibus escolar parado mantendo 40 km/h.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 3, item 4(2), ao passar por um ônibus escolar parado você deve prosseguir lentamente (徐行) e verificar a segurança, seja qual for a visibilidade."
+      }
+    },
+    "trap_type": "SC",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K3-3-004",
+    "category": "特定小型原動機付自転車・自転車",
+    "kp": "3-3-1",
+    "group": "U",
+    "source": "教則 第3章第3節1(1)",
+    "question_type": "text",
+    "qf": "QF-3-3-1-D-EI-02",
+    "question_ja": "普通自転車は、自転車道があるところでも、車道の左端を通りたいときはそちらを通行してよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第3章第3節1(1)により、普通自転車は自転車道のあるところでは、道路工事などの場合を除き自転車道を通らなければなりません。",
+    "i18n": {
+      "zh": {
+        "question": "普通自行车在设有自行车道的地方，如果想走车行道左端，也可以走那一侧。",
+        "explanation": "错误。根据教则第3章第3节1(1)，普通自行车在设有自行车道的地方，除道路施工等情况外必须走自行车道。"
+      },
+      "en": {
+        "question": "Where there is a bicycle path, an ordinary bicycle may still ride along the left edge of the roadway if the rider prefers.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 3 Section 3 item 1(1) an ordinary bicycle must use the bicycle path where there is one, except in cases such as road works."
+      },
+      "vi": {
+        "question": "Ở nơi có đường dành cho xe đạp, xe đạp thường vẫn được đi sát mép trái lòng đường nếu người đi muốn vậy.",
+        "explanation": "Sai. Theo Kyosoku Chương 3 Mục 3 điểm 1(1), ở nơi có đường dành cho xe đạp, xe đạp thường phải đi trên đó trừ các trường hợp như thi công đường."
+      },
+      "pt": {
+        "question": "Onde existe ciclovia, a bicicleta comum ainda pode circular pela borda esquerda da pista se o ciclista preferir.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 3, Seção 3, item 1(1), havendo ciclovia, a bicicleta comum deve usá-la, salvo em casos como obras na via."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  }
+]

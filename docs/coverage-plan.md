@@ -47,7 +47,20 @@ existing material can be leaned on.
 3. **batch-03** 2・3章 行人・自行车・特定小型原付 ＋ 5-3-7 自行车保护 (2026-04 rules) —
    too new to appear in any reference bank.
 4. **batch-04** 1-1 基本心得 ＋ 1-4 禁止行为 ＋ 6-2 坡道弯道 — thin everywhere.
-5. **batch-05 onwards** 付表3 标志标示 image questions, then the well-covered areas.
+5. **batch-05** 付表3 標識 image questions — 規制標識, 警戒標識 and 指示標識, with the
+   similar-sign confusion (SS) trap that only image questions can carry.
+
+From batch-06 on, the well-covered areas in the order of the table above.
+
+## Delivered so far
+
+| batch | 教則 | questions | ○ / × | notes |
+|---|---|---|---|---|
+| 01 | 5-7-4 環状交差点, 5-5-1 合図, 5-7-1 | 20 | 10 / 10 | 道交法 35条の2・37条の2・53条 |
+| 02 | 5-4 速度・車間距離・ブレーキ・徐行 | 20 | 10 / 10 | 2 carry `verify: true` on the 施行令第11条 speeds |
+| 03 | 5-3 歩行者等の保護, 3-1, 3-3 特定小型原付・自転車 | 20 | 10 / 10 | includes 5-3-7, empty in all three source sets |
+| 04 | 1-1 心構え, 1-4 禁止行為, 6-2 坂道・カーブ | 20 | 10 / 10 | |
+| 05 | 付表3（1） 標識 | 20 | 10 / 10 | 20 SVGs under `signs/`, all `question_type: sign` |
 
 ## Statutory state this plan assumes
 
