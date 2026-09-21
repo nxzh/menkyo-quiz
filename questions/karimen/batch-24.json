@@ -1,0 +1,662 @@
+[
+  {
+    "id": "K5-9-001",
+    "category": "オートマチック車",
+    "kp": "5-9-1",
+    "group": "R",
+    "source": "教則 第5章第9節1(2)",
+    "question_type": "text",
+    "qf": "QF-5-9-1-A-N-01",
+    "question_ja": "オートマチック車のエンジンを始動する前には、ブレーキペダルを踏んでその位置を確認し、アクセルペダルの位置も目で見て確認する。",
+    "answer": true,
+    "explanation_ja": "教則第5章第9節1(2)のとおりです。ペダルの踏み間違いを防ぐための手順です。",
+    "i18n": {
+      "zh": {
+        "question": "启动自动挡汽车的发动机之前，要踩下刹车踏板确认其位置，并用眼睛确认油门踏板的位置。",
+        "explanation": "符合教则第5章第9节1(2)的规定。这是防止踩错踏板的步骤。"
+      },
+      "en": {
+        "question": "Before starting the engine of an automatic vehicle you press the brake pedal to feel where it is and also look to check where the accelerator pedal is.",
+        "explanation": "This is Kyosoku Chapter 5 Section 9 item 1(2). The step exists to stop you hitting the wrong pedal."
+      },
+      "vi": {
+        "question": "Trước khi khởi động động cơ xe số tự động, bạn đạp bàn đạp phanh để xác nhận vị trí của nó và nhìn để xác nhận vị trí bàn đạp ga.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 9 điểm 1(2). Bước này nhằm tránh đạp nhầm bàn đạp."
+      },
+      "pt": {
+        "question": "Antes de dar a partida em um veículo automático, pise no freio para sentir onde ele está e olhe também para conferir a posição do acelerador.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 9, item 1(2). O passo existe para evitar que se pise no pedal errado."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-9-002",
+    "category": "オートマチック車",
+    "kp": "5-9-1",
+    "group": "R",
+    "source": "教則 第5章第9節1(2)",
+    "question_type": "text",
+    "qf": "QF-5-9-1-A-N-02",
+    "question_ja": "オートマチック車では、ハンドブレーキが掛かっておりチェンジレバーがPの位置にあることを確認したうえで、ブレーキペダルを踏んでエンジンを始動する。",
+    "answer": true,
+    "explanation_ja": "教則第5章第9節1(2)のとおりです。レバーの位置を確かめないと、始動と同時に動き出すおそれがあります。",
+    "i18n": {
+      "zh": {
+        "question": "自动挡汽车要在确认手刹已拉起、换挡杆处于P位置之后，踩下刹车踏板启动发动机。",
+        "explanation": "符合教则第5章第9节1(2)的规定。不确认挡杆位置，有可能在启动的同时车就动起来。"
+      },
+      "en": {
+        "question": "In an automatic vehicle you confirm that the handbrake is on and the selector lever is in P, then press the brake pedal and start the engine.",
+        "explanation": "This is Kyosoku Chapter 5 Section 9 item 1(2). Without checking the lever the car may move as soon as it starts."
+      },
+      "vi": {
+        "question": "Trên xe số tự động, bạn xác nhận phanh tay đang kéo và cần số ở vị trí P, rồi đạp phanh và khởi động động cơ.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 9 điểm 1(2). Không kiểm tra cần số thì xe có thể lăn bánh ngay khi nổ máy."
+      },
+      "pt": {
+        "question": "No veículo automático você confirma que o freio de mão está acionado e a alavanca está em P, então pisa no freio e dá a partida.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 9, item 1(2). Sem conferir a alavanca, o carro pode se mover assim que ligar."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-9-003",
+    "category": "オートマチック車",
+    "kp": "5-9-1",
+    "group": "R",
+    "source": "教則 第5章第9節1(3)",
+    "question_type": "text",
+    "qf": "QF-5-9-1-A-N-03",
+    "question_ja": "発進するときは、ブレーキペダルをしっかり踏んだまま、チェンジレバーを前進のときはDに、後退のときはRに入れ、その位置が間違っていないことを目で見て確認する。",
+    "answer": true,
+    "explanation_ja": "教則第5章第9節1(3)のとおりです。そのうえでハンドブレーキを戻し、ブレーキペダルを徐々に放します。",
+    "i18n": {
+      "zh": {
+        "question": "起步时要一直用力踩住刹车踏板，把换挡杆在前进时挂D、后退时挂R，并用眼睛确认位置没有挂错。",
+        "explanation": "符合教则第5章第9节1(3)的规定。在此之后放下手刹，逐渐松开刹车踏板。"
+      },
+      "en": {
+        "question": "To move off you keep the brake pedal firmly pressed, put the selector into D to go forward or R to reverse, and look to confirm the position is right.",
+        "explanation": "This is Kyosoku Chapter 5 Section 9 item 1(3). You then release the handbrake and let the brake pedal up gradually."
+      },
+      "vi": {
+        "question": "Khi chuyển bánh, bạn giữ chặt bàn đạp phanh, đưa cần số về D để tiến hoặc R để lùi, và nhìn để xác nhận vị trí không sai.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 9 điểm 1(3). Sau đó bạn hạ phanh tay và nhả dần bàn đạp phanh."
+      },
+      "pt": {
+        "question": "Para arrancar você mantém o freio bem pisado, coloca a alavanca em D para avançar ou R para dar ré, e olha para confirmar que a posição está certa.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 9, item 1(3). Depois solta o freio de mão e alivia o pedal aos poucos."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-9-004",
+    "category": "オートマチック車",
+    "kp": "5-9-1",
+    "group": "R",
+    "source": "教則 第5章第9節1(3)",
+    "question_type": "text",
+    "qf": "QF-5-9-1-A-N-04",
+    "question_ja": "ブレーキペダルをしっかり踏んでチェンジレバーを操作しないと、急発進したり突然後退したりすることがある。",
+    "answer": true,
+    "explanation_ja": "教則第5章第9節1(3)のとおりです。オートマチック車特有の危険です。",
+    "i18n": {
+      "zh": {
+        "question": "不用力踩住刹车踏板就操作换挡杆，有可能突然起步或突然后退。",
+        "explanation": "符合教则第5章第9节1(3)的规定。这是自动挡汽车特有的危险。"
+      },
+      "en": {
+        "question": "If you work the selector lever without pressing the brake pedal firmly, the car may leap forward or suddenly reverse.",
+        "explanation": "This is Kyosoku Chapter 5 Section 9 item 1(3). It is a danger peculiar to automatic vehicles."
+      },
+      "vi": {
+        "question": "Nếu bạn gạt cần số mà không đạp chặt phanh, xe có thể vọt lên hoặc đột ngột lùi lại.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 9 điểm 1(3). Đây là nguy hiểm đặc trưng của xe số tự động."
+      },
+      "pt": {
+        "question": "Se você mexer na alavanca sem pisar firme no freio, o carro pode arrancar de repente ou dar ré subitamente.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 9, item 1(3). É um perigo próprio dos veículos automáticos."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-9-005",
+    "category": "オートマチック車",
+    "kp": "5-9-1",
+    "group": "R",
+    "source": "教則 第5章第9節1(3)",
+    "question_type": "text",
+    "qf": "QF-5-9-1-A-N-05",
+    "question_ja": "エンジン始動直後やエアコン作動時はエンジンの回転数が高くなり急発進する危険があるので、ブレーキペダルを特にしっかり踏む。",
+    "answer": true,
+    "explanation_ja": "教則第5章第9節1(3)のとおりです。回転数が高いほど、クリープの力も強くなります。",
+    "i18n": {
+      "zh": {
+        "question": "发动机刚启动后或空调工作时，发动机转速会升高、有突然起步的危险，所以要特别用力踩住刹车踏板。",
+        "explanation": "符合教则第5章第9节1(3)的规定。转速越高，蠕行的力量也越强。"
+      },
+      "en": {
+        "question": "Just after the engine starts and while the air conditioning is running, engine revolutions are higher and the car may leap forward, so press the brake pedal especially firmly.",
+        "explanation": "This is Kyosoku Chapter 5 Section 9 item 1(3). The higher the revolutions, the stronger the creep."
+      },
+      "vi": {
+        "question": "Ngay sau khi nổ máy và khi điều hòa đang chạy, vòng tua động cơ cao hơn và xe có thể vọt lên, nên hãy đạp phanh đặc biệt chắc.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 9 điểm 1(3). Vòng tua càng cao thì lực trườn càng mạnh."
+      },
+      "pt": {
+        "question": "Logo após a partida e com o ar-condicionado ligado, a rotação do motor é maior e o carro pode arrancar de repente, por isso pise no freio com firmeza redobrada.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 9, item 1(3). Quanto maior a rotação, mais forte o creep."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-9-006",
+    "category": "オートマチック車",
+    "kp": "5-9-1",
+    "group": "R",
+    "source": "教則 第5章第9節1(4)",
+    "question_type": "text",
+    "qf": "QF-5-9-1-A-N-06",
+    "question_ja": "交差点などで停止して停止時間が長くなりそうなときは、チェンジレバーをNに入れておく。",
+    "answer": true,
+    "explanation_ja": "教則第5章第9節1(4)のとおりです。停止中はブレーキペダルをしっかり踏み、念のためハンドブレーキも掛けておきます。",
+    "i18n": {
+      "zh": {
+        "question": "在交叉路口等处停车且停车时间可能较长时，要把换挡杆挂到N。",
+        "explanation": "符合教则第5章第9节1(4)的规定。停车期间要用力踩住刹车踏板，并且为慎重起见也拉上手刹。"
+      },
+      "en": {
+        "question": "When you stop at an intersection or the like and the wait looks like being long, put the selector into N.",
+        "explanation": "This is Kyosoku Chapter 5 Section 9 item 1(4). While stopped you keep the brake pedal firmly pressed and also apply the handbrake as a precaution."
+      },
+      "vi": {
+        "question": "Khi dừng ở nút giao thông hay nơi tương tự mà thời gian chờ có vẻ lâu, hãy đưa cần số về N.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 9 điểm 1(4). Trong lúc dừng, bạn giữ chặt bàn đạp phanh và kéo cả phanh tay cho chắc."
+      },
+      "pt": {
+        "question": "Quando parar num cruzamento ou local semelhante e a espera parecer longa, ponha a alavanca em N.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 9, item 1(4). Parado, mantenha o freio bem pisado e acione também o freio de mão por precaução."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-9-007",
+    "category": "オートマチック車",
+    "kp": "5-9-1",
+    "group": "R",
+    "source": "教則 第5章第9節1(4)",
+    "question_type": "text",
+    "qf": "QF-5-9-1-A-N-07",
+    "question_ja": "ブレーキペダルをしっかり踏んでおかないと、アクセルペダルを踏まなくても自動車がゆっくり動き出すことがある。",
+    "answer": true,
+    "explanation_ja": "教則第5章第9節1(4)のとおりです。これをクリープ現象といい、追突などの思わぬ事故の原因になります。",
+    "i18n": {
+      "zh": {
+        "question": "不用力踩住刹车踏板，即使不踩油门踏板，汽车也有可能缓慢地动起来。",
+        "explanation": "符合教则第5章第9节1(4)的规定。这叫作蠕行（クリープ）现象，会成为追尾等意外事故的原因。"
+      },
+      "en": {
+        "question": "Unless the brake pedal is kept firmly pressed, the car can start creeping forward without the accelerator being touched.",
+        "explanation": "This is Kyosoku Chapter 5 Section 9 item 1(4). This is the creep phenomenon (クリープ), and it causes unexpected collisions."
+      },
+      "vi": {
+        "question": "Nếu không giữ chặt bàn đạp phanh, xe có thể tự trườn đi chậm dù bạn không đạp ga.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 9 điểm 1(4). Hiện tượng này gọi là trườn xe (クリープ) và gây ra những va chạm bất ngờ."
+      },
+      "pt": {
+        "question": "Se o freio não for mantido bem pisado, o carro pode começar a andar devagar sem que se toque no acelerador.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 9, item 1(4). É o fenômeno de creep (クリープ), causa de colisões inesperadas."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-9-008",
+    "category": "オートマチック車",
+    "kp": "5-9-1",
+    "group": "R",
+    "source": "教則 第5章第9節1(5)",
+    "question_type": "text",
+    "qf": "QF-5-9-1-A-N-08",
+    "question_ja": "駐車の際には、ブレーキペダルを踏んだままハンドブレーキを確実に掛けてから、チェンジレバーをPに入れる。",
+    "answer": true,
+    "explanation_ja": "教則第5章第9節1(5)のとおりです。自動車が完全に停止しないうちにPに入れるのはやめましょう。",
+    "i18n": {
+      "zh": {
+        "question": "驻车时要在踩住刹车踏板的状态下确实拉上手刹，然后再把换挡杆挂到P。",
+        "explanation": "符合教则第5章第9节1(5)的规定。不要在汽车尚未完全停住时就挂到P。"
+      },
+      "en": {
+        "question": "To park, you apply the handbrake firmly with the brake pedal still pressed and only then put the selector into P.",
+        "explanation": "This is Kyosoku Chapter 5 Section 9 item 1(5). Do not select P before the car has come to a complete halt."
+      },
+      "vi": {
+        "question": "Khi đỗ xe, bạn kéo chắc phanh tay trong lúc vẫn đạp phanh rồi mới đưa cần số về P.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 9 điểm 1(5). Đừng về P khi xe chưa dừng hẳn."
+      },
+      "pt": {
+        "question": "Para estacionar, acione bem o freio de mão com o pedal ainda pisado e só então ponha a alavanca em P.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 9, item 1(5). Não selecione P antes de o carro parar por completo."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-9-009",
+    "category": "先進安全自動車",
+    "kp": "5-9-2",
+    "group": "R",
+    "source": "教則 第5章第9節2",
+    "question_type": "text",
+    "qf": "QF-5-9-2-A-N-01",
+    "question_ja": "先進安全自動車（ASV）のシステムには、一定以上の速度で走行している場合には適切に作動しない場合があるなどの限界がある。",
+    "answer": true,
+    "explanation_ja": "教則第5章第9節2のとおりです。技術を過信せずに運転しましょう。",
+    "i18n": {
+      "zh": {
+        "question": "先进安全汽车（ASV）的系统存在局限，例如以一定速度以上行驶时可能无法正常工作。",
+        "explanation": "符合教则第5章第9节2的规定。驾驶时不要过分信赖这些技术。"
+      },
+      "en": {
+        "question": "The systems of an advanced safety vehicle (ASV) have limits, such as failing to work properly above a certain speed.",
+        "explanation": "This is Kyosoku Chapter 5 Section 9 item 2. Drive without putting too much faith in the technology."
+      },
+      "vi": {
+        "question": "Hệ thống của xe an toàn tiên tiến (ASV) có giới hạn, chẳng hạn không hoạt động đúng khi chạy trên một tốc độ nhất định.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 9 điểm 2. Hãy lái xe mà không quá tin vào công nghệ."
+      },
+      "pt": {
+        "question": "Os sistemas de um veículo de segurança avançada (ASV) têm limites, como deixar de atuar corretamente acima de certa velocidade.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 9, item 2. Dirija sem depositar confiança excessiva na tecnologia."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-9-010",
+    "category": "先進安全自動車",
+    "kp": "5-9-2",
+    "group": "R",
+    "source": "教則 第5章第9節2",
+    "question_type": "text",
+    "qf": "QF-5-9-2-A-N-02",
+    "question_ja": "先進安全自動車（ASV）は、運転者が絶えず周囲の状況を確認しながら必要な運転操作を行うことを前提とした運転支援技術を備えた自動車である。",
+    "answer": true,
+    "explanation_ja": "教則第5章第9節2のとおりです。運転者の操作を代替する自動運行装置とは異なります。",
+    "i18n": {
+      "zh": {
+        "question": "先进安全汽车（ASV）是搭载了以驾驶员不断确认周围状况并进行必要驾驶操作为前提的驾驶辅助技术的汽车。",
+        "explanation": "符合教则第5章第9节2的规定。它与代替驾驶员操作的自动运行装置不同。"
+      },
+      "en": {
+        "question": "An advanced safety vehicle (ASV) carries driver-assistance technology that assumes the driver keeps checking the surroundings and performing the necessary operations.",
+        "explanation": "This is Kyosoku Chapter 5 Section 9 item 2. It differs from an automated driving device, which takes the driver's operations over."
+      },
+      "vi": {
+        "question": "Xe an toàn tiên tiến (ASV) mang công nghệ hỗ trợ lái, dựa trên giả định rằng người lái vẫn liên tục quan sát xung quanh và thực hiện các thao tác cần thiết.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 9 điểm 2. Nó khác với thiết bị lái tự động vốn thay thế thao tác của người lái."
+      },
+      "pt": {
+        "question": "O veículo de segurança avançada (ASV) traz tecnologia de assistência que pressupõe que o condutor continue observando o entorno e executando as manobras necessárias.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 9, item 2. Difere do dispositivo de condução automatizada, que assume as operações do condutor."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-9-011",
+    "category": "オートマチック車",
+    "kp": "5-9-1",
+    "group": "R",
+    "source": "教則 第5章第9節1(2)",
+    "question_type": "text",
+    "qf": "QF-5-9-1-D-SW-01",
+    "question_ja": "オートマチック車のエンジンを始動するときは、チェンジレバーをDの位置にしておく。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第9節1(2)により、チェンジレバーがPの位置にあることを確認したうえで始動します。",
+    "i18n": {
+      "zh": {
+        "question": "启动自动挡汽车的发动机时，要把换挡杆放在D的位置。",
+        "explanation": "错误。根据教则第5章第9节1(2)，要在确认换挡杆处于P位置之后启动。"
+      },
+      "en": {
+        "question": "To start the engine of an automatic vehicle you put the selector lever in D.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 9 item 1(2) you start after confirming that the lever is in P."
+      },
+      "vi": {
+        "question": "Để khởi động động cơ xe số tự động, bạn đặt cần số ở vị trí D.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 9 điểm 1(2), bạn khởi động sau khi xác nhận cần số ở vị trí P."
+      },
+      "pt": {
+        "question": "Para dar a partida em veículo automático você coloca a alavanca em D.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 9, item 1(2), dá-se a partida após confirmar que a alavanca está em P."
+      }
+    },
+    "trap_type": "SW",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-9-012",
+    "category": "オートマチック車",
+    "kp": "5-9-1",
+    "group": "R",
+    "source": "教則 第5章第9節1(5)",
+    "question_type": "text",
+    "qf": "QF-5-9-1-D-OR-01",
+    "question_ja": "駐車の際には、チェンジレバーをPに入れてからハンドブレーキを掛ける。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第9節1(5)により、ハンドブレーキを確実に掛けてからチェンジレバーをPに入れます。",
+    "i18n": {
+      "zh": {
+        "question": "驻车时，先把换挡杆挂到P，然后再拉手刹。",
+        "explanation": "错误。根据教则第5章第9节1(5)，要先确实拉上手刹，再把换挡杆挂到P。"
+      },
+      "en": {
+        "question": "To park you put the selector into P first and then apply the handbrake.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 9 item 1(5) you apply the handbrake firmly first and then select P."
+      },
+      "vi": {
+        "question": "Khi đỗ xe, bạn đưa cần số về P trước rồi mới kéo phanh tay.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 9 điểm 1(5), bạn kéo chắc phanh tay trước rồi mới về P."
+      },
+      "pt": {
+        "question": "Para estacionar você coloca a alavanca em P primeiro e depois puxa o freio de mão.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 9, item 1(5), aciona-se bem o freio de mão antes e só então se seleciona P."
+      }
+    },
+    "trap_type": "OR",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-9-013",
+    "category": "オートマチック車",
+    "kp": "5-9-1",
+    "group": "R",
+    "source": "教則 第5章第9節1(5)",
+    "question_type": "text",
+    "qf": "QF-5-9-1-D-EI-01",
+    "question_ja": "駐車するときは、自動車が完全に停止しないうちにチェンジレバーをPに入れてもよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第9節1(5)により、完全に停止しないうちにPに入れるのはやめることとされています。",
+    "i18n": {
+      "zh": {
+        "question": "驻车时，可以在汽车尚未完全停住时就把换挡杆挂到P。",
+        "explanation": "错误。根据教则第5章第9节1(5)，规定不要在尚未完全停住时就挂到P。"
+      },
+      "en": {
+        "question": "When parking you may put the selector into P before the car has come to a complete halt.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 9 item 1(5) you are told not to select P before the car has fully stopped."
+      },
+      "vi": {
+        "question": "Khi đỗ xe, bạn được đưa cần số về P trước khi xe dừng hẳn.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 9 điểm 1(5), bạn được dặn không về P trước khi xe dừng hẳn."
+      },
+      "pt": {
+        "question": "Ao estacionar você pode colocar a alavanca em P antes de o carro parar por completo.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 9, item 1(5), orienta-se não selecionar P antes da parada total."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-9-014",
+    "category": "オートマチック車",
+    "kp": "5-9-1",
+    "group": "R",
+    "source": "教則 第5章第9節1(1)",
+    "question_type": "text",
+    "qf": "QF-5-9-1-D-EI-02",
+    "question_ja": "オートマチック車はクラッチ操作がいらず運転が楽なので、安易な気持ちで取り扱ってよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第9節1(1)により、オートマチック車の運転の基本を理解し、正確に操作することが必要です。",
+    "i18n": {
+      "zh": {
+        "question": "自动挡汽车不需要离合器操作、驾驶轻松，所以可以以轻率的心态对待。",
+        "explanation": "错误。根据教则第5章第9节1(1)，必须理解自动挡汽车驾驶的基本并准确操作。"
+      },
+      "en": {
+        "question": "Because an automatic vehicle needs no clutch work and is easy to drive, you may treat it casually.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 9 item 1(1) you need to understand the basics of driving an automatic and operate it accurately."
+      },
+      "vi": {
+        "question": "Vì xe số tự động không cần thao tác côn và lái nhẹ nhàng nên bạn có thể xem nhẹ nó.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 9 điểm 1(1), bạn cần hiểu nguyên tắc cơ bản khi lái xe số tự động và thao tác chính xác."
+      },
+      "pt": {
+        "question": "Como o veículo automático dispensa a embreagem e é fácil de dirigir, pode-se tratá-lo com descuido.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 9, item 1(1), é preciso entender o básico da condução do automático e operá-lo com precisão."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-9-015",
+    "category": "オートマチック車",
+    "kp": "5-9-1",
+    "group": "R",
+    "source": "教則 第5章第9節1(4)",
+    "question_type": "text",
+    "qf": "QF-5-9-1-D-EI-03",
+    "question_ja": "交差点などで停止しているときは、アクセルペダルを踏まない限り自動車が動き出すことはない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第9節1(4)により、ブレーキペダルをしっかり踏んでおかないと、クリープ現象でゆっくり動き出すことがあります。",
+    "i18n": {
+      "zh": {
+        "question": "在交叉路口等处停车时，只要不踩油门踏板，汽车就不会动起来。",
+        "explanation": "错误。根据教则第5章第9节1(4)，不用力踩住刹车踏板，会因蠕行（クリープ）现象缓慢动起来。"
+      },
+      "en": {
+        "question": "While stopped at an intersection the car will not move unless you touch the accelerator.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 9 item 1(4), unless the brake pedal is kept firmly pressed the car can creep forward."
+      },
+      "vi": {
+        "question": "Khi dừng ở nút giao thông, xe sẽ không lăn bánh trừ khi bạn đạp ga.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 9 điểm 1(4), nếu không giữ chặt phanh thì xe có thể trườn đi."
+      },
+      "pt": {
+        "question": "Parado num cruzamento, o carro não se move a menos que você toque no acelerador.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 9, item 1(4), se o freio não for mantido pisado o carro pode andar por creep."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-9-016",
+    "category": "オートマチック車",
+    "kp": "5-9-1",
+    "group": "R",
+    "source": "教則 第5章第9節1(3)",
+    "question_type": "text",
+    "qf": "QF-5-9-1-D-SW-02",
+    "question_ja": "オートマチック車で後退するときは、チェンジレバーをDに入れる。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第9節1(3)により、後退のときはRに入れます。",
+    "i18n": {
+      "zh": {
+        "question": "自动挡汽车后退时，要把换挡杆挂到D。",
+        "explanation": "错误。根据教则第5章第9节1(3)，后退时要挂到R。"
+      },
+      "en": {
+        "question": "To reverse an automatic vehicle you put the selector into D.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 9 item 1(3) you select R to reverse."
+      },
+      "vi": {
+        "question": "Để lùi xe số tự động, bạn đưa cần số về D.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 9 điểm 1(3), khi lùi bạn về R."
+      },
+      "pt": {
+        "question": "Para dar ré em veículo automático você coloca a alavanca em D.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 9, item 1(3), seleciona-se R para dar ré."
+      }
+    },
+    "trap_type": "SW",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-9-017",
+    "category": "先進安全自動車",
+    "kp": "5-9-2",
+    "group": "R",
+    "source": "教則 第5章第9節2",
+    "question_type": "text",
+    "qf": "QF-5-9-2-D-EI-01",
+    "question_ja": "先進安全自動車（ASV）は衝突被害軽減ブレーキを備えているので、前方の確認はシステムに任せてよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第9節2により、ASVは運転者が絶えず周囲の状況を確認することを前提とした運転支援技術です。",
+    "i18n": {
+      "zh": {
+        "question": "先进安全汽车（ASV）装有碰撞减损刹车，所以前方确认可以交给系统。",
+        "explanation": "错误。根据教则第5章第9节2，ASV是以驾驶员不断确认周围状况为前提的驾驶辅助技术。"
+      },
+      "en": {
+        "question": "Because an advanced safety vehicle (ASV) has collision-mitigation braking, you may leave watching the road ahead to the system.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 9 item 2 an ASV is assistance technology that assumes the driver keeps checking the surroundings."
+      },
+      "vi": {
+        "question": "Vì xe an toàn tiên tiến (ASV) có phanh giảm thiểu va chạm nên bạn có thể giao việc quan sát phía trước cho hệ thống.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 9 điểm 2, ASV là công nghệ hỗ trợ dựa trên giả định người lái liên tục quan sát xung quanh."
+      },
+      "pt": {
+        "question": "Como o veículo de segurança avançada (ASV) tem frenagem de mitigação de colisão, você pode deixar a observação à frente para o sistema.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 9, item 2, o ASV é assistência que pressupõe o condutor observando continuamente o entorno."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-9-018",
+    "category": "オートマチック車",
+    "kp": "5-9-1",
+    "group": "R",
+    "source": "教則 第5章第9節1(4)",
+    "question_type": "text",
+    "qf": "QF-5-9-1-D-SW-03",
+    "question_ja": "交差点などで停止して停止時間が長くなりそうなときは、チェンジレバーをPに入れておく。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第9節1(4)により、停止時間が長くなりそうなときはチェンジレバーをNに入れておきます。",
+    "i18n": {
+      "zh": {
+        "question": "在交叉路口等处停车且停车时间可能较长时，要把换挡杆挂到P。",
+        "explanation": "错误。根据教则第5章第9节1(4)，停车时间可能较长时要把换挡杆挂到N。"
+      },
+      "en": {
+        "question": "When you stop at an intersection and the wait looks like being long, you put the selector into P.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 9 item 1(4) you put the selector into N when the wait looks like being long."
+      },
+      "vi": {
+        "question": "Khi dừng ở nút giao thông mà thời gian chờ có vẻ lâu, bạn đưa cần số về P.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 9 điểm 1(4), khi chờ lâu bạn đưa cần số về N."
+      },
+      "pt": {
+        "question": "Quando você para num cruzamento e a espera parece longa, coloca a alavanca em P.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 9, item 1(4), nesse caso coloca-se a alavanca em N."
+      }
+    },
+    "trap_type": "SW",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-9-019",
+    "category": "オートマチック車",
+    "kp": "5-9-1",
+    "group": "R",
+    "source": "教則 第5章第9節1(4)",
+    "question_type": "text",
+    "qf": "QF-5-9-1-D-SC-01",
+    "question_ja": "信号待ちが長かったので、オートマチック車のブレーキペダルから足を離して待っていたところ、車がゆっくり動き出した。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第9節1(4)により、停止中はブレーキペダルをしっかり踏んでおき、念のためハンドブレーキも掛けておきます。",
+    "i18n": {
+      "zh": {
+        "question": "因为等信号灯的时间长，就把脚从自动挡汽车的刹车踏板上移开等待，结果车缓慢地动了起来。",
+        "explanation": "错误。根据教则第5章第9节1(4)，停车期间要用力踩住刹车踏板，并且为慎重起见也拉上手刹。"
+      },
+      "en": {
+        "question": "The wait at the lights was long, so you took your foot off the brake pedal of your automatic and the car began creeping forward.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 9 item 1(4) you keep the brake pedal firmly pressed while stopped and apply the handbrake as a precaution."
+      },
+      "vi": {
+        "question": "Vì chờ đèn lâu, bạn nhấc chân khỏi bàn đạp phanh của xe số tự động và xe bắt đầu trườn đi.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 9 điểm 1(4), khi dừng bạn giữ chặt bàn đạp phanh và kéo cả phanh tay cho chắc."
+      },
+      "pt": {
+        "question": "A espera no semáforo era longa, então você tirou o pé do freio do seu automático e o carro começou a andar sozinho.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 9, item 1(4), parado mantém-se o freio bem pisado e aciona-se o freio de mão por precaução."
+      }
+    },
+    "trap_type": "SC",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-9-020",
+    "category": "オートマチック車",
+    "kp": "5-9-1",
+    "group": "R",
+    "source": "教則 第5章第9節1",
+    "question_type": "text",
+    "qf": "QF-5-9-1-D-NR-01",
+    "question_ja": "オートマチック車で気をつけなければならないのはクリープ現象だけで、急発進するおそれはない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第9節1(3)により、ブレーキペダルをしっかり踏まずにチェンジレバーを操作すると急発進することがあります。",
+    "i18n": {
+      "zh": {
+        "question": "自动挡汽车需要注意的只有蠕行（クリープ）现象，没有突然起步的危险。",
+        "explanation": "错误。根据教则第5章第9节1(3)，不用力踩住刹车踏板就操作换挡杆，有可能突然起步。"
+      },
+      "en": {
+        "question": "The only thing to watch for in an automatic vehicle is the creep phenomenon; there is no risk of it leaping forward.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 9 item 1(3) working the selector without pressing the brake pedal firmly can make the car leap forward."
+      },
+      "vi": {
+        "question": "Điều duy nhất cần đề phòng ở xe số tự động là hiện tượng trườn xe; không có nguy cơ xe vọt lên.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 9 điểm 1(3), gạt cần số mà không đạp chặt phanh có thể khiến xe vọt lên."
+      },
+      "pt": {
+        "question": "A única coisa a vigiar num veículo automático é o creep; não há risco de arrancada brusca.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 9, item 1(3), mexer na alavanca sem pisar firme no freio pode fazer o carro arrancar de repente."
+      }
+    },
+    "trap_type": "NR",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  }
+]
