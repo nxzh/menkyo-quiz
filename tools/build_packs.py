@@ -275,6 +275,74 @@ def decrypt(key: bytes, blob: bytes) -> bytes:
 # ---------------------------------------------------------------- build
 
 
+def release_notes(previous_manifest, content_version, counts, changed,
+                  law_revision_date, hidden_ids):
+    """The "what changed" note the app shows, in all five languages.
+
+    Written from what actually moved between the two manifests rather than by
+    hand, so a note can never claim something the packs do not say. Older notes
+    are carried over, newest first (design-spec §5.4).
+    """
+    previous_notes = (previous_manifest or {}).get("notes", [])
+    if not changed:
+        return previous_notes
+
+    old_counts = (previous_manifest or {}).get("counts", {})
+    added = counts["total"] - old_counts.get("total", 0)
+    withdrawn = len(hidden_ids) - len(((previous_manifest or {}).get("hidden_ids", [])))
+    langs = sorted({pid.rsplit("-", 1)[0] for pid in changed if not pid.startswith("core")
+                    and pid != "taxonomy"})
+    law_changed = (previous_manifest or {}).get("law_revision_date") != law_revision_date
+
+    templates = {
+        "ja": {"added": "問題を{n}問追加", "withdrawn": "問題を{n}問取り下げ",
+               "translations": "訳文を修正（{langs}）", "law": "{date}時点の法令に対応",
+               "first": "最初のリリース"},
+        "en": {"added": "{n} questions added", "withdrawn": "{n} questions withdrawn",
+               "translations": "Translations corrected ({langs})",
+               "law": "Reflects the law as of {date}", "first": "First release"},
+        "zh-Hans": {"added": "新增 {n} 道题", "withdrawn": "撤回 {n} 道题",
+                    "translations": "修正译文（{langs}）", "law": "对应 {date} 的法令",
+                    "first": "首次发布"},
+        "vi": {"added": "Thêm {n} câu hỏi", "withdrawn": "Rút {n} câu hỏi",
+               "translations": "Sửa bản dịch ({langs})",
+               "law": "Theo luật tính đến {date}", "first": "Phát hành lần đầu"},
+        "pt-BR": {"added": "{n} questões adicionadas", "withdrawn": "{n} questões retiradas",
+                  "translations": "Traduções corrigidas ({langs})",
+                  "law": "Reflete a lei em {date}", "first": "Primeira versão"},
+    }
+    names = {"ja": {"ja": "日本語", "en": "英語", "zh-Hans": "中国語", "vi": "ベトナム語",
+                    "pt-BR": "ポルトガル語"},
+             "en": {"ja": "Japanese", "en": "English", "zh-Hans": "Chinese",
+                    "vi": "Vietnamese", "pt-BR": "Portuguese"},
+             "zh-Hans": {"ja": "日语", "en": "英语", "zh-Hans": "中文", "vi": "越南语",
+                         "pt-BR": "葡萄牙语"},
+             "vi": {"ja": "tiếng Nhật", "en": "tiếng Anh", "zh-Hans": "tiếng Trung",
+                    "vi": "tiếng Việt", "pt-BR": "tiếng Bồ Đào Nha"},
+             "pt-BR": {"ja": "japonês", "en": "inglês", "zh-Hans": "chinês",
+                       "vi": "vietnamita", "pt-BR": "português"}}
+
+    items = {}
+    for lang, words in templates.items():
+        lines = []
+        if previous_manifest is None:
+            lines.append(words["first"])
+        if added > 0:
+            lines.append(words["added"].format(n=added))
+        if withdrawn > 0:
+            lines.append(words["withdrawn"].format(n=withdrawn))
+        if langs and previous_manifest is not None:
+            readable = "、".join(names[lang][l] for l in langs) if lang in ("ja", "zh-Hans") \
+                else ", ".join(names[lang][l] for l in langs)
+            lines.append(words["translations"].format(langs=readable))
+        if law_changed:
+            lines.append(words["law"].format(date=law_revision_date))
+        items[lang] = lines
+
+    note = {"version": content_version, "date": date.today().isoformat(), "items": items}
+    return [note] + previous_notes
+
+
 def build(dest: Path, *, dev_ok: bool = True) -> dict:
     questions = load_questions()
     tax = load_taxonomy()
@@ -293,6 +361,7 @@ def build(dest: Path, *, dev_ok: bool = True) -> dict:
         raise BuildError("MENKYO_PACK_KEY is not set; refusing to publish with the dev key")
 
     previous = {}
+    prev = None
     prev_path = dest / "manifest.json"
     if prev_path.exists():
         with open(prev_path, encoding="utf-8") as fh:
@@ -351,7 +420,17 @@ def build(dest: Path, *, dev_ok: bool = True) -> dict:
             entry.update(sha256=sha256(blob), bytes=len(blob), url=None, encrypted=True)
         packs.append(entry)
 
+    notes = release_notes(previous_manifest=prev if prev_version else None,
+                          content_version=content_version,
+                          counts={"free": sum(1 for t in tiers.values() if t == "free"),
+                                  "full": sum(1 for t in tiers.values() if t == "full"),
+                                  "total": len(questions)},
+                          changed=changed,
+                          law_revision_date=LAW_REVISION_DATE,
+                          hidden_ids=[])
+
     manifest = {
+        "notes": notes,
         "content_version": content_version,
         "min_app_version": MIN_APP_VERSION,
         "law_revision_date": LAW_REVISION_DATE,

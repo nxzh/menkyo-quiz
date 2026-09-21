@@ -17,6 +17,39 @@
   ],
   "law_revision_date": "2026-09-01",
   "min_app_version": "1.0.0",
+  "notes": [
+    {
+      "date": "2026-09-22",
+      "items": {
+        "en": [
+          "First release",
+          "1000 questions added",
+          "Reflects the law as of 2026-09-01"
+        ],
+        "ja": [
+          "最初のリリース",
+          "問題を1000問追加",
+          "2026-09-01時点の法令に対応"
+        ],
+        "pt-BR": [
+          "Primeira versão",
+          "1000 questões adicionadas",
+          "Reflete a lei em 2026-09-01"
+        ],
+        "vi": [
+          "Phát hành lần đầu",
+          "Thêm 1000 câu hỏi",
+          "Theo luật tính đến 2026-09-01"
+        ],
+        "zh-Hans": [
+          "首次发布",
+          "新增 1000 道题",
+          "对应 2026-09-01 的法令"
+        ]
+      },
+      "version": 1
+    }
+  ],
   "packs": [
     {
       "bytes": 30720,
