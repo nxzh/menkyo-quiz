@@ -52,21 +52,54 @@ existing material can be leaned on.
 
 From batch-06 on, the well-covered areas in the order of the table above.
 
-## Delivered so far
+## Delivered — 1000 questions, 50 batches
 
-| batch | 教則 | questions | ○ / × | notes |
-|---|---|---|---|---|
-| 01 | 5-7-4 環状交差点, 5-5-1 合図, 5-7-1 | 20 | 10 / 10 | 道交法 35条の2・37条の2・53条 |
-| 02 | 5-4 速度・車間距離・ブレーキ・徐行 | 20 | 10 / 10 | 2 carry `verify: true` on the 施行令第11条 speeds |
-| 03 | 5-3 歩行者等の保護, 3-1, 3-3 特定小型原付・自転車 | 20 | 10 / 10 | includes 5-3-7, empty in all three source sets |
-| 04 | 1-1 心構え, 1-4 禁止行為, 6-2 坂道・カーブ | 20 | 10 / 10 | |
-| 05 | 付表3（1） 標識 | 20 | 10 / 10 | 20 SVGs under `signs/`, all `question_type: sign` |
+| batches | 教則 / 法令 | questions |
+|---|---|---|
+| 01 | 5-7-4 環状交差点, 5-5-1 合図, 5-7-1 | 20 |
+| 02 | 5-4 速度・車間距離・ブレーキ・徐行 | 20 |
+| 03 | 5-3 歩行者等の保護, 3-1, 3-3 特定小型原付・自転車 | 20 |
+| 04 | 1-1 心構え, 1-4 禁止行為, 6-2 坂道・カーブ | 20 |
+| 05, 30–36 | 付表3（1）標識 and 付表3（2）標示 — all image questions | 160 |
+| 06–08 | 5-2 自動車の通行するところ | 60 |
+| 09–10 | 5-1 安全な発進 | 40 |
+| 11 | 4-1 運転に当たっての注意 | 20 |
+| 12–13 | 4-2 運転免許の仕組み | 40 |
+| 14–16 | 1-2 信号・標識の意味, 付表1 | 60 |
+| 17 | 1-3 警察官などの信号と指示, 付表1（3） | 20 |
+| 18–19 | 5-5 合図・進路変更・横断 | 40 |
+| 20–21 | 5-6 追越し・割込み・行き違い | 40 |
+| 22–23 | 5-7-1〜3 交差点 | 40 |
+| 24 | 5-9 オートマチック車・ASV | 20 |
+| 25 | 6-1 踏切 | 20 |
+| 26–27 | 8章 二輪車 | 40 |
+| 28 | 2章 歩行者の心得 | 20 |
+| 29 | 3-2 自転車の正しい乗り方 | 20 |
+| 37–38 | 5-3 歩行者等の保護 深掘り | 40 |
+| 39 | 道交法 84条・87条・88条・96条 | 20 |
+| 40–41 | 5-4 徐行の場所, 停止距離・車間距離 | 40 |
+| 42 | 1-1 心構え, 1-4 禁止行為 残り | 20 |
+| 43 | 3-3-2 自転車などの走行上の注意 | 20 |
+| 44–49 | 各章の細目と応用 | 120 |
+| 50 | 総合（複数の知識点を組み合わせた場面判断） | 20 |
 
-## Statutory state this plan assumes
+500 ○ and 500 ×. Image questions are 160, or 16 percent, inside the 12–20 percent
+the reference-bank analysis shows for the real exams.
 
-| item | state |
-|---|---|
-| 教則 | 令和6年9月4日告示第37号 |
-| 生活道路の法定速度 30km/h | in force 2026-09-01 (施行令第11条). Any question quoting a 法定速度 figure carries `verify: true` until 施行令 is checked directly. |
-| 2026-04-01 | 仮免 minimum age 17 years 6 months; passing a bicycle on its right; 自転車青切符 |
-| 2025-10-01 | 外免切替 knowledge test became 50 text questions, 45 to pass. No image questions in 外免 scope. |
+Trap mix across the 500 × questions, against the targets in the authoring spec:
+
+| code | share | target |
+|---|---|---|
+| EI 例外捏造 | 34.2% | 35–45% |
+| SW 条件互换 | 16.4% | 15–25% |
+| NR 要素缺漏 | 13.2% | — |
+| SS 相似标志混淆 | 9.2% | image questions only |
+| EX 条件扩大 | 8.2% | — |
+| SC 情景判断 | 8.2% | — |
+| EO 例外省略 | 4.4% | — |
+| NU 数字替换 | 3.4% | under 5% |
+| AB 绝对化措辞 | 1.8% | 1–2% |
+| OR 顺序互换 | 1.0% | 1–2% |
+
+Run `python3 tools/stats.py karimen` for the live figures, including the per-知識点
+breakdown across 190-odd knowledge points.

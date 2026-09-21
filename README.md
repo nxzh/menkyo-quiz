@@ -3,11 +3,13 @@
 Original practice questions for the Japanese driver's licence knowledge tests, in
 five languages: 日本語 · 简体中文 · English · Tiếng Việt · Português.
 
-The first target is **仮免許 (provisional licence, first stage): 1000 questions**,
-every one of them written from the official sources and carried in all five languages.
+**仮免許 (provisional licence, first stage): 1000 questions, complete.** Every one is
+written from the official sources and carried in all five languages: 500 true and 500
+false, 160 of them with a road-sign or road-marking image, spread over about 190
+knowledge points of the 教則 and the 道路交通法.
 
 ```
-questions/karimen/batch-01.json …   20 questions per batch, Japanese master + i18n
+questions/karimen/batch-01.json …   50 batches of 20, Japanese master + i18n
 docs/authoring.md                   how a question is written — read this first
 docs/glossary-v7.md                 the binding terminology glossary, 203 terms
 docs/coverage-plan.md               what the 1000 cover, and in what order
@@ -50,6 +52,12 @@ read the 教則 and the law.
 python3 tools/validate.py      # stdlib only; exits non-zero on an error
 python3 tools/stats.py karimen
 ```
+
+`validate.py` checks structure, that `trap_type: N` and `answer: true` correspond one
+to one, that a non-text question never carries the 外免 scope, ○× balance, id and
+fingerprint uniqueness, that every referenced sign file exists, sentence-count parity
+across the five languages, and the glossary's banned Chinese renderings. `stats.py`
+prints knowledge-point coverage and the trap mix against the authoring targets.
 
 ## Licence
 

@@ -1,0 +1,662 @@
+[
+  {
+    "id": "K9-1-001",
+    "category": "総合",
+    "kp": "5-7-2",
+    "group": "Q",
+    "source": "教則 第5章第7節2(5) / 第5章第3節2(2)",
+    "question_type": "text",
+    "qf": "QF-5-7-2-A-N-19",
+    "question_ja": "交差点で右折するとき、対向車線を直進する車に進路を譲り、そのうえで横断歩道を横断しようとする歩行者にも道を譲った。",
+    "answer": true,
+    "explanation_ja": "教則第5章第7節2(5)と第5章第3節2(2)のとおりです。直進車と歩行者の両方に道を譲る必要があります。",
+    "i18n": {
+      "zh": {
+        "question": "在交叉路口右拐弯时，给对向车道直行的车辆让路，并且也给正要横穿人行横道的步行者让了路。",
+        "explanation": "符合教则第5章第7节2(5)和第5章第3节2(2)的规定。需要同时给直行车辆和步行者让路。"
+      },
+      "en": {
+        "question": "Turning right at an intersection you gave way to a vehicle going straight on in the oncoming lane, and then also gave way to a pedestrian about to use the crossing.",
+        "explanation": "This is Kyosoku Chapter 5 Section 7 item 2(5) together with Chapter 5 Section 3 item 2(2). You must give way to both the through traffic and the pedestrian."
+      },
+      "vi": {
+        "question": "Khi rẽ phải tại nút giao, bạn nhường đường cho xe đi thẳng ở làn ngược chiều, rồi cũng nhường đường cho người đi bộ sắp băng qua vạch sang đường.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 7 điểm 2(5) cùng Chương 5 Mục 3 điểm 2(2). Bạn phải nhường cả xe đi thẳng lẫn người đi bộ."
+      },
+      "pt": {
+        "question": "Ao converter à direita você deu passagem ao veículo que seguia reto na faixa contrária e depois também ao pedestre prestes a usar a faixa.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 7, item 2(5), com o Capítulo 5, Seção 3, item 2(2). Deve-se dar passagem tanto a quem segue reto quanto ao pedestre."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K9-1-002",
+    "category": "総合",
+    "kp": "5-3-2",
+    "group": "K",
+    "source": "教則 第5章第3節2(3)",
+    "question_type": "text",
+    "qf": "QF-5-3-2-A-N-05",
+    "question_ja": "横断歩道の手前で止まっている車があったので、その側方を通って前方に出る前に一時停止した。",
+    "answer": true,
+    "explanation_ja": "教則第5章第3節2(3)のとおりです。止まっている車の陰から横断してくる人が見えないためです。",
+    "i18n": {
+      "zh": {
+        "question": "人行横道跟前有停住的车辆，于是在从其旁边通过驶到前方之前暂停（一時停止）了。",
+        "explanation": "符合教则第5章第3节2(3)的规定。因为从停住车辆的阴影处横穿过来的人看不见。"
+      },
+      "en": {
+        "question": "A vehicle was stopped before the pedestrian crossing, so you came to a complete stop (一時停止) before passing it and moving ahead.",
+        "explanation": "This is Kyosoku Chapter 5 Section 3 item 2(3). Someone crossing from behind the stopped vehicle cannot be seen."
+      },
+      "vi": {
+        "question": "Có xe đang dừng trước vạch sang đường, nên bạn tạm dừng (一時停止) trước khi đi qua nó và tiến lên.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 3 điểm 2(3). Người băng qua từ phía khuất sau xe đang dừng thì không nhìn thấy được."
+      },
+      "pt": {
+        "question": "Havia um veículo parado antes da faixa, então você fez parada obrigatória (一時停止) antes de passar por ele e seguir à frente.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 3, item 2(3). Quem atravessa por trás do veículo parado não pode ser visto."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K9-1-003",
+    "category": "総合",
+    "kp": "6-1-1",
+    "group": "S",
+    "source": "教則 第6章第1節1",
+    "question_type": "text",
+    "qf": "QF-6-1-1-A-N-10",
+    "question_ja": "踏切の直前で一時停止し、窓を開けて左右の安全を確かめてから、低速ギアのまま一気に通過した。",
+    "answer": true,
+    "explanation_ja": "教則第6章第1節1(1)(5)のとおりです。踏切内では変速せず、やや中央寄りを通ります。",
+    "i18n": {
+      "zh": {
+        "question": "在铁路道口正前方暂停（一時停止），打开车窗确认左右安全后，保持低速挡一口气通过了。",
+        "explanation": "符合教则第6章第1节1(1)(5)的规定。在道口内不换挡，稍微靠中央通过。"
+      },
+      "en": {
+        "question": "You came to a complete stop (一時停止) just before the railway crossing, opened a window to check that it was safe both ways, and crossed in one go in low gear.",
+        "explanation": "This is Kyosoku Chapter 6 Section 1 items 1(1) and 1(5). Inside the crossing you do not change gear and keep slightly towards the centre."
+      },
+      "vi": {
+        "question": "Bạn tạm dừng (一時停止) ngay trước đường ngang, mở cửa kính kiểm tra an toàn hai bên, rồi qua một mạch bằng số thấp.",
+        "explanation": "Đúng theo Kyosoku Chương 6 Mục 1 điểm 1(1) và 1(5). Trong đường ngang bạn không sang số và đi hơi lệch về giữa."
+      },
+      "pt": {
+        "question": "Você parou (一時停止) logo antes da passagem de nível, abriu a janela para conferir os dois lados e atravessou de uma vez em marcha reduzida.",
+        "explanation": "É o Kyosoku, Capítulo 6, Seção 1, itens 1(1) e 1(5). Dentro da passagem não se troca de marcha e segue-se um pouco ao centro."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K9-1-004",
+    "category": "総合",
+    "kp": "5-7-2",
+    "group": "Q",
+    "source": "教則 第5章第7節2(1) / 第5章第3節7(2)",
+    "question_type": "text",
+    "qf": "QF-5-7-2-A-N-20",
+    "question_ja": "左折するとき、あらかじめできるだけ道路の左端に寄り、左側を通行する自転車を巻き込まないように徐行して曲がった。",
+    "answer": true,
+    "explanation_ja": "教則第5章第7節2(1)と第5章第3節7(2)のとおりです。左端に寄ることが、巻き込みを防ぐ方法です。",
+    "i18n": {
+      "zh": {
+        "question": "左拐弯时，事先尽量靠道路左端，为不卷入在左侧通行的自行车而缓行（徐行）转弯。",
+        "explanation": "符合教则第5章第7节2(1)和第5章第3节7(2)的规定。靠左端就是防止卷入的方法。"
+      },
+      "en": {
+        "question": "Turning left, you first kept as far to the left of the road as you could and turned slowly (徐行) so as not to draw in a bicycle travelling on your left.",
+        "explanation": "This is Kyosoku Chapter 5 Section 7 item 2(1) with Chapter 5 Section 3 item 7(2). Keeping left is what prevents the bicycle being drawn in."
+      },
+      "vi": {
+        "question": "Khi rẽ trái, bạn đi sát mép trái của đường từ trước và rẽ chậm (徐行) để không cuốn chiếc xe đạp đang đi bên trái.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 7 điểm 2(1) cùng Chương 5 Mục 3 điểm 7(2). Việc đi sát trái chính là cách ngăn cuốn xe đạp."
+      },
+      "pt": {
+        "question": "Ao converter à esquerda você se manteve o mais à esquerda possível e virou lentamente (徐行) para não prender uma bicicleta à sua esquerda.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 7, item 2(1), com o Capítulo 5, Seção 3, item 7(2). Manter-se à esquerda é o que evita prender a bicicleta."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K9-1-005",
+    "category": "総合",
+    "kp": "5-7-4",
+    "group": "Q",
+    "source": "教則 第5章第7節4(3)",
+    "question_type": "text",
+    "qf": "QF-5-7-4-A-N-08",
+    "question_ja": "環状交差点に入ろうとするとき徐行し、環状交差点内を通行している車が通り過ぎるのを待ってから入った。",
+    "answer": true,
+    "explanation_ja": "教則第5章第7節4(3)のとおりです。環状交差点内を通行している車が優先します。",
+    "i18n": {
+      "zh": {
+        "question": "准备驶入环形交叉路口时缓行（徐行），等在环形交叉路口内通行的车辆过去之后才驶入。",
+        "explanation": "符合教则第5章第7节4(3)的规定。正在环形交叉路口内通行的车辆优先。"
+      },
+      "en": {
+        "question": "About to enter a roundabout you proceeded slowly (徐行) and waited for a vehicle travelling inside it to pass before going in.",
+        "explanation": "This is Kyosoku Chapter 5 Section 7 item 4(3). Vehicles already travelling inside the roundabout have priority."
+      },
+      "vi": {
+        "question": "Khi sắp vào giao lộ vòng xuyến, bạn lưu thông chậm (徐行) và chờ chiếc xe đang chạy bên trong đi qua rồi mới vào.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 7 điểm 4(3). Xe đang lưu thông bên trong vòng xuyến được ưu tiên."
+      },
+      "pt": {
+        "question": "Prestes a entrar na rotatória você prosseguiu lentamente (徐行) e esperou passar um veículo que circulava dentro dela.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 7, item 4(3). Os veículos que já circulam dentro dela têm preferência."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K9-1-006",
+    "category": "総合",
+    "kp": "5-4-2",
+    "group": "L",
+    "source": "教則 第5章第4節1(3) / 第5章第4節2(4)",
+    "question_type": "text",
+    "qf": "QF-5-4-2-A-N-11",
+    "question_ja": "雨が降っていたので、いつもより車間距離を広くとり、速度も落として走った。",
+    "answer": true,
+    "explanation_ja": "教則第5章第4節1(3)と2(4)のとおりです。ぬれた路面では制動距離が長くなります。",
+    "i18n": {
+      "zh": {
+        "question": "因为下着雨，就比平时拉大车距，并降低速度行驶。",
+        "explanation": "符合教则第5章第4节1(3)和2(4)的规定。路面湿时制动距离会变长。"
+      },
+      "en": {
+        "question": "Because it was raining you kept a wider following distance than usual and also reduced speed.",
+        "explanation": "This is Kyosoku Chapter 5 Section 4 items 1(3) and 2(4). Braking distance grows longer on a wet road."
+      },
+      "vi": {
+        "question": "Vì trời mưa, bạn giữ khoảng cách với xe phía trước rộng hơn thường lệ và cũng giảm tốc độ.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 4 điểm 1(3) và 2(4). Trên mặt đường ướt, quãng đường phanh dài ra."
+      },
+      "pt": {
+        "question": "Como chovia, você manteve mais distância do veículo à frente que de costume e também reduziu a velocidade.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 4, itens 1(3) e 2(4). Em piso molhado a distância de frenagem aumenta."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K9-1-007",
+    "category": "総合",
+    "kp": "5-5-2",
+    "group": "O",
+    "source": "教則 第5章第5節2(1) / 第5章第5節1(1)",
+    "question_type": "text",
+    "qf": "QF-5-5-2-A-N-07",
+    "question_ja": "進路変更をするとき、バックミラーと目視で安全を確認したうえで、変えようとする約3秒前に合図を出した。",
+    "answer": true,
+    "explanation_ja": "教則第5章第5節2(1)と1(1)のとおりです。安全確認と合図の時期は、それぞれ別に定められています。",
+    "i18n": {
+      "zh": {
+        "question": "变更路线时，先用后视镜和目视确认安全，然后在准备变更的大约3秒前打了信号。",
+        "explanation": "符合教则第5章第5节2(1)和1(1)的规定。安全确认与打信号的时机是分别规定的。"
+      },
+      "en": {
+        "question": "Changing course, you checked that it was safe in the mirrors and with your own eyes and signalled about three seconds before the change.",
+        "explanation": "This is Kyosoku Chapter 5 Section 5 items 2(1) and 1(1). The safety check and the timing of the signal are laid down separately."
+      },
+      "vi": {
+        "question": "Khi chuyển hướng, bạn kiểm tra an toàn bằng gương và bằng mắt rồi báo hiệu khoảng ba giây trước khi chuyển.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 5 điểm 2(1) và 1(1). Việc kiểm tra an toàn và thời điểm báo hiệu được quy định riêng."
+      },
+      "pt": {
+        "question": "Ao mudar de trajetória você conferiu a segurança pelos espelhos e com os próprios olhos e sinalizou cerca de três segundos antes.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 5, itens 2(1) e 1(1). A checagem e o momento do sinal são previstos separadamente."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K9-1-008",
+    "category": "総合",
+    "kp": "5-7-2",
+    "group": "Q",
+    "source": "教則 第5章第7節2(8)",
+    "question_type": "text",
+    "qf": "QF-5-7-2-A-N-21",
+    "question_ja": "前の車が交差点で右折するために右に進路を変えようとして合図を出したので、その進路の変更を妨げないようにした。",
+    "answer": true,
+    "explanation_ja": "教則第5章第7節2(8)のとおりです。急ブレーキや急ハンドルで避けなければならないような場合は別です。",
+    "i18n": {
+      "zh": {
+        "question": "前车为在交叉路口右拐弯而准备向右变更路线并发出了信号，于是没有妨碍其变更路线。",
+        "explanation": "符合教则第5章第7节2(8)的规定。必须以急刹车或急打方向盘才能避让的情况除外。"
+      },
+      "en": {
+        "question": "The vehicle ahead signalled that it was moving right to turn at the intersection, so you did not obstruct that change of course.",
+        "explanation": "This is Kyosoku Chapter 5 Section 7 item 2(8). The case where avoiding it would take sudden braking or steering is an exception."
+      },
+      "vi": {
+        "question": "Xe phía trước báo hiệu chuyển sang phải để rẽ tại nút giao, nên bạn không cản trở việc chuyển hướng đó.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 7 điểm 2(8). Trường hợp tránh nó đòi hỏi phanh gấp hay đánh lái gấp là ngoại lệ."
+      },
+      "pt": {
+        "question": "O veículo à frente sinalizou que ia para a direita a fim de converter no cruzamento, e você não obstruiu essa mudança.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 7, item 2(8). O caso em que desviar exigiria frenagem ou esterçada bruscas é exceção."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K9-1-009",
+    "category": "総合",
+    "kp": "5-3-5",
+    "group": "K",
+    "source": "教則 第5章第3節5",
+    "question_type": "text",
+    "qf": "QF-5-3-5-A-N-03",
+    "question_ja": "つえを持った高齢者が道路を横断しようとしていたので、一時停止して安全に渡れるようにした。",
+    "answer": true,
+    "explanation_ja": "教則第5章第3節5のとおりです。高齢者は歩行が遅くなったり、歩行が不安定になったりします。",
+    "i18n": {
+      "zh": {
+        "question": "拄着手杖的高龄者正要横穿道路，于是暂停（一時停止）让其能够安全通过。",
+        "explanation": "符合教则第5章第3节5的规定。高龄者步行会变慢，步态也会变得不稳。"
+      },
+      "en": {
+        "question": "An older person with a stick was about to cross the road, so you came to a complete stop (一時停止) so that they could cross safely.",
+        "explanation": "This is Kyosoku Chapter 5 Section 3 item 5. Older people walk more slowly and less steadily."
+      },
+      "vi": {
+        "question": "Một người cao tuổi chống gậy sắp băng qua đường, nên bạn tạm dừng (一時停止) để họ qua an toàn.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 3 điểm 5. Người cao tuổi đi chậm hơn và bước đi kém vững."
+      },
+      "pt": {
+        "question": "Um idoso com bengala ia atravessar a via, então você fez parada obrigatória (一時停止) para que ele cruzasse em segurança.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 3, item 5. Os idosos caminham mais devagar e de forma menos firme."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K9-1-010",
+    "category": "総合",
+    "kp": "5-4-4",
+    "group": "M",
+    "source": "教則 第5章第4節4(1)",
+    "question_type": "text",
+    "qf": "QF-5-4-4-A-N-09",
+    "question_ja": "「徐行」の標識があったので、すぐ停止できるような速度まで落として通行した。",
+    "answer": true,
+    "explanation_ja": "教則第5章第4節4(1)のとおりです。徐行とは、車がすぐ停止できるような速度で進むことです。",
+    "i18n": {
+      "zh": {
+        "question": "因为有「缓行」标识（立牌），就降到能够立即停车的速度通过了。",
+        "explanation": "符合教则第5章第4节4(1)的规定。所谓缓行（徐行），是指以能够立即停车的速度行进。"
+      },
+      "en": {
+        "question": "Because the Proceed slowly sign was there, you slowed to a speed from which you could stop at once and went through.",
+        "explanation": "This is Kyosoku Chapter 5 Section 4 item 4(1). Proceeding slowly (徐行) means moving at a speed from which you can stop at once."
+      },
+      "vi": {
+        "question": "Vì có biển Đi chậm, bạn giảm xuống tốc độ có thể dừng ngay rồi đi qua.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 4 điểm 4(1). Lưu thông chậm (徐行) là đi với tốc độ có thể dừng ngay."
+      },
+      "pt": {
+        "question": "Como havia a placa de prosseguir lentamente, você reduziu a uma velocidade da qual pararia de imediato e passou.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 4, item 4(1). Prosseguir lentamente (徐行) é andar a uma velocidade da qual se pare de imediato."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K9-1-011",
+    "category": "総合",
+    "kp": "5-3-2",
+    "group": "K",
+    "source": "教則 第5章第3節2(2)",
+    "question_type": "text",
+    "qf": "QF-5-3-2-D-SC-01",
+    "question_ja": "交差点で右折するとき、対向の直進車が止まってくれたので、横断歩道を渡ろうとしている歩行者の前を先に通過した。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第3節2(2)により、横断しようとしている歩行者がいるときは、横断歩道の手前で一時停止して道を譲らなければなりません。",
+    "i18n": {
+      "zh": {
+        "question": "在交叉路口右拐弯时，对向直行车为自己停下了，于是抢在正要横穿人行横道的步行者前面通过了。",
+        "explanation": "错误。根据教则第5章第3节2(2)，有步行者正要横穿时，必须在人行横道跟前暂停（一時停止）让路。"
+      },
+      "en": {
+        "question": "Turning right at an intersection, the oncoming through traffic stopped for you, so you went ahead of a pedestrian about to use the crossing.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 3 item 2(2) you must come to a complete stop (一時停止) before the crossing and give way to a pedestrian about to cross."
+      },
+      "vi": {
+        "question": "Khi rẽ phải tại nút giao, xe đi thẳng ngược chiều đã dừng nhường bạn, nên bạn đi trước người đi bộ sắp băng qua vạch.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 3 điểm 2(2), khi có người đi bộ sắp băng qua, bạn phải tạm dừng (一時停止) trước vạch và nhường đường."
+      },
+      "pt": {
+        "question": "Ao converter à direita, o tráfego contrário parou para você, e então passou à frente de um pedestre prestes a usar a faixa.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 3, item 2(2), é preciso parar (一時停止) antes da faixa e dar passagem a quem vai atravessar."
+      }
+    },
+    "trap_type": "SC",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K9-1-012",
+    "category": "総合",
+    "kp": "6-1-1",
+    "group": "S",
+    "source": "教則 第6章第1節1(4)",
+    "question_type": "text",
+    "qf": "QF-6-1-1-D-SC-02",
+    "question_ja": "踏切で前の車に続いて通過するとき、前の車が安全を確かめていたので、自分は一時停止をしなかった。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第6章第1節1(4)により、前の車に続いて通過するときでも一時停止をし、安全を確かめなければなりません。",
+    "i18n": {
+      "zh": {
+        "question": "在铁路道口跟在前车后面通过时，因为前车已确认了安全，自己就没有暂停（一時停止）。",
+        "explanation": "错误。根据教则第6章第1节1(4)，跟在前车后面通过时也必须暂停并确认安全。"
+      },
+      "en": {
+        "question": "Following the vehicle ahead across a railway crossing, you did not stop because that vehicle had already checked.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 6 Section 1 item 1(4) you must come to a complete stop (一時停止) and check even when following."
+      },
+      "vi": {
+        "question": "Khi đi theo xe phía trước qua đường ngang, bạn không dừng vì xe đó đã kiểm tra rồi.",
+        "explanation": "Sai. Theo Kyosoku Chương 6 Mục 1 điểm 1(4), ngay cả khi đi theo bạn vẫn phải tạm dừng (一時停止) và kiểm tra."
+      },
+      "pt": {
+        "question": "Seguindo o veículo da frente na passagem de nível, você não parou porque ele já havia verificado.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 6, Seção 1, item 1(4), mesmo seguindo é preciso parar (一時停止) e verificar."
+      }
+    },
+    "trap_type": "SC",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K9-1-013",
+    "category": "総合",
+    "kp": "5-7-2",
+    "group": "Q",
+    "source": "教則 第5章第7節2(1)",
+    "question_type": "text",
+    "qf": "QF-5-7-2-D-SW-03",
+    "question_ja": "左折するとき、自転車を巻き込まないように道路の中央に寄ってから曲がった。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第7節2(1)により、左折ではあらかじめできるだけ道路の左端に寄ります。",
+    "i18n": {
+      "zh": {
+        "question": "左拐弯时，为了不卷入自行车，先靠道路中央然后再转弯。",
+        "explanation": "错误。根据教则第5章第7节2(1)，左拐弯时要事先尽量靠道路左端。"
+      },
+      "en": {
+        "question": "Turning left, you moved to the centre of the road before turning so as not to draw in a bicycle.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 7 item 2(1) you first keep as far to the left of the road as you can to turn left."
+      },
+      "vi": {
+        "question": "Khi rẽ trái, bạn áp sát tim đường rồi mới rẽ để không cuốn xe đạp.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 7 điểm 2(1), khi rẽ trái bạn đi sát mép trái của đường từ trước."
+      },
+      "pt": {
+        "question": "Ao converter à esquerda você foi para o centro da via antes de virar, para não prender uma bicicleta.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 7, item 2(1), para virar à esquerda mantém-se o mais à esquerda possível."
+      }
+    },
+    "trap_type": "SW",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K9-1-014",
+    "category": "総合",
+    "kp": "5-7-4",
+    "group": "Q",
+    "source": "教則 第5章第7節4(3)",
+    "question_type": "text",
+    "qf": "QF-5-7-4-D-EI-06",
+    "question_ja": "環状交差点に入ろうとしたとき、中に車が見えなかったので徐行せずに入った。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第7節4(3)により、環状交差点に入ろうとするときは徐行しなければならず、中の車の有無は関係ありません。",
+    "i18n": {
+      "zh": {
+        "question": "准备驶入环形交叉路口时，因为看不到里面有车，就没有缓行（徐行）直接驶入了。",
+        "explanation": "错误。根据教则第5章第7节4(3)，准备驶入环形交叉路口时必须缓行，与里面有无车辆无关。"
+      },
+      "en": {
+        "question": "About to enter a roundabout you saw no vehicle inside, so you went in without proceeding slowly (徐行).",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 7 item 4(3) you must proceed slowly when entering a roundabout, whether or not a vehicle is inside."
+      },
+      "vi": {
+        "question": "Khi sắp vào giao lộ vòng xuyến, bạn không thấy xe nào bên trong nên vào mà không lưu thông chậm (徐行).",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 7 điểm 4(3), khi vào vòng xuyến bạn phải lưu thông chậm, bất kể bên trong có xe hay không."
+      },
+      "pt": {
+        "question": "Prestes a entrar na rotatória você não viu nenhum veículo dentro e entrou sem prosseguir lentamente (徐行).",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 7, item 4(3), ao entrar é preciso prosseguir lentamente, haja ou não veículo dentro."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K9-1-015",
+    "category": "総合",
+    "kp": "5-4-1",
+    "group": "L",
+    "source": "教則 第5章第4節1(3)",
+    "question_type": "text",
+    "qf": "QF-5-4-1-D-EI-03",
+    "question_ja": "雨で路面がぬれていたが、最高速度の範囲内だったので速度を落とさずに走った。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第4節1(3)により、決められた速度の範囲内であっても、天候や路面の状況をよく考えて安全な速度で走らなければなりません。",
+    "i18n": {
+      "zh": {
+        "question": "因下雨路面湿滑，但因为在最高速度范围内，就没有降低速度行驶。",
+        "explanation": "错误。根据教则第5章第4节1(3)，即使在规定的速度范围内，也必须充分考虑天气和路面状况，以安全的速度行驶。"
+      },
+      "en": {
+        "question": "The road was wet with rain, but as you were within the maximum speed you drove on without slowing.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 4 item 1(3) you must drive at a safe speed with the weather and the state of the road in mind, even within the permitted speed."
+      },
+      "vi": {
+        "question": "Mặt đường ướt mưa, nhưng vì vẫn trong giới hạn tốc độ tối đa nên bạn chạy tiếp mà không giảm tốc.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 4 điểm 1(3), ngay trong phạm vi tốc độ cho phép bạn vẫn phải chạy ở tốc độ an toàn, cân nhắc thời tiết và tình trạng mặt đường."
+      },
+      "pt": {
+        "question": "A via estava molhada de chuva, mas como você estava dentro da velocidade máxima seguiu sem reduzir.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 4, item 1(3), mesmo dentro da velocidade permitida é preciso dirigir em velocidade segura considerando tempo e piso."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K9-1-016",
+    "category": "総合",
+    "kp": "5-5-2",
+    "group": "O",
+    "source": "教則 第5章第5節2(1)",
+    "question_type": "text",
+    "qf": "QF-5-5-2-D-NR-02",
+    "question_ja": "進路変更のとき、バックミラーだけで安全を確認し、合図と同時に進路を変えた。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第5節2(1)と1(1)により、バックミラーや目視で安全を確認し、変えようとする約3秒前に合図を出します。",
+    "i18n": {
+      "zh": {
+        "question": "变更路线时，只用后视镜确认安全，并在打信号的同时变更了路线。",
+        "explanation": "错误。根据教则第5章第5节2(1)和1(1)，要用后视镜和目视确认安全，并在准备变更的大约3秒前打信号。"
+      },
+      "en": {
+        "question": "Changing course, you checked in the mirrors alone and changed at the same moment as signalling.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 5 items 2(1) and 1(1) you check in the mirrors and with your own eyes, and signal about three seconds before the change."
+      },
+      "vi": {
+        "question": "Khi chuyển hướng, bạn chỉ kiểm tra bằng gương và chuyển ngay cùng lúc bật báo hiệu.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 5 điểm 2(1) và 1(1), bạn kiểm tra bằng gương và bằng mắt, rồi báo hiệu khoảng ba giây trước khi chuyển."
+      },
+      "pt": {
+        "question": "Ao mudar de trajetória você conferiu só pelos espelhos e mudou no mesmo instante em que sinalizou.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 5, itens 2(1) e 1(1), confere-se pelos espelhos e com os olhos, e sinaliza-se cerca de três segundos antes."
+      }
+    },
+    "trap_type": "NR",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K9-1-017",
+    "category": "総合",
+    "kp": "5-6-1",
+    "group": "P",
+    "source": "教則 第5章第6節1(2)イ",
+    "question_type": "text",
+    "qf": "QF-5-6-1-D-SC-03",
+    "question_ja": "前の車が右折の合図を出していたが、こちらが先に行けると思ったので、その右側を通って追い越した。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第6節1(2)イにより、前の車が右側に進路を変えようとしているときは追越しをしてはいけません。",
+    "i18n": {
+      "zh": {
+        "question": "前车已打了右拐弯信号，但觉得自己能先过去，就从其右侧超了过去。",
+        "explanation": "错误。根据教则第5章第6节1(2)イ，前车正要向右变更路线时不得超车。"
+      },
+      "en": {
+        "question": "The vehicle ahead was signalling a right turn, but as you thought you could get by first you overtook it on its right.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 6 item 1(2)(b) you must not overtake while the vehicle ahead is moving to the right."
+      },
+      "vi": {
+        "question": "Xe phía trước đang báo hiệu rẽ phải, nhưng vì nghĩ mình qua trước được nên bạn vượt bên phải nó.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 6 điểm 1(2)(b), bạn không được vượt khi xe phía trước đang chuyển sang phải."
+      },
+      "pt": {
+        "question": "O veículo à frente sinalizava conversão à direita, mas como você achou que passaria antes, ultrapassou-o pela direita.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 6, item 1(2)(b), não se ultrapassa enquanto o veículo à frente se desloca para a direita."
+      }
+    },
+    "trap_type": "SC",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K9-1-018",
+    "category": "総合",
+    "kp": "5-3-3",
+    "group": "K",
+    "source": "教則 第5章第3節3",
+    "question_type": "text",
+    "qf": "QF-5-3-3-D-EI-02",
+    "question_ja": "白いつえを持った人が歩道を歩いていたが、横断する様子がなかったので、徐行も一時停止もしなかった。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第3節3により、白や黄のつえを持った人が歩いている場合には、一時停止か徐行をしなければなりません。",
+    "i18n": {
+      "zh": {
+        "question": "拿着白色手杖的人在人行道上行走，但看上去没有要横穿的样子，就既没有缓行（徐行）也没有暂停（一時停止）。",
+        "explanation": "错误。根据教则第5章第3节3，有拿着白色或黄色手杖的人在行走时，必须暂停或缓行。"
+      },
+      "en": {
+        "question": "A person with a white cane was walking on the sidewalk but showed no sign of crossing, so you neither slowed nor stopped.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 3 item 3 you must come to a complete stop (一時停止) or proceed slowly (徐行) where a person with a white or yellow cane is walking."
+      },
+      "vi": {
+        "question": "Một người cầm gậy trắng đang đi trên vỉa hè nhưng không có vẻ sẽ băng qua, nên bạn không đi chậm cũng không dừng.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 3 điểm 3, khi có người cầm gậy trắng hoặc vàng đang đi bộ, bạn phải tạm dừng (一時停止) hoặc lưu thông chậm (徐行)."
+      },
+      "pt": {
+        "question": "Uma pessoa com bengala branca caminhava na calçada sem sinal de que ia atravessar, então você não reduziu nem parou.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 3, item 3, com alguém de bengala branca ou amarela caminhando é preciso parar (一時停止) ou prosseguir lentamente (徐行)."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K9-1-019",
+    "category": "総合",
+    "kp": "5-4-4",
+    "group": "M",
+    "source": "教則 第5章第4節4(1)",
+    "question_type": "text",
+    "qf": "QF-5-4-4-D-SC-02",
+    "question_ja": "「徐行」の標識があったが、周囲に車も歩行者もいなかったので、そのままの速度で通過した。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第4節4(1)により、「徐行」の標識があるところでは徐行しなければならず、周囲の状況は関係ありません。",
+    "i18n": {
+      "zh": {
+        "question": "有「缓行」标识（立牌），但因为周围既没有车也没有步行者，就保持原速通过了。",
+        "explanation": "错误。根据教则第5章第4节4(1)，设有「缓行」标识的地方必须缓行（徐行），与周围状况无关。"
+      },
+      "en": {
+        "question": "The Proceed slowly sign was there, but as there were no vehicles or pedestrians about you went through at the same speed.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 4 item 4(1) you must proceed slowly (徐行) where that sign stands, whatever the surroundings."
+      },
+      "vi": {
+        "question": "Có biển Đi chậm, nhưng vì xung quanh không có xe cũng không có người đi bộ nên bạn đi qua với nguyên tốc độ.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 4 điểm 4(1), ở nơi có biển đó bạn phải lưu thông chậm (徐行), bất kể xung quanh thế nào."
+      },
+      "pt": {
+        "question": "Havia a placa de prosseguir lentamente, mas como não havia veículos nem pedestres por perto você passou na mesma velocidade.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 4, item 4(1), onde há essa placa é preciso prosseguir lentamente (徐行), seja qual for o entorno."
+      }
+    },
+    "trap_type": "SC",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K9-1-020",
+    "category": "総合",
+    "kp": "5-3-2",
+    "group": "K",
+    "source": "教則 第5章第3節2(3)",
+    "question_type": "text",
+    "qf": "QF-5-3-2-D-SC-02",
+    "question_ja": "横断歩道の手前で止まっている車のそばを通るとき、歩行者が見えなかったのでそのまま通過した。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第3節2(3)により、そのそばを通って前方に出る前に一時停止をしなければなりません。",
+    "i18n": {
+      "zh": {
+        "question": "从人行横道跟前停住的车辆旁边通过时，因为看不到步行者就直接通过了。",
+        "explanation": "错误。根据教则第5章第3节2(3)，在从其旁边通过驶到前方之前必须暂停（一時停止）。"
+      },
+      "en": {
+        "question": "Passing a vehicle stopped before a pedestrian crossing, you went straight by because you could see no pedestrian.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 3 item 2(3) you must come to a complete stop (一時停止) before passing it and moving ahead."
+      },
+      "vi": {
+        "question": "Khi đi qua bên cạnh xe đang dừng trước vạch sang đường, bạn cứ thế đi tiếp vì không thấy người đi bộ nào.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 3 điểm 2(3), bạn phải tạm dừng (一時停止) trước khi đi qua nó và tiến lên phía trước."
+      },
+      "pt": {
+        "question": "Ao passar por um veículo parado antes da faixa, você seguiu direto porque não via nenhum pedestre.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 3, item 2(3), é preciso parar (一時停止) antes de passar por ele e seguir à frente."
+      }
+    },
+    "trap_type": "SC",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  }
+]
