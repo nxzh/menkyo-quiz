@@ -1,0 +1,782 @@
+[
+  {
+    "id": "KM-101",
+    "category": "指示標示",
+    "kp": "付3-2-25",
+    "group": "D",
+    "source": "教則 付表3（2）25",
+    "question_type": "marking",
+    "qf": "QF-付3-2-25-A-N-01",
+    "image": {
+      "sign_no": "M201",
+      "file": "M201.svg",
+      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+      "file_verified": true
+    },
+    "question_ja": "この標示は、そこが横断歩道であることを示している。",
+    "answer": true,
+    "explanation_ja": "教則付表3（2）25のとおりです。横断歩道に近づいたときは、横断する人がいないことが明らかな場合のほかは、その手前で停止できるように速度を落とします。",
+    "i18n": {
+      "zh": {
+        "question": "这个标示表示该处是人行横道。",
+        "explanation": "符合教则附表3（2）25的规定。接近人行横道时，除明显没有横穿者的情况外，要减速到能在其跟前停住。"
+      },
+      "en": {
+        "question": "This road marking shows that the place is a pedestrian crossing.",
+        "explanation": "This is Kyosoku Appendix 3(2) item 25. As you approach one you slow enough to stop before it, unless it is clear that nobody is crossing."
+      },
+      "vi": {
+        "question": "Vạch kẻ đường này cho biết nơi đó là vạch sang đường cho người đi bộ.",
+        "explanation": "Đúng theo Kyosoku Phụ lục 3(2) mục 25. Khi tới gần, bạn giảm tốc đủ để dừng trước đó, trừ khi rõ ràng không có ai băng qua."
+      },
+      "pt": {
+        "question": "Esta sinalização horizontal indica que ali há faixa de pedestres.",
+        "explanation": "É o Kyosoku, Anexo 3(2), item 25. Ao se aproximar, reduza o suficiente para parar antes dela, salvo se for evidente que ninguém atravessa."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免"
+  },
+  {
+    "id": "KM-102",
+    "category": "指示標示",
+    "kp": "付3-2-26",
+    "group": "D",
+    "source": "教則 付表3（2）26",
+    "question_type": "marking",
+    "qf": "QF-付3-2-26-A-N-01",
+    "image": {
+      "sign_no": "M201-2-B",
+      "file": "M201-2-B.svg",
+      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+      "file_verified": true
+    },
+    "question_ja": "この標示は、歩行者が交差点で斜めに横断できることを示している。",
+    "answer": true,
+    "explanation_ja": "教則付表3（2）26のとおりです。この標示のないところでは、歩行者は斜め横断をしてはいけません。",
+    "i18n": {
+      "zh": {
+        "question": "这个标示表示步行者可以在交叉路口斜穿。",
+        "explanation": "符合教则附表3（2）26的规定。没有该标示的地方，步行者不得斜穿。"
+      },
+      "en": {
+        "question": "This road marking shows that pedestrians may cross an intersection diagonally.",
+        "explanation": "This is Kyosoku Appendix 3(2) item 26. Where the marking is absent, pedestrians must not cross diagonally."
+      },
+      "vi": {
+        "question": "Vạch kẻ đường này cho biết người đi bộ được băng chéo qua nút giao thông.",
+        "explanation": "Đúng theo Kyosoku Phụ lục 3(2) mục 26. Ở nơi không có vạch này, người đi bộ không được băng chéo."
+      },
+      "pt": {
+        "question": "Esta sinalização horizontal indica que os pedestres podem atravessar o cruzamento na diagonal.",
+        "explanation": "É o Kyosoku, Anexo 3(2), item 26. Onde ela não existe, os pedestres não devem atravessar na diagonal."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免"
+  },
+  {
+    "id": "KM-103",
+    "category": "指示標示",
+    "kp": "付3-2-28",
+    "group": "D",
+    "source": "教則 付表3（2）28",
+    "question_type": "marking",
+    "qf": "QF-付3-2-28-A-N-01",
+    "image": {
+      "sign_no": "M202",
+      "file": "M202.svg",
+      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+      "file_verified": true
+    },
+    "question_ja": "この標示は、車が道路の中央から右の部分を通行することができることを示している。",
+    "answer": true,
+    "explanation_ja": "教則付表3（2）28のとおりです。こう配の急な道路の曲がり角付近などに設けられます。",
+    "i18n": {
+      "zh": {
+        "question": "这个标示表示车辆可以通行道路中央向右的部分。",
+        "explanation": "符合教则附表3（2）28的规定。它设置在陡坡道路的拐角附近等处。"
+      },
+      "en": {
+        "question": "This road marking shows that vehicles may travel on the part of the road to the right of the centre.",
+        "explanation": "This is Kyosoku Appendix 3(2) item 28. It is laid out near bends on steeply graded roads and similar places."
+      },
+      "vi": {
+        "question": "Vạch kẻ đường này cho biết xe được đi ở phần đường bên phải tính từ tim đường.",
+        "explanation": "Đúng theo Kyosoku Phụ lục 3(2) mục 28. Vạch này được đặt gần chỗ ngoặt trên đoạn đường dốc gấp và nơi tương tự."
+      },
+      "pt": {
+        "question": "Esta sinalização horizontal indica que os veículos podem trafegar pela parte da via à direita do centro.",
+        "explanation": "É o Kyosoku, Anexo 3(2), item 28. É usada perto de curvas em vias de forte declive e locais semelhantes."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免"
+  },
+  {
+    "id": "KM-104",
+    "category": "指示標示",
+    "kp": "付3-2-30",
+    "group": "D",
+    "source": "教則 付表3（2）30",
+    "question_type": "marking",
+    "qf": "QF-付3-2-30-A-N-01",
+    "image": {
+      "sign_no": "M203-2",
+      "file": "M203-2.svg",
+      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+      "file_verified": true
+    },
+    "question_ja": "この標示は、二輪車と四輪車が停止する場合の位置であることを示している。",
+    "answer": true,
+    "explanation_ja": "教則付表3（2）30のとおりです。「二段停止線」といい、二輪車は前側、四輪車は後ろ側で停止します。",
+    "i18n": {
+      "zh": {
+        "question": "这个标示表示二轮车和四轮车停止时的位置。",
+        "explanation": "符合教则附表3（2）30的规定。它叫作「二段停止线」，二轮车在前侧、四轮车在后侧停止。"
+      },
+      "en": {
+        "question": "This road marking shows the positions at which two-wheeled and four-wheeled vehicles are to stop.",
+        "explanation": "This is Kyosoku Appendix 3(2) item 30. It is the two-stage stop line: two-wheelers stop at the forward line, four-wheelers at the rear one."
+      },
+      "vi": {
+        "question": "Vạch kẻ đường này chỉ vị trí dừng cho xe hai bánh và xe bốn bánh.",
+        "explanation": "Đúng theo Kyosoku Phụ lục 3(2) mục 30. Đó là vạch dừng hai bậc: xe hai bánh dừng ở vạch trước, xe bốn bánh ở vạch sau."
+      },
+      "pt": {
+        "question": "Esta sinalização horizontal indica as posições de parada para veículos de duas e de quatro rodas.",
+        "explanation": "É o Kyosoku, Anexo 3(2), item 30. É a linha de parada em dois níveis: as motos param na linha da frente e os carros na de trás."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免"
+  },
+  {
+    "id": "KM-105",
+    "category": "指示標示",
+    "kp": "付3-2-31",
+    "group": "D",
+    "source": "教則 付表3（2）31",
+    "question_type": "marking",
+    "qf": "QF-付3-2-31-A-N-01",
+    "image": {
+      "sign_no": "M204",
+      "file": "M204.svg",
+      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+      "file_verified": true
+    },
+    "question_ja": "この標示は、車が進行することができる方向であることを示している。",
+    "answer": true,
+    "explanation_ja": "教則付表3（2）31のとおりです。右左折の場合、矢印などの標示で通行方法が指定されているときは、それに従わなければなりません。",
+    "i18n": {
+      "zh": {
+        "question": "这个标示表示车辆可以行驶的方向。",
+        "explanation": "符合教则附表3（2）31的规定。右拐弯左拐弯时，由箭头等标示指定了通行方法的，必须按照该指定通行。"
+      },
+      "en": {
+        "question": "This road marking shows the direction in which a vehicle may proceed.",
+        "explanation": "This is Kyosoku Appendix 3(2) item 31. Where arrows or other markings specify how to turn, you must follow that specification."
+      },
+      "vi": {
+        "question": "Vạch kẻ đường này chỉ hướng mà xe được phép đi.",
+        "explanation": "Đúng theo Kyosoku Phụ lục 3(2) mục 31. Khi mũi tên hoặc vạch khác chỉ định cách rẽ, bạn phải tuân theo chỉ định đó."
+      },
+      "pt": {
+        "question": "Esta sinalização horizontal indica a direção em que o veículo pode seguir.",
+        "explanation": "É o Kyosoku, Anexo 3(2), item 31. Quando setas ou outras marcações indicam a forma de converter, é preciso segui-las."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免"
+  },
+  {
+    "id": "KM-106",
+    "category": "指示標示",
+    "kp": "付3-2-33",
+    "group": "D",
+    "source": "教則 付表3（2）33",
+    "question_type": "marking",
+    "qf": "QF-付3-2-33-A-N-01",
+    "image": {
+      "sign_no": "M206-B_破線",
+      "file": "M206-B_破線.svg",
+      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+      "file_verified": true
+    },
+    "question_ja": "この標示は、4車線以上の道路の区間内の車線の境界であることを示している。",
+    "answer": true,
+    "explanation_ja": "教則付表3（2）33のとおりです。「車線境界線」といい、中央線とは意味が違います。",
+    "i18n": {
+      "zh": {
+        "question": "这个标示表示四车道以上道路区间内车道的分界。",
+        "explanation": "符合教则附表3（2）33的规定。它叫作「车道分界线」，与中心线含义不同。"
+      },
+      "en": {
+        "question": "This road marking marks the boundary between lanes within a stretch of road with four or more lanes.",
+        "explanation": "This is Kyosoku Appendix 3(2) item 33. It is the lane boundary line, which means something different from the center line."
+      },
+      "vi": {
+        "question": "Vạch kẻ đường này đánh dấu ranh giới giữa các làn trên đoạn đường có từ bốn làn trở lên.",
+        "explanation": "Đúng theo Kyosoku Phụ lục 3(2) mục 33. Đó là vạch phân làn, có ý nghĩa khác với vạch giữa đường."
+      },
+      "pt": {
+        "question": "Esta sinalização horizontal marca o limite entre faixas em trechos com quatro ou mais faixas.",
+        "explanation": "É o Kyosoku, Anexo 3(2), item 33. É a linha de divisão de faixas, de sentido diferente da linha divisória central."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免"
+  },
+  {
+    "id": "KM-107",
+    "category": "指示標示",
+    "kp": "付3-2-34",
+    "group": "D",
+    "source": "教則 付表3（2）34",
+    "question_type": "marking",
+    "qf": "QF-付3-2-34-A-N-01",
+    "image": {
+      "sign_no": "M207",
+      "file": "M207.svg",
+      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+      "file_verified": true
+    },
+    "question_ja": "この標示は、そこが安全地帯であることを示している。",
+    "answer": true,
+    "explanation_ja": "教則第5章第2節7(3)のとおり、安全地帯には車が入ってはいけません。",
+    "i18n": {
+      "zh": {
+        "question": "这个标示表示该处是安全地带。",
+        "explanation": "根据教则第5章第2节7(3)，车辆不得进入安全地带。"
+      },
+      "en": {
+        "question": "This road marking shows that the place is a safety zone.",
+        "explanation": "Under Kyosoku Chapter 5 Section 2 item 7(3), vehicles must not enter a safety zone."
+      },
+      "vi": {
+        "question": "Vạch kẻ đường này cho biết nơi đó là khu vực an toàn.",
+        "explanation": "Theo Kyosoku Chương 5 Mục 2 điểm 7(3), xe không được đi vào khu vực an toàn."
+      },
+      "pt": {
+        "question": "Esta sinalização horizontal indica que ali há uma zona de segurança.",
+        "explanation": "Pelo Kyosoku, Capítulo 5, Seção 2, item 7(3), os veículos não devem entrar em zona de segurança."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免"
+  },
+  {
+    "id": "KM-108",
+    "category": "指示標示",
+    "kp": "付3-2-35",
+    "group": "D",
+    "source": "教則 付表3（2）35",
+    "question_type": "marking",
+    "qf": "QF-付3-2-35-A-N-01",
+    "image": {
+      "sign_no": "M208-A_片側",
+      "file": "M208-A_片側.svg",
+      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+      "file_verified": true
+    },
+    "question_ja": "この標示は、前方に安全地帯か路上障害物があり、これに接近しつつあることを示している。",
+    "answer": true,
+    "explanation_ja": "教則付表3（2）35のとおりです。片側に避ける場合と両側に避ける場合とで、標示の形が異なります。",
+    "i18n": {
+      "zh": {
+        "question": "这个标示表示前方有安全地带或路上障碍物，并且正在接近。",
+        "explanation": "符合教则附表3（2）35的规定。向单侧避让和向两侧避让的标示形状不同。"
+      },
+      "en": {
+        "question": "This road marking shows that you are approaching a safety zone or an obstacle on the road ahead.",
+        "explanation": "This is Kyosoku Appendix 3(2) item 35. The shape differs according to whether you pass on one side or either side."
+      },
+      "vi": {
+        "question": "Vạch kẻ đường này cho biết bạn đang tới gần khu vực an toàn hoặc chướng ngại vật trên đường phía trước.",
+        "explanation": "Đúng theo Kyosoku Phụ lục 3(2) mục 35. Hình dạng khác nhau tùy việc tránh về một bên hay cả hai bên."
+      },
+      "pt": {
+        "question": "Esta sinalização horizontal indica que você se aproxima de uma zona de segurança ou de um obstáculo na via.",
+        "explanation": "É o Kyosoku, Anexo 3(2), item 35. O desenho muda conforme se desvie por um lado ou por ambos."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免"
+  },
+  {
+    "id": "KM-109",
+    "category": "指示標示",
+    "kp": "付3-2-27",
+    "group": "D",
+    "source": "教則 付表3（2）27",
+    "question_type": "marking",
+    "qf": "QF-付3-2-27-A-N-01",
+    "image": {
+      "sign_no": "M201-3",
+      "file": "M201-3.svg",
+      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+      "file_verified": true
+    },
+    "question_ja": "この標示は、そこが自転車横断帯であることを示している。",
+    "answer": true,
+    "explanation_ja": "教則付表3（2）27のとおりです。自転車横断帯とその手前から30メートル以内の場所では、追越しも追抜きもしてはいけません。",
+    "i18n": {
+      "zh": {
+        "question": "这个标示表示该处是自行车横穿带。",
+        "explanation": "符合教则附表3（2）27的规定。在自行车横穿带及其跟前30米以内的场所，不得超车也不得超过。"
+      },
+      "en": {
+        "question": "This road marking shows that the place is a bicycle crossing.",
+        "explanation": "This is Kyosoku Appendix 3(2) item 27. Within a bicycle crossing and the 30 metres before it you must not overtake or pass."
+      },
+      "vi": {
+        "question": "Vạch kẻ đường này cho biết nơi đó là vạch sang đường cho xe đạp.",
+        "explanation": "Đúng theo Kyosoku Phụ lục 3(2) mục 27. Trong phạm vi vạch này và 30 mét trước đó, bạn không được vượt xe hay vượt lên."
+      },
+      "pt": {
+        "question": "Esta sinalização horizontal indica que ali há faixa para ciclistas.",
+        "explanation": "É o Kyosoku, Anexo 3(2), item 27. Nela e nos 30 metros anteriores não se ultrapassa nem se passa à frente."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免"
+  },
+  {
+    "id": "KM-110",
+    "category": "指示標示",
+    "kp": "付3-2-32",
+    "group": "D",
+    "source": "教則 付表3（2）32",
+    "question_type": "marking",
+    "qf": "QF-付3-2-32-A-N-01",
+    "image": {
+      "sign_no": "M205-A_実線",
+      "file": "M205-A_実線.svg",
+      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+      "file_verified": true
+    },
+    "question_ja": "この標示は、道路の中央か中央線であることを示している。",
+    "answer": true,
+    "explanation_ja": "教則付表3（2）32のとおりです。道路の中央以外の部分を道路の中央として指定する場合にも用いられます。",
+    "i18n": {
+      "zh": {
+        "question": "这个标示表示该处是道路的中央或中心线。",
+        "explanation": "符合教则附表3（2）32的规定。把道路中央以外的部分指定为道路中央时也使用它。"
+      },
+      "en": {
+        "question": "This road marking shows the centre of the road or the center line.",
+        "explanation": "This is Kyosoku Appendix 3(2) item 32. It is also used when a part other than the physical centre is designated as the centre."
+      },
+      "vi": {
+        "question": "Vạch kẻ đường này chỉ tim đường hoặc vạch giữa đường.",
+        "explanation": "Đúng theo Kyosoku Phụ lục 3(2) mục 32. Vạch này cũng dùng khi một phần khác được chỉ định làm tim đường."
+      },
+      "pt": {
+        "question": "Esta sinalização horizontal indica o centro da via ou a linha divisória central.",
+        "explanation": "É o Kyosoku, Anexo 3(2), item 32. Também se usa quando outra parte é designada como centro da via."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免"
+  },
+  {
+    "id": "KM-111",
+    "category": "指示標示",
+    "kp": "付3-2-25",
+    "group": "D",
+    "source": "教則 付表3（2）25",
+    "question_type": "marking",
+    "qf": "QF-付3-2-25-D-SS-01",
+    "image": {
+      "sign_no": "M201",
+      "file": "M201.svg",
+      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+      "file_verified": true
+    },
+    "question_ja": "この標示は、前方に横断歩道があることを知らせる警戒標示である。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則付表3（2）25のこの標示は、そこが横断歩道であることを示す指示標示です。",
+    "i18n": {
+      "zh": {
+        "question": "这个标示是告知前方有人行横道的警戒标示。",
+        "explanation": "错误。教则附表3（2）25的这个标示是表示该处是人行横道的指示标示。"
+      },
+      "en": {
+        "question": "This road marking is a warning marking telling you that there is a pedestrian crossing ahead.",
+        "explanation": "This is wrong. The marking in Kyosoku Appendix 3(2) item 25 is an indication marking showing that the place itself is a pedestrian crossing."
+      },
+      "vi": {
+        "question": "Vạch kẻ đường này là vạch cảnh báo cho biết phía trước có vạch sang đường cho người đi bộ.",
+        "explanation": "Sai. Vạch ở Kyosoku Phụ lục 3(2) mục 25 là vạch chỉ dẫn cho biết chính nơi đó là vạch sang đường."
+      },
+      "pt": {
+        "question": "Esta sinalização horizontal é de advertência e informa que há faixa de pedestres à frente.",
+        "explanation": "Está errado. A marcação do Kyosoku, Anexo 3(2), item 25, é de indicação e mostra que ali é a própria faixa de pedestres."
+      }
+    },
+    "trap_type": "SS",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免"
+  },
+  {
+    "id": "KM-112",
+    "category": "指示標示",
+    "kp": "付3-2-29",
+    "group": "D",
+    "source": "教則 付表3（2）29",
+    "question_type": "marking",
+    "qf": "QF-付3-2-29-D-SS-01",
+    "image": {
+      "sign_no": "M203",
+      "file": "M203.svg",
+      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+      "file_verified": true
+    },
+    "question_ja": "この標示は、二輪車と四輪車が別々に停止する位置であることを示している。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則付表3（2）29のこの標示は、車が停止する場合の位置であることを示す停止線です。二段停止線とは別の標示です。",
+    "i18n": {
+      "zh": {
+        "question": "这个标示表示二轮车和四轮车分别停止的位置。",
+        "explanation": "错误。教则附表3（2）29的这个标示是表示车辆停止时位置的停止线。它与二段停止线是不同的标示。"
+      },
+      "en": {
+        "question": "This road marking shows separate stopping positions for two-wheeled and four-wheeled vehicles.",
+        "explanation": "This is wrong. The marking in Kyosoku Appendix 3(2) item 29 is the stop line showing where a vehicle stops. It is a different marking from the two-stage stop line."
+      },
+      "vi": {
+        "question": "Vạch kẻ đường này chỉ vị trí dừng riêng cho xe hai bánh và xe bốn bánh.",
+        "explanation": "Sai. Vạch ở Kyosoku Phụ lục 3(2) mục 29 là vạch dừng chỉ vị trí xe phải dừng. Nó khác với vạch dừng hai bậc."
+      },
+      "pt": {
+        "question": "Esta sinalização horizontal indica posições de parada separadas para veículos de duas e quatro rodas.",
+        "explanation": "Está errado. A marcação do Kyosoku, Anexo 3(2), item 29, é a linha de parada que mostra onde o veículo para. É diferente da linha em dois níveis."
+      }
+    },
+    "trap_type": "SS",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免"
+  },
+  {
+    "id": "KM-113",
+    "category": "指示標示",
+    "kp": "付3-2-33",
+    "group": "D",
+    "source": "教則 付表3（2）33",
+    "question_type": "marking",
+    "qf": "QF-付3-2-33-D-SS-01",
+    "image": {
+      "sign_no": "M206-A_実線",
+      "file": "M206-A_実線.svg",
+      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+      "file_verified": true
+    },
+    "question_ja": "この標示は、道路の中央線であることを示している。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則付表3（2）33のこの標示は、4車線以上の道路の区間内の車線の境界であることを示す車線境界線です。",
+    "i18n": {
+      "zh": {
+        "question": "这个标示表示该处是道路的中心线。",
+        "explanation": "错误。教则附表3（2）33的这个标示是表示四车道以上道路区间内车道分界的车道分界线。"
+      },
+      "en": {
+        "question": "This road marking shows the center line of the road.",
+        "explanation": "This is wrong. The marking in Kyosoku Appendix 3(2) item 33 is the lane boundary line within a stretch of road with four or more lanes."
+      },
+      "vi": {
+        "question": "Vạch kẻ đường này chỉ vạch giữa đường.",
+        "explanation": "Sai. Vạch ở Kyosoku Phụ lục 3(2) mục 33 là vạch phân làn trong đoạn đường có từ bốn làn trở lên."
+      },
+      "pt": {
+        "question": "Esta sinalização horizontal indica a linha divisória central da via.",
+        "explanation": "Está errado. A marcação do Kyosoku, Anexo 3(2), item 33, é a linha de divisão de faixas em trechos de quatro ou mais faixas."
+      }
+    },
+    "trap_type": "SS",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免"
+  },
+  {
+    "id": "KM-114",
+    "category": "指示標示",
+    "kp": "付3-2-28",
+    "group": "D",
+    "source": "教則 付表3（2）28",
+    "question_type": "marking",
+    "qf": "QF-付3-2-28-D-EX-01",
+    "image": {
+      "sign_no": "M202",
+      "file": "M202.svg",
+      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+      "file_verified": true
+    },
+    "question_ja": "この標示のあるところでは、車はいつでも道路の右側部分を通行してよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則付表3（2）28のこの標示は、車が道路の中央から右の部分を通行することができることを示すもので、対向車に注意して通行します。",
+    "i18n": {
+      "zh": {
+        "question": "在有这个标示的地方，车辆任何时候都可以通行道路右侧部分。",
+        "explanation": "错误。教则附表3（2）28的这个标示表示车辆可以通行道路中央向右的部分，通行时要注意对向车。"
+      },
+      "en": {
+        "question": "Where this marking is present, a vehicle may use the right-hand side of the road at any time.",
+        "explanation": "This is wrong. The marking in Kyosoku Appendix 3(2) item 28 shows that a vehicle may travel to the right of the centre; you still watch for oncoming traffic."
+      },
+      "vi": {
+        "question": "Ở nơi có vạch này, xe lúc nào cũng được đi ở phần đường bên phải.",
+        "explanation": "Sai. Vạch ở Kyosoku Phụ lục 3(2) mục 28 cho biết xe được đi ở phần bên phải tim đường; bạn vẫn phải để ý xe ngược chiều."
+      },
+      "pt": {
+        "question": "Onde há esta marcação, o veículo pode usar o lado direito da via a qualquer momento.",
+        "explanation": "Está errado. A marcação do Kyosoku, Anexo 3(2), item 28, mostra que o veículo pode trafegar à direita do centro; ainda assim, atenção ao tráfego contrário."
+      }
+    },
+    "trap_type": "EX",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免"
+  },
+  {
+    "id": "KM-115",
+    "category": "指示標示",
+    "kp": "付3-2-34",
+    "group": "D",
+    "source": "教則 付表3（2）34",
+    "question_type": "marking",
+    "qf": "QF-付3-2-34-D-EI-01",
+    "image": {
+      "sign_no": "M207",
+      "file": "M207.svg",
+      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+      "file_verified": true
+    },
+    "question_ja": "この標示のある部分は、歩行者がいなければ車が入ってよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第2節7(3)により、安全地帯には車が入ってはいけません。",
+    "i18n": {
+      "zh": {
+        "question": "有这个标示的部分，只要没有步行者车辆就可以进入。",
+        "explanation": "错误。根据教则第5章第2节7(3)，车辆不得进入安全地带。"
+      },
+      "en": {
+        "question": "A vehicle may enter the part with this marking if no pedestrian is there.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 2 item 7(3) a vehicle must not enter a safety zone."
+      },
+      "vi": {
+        "question": "Xe được vào phần có vạch này nếu không có người đi bộ nào ở đó.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 2 điểm 7(3), xe không được đi vào khu vực an toàn."
+      },
+      "pt": {
+        "question": "O veículo pode entrar na parte com esta marcação se não houver pedestre ali.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 2, item 7(3), o veículo não deve entrar em zona de segurança."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免"
+  },
+  {
+    "id": "KM-116",
+    "category": "指示標示",
+    "kp": "付3-2-26",
+    "group": "D",
+    "source": "教則 付表3（2）26",
+    "question_type": "marking",
+    "qf": "QF-付3-2-26-D-EX-01",
+    "image": {
+      "sign_no": "M201-2-A",
+      "file": "M201-2-A.svg",
+      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+      "file_verified": true
+    },
+    "question_ja": "この標示のあるところでは、車も交差点を斜めに横切ることができる。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則付表3（2）26のこの標示は、歩行者及び遠隔操作型小型車が交差点で斜めに横断できることを示すものです。",
+    "i18n": {
+      "zh": {
+        "question": "在有这个标示的地方，车辆也可以斜着横穿交叉路口。",
+        "explanation": "错误。教则附表3（2）26的这个标示表示步行者及远程操作型小型车可以在交叉路口斜穿。"
+      },
+      "en": {
+        "question": "Where this marking is present, vehicles may also cut diagonally across the intersection.",
+        "explanation": "This is wrong. The marking in Kyosoku Appendix 3(2) item 26 shows that pedestrians and remotely operated small vehicles may cross the intersection diagonally."
+      },
+      "vi": {
+        "question": "Ở nơi có vạch này, xe cũng được cắt chéo qua nút giao thông.",
+        "explanation": "Sai. Vạch ở Kyosoku Phụ lục 3(2) mục 26 cho biết người đi bộ và xe cỡ nhỏ điều khiển từ xa được băng chéo qua nút giao."
+      },
+      "pt": {
+        "question": "Onde há esta marcação, os veículos também podem cortar o cruzamento na diagonal.",
+        "explanation": "Está errado. A marcação do Kyosoku, Anexo 3(2), item 26, indica que pedestres e veículos pequenos de operação remota podem atravessar o cruzamento na diagonal."
+      }
+    },
+    "trap_type": "EX",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免"
+  },
+  {
+    "id": "KM-117",
+    "category": "指示標示",
+    "kp": "付3-2-27",
+    "group": "D",
+    "source": "教則 付表3（2）27",
+    "question_type": "marking",
+    "qf": "QF-付3-2-27-D-NR-01",
+    "image": {
+      "sign_no": "M201-3",
+      "file": "M201-3.svg",
+      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+      "file_verified": true
+    },
+    "question_ja": "この標示のある場所とその手前から30メートル以内では、追越しは禁止されるが追抜きは禁止されない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第3節2(4)により、自転車横断帯とその手前から30メートル以内では、追越しも追抜きも禁止されます。",
+    "i18n": {
+      "zh": {
+        "question": "在有这个标示的场所及其跟前30米以内，超车被禁止，但超过（不变道）不被禁止。",
+        "explanation": "错误。根据教则第5章第3节2(4)，在自行车横穿带及其跟前30米以内，超车和超过都被禁止。"
+      },
+      "en": {
+        "question": "Within the place with this marking and the 30 metres before it, overtaking is prohibited but passing without changing lanes is not.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 3 item 2(4), both overtaking and passing are prohibited at a bicycle crossing and within the 30 metres before it."
+      },
+      "vi": {
+        "question": "Trong phạm vi nơi có vạch này và 30 mét trước đó, việc vượt xe bị cấm nhưng vượt lên không chuyển làn thì không.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 3 điểm 2(4), tại vạch sang đường cho xe đạp và 30 mét trước đó, cả vượt xe lẫn vượt lên đều bị cấm."
+      },
+      "pt": {
+        "question": "No local com esta marcação e nos 30 metros anteriores, ultrapassar é proibido, mas passar à frente sem mudar de faixa não é.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 3, item 2(4), na faixa para ciclistas e nos 30 metros anteriores ambos são proibidos."
+      }
+    },
+    "trap_type": "NR",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免"
+  },
+  {
+    "id": "KM-118",
+    "category": "指示標示",
+    "kp": "付3-2-31",
+    "group": "D",
+    "source": "教則 付表3（2）31",
+    "question_type": "marking",
+    "qf": "QF-付3-2-31-D-EI-01",
+    "image": {
+      "sign_no": "M204",
+      "file": "M204.svg",
+      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+      "file_verified": true
+    },
+    "question_ja": "この標示で示された方向以外にも、交通量が少なければ進行してよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第7節2(4)により、標示によって通行方法が指定されているときは、その指定に従わなければなりません。",
+    "i18n": {
+      "zh": {
+        "question": "除这个标示所示的方向以外，只要交通量少也可以行驶。",
+        "explanation": "错误。根据教则第5章第7节2(4)，由标示指定了通行方法时，必须按照该指定通行。"
+      },
+      "en": {
+        "question": "You may go in directions other than the one this marking shows when traffic is light.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 7 item 2(4) you must follow a specification given by a road marking."
+      },
+      "vi": {
+        "question": "Bạn được đi theo hướng khác ngoài hướng vạch này chỉ khi xe cộ thưa thớt.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 7 điểm 2(4), khi vạch kẻ đường chỉ định cách lưu thông thì bạn phải tuân theo."
+      },
+      "pt": {
+        "question": "Você pode seguir em direções diferentes da indicada por esta marcação quando há pouco trânsito.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 7, item 2(4), deve-se seguir a indicação dada pela sinalização horizontal."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免"
+  },
+  {
+    "id": "KM-119",
+    "category": "指示標示",
+    "kp": "付3-2-30",
+    "group": "D",
+    "source": "教則 付表3（2）30",
+    "question_type": "marking",
+    "qf": "QF-付3-2-30-D-SW-01",
+    "image": {
+      "sign_no": "M203-2",
+      "file": "M203-2.svg",
+      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+      "file_verified": true
+    },
+    "question_ja": "この標示のあるところでは、四輪車は前側の停止線で停止する。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則付表3（2）30のこの二段停止線では、前側が二輪車、後ろ側が四輪車の停止位置です。",
+    "i18n": {
+      "zh": {
+        "question": "在有这个标示的地方，四轮车在前侧的停止线停止。",
+        "explanation": "错误。教则附表3（2）30的这个二段停止线，前侧是二轮车、后侧是四轮车的停止位置。"
+      },
+      "en": {
+        "question": "Where this marking is present, four-wheeled vehicles stop at the forward stop line.",
+        "explanation": "This is wrong. On the two-stage stop line in Kyosoku Appendix 3(2) item 30 the forward line is for two-wheelers and the rear one for four-wheelers."
+      },
+      "vi": {
+        "question": "Ở nơi có vạch này, xe bốn bánh dừng ở vạch dừng phía trước.",
+        "explanation": "Sai. Ở vạch dừng hai bậc tại Kyosoku Phụ lục 3(2) mục 30, vạch trước dành cho xe hai bánh và vạch sau cho xe bốn bánh."
+      },
+      "pt": {
+        "question": "Onde há esta marcação, os veículos de quatro rodas param na linha da frente.",
+        "explanation": "Está errado. Na linha em dois níveis do Kyosoku, Anexo 3(2), item 30, a da frente é para motos e a de trás para carros."
+      }
+    },
+    "trap_type": "SW",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免"
+  },
+  {
+    "id": "KM-120",
+    "category": "指示標示",
+    "kp": "付3-2-32",
+    "group": "D",
+    "source": "教則 付表3（2）32",
+    "question_type": "marking",
+    "qf": "QF-付3-2-32-D-AB-01",
+    "image": {
+      "sign_no": "M205-C_二重実線",
+      "file": "M205-C_二重実線.svg",
+      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+      "file_verified": true
+    },
+    "question_ja": "この標示は、必ず道路の物理的な中央に引かれる。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則付表3（2）32により、道路の中央以外の部分を道路の中央として指定する場合にも用いられます。",
+    "i18n": {
+      "zh": {
+        "question": "这个标示必定画在道路的物理中央位置。",
+        "explanation": "错误。根据教则附表3（2）32，把道路中央以外的部分指定为道路中央时也使用它。"
+      },
+      "en": {
+        "question": "This road marking is always laid along the physical centre of the road.",
+        "explanation": "This is wrong. Under Kyosoku Appendix 3(2) item 32 it is also used when a part other than the physical centre is designated as the centre."
+      },
+      "vi": {
+        "question": "Vạch kẻ đường này luôn được kẻ đúng ở tim vật lý của con đường.",
+        "explanation": "Sai. Theo Kyosoku Phụ lục 3(2) mục 32, vạch này cũng dùng khi một phần khác được chỉ định làm tim đường."
+      },
+      "pt": {
+        "question": "Esta sinalização horizontal é sempre traçada no centro físico da via.",
+        "explanation": "Está errado. Pelo Kyosoku, Anexo 3(2), item 32, ela também se usa quando outra parte é designada como centro."
+      }
+    },
+    "trap_type": "AB",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免"
+  }
+]
