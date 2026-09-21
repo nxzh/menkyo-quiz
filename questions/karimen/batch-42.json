@@ -1,0 +1,662 @@
+[
+  {
+    "id": "K1-1-002",
+    "category": "基本的な心構え",
+    "kp": "1-1-1",
+    "group": "U",
+    "source": "教則 第1章第1節1",
+    "question_type": "text",
+    "qf": "QF-1-1-1-A-N-01",
+    "question_ja": "交通規則は、みんなが道路を安全、円滑に通行する上で守るべき共通の約束事として決められている。",
+    "answer": true,
+    "explanation_ja": "教則第1章第1節1のとおりです。交通規則を守ることは、社会人としての基本的な責務とされています。",
+    "i18n": {
+      "zh": {
+        "question": "交通规则是作为大家安全、顺畅通行道路时应当遵守的共同约定而制定的。",
+        "explanation": "符合教则第1章第1节1的规定。遵守交通规则被视为社会人的基本责任。"
+      },
+      "en": {
+        "question": "Traffic rules are set as the common promises everyone must keep so that all can use the road safely and smoothly.",
+        "explanation": "This is Kyosoku Chapter 1 Section 1 item 1. Keeping them is treated as a basic duty of a member of society."
+      },
+      "vi": {
+        "question": "Luật giao thông được đặt ra như những cam kết chung mà mọi người phải giữ để ai cũng đi lại an toàn và thông suốt.",
+        "explanation": "Đúng theo Kyosoku Chương 1 Mục 1 điểm 1. Việc tuân thủ được coi là trách nhiệm cơ bản của một thành viên xã hội."
+      },
+      "pt": {
+        "question": "As regras de trânsito são o acordo comum que todos devem cumprir para que a via seja usada com segurança e fluidez.",
+        "explanation": "É o Kyosoku, Capítulo 1, Seção 1, item 1. Cumpri-las é tratado como dever básico de quem vive em sociedade."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-1-003",
+    "category": "基本的な心構え",
+    "kp": "1-1-2",
+    "group": "U",
+    "source": "教則 第1章第1節2(1)",
+    "question_type": "text",
+    "qf": "QF-1-1-2-A-N-02",
+    "question_ja": "道路を通行するときは、周りの歩行者や車の動きに注意し、相手の立場について思いやりの気持ちを持って通行する。",
+    "answer": true,
+    "explanation_ja": "教則第1章第1節2(1)のとおりです。ほかの人が安全に通行できるように配慮することは、社会的責任でもあります。",
+    "i18n": {
+      "zh": {
+        "question": "通行道路时，要注意周围步行者和车辆的动向，怀着体谅对方立场的心情通行。",
+        "explanation": "符合教则第1章第1节2(1)的规定。照顾他人能够安全通行，也是一种社会责任。"
+      },
+      "en": {
+        "question": "When using the road, watch what pedestrians and vehicles around you are doing and travel with consideration for their position.",
+        "explanation": "This is Kyosoku Chapter 1 Section 1 item 2(1). Making room for others to travel safely is also a social responsibility."
+      },
+      "vi": {
+        "question": "Khi đi trên đường, hãy để ý người đi bộ và xe cộ xung quanh và đi lại với sự thông cảm cho hoàn cảnh của họ.",
+        "explanation": "Đúng theo Kyosoku Chương 1 Mục 1 điểm 2(1). Tạo điều kiện cho người khác đi lại an toàn cũng là trách nhiệm xã hội."
+      },
+      "pt": {
+        "question": "Ao usar a via, observe o que fazem pedestres e veículos ao redor e circule com consideração pela posição deles.",
+        "explanation": "É o Kyosoku, Capítulo 1, Seção 1, item 2(1). Permitir que os outros circulem com segurança também é responsabilidade social."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-1-004",
+    "category": "基本的な心構え",
+    "kp": "1-1-2",
+    "group": "U",
+    "source": "教則 第1章第1節2(2)",
+    "question_type": "text",
+    "qf": "QF-1-1-2-A-N-03",
+    "question_ja": "自分の通行の利便だけを考えるのではなく、沿道で生活している人々に不愉快な騒音などの迷惑を掛けないように配慮する。",
+    "answer": true,
+    "explanation_ja": "教則第1章第1節2(2)のとおりです。騒音運転の禁止は、これを具体化したものです。",
+    "i18n": {
+      "zh": {
+        "question": "不要只考虑自己通行的便利，要照顾到不给沿路生活的人们造成令人不快的噪音等困扰。",
+        "explanation": "符合教则第1章第1节2(2)的规定。禁止噪音驾驶就是这一点的具体化。"
+      },
+      "en": {
+        "question": "Do not think only of your own convenience in travelling; take care not to trouble people living along the road with unpleasant noise and the like.",
+        "explanation": "This is Kyosoku Chapter 1 Section 1 item 2(2). The ban on noisy driving puts this into concrete form."
+      },
+      "vi": {
+        "question": "Đừng chỉ nghĩ đến sự thuận tiện của mình; hãy chú ý đừng làm phiền người sống dọc đường bằng tiếng ồn khó chịu và những thứ tương tự.",
+        "explanation": "Đúng theo Kyosoku Chương 1 Mục 1 điểm 2(2). Lệnh cấm lái xe gây ồn chính là sự cụ thể hóa điều này."
+      },
+      "pt": {
+        "question": "Não pense só na própria conveniência; cuide para não incomodar quem mora ao longo da via com ruído desagradável e afins.",
+        "explanation": "É o Kyosoku, Capítulo 1, Seção 1, item 2(2). A proibição de dirigir ruidosamente concretiza esse ponto."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-1-005",
+    "category": "基本的な心構え",
+    "kp": "1-1-2",
+    "group": "U",
+    "source": "教則 第1章第1節2(4)",
+    "question_type": "text",
+    "qf": "QF-1-1-2-A-N-04",
+    "question_ja": "交通事故や故障で困っている人を見たら、連絡や救護に当たるなど、お互いに協力しあう。",
+    "answer": true,
+    "explanation_ja": "教則第1章第1節2(4)のとおりです。運転者としての社会的責任の一つです。",
+    "i18n": {
+      "zh": {
+        "question": "看到因交通事故或故障而为难的人时，要进行联络和救护等，互相协作。",
+        "explanation": "符合教则第1章第1节2(4)的规定。这是作为驾驶人的社会责任之一。"
+      },
+      "en": {
+        "question": "When you see someone in trouble from a traffic accident or a breakdown, help each other out by calling for help or giving aid.",
+        "explanation": "This is Kyosoku Chapter 1 Section 1 item 2(4). It is one of a driver's social responsibilities."
+      },
+      "vi": {
+        "question": "Khi thấy ai đó gặp khó vì tai nạn giao thông hay hỏng xe, hãy giúp nhau bằng cách gọi hỗ trợ hoặc cứu giúp.",
+        "explanation": "Đúng theo Kyosoku Chương 1 Mục 1 điểm 2(4). Đó là một trong những trách nhiệm xã hội của người lái xe."
+      },
+      "pt": {
+        "question": "Ao ver alguém em apuros por acidente ou pane, ajudem-se mutuamente avisando ou prestando socorro.",
+        "explanation": "É o Kyosoku, Capítulo 1, Seção 1, item 2(4). É uma das responsabilidades sociais do condutor."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-1-006",
+    "category": "基本的な心構え",
+    "kp": "1-1-2",
+    "group": "U",
+    "source": "教則 第1章第1節2(5)",
+    "question_type": "text",
+    "qf": "QF-1-1-2-A-N-05",
+    "question_ja": "歩行者や自転車に乗る人も、自動車の死角や内輪差など自動車の特性をよく知っておく必要がある。",
+    "answer": true,
+    "explanation_ja": "教則第1章第1節2(5)のとおりです。運転者だけの心得ではありません。",
+    "i18n": {
+      "zh": {
+        "question": "步行者和骑自行车的人，也需要充分了解汽车的盲区、内轮差等汽车特性。",
+        "explanation": "符合教则第1章第1节2(5)的规定。这不只是驾驶人的须知。"
+      },
+      "en": {
+        "question": "Pedestrians and cyclists also need a good understanding of what cars are like, including blind spots and the inner wheel difference.",
+        "explanation": "This is Kyosoku Chapter 1 Section 1 item 2(5). It is not a rule for drivers alone."
+      },
+      "vi": {
+        "question": "Người đi bộ và người đi xe đạp cũng cần hiểu rõ đặc điểm của ô tô, gồm điểm mù và chênh lệch vòng bánh trong.",
+        "explanation": "Đúng theo Kyosoku Chương 1 Mục 1 điểm 2(5). Đây không phải điều chỉ dành cho người lái xe."
+      },
+      "pt": {
+        "question": "Pedestres e ciclistas também precisam conhecer bem as características do automóvel, como pontos cegos e a diferença de trajetória das rodas.",
+        "explanation": "É o Kyosoku, Capítulo 1, Seção 1, item 2(5). Não é regra só para condutores."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-1-007",
+    "category": "基本的な心構え",
+    "kp": "1-1-2",
+    "group": "U",
+    "source": "教則 第1章第1節2(6)",
+    "question_type": "text",
+    "qf": "QF-1-1-2-D-AB-01",
+    "question_ja": "特定自動運行中の自動運転車には、必ず運転者が乗っている。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第1章第1節2(6)により、特定自動運行中の自動運転車には運転者がいないことや、道路上で突然停止することがあります。",
+    "i18n": {
+      "zh": {
+        "question": "处于特定自动运行中的自动驾驶车辆，车上必定有驾驶人。",
+        "explanation": "错误。根据教则第1章第1节2(6)，处于特定自动运行中的自动驾驶车辆可能没有驾驶人，也可能在道路上突然停止。"
+      },
+      "en": {
+        "question": "An automated vehicle under specified automated operation always has a driver aboard.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 1 Section 1 item 2(6) such a vehicle may have no driver aboard and may stop suddenly on the road."
+      },
+      "vi": {
+        "question": "Xe tự lái đang vận hành tự động đặc định luôn có người lái trên xe.",
+        "explanation": "Sai. Theo Kyosoku Chương 1 Mục 1 điểm 2(6), xe như vậy có thể không có người lái và có thể dừng đột ngột trên đường."
+      },
+      "pt": {
+        "question": "O veículo autônomo em operação automatizada específica sempre tem um condutor a bordo.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 1, Seção 1, item 2(6), esse veículo pode não ter condutor a bordo e parar de repente na via."
+      }
+    },
+    "trap_type": "AB",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-1-008",
+    "category": "基本的な心構え",
+    "kp": "1-1-2",
+    "group": "U",
+    "source": "教則 第1章第1節2(7)",
+    "question_type": "text",
+    "qf": "QF-1-1-2-A-N-07",
+    "question_ja": "遠隔操作型小型車については、通行させている人が近くにいないこともあり、道路上で突然停止することがあることをよく知っておく。",
+    "answer": true,
+    "explanation_ja": "教則第1章第1節2(7)のとおりです。近くに人がいないからといって、無視してよいものではありません。",
+    "i18n": {
+      "zh": {
+        "question": "对于远程操作型小型车，要充分了解操作它通行的人有时并不在附近，以及它可能在道路上突然停止。",
+        "explanation": "符合教则第1章第1节2(7)的规定。并不能因为附近没有人就可以无视它。"
+      },
+      "en": {
+        "question": "Bear in mind that the person operating a remotely operated small vehicle may not be nearby and that it may stop suddenly on the road.",
+        "explanation": "This is Kyosoku Chapter 1 Section 1 item 2(7). Nobody being nearby does not make it something you can ignore."
+      },
+      "vi": {
+        "question": "Hãy nhớ rằng người điều khiển xe cỡ nhỏ từ xa có thể không ở gần đó và xe có thể dừng đột ngột trên đường.",
+        "explanation": "Đúng theo Kyosoku Chương 1 Mục 1 điểm 2(7). Việc không có ai ở gần không có nghĩa là bạn được phớt lờ nó."
+      },
+      "pt": {
+        "question": "Tenha em mente que quem opera um veículo pequeno por controle remoto pode não estar por perto e que ele pode parar de repente na via.",
+        "explanation": "É o Kyosoku, Capítulo 1, Seção 1, item 2(7). Não haver ninguém por perto não o torna algo a ignorar."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-4-009",
+    "category": "道路でしてはいけないこと",
+    "kp": "1-4-1",
+    "group": "U",
+    "source": "教則 第1章第4節1(1)",
+    "question_type": "text",
+    "qf": "QF-1-4-1-A-N-02",
+    "question_ja": "道路上で酒に酔ってふらついたり、立ち話をしたり、座ったり寝そべったりして交通の妨げとなってはいけない。",
+    "answer": true,
+    "explanation_ja": "教則第1章第4節1(1)のとおりです。運転していない人にも掛かる決まりです。",
+    "i18n": {
+      "zh": {
+        "question": "不得在道路上醉酒摇晃、站着交谈、坐下或躺卧而妨碍交通。",
+        "explanation": "符合教则第1章第4节1(1)的规定。这是对不驾驶的人也适用的规定。"
+      },
+      "en": {
+        "question": "You must not obstruct traffic on the road by staggering about drunk, standing around talking, sitting down or lying down.",
+        "explanation": "This is Kyosoku Chapter 1 Section 4 item 1(1). The rule binds people who are not driving as well."
+      },
+      "vi": {
+        "question": "Bạn không được cản trở giao thông trên đường bằng cách say rượu loạng choạng, đứng nói chuyện, ngồi xuống hay nằm ra.",
+        "explanation": "Đúng theo Kyosoku Chương 1 Mục 4 điểm 1(1). Quy định này ràng buộc cả người không lái xe."
+      },
+      "pt": {
+        "question": "Você não deve atrapalhar o trânsito cambaleando bêbado, parando para conversar, sentando ou deitando na via.",
+        "explanation": "É o Kyosoku, Capítulo 1, Seção 4, item 1(1). A regra obriga também quem não está dirigindo."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-4-010",
+    "category": "道路でしてはいけないこと",
+    "kp": "1-4-1",
+    "group": "U",
+    "source": "教則 第1章第4節1(6)",
+    "question_type": "text",
+    "qf": "QF-1-4-1-A-N-03",
+    "question_ja": "走っている車や路面電車に外からつかまってはいけない。",
+    "answer": true,
+    "explanation_ja": "教則第1章第4節1(6)のとおりです。転倒すれば、そのまま後続車にひかれるおそれがあります。",
+    "i18n": {
+      "zh": {
+        "question": "不得从外部抓住行驶中的车辆或路面电车。",
+        "explanation": "符合教则第1章第4节1(6)的规定。一旦摔倒，就有被后车碾压的危险。"
+      },
+      "en": {
+        "question": "You must not grab hold of a moving vehicle or streetcar (tram) from outside.",
+        "explanation": "This is Kyosoku Chapter 1 Section 4 item 1(6). If you fall, the vehicle behind may run over you."
+      },
+      "vi": {
+        "question": "Bạn không được bám vào xe hay tàu điện mặt đất đang chạy từ bên ngoài.",
+        "explanation": "Đúng theo Kyosoku Chương 1 Mục 4 điểm 1(6). Nếu ngã, bạn có thể bị xe phía sau cán qua."
+      },
+      "pt": {
+        "question": "Você não deve se agarrar por fora a um veículo ou bonde em movimento.",
+        "explanation": "É o Kyosoku, Capítulo 1, Seção 4, item 1(6). Se cair, o veículo de trás pode atropelá-lo."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-4-011",
+    "category": "道路でしてはいけないこと",
+    "kp": "1-4-1",
+    "group": "U",
+    "source": "教則 第1章第4節1(7)",
+    "question_type": "text",
+    "qf": "QF-1-4-1-A-N-04",
+    "question_ja": "運転者の目をくらませるような光を道路に向けてはいけない。",
+    "answer": true,
+    "explanation_ja": "教則第1章第4節1(7)のとおりです。一瞬でも視界を失えば、重大な事故につながります。",
+    "i18n": {
+      "zh": {
+        "question": "不得把会使驾驶人目眩的光照向道路。",
+        "explanation": "符合教则第1章第4节1(7)的规定。哪怕一瞬间失去视野，都可能导致重大事故。"
+      },
+      "en": {
+        "question": "You must not shine a light towards the road that would dazzle a driver.",
+        "explanation": "This is Kyosoku Chapter 1 Section 4 item 1(7). Losing sight even for a moment can lead to a serious accident."
+      },
+      "vi": {
+        "question": "Bạn không được chiếu ánh sáng gây chói mắt người lái xe về phía đường.",
+        "explanation": "Đúng theo Kyosoku Chương 1 Mục 4 điểm 1(7). Mất tầm nhìn dù chỉ một khoảnh khắc cũng có thể dẫn tới tai nạn nghiêm trọng."
+      },
+      "pt": {
+        "question": "Você não deve apontar para a via uma luz que ofusque um condutor.",
+        "explanation": "É o Kyosoku, Capítulo 1, Seção 4, item 1(7). Perder a visão por um instante já pode causar um acidente grave."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-1-009",
+    "category": "基本的な心構え",
+    "kp": "1-1-2",
+    "group": "U",
+    "source": "教則 第1章第1節2(3)",
+    "question_type": "text",
+    "qf": "QF-1-1-2-D-EI-01",
+    "question_ja": "応急救護処置の知識は救急隊員が持っていればよく、運転者が身に付ける必要はない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第1章第1節2(3)により、万一の場合に備えて、応急救護処置に必要な知識を身に付けておくこととされています。",
+    "i18n": {
+      "zh": {
+        "question": "急救处置的知识只要急救队员掌握就可以，驾驶人不需要掌握。",
+        "explanation": "错误。根据教则第1章第1节2(3)，为防万一，规定驾驶人也要掌握急救处置所需的知识。"
+      },
+      "en": {
+        "question": "Knowledge of emergency first aid is for ambulance crews; a driver need not acquire it.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 1 Section 1 item 2(3) a driver is to acquire the knowledge needed for emergency first aid as a precaution."
+      },
+      "vi": {
+        "question": "Kiến thức sơ cứu là việc của nhân viên cứu thương; người lái xe không cần nắm.",
+        "explanation": "Sai. Theo Kyosoku Chương 1 Mục 1 điểm 2(3), người lái xe cần có kiến thức sơ cứu để phòng bất trắc."
+      },
+      "pt": {
+        "question": "O conhecimento de primeiros socorros é dos socorristas; o condutor não precisa adquiri-lo.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 1, Seção 1, item 2(3), o condutor deve adquirir esse conhecimento por precaução."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-1-010",
+    "category": "基本的な心構え",
+    "kp": "1-1-2",
+    "group": "U",
+    "source": "教則 第1章第1節2(5)",
+    "question_type": "text",
+    "qf": "QF-1-1-2-D-NR-01",
+    "question_ja": "自動車の死角や内輪差を知っておくべきなのは、自動車の運転者だけである。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第1章第1節2(5)により、歩行者や特定小型原動機付自転車、自転車に乗る人も知っておくこととされています。",
+    "i18n": {
+      "zh": {
+        "question": "应当了解汽车盲区和内轮差的，只有汽车驾驶人。",
+        "explanation": "错误。根据教则第1章第1节2(5)，步行者以及骑特定小型轻型摩托车、自行车的人也应当了解。"
+      },
+      "en": {
+        "question": "Only drivers of cars need to know about blind spots and the inner wheel difference.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 1 Section 1 item 2(5) pedestrians and people riding specified small motorized bicycles and bicycles are to know about them too."
+      },
+      "vi": {
+        "question": "Chỉ người lái ô tô mới cần biết về điểm mù và chênh lệch vòng bánh trong.",
+        "explanation": "Sai. Theo Kyosoku Chương 1 Mục 1 điểm 2(5), người đi bộ và người đi xe gắn máy cỡ nhỏ đặc định, xe đạp cũng cần biết."
+      },
+      "pt": {
+        "question": "Só os condutores de automóveis precisam conhecer pontos cegos e a diferença de trajetória das rodas.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 1, Seção 1, item 2(5), pedestres e quem anda de ciclomotor pequeno especificado ou bicicleta também devem conhecê-los."
+      }
+    },
+    "trap_type": "NR",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-1-011",
+    "category": "基本的な心構え",
+    "kp": "1-1-1",
+    "group": "U",
+    "source": "教則 第1章第1節1",
+    "question_type": "text",
+    "qf": "QF-1-1-1-D-EI-01",
+    "question_ja": "交通規則は交通が混雑する場所についてだけ決められたもので、交通量の少ない道路では守らなくてよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第1章第1節1により、交通規則はみんなが道路を安全、円滑に通行する上で守るべき共通の約束事です。",
+    "i18n": {
+      "zh": {
+        "question": "交通规则只是针对交通拥挤的场所制定的，在交通量少的道路上可以不遵守。",
+        "explanation": "错误。根据教则第1章第1节1，交通规则是大家安全、顺畅通行道路时应当遵守的共同约定。"
+      },
+      "en": {
+        "question": "Traffic rules are made only for congested places and need not be kept on a quiet road.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 1 Section 1 item 1 they are the common promises everyone must keep so that all can use the road safely and smoothly."
+      },
+      "vi": {
+        "question": "Luật giao thông chỉ đặt ra cho những nơi đông đúc và không cần tuân thủ trên đường vắng.",
+        "explanation": "Sai. Theo Kyosoku Chương 1 Mục 1 điểm 1, đó là những cam kết chung mà mọi người phải giữ để đi lại an toàn và thông suốt."
+      },
+      "pt": {
+        "question": "As regras de trânsito valem só para locais congestionados e não precisam ser cumpridas em via tranquila.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 1, Seção 1, item 1, elas são o acordo comum para que todos usem a via com segurança e fluidez."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-4-012",
+    "category": "道路でしてはいけないこと",
+    "kp": "1-4-1",
+    "group": "U",
+    "source": "教則 第1章第4節1(8)",
+    "question_type": "text",
+    "qf": "QF-1-4-1-D-EI-02",
+    "question_ja": "凍り付くおそれのあるときでも、道路に水をまくことは禁じられていない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第1章第4節1(8)により、凍り付くおそれのあるときに水をまいてはいけません。",
+    "i18n": {
+      "zh": {
+        "question": "即使在有结冰之虞时，也没有禁止向道路洒水。",
+        "explanation": "错误。根据教则第1章第4节1(8)，有结冰之虞时不得洒水。"
+      },
+      "en": {
+        "question": "Sprinkling water on the road is not prohibited even when it may freeze.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 1 Section 4 item 1(8) you must not sprinkle water when it may freeze."
+      },
+      "vi": {
+        "question": "Việc tưới nước ra đường không bị cấm ngay cả khi có nguy cơ đóng băng.",
+        "explanation": "Sai. Theo Kyosoku Chương 1 Mục 4 điểm 1(8), bạn không được tưới nước khi có nguy cơ đóng băng."
+      },
+      "pt": {
+        "question": "Jogar água na via não é proibido nem quando ela pode congelar.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 1, Seção 4, item 1(8), não se joga água quando há risco de congelamento."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-4-013",
+    "category": "道路でしてはいけないこと",
+    "kp": "1-4-1",
+    "group": "U",
+    "source": "教則 第1章第4節1(3)",
+    "question_type": "text",
+    "qf": "QF-1-4-1-D-EI-03",
+    "question_ja": "道路に向けて物を投げたり発射したりすることは、人に当たらなければ差し支えない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第1章第4節1(3)は、道路に向けて物を投げたり発射したりすること自体を禁じています。",
+    "i18n": {
+      "zh": {
+        "question": "朝道路投掷或发射物品，只要没打到人就没有关系。",
+        "explanation": "错误。教则第1章第4节1(3)禁止的是朝道路投掷或发射物品这一行为本身。"
+      },
+      "en": {
+        "question": "Throwing or firing something towards the road is acceptable as long as it hits nobody.",
+        "explanation": "This is wrong. Kyosoku Chapter 1 Section 4 item 1(3) forbids throwing or firing anything towards the road at all."
+      },
+      "vi": {
+        "question": "Ném hay bắn vật gì về phía đường cũng không sao miễn là không trúng ai.",
+        "explanation": "Sai. Kyosoku Chương 1 Mục 4 điểm 1(3) cấm chính hành vi ném hay bắn vật về phía đường."
+      },
+      "pt": {
+        "question": "Jogar ou atirar algo em direção à via não tem problema desde que não acerte ninguém.",
+        "explanation": "Está errado. O Kyosoku, Capítulo 1, Seção 4, item 1(3), proíbe o próprio ato de jogar ou atirar algo na via."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-1-012",
+    "category": "基本的な心構え",
+    "kp": "1-1-2",
+    "group": "U",
+    "source": "教則 第1章第1節2(6)",
+    "question_type": "text",
+    "qf": "QF-1-1-2-D-EI-02",
+    "question_ja": "自動運転車は自動運行装置が運転するので、運転者が前方を見ていないことはない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第1章第1節2(6)により、自動運転車は運転者が前方を見ないで使われることもあることを知っておく必要があります。",
+    "i18n": {
+      "zh": {
+        "question": "自动驾驶车辆由自动运行装置驾驶，所以不会出现驾驶人不看前方的情况。",
+        "explanation": "错误。根据教则第1章第1节2(6)，需要了解自动驾驶车辆也可能在驾驶人不看前方的状态下被使用。"
+      },
+      "en": {
+        "question": "Because an automated driving device drives an automated vehicle, its driver is never not watching the road ahead.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 1 Section 1 item 2(6) you need to know that automated vehicles may be used with the driver not watching the road ahead."
+      },
+      "vi": {
+        "question": "Vì thiết bị lái tự động điều khiển xe tự lái nên không có chuyện người lái không nhìn phía trước.",
+        "explanation": "Sai. Theo Kyosoku Chương 1 Mục 1 điểm 2(6), bạn cần biết rằng xe tự lái có thể được dùng khi người lái không nhìn phía trước."
+      },
+      "pt": {
+        "question": "Como o dispositivo automatizado conduz o veículo autônomo, seu condutor nunca deixa de olhar a via.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 1, Seção 1, item 2(6), é preciso saber que esses veículos podem ser usados sem o condutor olhando à frente."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-1-013",
+    "category": "基本的な心構え",
+    "kp": "1-1-2",
+    "group": "U",
+    "source": "教則 第1章第1節2(7)",
+    "question_type": "text",
+    "qf": "QF-1-1-2-D-AB-02",
+    "question_ja": "遠隔操作型小型車は、必ず通行させている人が近くにいる。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第1章第1節2(7)により、通行させている人が近くにいないこともあります。",
+    "i18n": {
+      "zh": {
+        "question": "远程操作型小型车，操作它通行的人必定在附近。",
+        "explanation": "错误。根据教则第1章第1节2(7)，操作它通行的人有时并不在附近。"
+      },
+      "en": {
+        "question": "The person operating a remotely operated small vehicle is always nearby.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 1 Section 1 item 2(7) that person may not be nearby."
+      },
+      "vi": {
+        "question": "Người điều khiển xe cỡ nhỏ từ xa luôn ở gần đó.",
+        "explanation": "Sai. Theo Kyosoku Chương 1 Mục 1 điểm 2(7), người đó có thể không ở gần."
+      },
+      "pt": {
+        "question": "Quem opera um veículo pequeno por controle remoto está sempre por perto.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 1, Seção 1, item 2(7), essa pessoa pode não estar por perto."
+      }
+    },
+    "trap_type": "AB",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-4-014",
+    "category": "道路でしてはいけないこと",
+    "kp": "1-4-1",
+    "group": "U",
+    "source": "教則 第1章第4節1(1)",
+    "question_type": "text",
+    "qf": "QF-1-4-1-D-EI-09",
+    "question_ja": "道路上で座ったり寝そべったりすることは、交通の妨げとなる場合でも禁じられていない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第1章第4節1(1)により、座ったり寝そべったりして交通の妨げとなってはいけません。",
+    "i18n": {
+      "zh": {
+        "question": "在道路上坐下或躺卧，即使会妨碍交通也没有被禁止。",
+        "explanation": "错误。根据教则第1章第4节1(1)，不得坐下或躺卧而妨碍交通。"
+      },
+      "en": {
+        "question": "Sitting or lying down on the road is not prohibited, even where it obstructs traffic.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 1 Section 4 item 1(1) you must not obstruct traffic by sitting or lying down."
+      },
+      "vi": {
+        "question": "Ngồi hay nằm trên đường không bị cấm, kể cả khi điều đó cản trở giao thông.",
+        "explanation": "Sai. Theo Kyosoku Chương 1 Mục 4 điểm 1(1), bạn không được cản trở giao thông bằng cách ngồi hay nằm."
+      },
+      "pt": {
+        "question": "Sentar ou deitar na via não é proibido, mesmo quando isso atrapalha o trânsito.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 1, Seção 4, item 1(1), não se deve atrapalhar o trânsito sentando ou deitando."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-4-015",
+    "category": "道路でしてはいけないこと",
+    "kp": "1-4-1",
+    "group": "U",
+    "source": "教則 第1章第4節1(6)",
+    "question_type": "text",
+    "qf": "QF-1-4-1-D-SC-02",
+    "question_ja": "自転車で走っている車につかまって走れば、楽に速く進めるので効率がよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第1章第4節1(6)により、走っている車や路面電車に外からつかまってはいけません。",
+    "i18n": {
+      "zh": {
+        "question": "骑自行车抓住行驶中的车辆前进，既省力又快，效率高。",
+        "explanation": "错误。根据教则第1章第4节1(6)，不得从外部抓住行驶中的车辆或路面电车。"
+      },
+      "en": {
+        "question": "Holding onto a moving vehicle while riding a bicycle is efficient, since you get along fast with little effort.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 1 Section 4 item 1(6) you must not grab hold of a moving vehicle or streetcar (tram) from outside."
+      },
+      "vi": {
+        "question": "Bám vào xe đang chạy khi đi xe đạp là cách hiệu quả vì vừa nhanh vừa đỡ sức.",
+        "explanation": "Sai. Theo Kyosoku Chương 1 Mục 4 điểm 1(6), bạn không được bám vào xe hay tàu điện đang chạy từ bên ngoài."
+      },
+      "pt": {
+        "question": "Segurar-se num veículo em movimento enquanto pedala é eficiente, pois você avança rápido com pouco esforço.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 1, Seção 4, item 1(6), não se deve agarrar por fora um veículo ou bonde em movimento."
+      }
+    },
+    "trap_type": "SC",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K1-1-014",
+    "category": "基本的な心構え",
+    "kp": "1-1-2",
+    "group": "U",
+    "source": "教則 第1章第1節2(8)",
+    "question_type": "text",
+    "qf": "QF-1-1-2-A-N-08",
+    "question_ja": "道路に物を投げ捨てたり勝手に物を置いたりすることは、周りの人の通行の妨害や迷惑になるので、してはいけない。",
+    "answer": true,
+    "explanation_ja": "教則第1章第1節2(8)のとおりです。第1章第4節にも、同じ趣旨の具体的な禁止が並んでいます。",
+    "i18n": {
+      "zh": {
+        "question": "向道路乱扔物品或擅自放置物品，会妨碍和困扰周围人的通行，所以不得这样做。",
+        "explanation": "符合教则第1章第1节2(8)的规定。第1章第4节也列有相同宗旨的具体禁止规定。"
+      },
+      "en": {
+        "question": "You must not throw things away on the road or leave things there without permission, since it obstructs and inconveniences other people.",
+        "explanation": "This is Kyosoku Chapter 1 Section 1 item 2(8). Chapter 1 Section 4 sets out concrete prohibitions to the same effect."
+      },
+      "vi": {
+        "question": "Bạn không được vứt đồ ra đường hay tự ý để đồ ở đó, vì điều đó cản trở và gây phiền cho người khác.",
+        "explanation": "Đúng theo Kyosoku Chương 1 Mục 1 điểm 2(8). Chương 1 Mục 4 nêu những lệnh cấm cụ thể cùng tinh thần đó."
+      },
+      "pt": {
+        "question": "Você não deve jogar objetos na via nem deixá-los ali por conta própria, pois isso atrapalha e incomoda os demais.",
+        "explanation": "É o Kyosoku, Capítulo 1, Seção 1, item 2(8). O Capítulo 1, Seção 4, traz proibições concretas no mesmo sentido."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  }
+]
