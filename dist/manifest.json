@@ -1,0 +1,171 @@
+{
+  "content_version": 1,
+  "counts": {
+    "free": 120,
+    "full": 880,
+    "total": 1000
+  },
+  "dev_key": true,
+  "generated_at": "2026-09-22",
+  "hidden_ids": [],
+  "languages": [
+    "ja",
+    "en",
+    "zh-Hans",
+    "vi",
+    "pt-BR"
+  ],
+  "law_revision_date": "2026-09-01",
+  "min_app_version": "1.0.0",
+  "packs": [
+    {
+      "bytes": 30720,
+      "id": "core-free",
+      "kind": "core",
+      "lang": null,
+      "payload_sha256": "23aaa58f12f65fd1b42c9ad18ce310998fb0c077923f83571dcf0624aeb4fdd0",
+      "sha256": "23aaa58f12f65fd1b42c9ad18ce310998fb0c077923f83571dcf0624aeb4fdd0",
+      "tier": "free",
+      "url": "https://raw.githubusercontent.com/nxzh/menkyo-quiz/main/dist/core-free.json",
+      "version": 1
+    },
+    {
+      "bytes": 226754,
+      "encrypted": true,
+      "id": "core-full",
+      "kind": "core",
+      "lang": null,
+      "payload_sha256": "3847414b1b653609fb041ddde4fb71c0970ae2c072d3f2603d061602b3caebfb",
+      "sha256": "d92062a4f1fdcf5777a985329a361d263722555241bb949f7bf586754cc0b067",
+      "tier": "full",
+      "url": null,
+      "version": 1
+    },
+    {
+      "bytes": 35113,
+      "id": "en-free",
+      "kind": "lang",
+      "lang": "en",
+      "payload_sha256": "f6ad1a114f8e28fbbadec0497f5c9e39edf11e018a1759c6e20704674edaf200",
+      "sha256": "f6ad1a114f8e28fbbadec0497f5c9e39edf11e018a1759c6e20704674edaf200",
+      "tier": "free",
+      "url": "https://raw.githubusercontent.com/nxzh/menkyo-quiz/main/dist/en-free.json",
+      "version": 1
+    },
+    {
+      "bytes": 252291,
+      "encrypted": true,
+      "id": "en-full",
+      "kind": "lang",
+      "lang": "en",
+      "payload_sha256": "f008e7c834ec8a45ad3e62ea070f9deda7ce025968acf6b3422e27f91f8510b4",
+      "sha256": "187b8a2c775b231ddfd6aa8ab5e1d6e2cd11224d688d761b0d8c53b87dadb545",
+      "tier": "full",
+      "url": null,
+      "version": 1
+    },
+    {
+      "bytes": 39756,
+      "id": "ja-free",
+      "kind": "lang",
+      "lang": "ja",
+      "payload_sha256": "17de3aac4660528353c15f6efdb6f940e549822e044c7e2022d8eee82bb6a18a",
+      "sha256": "17de3aac4660528353c15f6efdb6f940e549822e044c7e2022d8eee82bb6a18a",
+      "tier": "free",
+      "url": "https://raw.githubusercontent.com/nxzh/menkyo-quiz/main/dist/ja-free.json",
+      "version": 1
+    },
+    {
+      "bytes": 286409,
+      "encrypted": true,
+      "id": "ja-full",
+      "kind": "lang",
+      "lang": "ja",
+      "payload_sha256": "f6cad74026ba25ebd8ff6c97b4cbb7a3fb85cd2e6a8b987a20a97364d04d19ab",
+      "sha256": "20be8b586f9675c34cf74ad3975feba2f31e3b9bc230f616643ce2d7f34dfbef",
+      "tier": "full",
+      "url": null,
+      "version": 1
+    },
+    {
+      "bytes": 34767,
+      "id": "pt-BR-free",
+      "kind": "lang",
+      "lang": "pt-BR",
+      "payload_sha256": "c63cf7773caadd78da5455a241a8884672a2169aad1ae3f3ba6ff01bcc3b6c07",
+      "sha256": "c63cf7773caadd78da5455a241a8884672a2169aad1ae3f3ba6ff01bcc3b6c07",
+      "tier": "free",
+      "url": "https://raw.githubusercontent.com/nxzh/menkyo-quiz/main/dist/pt-BR-free.json",
+      "version": 1
+    },
+    {
+      "bytes": 250956,
+      "encrypted": true,
+      "id": "pt-BR-full",
+      "kind": "lang",
+      "lang": "pt-BR",
+      "payload_sha256": "b14a58ad31fcc3ecb8f0b1e389f0a1c7f97c1d028a9800ab14d18512a107384b",
+      "sha256": "7ddd5a802dfb2fa12c1d4eaee7c93f6fae972a7dab9ace538dfeaaf90ac6b946",
+      "tier": "full",
+      "url": null,
+      "version": 1
+    },
+    {
+      "bytes": 14160,
+      "id": "taxonomy",
+      "kind": "taxonomy",
+      "lang": null,
+      "payload_sha256": "9e06b52e508cb63d667c5abea01f7dffeda9b88c0df6190db460f68a72b08ec0",
+      "sha256": "9e06b52e508cb63d667c5abea01f7dffeda9b88c0df6190db460f68a72b08ec0",
+      "tier": "free",
+      "url": "https://raw.githubusercontent.com/nxzh/menkyo-quiz/main/dist/taxonomy.json",
+      "version": 1
+    },
+    {
+      "bytes": 38904,
+      "id": "vi-free",
+      "kind": "lang",
+      "lang": "vi",
+      "payload_sha256": "33c30f44961327faa726d69010d94bd827811ee172748d9dbee94cf57af567da",
+      "sha256": "33c30f44961327faa726d69010d94bd827811ee172748d9dbee94cf57af567da",
+      "tier": "free",
+      "url": "https://raw.githubusercontent.com/nxzh/menkyo-quiz/main/dist/vi-free.json",
+      "version": 1
+    },
+    {
+      "bytes": 276809,
+      "encrypted": true,
+      "id": "vi-full",
+      "kind": "lang",
+      "lang": "vi",
+      "payload_sha256": "7aa53db832efcdd37fea4148897b72d058b5927e53e241605caf1bb2ba2d0e31",
+      "sha256": "23119b405ac29bf327952e022dc93b0bab4c8205595cbe609e6a384a4381967f",
+      "tier": "full",
+      "url": null,
+      "version": 1
+    },
+    {
+      "bytes": 30344,
+      "id": "zh-Hans-free",
+      "kind": "lang",
+      "lang": "zh-Hans",
+      "payload_sha256": "cff929f9bf6d4379a87cee6f146fe464cc535544d43efca7f4f23141f650af10",
+      "sha256": "cff929f9bf6d4379a87cee6f146fe464cc535544d43efca7f4f23141f650af10",
+      "tier": "free",
+      "url": "https://raw.githubusercontent.com/nxzh/menkyo-quiz/main/dist/zh-Hans-free.json",
+      "version": 1
+    },
+    {
+      "bytes": 221059,
+      "encrypted": true,
+      "id": "zh-Hans-full",
+      "kind": "lang",
+      "lang": "zh-Hans",
+      "payload_sha256": "b12d8f041e5d65e8e1eb17dad5d0198ee69c562f7f555a4c1ee046708e8509bd",
+      "sha256": "70027a8beae1929514cc080a2b5f4a51b089b544260a03586967da5f2a2bec4c",
+      "tier": "full",
+      "url": null,
+      "version": 1
+    }
+  ]
+}

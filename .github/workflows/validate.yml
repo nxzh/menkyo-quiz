@@ -16,3 +16,11 @@ jobs:
         run: python3 tools/validate.py
       - name: Coverage report
         run: python3 tools/stats.py
+      - name: Install pack build dependencies
+        run: python3 -m pip install --quiet cryptography
+      - name: Pack generator tests
+        run: python3 -m unittest discover -s tools -p 'test_*.py' -v
+      - name: dist/ matches the question bank
+        env:
+          MENKYO_PACK_KEY: ${{ secrets.MENKYO_PACK_KEY }}
+        run: python3 tools/build_packs.py --check

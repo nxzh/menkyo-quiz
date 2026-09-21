@@ -1,0 +1,500 @@
+#!/usr/bin/env python3
+"""Build the content packs the Menkyo app downloads.
+
+Reads questions/karimen/*.json and data/taxonomy.*.json, writes dist/:
+
+    manifest.json           what the app fetches first; free URLs only
+    core-free.json          language-neutral, answers, free tier
+    <lang>-free.json        question + explanation only, no answers
+    taxonomy.json           chapter and section names in five languages
+    p/<uuid>.bin            AES-256-GCM full packs (core + one per language)
+
+Invariants this script enforces (CLAUDE.md 3, 4, 6):
+
+  * no language pack carries an answer, or any other core field
+  * the public manifest carries no URL, filename or key for a full pack
+  * every core id is present in every language pack
+  * output is byte-identical for unchanged input, so an unchanged pack is
+    never re-downloaded
+
+Usage:
+    python3 tools/build_packs.py              # write dist/
+    python3 tools/build_packs.py --check      # verify dist/ matches the input
+"""
+
+from __future__ import annotations
+
+import argparse
+import base64
+import glob
+import hashlib
+import hmac
+import json
+import os
+import shutil
+import sys
+import uuid
+from datetime import date, timezone, datetime
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent.parent
+QUESTIONS = ROOT / "questions"
+DATA = ROOT / "data"
+DIST = ROOT / "dist"
+
+REPO_RAW = "https://raw.githubusercontent.com/nxzh/menkyo-quiz/main/dist"
+
+# repo i18n key -> BCP-47 tag the app uses
+LANGS = {"ja": "ja", "zh": "zh-Hans", "en": "en", "vi": "vi", "pt": "pt-BR"}
+LANG_ORDER = ["ja", "en", "zh-Hans", "vi", "pt-BR"]
+
+FREE_COUNT = 120          # design-spec §7 item 4 (provisional)
+ANSWER_BALANCE_SLACK = 4  # |true - false| in the free tier
+
+LAW_REVISION_DATE = "2026-09-01"  # 施行令 revision the bank reflects
+MIN_APP_VERSION = "1.0.0"
+
+DEV_KEY = b"\x00" * 32  # only with --dev; never published
+
+
+class BuildError(Exception):
+    pass
+
+
+# ---------------------------------------------------------------- input
+
+
+def load_questions() -> list[dict]:
+    files = sorted(glob.glob(str(QUESTIONS / "*" / "*.json")))
+    if not files:
+        raise BuildError(f"no question files under {QUESTIONS}")
+    out: list[dict] = []
+    for path in files:
+        with open(path, encoding="utf-8") as fh:
+            batch = json.load(fh)
+        if not isinstance(batch, list):
+            raise BuildError(f"{path}: expected a list of questions")
+        out.extend(batch)
+    ids = [q["id"] for q in out]
+    dupes = sorted({i for i in ids if ids.count(i) > 1})
+    if dupes:
+        raise BuildError(f"duplicate question ids: {dupes}")
+    return sorted(out, key=lambda q: q["id"])
+
+
+def load_taxonomy() -> dict[str, dict]:
+    tax: dict[str, dict] = {}
+    for lang in LANG_ORDER:
+        path = DATA / f"taxonomy.{lang}.json"
+        if not path.exists():
+            raise BuildError(f"missing taxonomy for {lang}: {path}")
+        with open(path, encoding="utf-8") as fh:
+            tax[lang] = json.load(fh)
+    base = taxonomy_codes(tax["ja"])
+    for lang, doc in tax.items():
+        if taxonomy_codes(doc) != base:
+            raise BuildError(f"taxonomy.{lang}.json does not match taxonomy.ja.json key for key")
+        for chapter in doc["chapters"]:
+            if not chapter["name"].strip():
+                raise BuildError(f"taxonomy.{lang}.json: empty name for chapter {chapter['code']}")
+            for section in chapter["sections"]:
+                if not section["name"].strip():
+                    raise BuildError(
+                        f"taxonomy.{lang}.json: empty name for section {section['code']}"
+                    )
+    return tax
+
+
+def taxonomy_codes(doc: dict) -> list[str]:
+    codes = []
+    for chapter in doc["chapters"]:
+        codes.append(chapter["code"])
+        codes.extend(s["code"] for s in chapter["sections"])
+    return codes
+
+
+def section_of(kp: str) -> str:
+    parts = kp.split("-")
+    return "-".join(parts[:2]) if len(parts) > 1 else parts[0]
+
+
+def chapter_index(tax: dict) -> tuple[dict[str, str], list[str]]:
+    """section code -> chapter code, and the section codes in 教則 order."""
+    section_to_chapter: dict[str, str] = {}
+    order: list[str] = []
+    for chapter in tax["ja"]["chapters"]:
+        for section in chapter["sections"]:
+            section_to_chapter[section["code"]] = chapter["code"]
+            order.append(section["code"])
+    return section_to_chapter, order
+
+
+# ---------------------------------------------------------------- tiering
+
+
+def assign_tiers(questions: list[dict], section_order: list[str]) -> dict[str, str]:
+    """Pick the free questions: round-robin over the 教則 sections, image
+    question first in an image-bearing section, then balance ○/× by swapping
+    within a section. Deterministic - it depends only on question ids."""
+    by_section: dict[str, list[dict]] = {code: [] for code in section_order}
+    for q in questions:
+        by_section[section_of(q["kp"])].append(q)
+
+    for code, items in by_section.items():
+        with_image = sorted((q for q in items if "image" in q), key=lambda q: q["id"])
+        without = sorted((q for q in items if "image" not in q), key=lambda q: q["id"])
+        # an image-bearing section contributes its artwork to the free tier first
+        by_section[code] = ([with_image[0]] + without + with_image[1:]) if with_image else without
+
+    picked: list[dict] = []
+    cursor = {code: 0 for code in section_order}
+    while len(picked) < FREE_COUNT:
+        progressed = False
+        for code in section_order:
+            if len(picked) == FREE_COUNT:
+                break
+            i = cursor[code]
+            if i < len(by_section[code]):
+                picked.append(by_section[code][i])
+                cursor[code] = i + 1
+                progressed = True
+        if not progressed:
+            raise BuildError(f"only {len(picked)} questions available for a free tier of {FREE_COUNT}")
+
+    picked_ids = {q["id"] for q in picked}
+    # balance ○ / ×: swap a picked question for an unpicked one of the other
+    # answer in the same section, lowest id first
+    def imbalance(sel):
+        t = sum(1 for q in sel if q["answer"])
+        return t - (len(sel) - t)
+
+    guard = 0
+    while abs(imbalance(picked)) > ANSWER_BALANCE_SLACK:
+        guard += 1
+        if guard > FREE_COUNT:
+            raise BuildError("cannot balance the free tier's answers")
+        over = imbalance(picked) > 0  # too many true
+        swapped = False
+        for idx, q in enumerate(picked):
+            if q["answer"] is not over:
+                continue
+            code = section_of(q["kp"])
+            for cand in by_section[code]:
+                if cand["id"] not in picked_ids and cand["answer"] is not q["answer"]:
+                    picked_ids.discard(q["id"])
+                    picked_ids.add(cand["id"])
+                    picked[idx] = cand
+                    swapped = True
+                    break
+            if swapped:
+                break
+        if not swapped:
+            raise BuildError("no swap available to balance the free tier's answers")
+
+    return {q["id"]: ("free" if q["id"] in picked_ids else "full") for q in questions}
+
+
+# ---------------------------------------------------------------- packs
+
+
+def core_entry(q: dict, tier: str, section_to_chapter: dict[str, str]) -> dict:
+    section = section_of(q["kp"])
+    entry = {
+        "id": q["id"],
+        "chapter": section_to_chapter[section],
+        "section": section,
+        "kp": q["kp"],
+        "category": q["category"],
+        "source": q["source"],
+        "question_type": q["question_type"],
+        "answer": q["answer"],
+        "trap_type": q["trap_type"],
+        "difficulty": q["difficulty"],
+        "exam_scope": q["exam_scope"],
+        "tier": tier,
+    }
+    if "image" in q:
+        entry["image"] = {"sign_no": q["image"]["sign_no"], "file": q["image"]["file"]}
+    if q.get("verify"):
+        entry["verify"] = True
+    return entry
+
+
+def lang_entry(q: dict, lang: str) -> dict:
+    if lang == "ja":
+        return {"id": q["id"], "question": q["question_ja"], "explanation": q["explanation_ja"]}
+    repo_key = next(k for k, v in LANGS.items() if v == lang)
+    block = q["i18n"][repo_key]
+    return {"id": q["id"], "question": block["question"], "explanation": block["explanation"]}
+
+
+def dumps(obj) -> bytes:
+    return (json.dumps(obj, ensure_ascii=False, indent=None, separators=(",", ":"),
+                       sort_keys=True) + "\n").encode("utf-8")
+
+
+def sha256(data: bytes) -> str:
+    return hashlib.sha256(data).hexdigest()
+
+
+def pack_key() -> tuple[bytes, bool]:
+    raw = os.environ.get("MENKYO_PACK_KEY")
+    if raw:
+        key = base64.b64decode(raw)
+        if len(key) != 32:
+            raise BuildError("MENKYO_PACK_KEY must decode to 32 bytes")
+        return key, False
+    return DEV_KEY, True
+
+
+def derive(key: bytes, label: str, length: int) -> bytes:
+    return hmac.new(key, label.encode("utf-8"), hashlib.sha256).digest()[:length]
+
+
+def full_pack_name(key: bytes, pack_id: str, version: int) -> str:
+    """Unguessable, stable filename. The Worker derives the same name from the
+    same key, so no mapping has to be stored anywhere."""
+    return str(uuid.UUID(bytes=derive(key, f"name:{pack_id}:{version}", 16))) + ".bin"
+
+
+def encrypt(key: bytes, pack_id: str, version: int, plaintext: bytes) -> bytes:
+    """AES-256-GCM, nonce derived from (key, pack, version) so the build stays
+    byte-reproducible while never reusing a nonce for different content."""
+    from cryptography.hazmat.primitives.ciphers.aead import AESGCM
+
+    nonce = derive(key, f"nonce:{pack_id}:{version}", 12)
+    return nonce + AESGCM(key).encrypt(nonce, plaintext, None)
+
+
+def decrypt(key: bytes, blob: bytes) -> bytes:
+    from cryptography.hazmat.primitives.ciphers.aead import AESGCM
+
+    return AESGCM(key).decrypt(blob[:12], blob[12:], None)
+
+
+# ---------------------------------------------------------------- build
+
+
+def build(dest: Path, *, dev_ok: bool = True) -> dict:
+    questions = load_questions()
+    tax = load_taxonomy()
+    section_to_chapter, section_order = chapter_index(tax)
+
+    for q in questions:
+        section = section_of(q["kp"])
+        if section not in section_to_chapter:
+            raise BuildError(
+                f"{q['id']}: kp {q['kp']} has no section in data/taxonomy.ja.json"
+            )
+
+    tiers = assign_tiers(questions, section_order)
+    key, is_dev = pack_key()
+    if is_dev and not dev_ok:
+        raise BuildError("MENKYO_PACK_KEY is not set; refusing to publish with the dev key")
+
+    previous = {}
+    prev_path = dest / "manifest.json"
+    if prev_path.exists():
+        with open(prev_path, encoding="utf-8") as fh:
+            prev = json.load(fh)
+        previous = {p["id"]: p for p in prev.get("packs", [])}
+        prev_version = prev.get("content_version", 0)
+        prev_generated = prev.get("generated_at")
+    else:
+        prev_version = 0
+        prev_generated = None
+
+    # ---- bodies (without their version, which depends on whether they changed)
+    bodies: dict[str, tuple[str, str, bytes]] = {}  # id -> (kind, tier, payload)
+    for tier in ("free", "full"):
+        ids = [q["id"] for q in questions if tiers[q["id"]] == tier]
+        core = [core_entry(q, tiers[q["id"]], section_to_chapter)
+                for q in questions if tiers[q["id"]] == tier]
+        bodies[f"core-{tier}"] = ("core", tier, dumps({"questions": core}))
+        for lang in LANG_ORDER:
+            items = [lang_entry(q, lang) for q in questions if tiers[q["id"]] == tier]
+            if len(items) != len(ids):
+                raise BuildError(f"{lang}-{tier}: {len(items)} texts for {len(ids)} questions")
+            bodies[f"{lang}-{tier}"] = ("lang", tier, dumps({"lang": lang, "questions": items}))
+    bodies["taxonomy"] = ("taxonomy", "free", dumps({"languages": tax}))
+
+    # ---- content_version advances only when some pack's bytes changed
+    changed = {
+        pid for pid, (_k, _t, payload) in bodies.items()
+        if previous.get(pid, {}).get("payload_sha256") != sha256(payload)
+    }
+    content_version = prev_version + 1 if changed else prev_version or 1
+
+    packs = []
+    files: dict[str, bytes] = {}
+    for pid in sorted(bodies):
+        kind, tier, payload = bodies[pid]
+        version = content_version if pid in changed else previous[pid]["version"]
+        entry = {
+            "id": pid,
+            "kind": kind,
+            "tier": tier,
+            "lang": None if kind != "lang" else pid.rsplit("-", 1)[0],
+            "version": version,
+            "payload_sha256": sha256(payload),
+        }
+        if tier == "free":
+            name = f"{pid}.json"
+            files[name] = payload
+            entry.update(sha256=sha256(payload), bytes=len(payload),
+                         url=f"{REPO_RAW}/{name}")
+        else:
+            blob = encrypt(key, pid, version, payload)
+            name = f"p/{full_pack_name(key, pid, version)}"
+            files[name] = blob
+            # no url, no filename, no key in the public manifest
+            entry.update(sha256=sha256(blob), bytes=len(blob), url=None, encrypted=True)
+        packs.append(entry)
+
+    manifest = {
+        "content_version": content_version,
+        "min_app_version": MIN_APP_VERSION,
+        "law_revision_date": LAW_REVISION_DATE,
+        # only moves when the content does, so a rebuild of unchanged input
+        # stays byte-identical on any later day
+        "generated_at": date.today().isoformat() if changed or not prev_generated else prev_generated,
+        "hidden_ids": [],
+        "counts": {
+            "free": sum(1 for t in tiers.values() if t == "free"),
+            "full": sum(1 for t in tiers.values() if t == "full"),
+            "total": len(questions),
+        },
+        "languages": LANG_ORDER,
+        "packs": packs,
+    }
+    if is_dev:
+        manifest["dev_key"] = True
+    files["manifest.json"] = (
+        json.dumps(manifest, ensure_ascii=False, indent=2, sort_keys=True) + "\n"
+    ).encode("utf-8")
+
+    check(manifest, bodies, files, questions, tiers, key, section_to_chapter)
+    return {"manifest": manifest, "files": files, "questions": questions, "tiers": tiers}
+
+
+# ---------------------------------------------------------------- assertions
+
+
+def check(manifest, bodies, files, questions, tiers, key, section_to_chapter) -> None:
+    core_ids = {tier: {q["id"] for q in questions if tiers[q["id"]] == tier}
+                for tier in ("free", "full")}
+
+    for pid, (kind, tier, payload) in bodies.items():
+        doc = json.loads(payload)
+        if kind == "lang":
+            leaked = [q["id"] for q in doc["questions"] if set(q) - {"id", "question", "explanation"}]
+            if leaked:
+                raise BuildError(f"{pid}: language pack carries core fields: {leaked[:3]}")
+            if "answer" in payload.decode("utf-8"):
+                raise BuildError(f"{pid}: the string 'answer' appears in a language pack")
+            if {q["id"] for q in doc["questions"]} != core_ids[tier]:
+                raise BuildError(f"{pid}: ids do not match the {tier} core pack")
+        elif kind == "core":
+            if {q["id"] for q in doc["questions"]} != core_ids[tier]:
+                raise BuildError(f"{pid}: ids do not match the {tier} tier")
+            if any("question" in q or "explanation" in q for q in doc["questions"]):
+                raise BuildError(f"{pid}: core pack carries question text")
+
+    for entry in manifest["packs"]:
+        name = None
+        for fname, data in files.items():
+            if sha256(data) == entry["sha256"]:
+                name = fname
+                break
+        if name is None:
+            raise BuildError(f"{entry['id']}: manifest sha256 matches no emitted file")
+        if entry["tier"] == "full":
+            if entry["url"] is not None:
+                raise BuildError(f"{entry['id']}: a full pack must not carry a URL")
+            if decrypt(key, files[name]) != bodies[entry["id"]][2]:
+                raise BuildError(f"{entry['id']}: AES-GCM round trip failed")
+
+    blob = json.dumps(manifest, ensure_ascii=False)
+    for fname in files:
+        if fname.startswith("p/") and fname.split("/")[1] in blob:
+            raise BuildError("a full pack filename appears in the public manifest")
+
+    free = [q for q in questions if tiers[q["id"]] == "free"]
+    if len(free) != FREE_COUNT:
+        raise BuildError(f"free tier is {len(free)}, expected {FREE_COUNT}")
+    chapters_all = {section_to_chapter[section_of(q["kp"])] for q in questions}
+    chapters_free = {section_to_chapter[section_of(q["kp"])] for q in free}
+    if chapters_all != chapters_free:
+        raise BuildError(f"free tier misses chapters: {sorted(chapters_all - chapters_free)}")
+    true = sum(1 for q in free if q["answer"])
+    if abs(true - (len(free) - true)) > ANSWER_BALANCE_SLACK:
+        raise BuildError(f"free tier answer balance is {true}/{len(free) - true}")
+
+
+# ---------------------------------------------------------------- output
+
+
+def write(dest: Path, files: dict[str, bytes]) -> None:
+    if (dest / "p").exists():
+        shutil.rmtree(dest / "p")
+    (dest / "p").mkdir(parents=True, exist_ok=True)
+    for name, data in files.items():
+        path = dest / name
+        path.parent.mkdir(parents=True, exist_ok=True)
+        path.write_bytes(data)
+
+
+def main() -> int:
+    ap = argparse.ArgumentParser(description=__doc__)
+    ap.add_argument("--check", action="store_true",
+                    help="verify dist/ is what the current input produces")
+    ap.add_argument("--publish", action="store_true",
+                    help="refuse to run with the development key")
+    ap.add_argument("--dest", default=str(DIST))
+    args = ap.parse_args()
+
+    dest = Path(args.dest)
+    try:
+        result = build(dest, dev_ok=not args.publish)
+    except BuildError as exc:
+        print(f"build_packs: {exc}", file=sys.stderr)
+        return 1
+
+    files = result["files"]
+    manifest = result["manifest"]
+
+    if args.check:
+        problems = []
+        for name, data in files.items():
+            path = dest / name
+            if not path.exists():
+                problems.append(f"missing {name}")
+            elif path.read_bytes() != data:
+                problems.append(f"stale {name}")
+        on_disk = {
+            str(p.relative_to(dest)) for p in dest.rglob("*") if p.is_file()
+        }
+        for extra in sorted(on_disk - set(files)):
+            problems.append(f"unexpected {extra}")
+        if problems:
+            for p in problems:
+                print(f"build_packs --check: {p}", file=sys.stderr)
+            print("run: python3 tools/build_packs.py", file=sys.stderr)
+            return 1
+        print(f"dist/ is current — content_version {manifest['content_version']}, "
+              f"{manifest['counts']['free']} free / {manifest['counts']['full']} full")
+        return 0
+
+    write(dest, files)
+    print(f"content_version {manifest['content_version']} → {dest}")
+    for entry in manifest["packs"]:
+        where = "public" if entry["tier"] == "free" else "encrypted"
+        print(f"  {entry['id']:<16} v{entry['version']:<3} {entry['bytes']:>8}B  {where}")
+    if manifest.get("dev_key"):
+        print("\n  ! built with the development key — set MENKYO_PACK_KEY to publish",
+              file=sys.stderr)
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

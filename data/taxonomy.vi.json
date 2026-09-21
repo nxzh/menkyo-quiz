@@ -1,0 +1,197 @@
+{
+  "lang": "vi",
+  "source": "交通の方法に関する教則（令和6年9月4日 国家公安委員会告示第37号）目次、および道路交通法",
+  "chapters": [
+    {
+      "code": "1",
+      "kind": "kyosoku",
+      "name": "Những điều người đi bộ và người lái xe đều phải biết",
+      "sections": [
+        {
+          "code": "1-1",
+          "name": "Ý thức cơ bản"
+        },
+        {
+          "code": "1-2",
+          "name": "Tuân thủ đèn tín hiệu, biển báo giao thông và vạch kẻ đường"
+        },
+        {
+          "code": "1-3",
+          "name": "Tuân theo hiệu lệnh của cảnh sát"
+        },
+        {
+          "code": "1-4",
+          "name": "Những việc không được làm trên đường"
+        }
+      ]
+    },
+    {
+      "code": "2",
+      "kind": "kyosoku",
+      "name": "Những điều người đi bộ phải biết",
+      "sections": [
+        {
+          "code": "2-2",
+          "name": "Nơi người đi bộ được đi"
+        },
+        {
+          "code": "2-3",
+          "name": "Cách băng ngang đường"
+        }
+      ]
+    },
+    {
+      "code": "3",
+      "kind": "kyosoku",
+      "name": "Những điều người đi xe gắn máy cỡ nhỏ đặc định và xe đạp phải biết",
+      "sections": [
+        {
+          "code": "3-1",
+          "name": "Cách đi xe gắn máy cỡ nhỏ đặc định đúng cách"
+        },
+        {
+          "code": "3-2",
+          "name": "Cách đi xe đạp đúng cách"
+        },
+        {
+          "code": "3-3",
+          "name": "Lưu thông an toàn"
+        }
+      ]
+    },
+    {
+      "code": "4",
+      "kind": "kyosoku",
+      "name": "Những điều phải biết trước khi lái xe ô tô hoặc xe gắn máy",
+      "sections": [
+        {
+          "code": "4-1",
+          "name": "Lưu ý khi lái xe"
+        },
+        {
+          "code": "4-2",
+          "name": "Cơ chế bằng lái xe"
+        }
+      ]
+    },
+    {
+      "code": "5",
+      "kind": "kyosoku",
+      "name": "Cách lái xe ô tô và xe gắn máy",
+      "sections": [
+        {
+          "code": "5-1",
+          "name": "Khởi hành an toàn"
+        },
+        {
+          "code": "5-2",
+          "name": "Nơi xe ô tô được đi"
+        },
+        {
+          "code": "5-3",
+          "name": "Bảo vệ người đi bộ"
+        },
+        {
+          "code": "5-4",
+          "name": "Tốc độ an toàn và khoảng cách với xe phía trước"
+        },
+        {
+          "code": "5-5",
+          "name": "Chuyển làn và các thao tác liên quan"
+        },
+        {
+          "code": "5-6",
+          "name": "Vượt xe và các quy tắc liên quan"
+        },
+        {
+          "code": "5-7",
+          "name": "Cách đi qua nút giao thông"
+        },
+        {
+          "code": "5-9",
+          "name": "Lái xe số tự động (AT)"
+        }
+      ]
+    },
+    {
+      "code": "6",
+      "kind": "kyosoku",
+      "name": "Lái xe ở những nơi nguy hiểm",
+      "sections": [
+        {
+          "code": "6-1",
+          "name": "Nút giao đường tàu"
+        },
+        {
+          "code": "6-2",
+          "name": "Dốc và khúc cua"
+        }
+      ]
+    },
+    {
+      "code": "8",
+      "kind": "kyosoku",
+      "name": "Cách lái xe hai bánh",
+      "sections": [
+        {
+          "code": "8-1",
+          "name": "Những điều người lái xe hai bánh phải biết"
+        },
+        {
+          "code": "8-2",
+          "name": "Cách lái đúng"
+        },
+        {
+          "code": "8-3",
+          "name": "Cách lái an toàn"
+        },
+        {
+          "code": "8-4",
+          "name": "Cách sử dụng phanh"
+        }
+      ]
+    },
+    {
+      "code": "付3",
+      "kind": "appendix",
+      "name": "Phụ lục 3 — Các loại biển báo giao thông và vạch kẻ đường và ý nghĩa",
+      "sections": [
+        {
+          "code": "付3-1",
+          "name": "Các loại biển báo giao thông và ý nghĩa"
+        },
+        {
+          "code": "付3-2",
+          "name": "Các loại vạch kẻ đường và ý nghĩa"
+        }
+      ]
+    },
+    {
+      "code": "法",
+      "kind": "law",
+      "name": "Luật Giao thông đường bộ — bằng lái xe",
+      "sections": [
+        {
+          "code": "法84-5",
+          "name": "Bằng lái tạm thời (仮免)"
+        },
+        {
+          "code": "法87-1",
+          "name": "Khi nào được lái xe bằng bằng lái tạm thời"
+        },
+        {
+          "code": "法87-2",
+          "name": "Người ngồi kèm và biển tập lái"
+        },
+        {
+          "code": "法88-1",
+          "name": "Ai không được cấp bằng lái"
+        },
+        {
+          "code": "法96",
+          "name": "Thời hạn của bằng lái tạm thời"
+        }
+      ]
+    }
+  ]
+}

@@ -10,14 +10,45 @@ knowledge points of the 教則 and the 道路交通法.
 
 ```
 questions/karimen/batch-01.json …   50 batches of 20, Japanese master + i18n
+data/taxonomy.<lang>.json           9 教則 chapters and 32 sections, five languages
 docs/authoring.md                   how a question is written — read this first
 docs/glossary-v7.md                 the binding terminology glossary, 203 terms
 docs/coverage-plan.md               what the 1000 cover, and in what order
 schema/question.schema.json         the question object
 tools/validate.py                   structure, trap/answer pairing, glossary bans
 tools/stats.py                      coverage, trap mix, ○× balance
+tools/build_packs.py                builds dist/ — the packs the app downloads
 signs/                              road-sign SVGs used by image questions
+dist/                               generated content packs + manifest.json
 ```
+
+## Content packs
+
+The Menkyo app never reads this repository's question files directly. It reads
+`dist/`, which `tools/build_packs.py` generates:
+
+| file | what it is |
+|---|---|
+| `manifest.json` | what the app fetches first: `content_version`, `min_app_version`, `law_revision_date`, `hidden_ids`, and every pack's version, size and sha256 |
+| `core-free.json` | the 120 free questions without any question text: answers, chapter, knowledge point, citation, trap type |
+| `<lang>-free.json` | the same 120 questions as text only — question and explanation, **never an answer** |
+| `taxonomy.json` | chapter and section names in all five languages |
+| `p/<uuid>.bin` | the 880 paid questions, AES-256-GCM, one blob per pack |
+
+The split is a requirement, not a convenience: the answer key exists only in the core
+pack, so a language pack can be read by anyone without giving the answers away.
+
+```sh
+python3 -m pip install cryptography
+python3 tools/build_packs.py            # regenerate dist/
+python3 tools/build_packs.py --check    # CI: is dist/ what the questions say it is?
+```
+
+Full packs are encrypted with `MENKYO_PACK_KEY` (base64, 32 bytes). Without it the
+build uses an all-zero development key and says so; a published `dist/` must be built
+with the real key, which also decides the `p/<uuid>.bin` filenames. Rotating the key
+changes those filenames and requires a rebuild and a redeploy of the entitlement
+worker.
 
 ## Sources
 
