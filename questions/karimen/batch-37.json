@@ -1,0 +1,662 @@
+[
+  {
+    "id": "K5-3-015",
+    "category": "初心運転者などの保護",
+    "kp": "5-3-8",
+    "group": "K",
+    "source": "教則 第5章第3節8(1)",
+    "question_type": "text",
+    "qf": "QF-5-3-8-A-N-01",
+    "question_ja": "危険を避けるためやむを得ない場合のほかは、初心者マークを付けた普通自動車の側方に幅寄せをしたり、その前方に無理に割り込んだりしてはいけない。",
+    "answer": true,
+    "explanation_ja": "教則第5章第3節8(1)のとおりです。高齢者マーク、聴覚障害者マーク、身体障害者マークを付けた車や、仮免許で練習中の車も同じです。",
+    "i18n": {
+      "zh": {
+        "question": "除为避免危险不得已的情况外，不得向贴有新手标志的普通汽车侧方逼近挤压，也不得强行插入其前方。",
+        "explanation": "符合教则第5章第3节8(1)的规定。贴有高龄者标志、听觉障碍者标志、身体障碍者标志的车辆，以及持临时驾照练习中的车辆也一样。"
+      },
+      "en": {
+        "question": "Except where it is unavoidable to avoid danger, you must not squeeze in alongside an ordinary car displaying the beginner's mark or force your way in front of it.",
+        "explanation": "This is Kyosoku Chapter 5 Section 3 item 8(1). The same goes for cars displaying the older driver's, hearing-impaired or disabled-driver marks and for cars being driven on a provisional licence."
+      },
+      "vi": {
+        "question": "Trừ khi bắt buộc để tránh nguy hiểm, bạn không được ép sát bên hông ô tô thông thường có dán phù hiệu người mới hay cố chen lên trước nó.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 3 điểm 8(1). Điều tương tự áp dụng cho xe dán phù hiệu người cao tuổi, khiếm thính, người khuyết tật và xe đang tập lái bằng tạm."
+      },
+      "pt": {
+        "question": "Salvo quando inevitável para evitar perigo, você não deve espremer-se ao lado de um automóvel comum com o selo de iniciante nem forçar entrada à frente dele.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 3, item 8(1). O mesmo vale para carros com selo de condutor idoso, de deficiência auditiva ou física e para os conduzidos com habilitação provisória."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-3-016",
+    "category": "初心運転者などの保護",
+    "kp": "5-3-8",
+    "group": "K",
+    "source": "教則 第5章第3節8(2)",
+    "question_type": "text",
+    "qf": "QF-5-3-8-A-N-02",
+    "question_ja": "聴覚障害者マークを付けた車の運転者は警音器の音が聞こえないことがあるので、安全に通行できるように配慮する。",
+    "answer": true,
+    "explanation_ja": "教則第5章第3節8(2)のとおりです。幅寄せや割込みの禁止とあわせて定められています。",
+    "i18n": {
+      "zh": {
+        "question": "贴有听觉障碍者标志的车辆的驾驶人有时听不到喇叭声，所以要加以照顾使其能够安全通行。",
+        "explanation": "符合教则第5章第3节8(2)的规定。这与禁止逼近挤压和插队是一并规定的。"
+      },
+      "en": {
+        "question": "The driver of a car displaying the hearing-impaired mark may not hear the horn, so show consideration so that they can travel safely.",
+        "explanation": "This is Kyosoku Chapter 5 Section 3 item 8(2). It is laid down alongside the ban on squeezing in and cutting in."
+      },
+      "vi": {
+        "question": "Người lái xe có phù hiệu khiếm thính có thể không nghe được tiếng còi, nên hãy nhường nhịn để họ đi lại an toàn.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 3 điểm 8(2). Quy định này đi cùng lệnh cấm ép sát và chen ngang."
+      },
+      "pt": {
+        "question": "O condutor de carro com selo de deficiência auditiva pode não ouvir a buzina, então tenha consideração para que ele trafegue com segurança.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 3, item 8(2). Vem junto com a proibição de espremer e de entrar à frente."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-3-017",
+    "category": "歩行者などの保護",
+    "kp": "5-3-1",
+    "group": "K",
+    "source": "教則 第5章第3節1(4)",
+    "question_type": "text",
+    "qf": "QF-5-3-1-A-N-03",
+    "question_ja": "ぬかるみや水たまりのあるところでは、泥や水をはねて他人に迷惑を掛けないように徐行するなど注意して通らなければならない。",
+    "answer": true,
+    "explanation_ja": "教則第5章第3節1(4)のとおりです。歩行者に掛けてしまえば、迷惑を掛けたことになります。",
+    "i18n": {
+      "zh": {
+        "question": "在有泥泞或积水的地方，必须缓行（徐行）等加以注意通过，以免溅起泥水给他人造成困扰。",
+        "explanation": "符合教则第5章第3节1(4)的规定。溅到步行者身上就构成了给他人造成困扰。"
+      },
+      "en": {
+        "question": "Where there is mud or a puddle you must proceed slowly (徐行) or otherwise take care not to splash mud or water over anyone.",
+        "explanation": "This is Kyosoku Chapter 5 Section 3 item 1(4). Splashing a pedestrian is exactly the nuisance the rule is about."
+      },
+      "vi": {
+        "question": "Ở nơi có bùn lầy hay vũng nước, bạn phải lưu thông chậm (徐行) hoặc chú ý cách khác để không bắn bùn nước vào người khác.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 3 điểm 1(4). Bắn nước vào người đi bộ chính là điều quy định này nhắm tới."
+      },
+      "pt": {
+        "question": "Onde há lama ou poça você deve prosseguir lentamente (徐行) ou tomar outro cuidado para não respingar em ninguém.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 3, item 1(4). Molhar um pedestre é justamente o incômodo de que trata a regra."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-3-018",
+    "category": "歩行者などの保護",
+    "kp": "5-3-1",
+    "group": "K",
+    "source": "教則 第5章第3節1(5)",
+    "question_type": "text",
+    "qf": "QF-5-3-1-A-N-04",
+    "question_ja": "止まっている車のそばを通るときは、急にドアが開いたり、車の陰から人が飛び出したりする場合があるので注意する。",
+    "answer": true,
+    "explanation_ja": "教則第5章第3節1(5)のとおりです。止まっている車は、視界をさえぎる障害物でもあります。",
+    "i18n": {
+      "zh": {
+        "question": "从停住的车辆旁边通过时，可能会突然开门，或者有人从车的阴影处跑出来，所以要注意。",
+        "explanation": "符合教则第5章第3节1(5)的规定。停住的车辆同时也是遮挡视线的障碍物。"
+      },
+      "en": {
+        "question": "When you pass a stopped vehicle, take care: a door may suddenly open, or someone may dart out from behind it.",
+        "explanation": "This is Kyosoku Chapter 5 Section 3 item 1(5). A stopped vehicle is also an obstacle that blocks your view."
+      },
+      "vi": {
+        "question": "Khi đi qua bên cạnh xe đang dừng, hãy chú ý: cửa có thể bật mở đột ngột hoặc có người lao ra từ phía khuất sau xe.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 3 điểm 1(5). Xe đang dừng cũng là vật cản che khuất tầm nhìn."
+      },
+      "pt": {
+        "question": "Ao passar por um veículo parado, tenha cuidado: uma porta pode abrir de repente ou alguém pode sair correndo de trás dele.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 3, item 1(5). O veículo parado também é um obstáculo que bloqueia a visão."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-3-019",
+    "category": "歩行者などの保護",
+    "kp": "5-3-2",
+    "group": "K",
+    "source": "教則 第5章第3節2(1)",
+    "question_type": "text",
+    "qf": "QF-5-3-2-A-N-03",
+    "question_ja": "横断歩道のない交差点やその近くを歩行者が横断しているときは、その通行を妨げてはいけない。",
+    "answer": true,
+    "explanation_ja": "教則第5章第3節2(1)のとおりです。横断歩道の有無にかかわらず、横断している歩行者は保護されます。",
+    "i18n": {
+      "zh": {
+        "question": "在没有人行横道的交叉路口或其附近有步行者正在横穿时，不得妨碍其通行。",
+        "explanation": "符合教则第5章第3节2(1)的规定。无论有无人行横道，正在横穿的步行者都受到保护。"
+      },
+      "en": {
+        "question": "Where a pedestrian is crossing at or near an intersection that has no pedestrian crossing, you must not obstruct them.",
+        "explanation": "This is Kyosoku Chapter 5 Section 3 item 2(1). A pedestrian in the act of crossing is protected whether or not there is a crossing."
+      },
+      "vi": {
+        "question": "Khi người đi bộ đang băng qua tại hoặc gần nút giao thông không có vạch sang đường, bạn không được cản trở họ.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 3 điểm 2(1). Người đang băng qua được bảo vệ bất kể có vạch hay không."
+      },
+      "pt": {
+        "question": "Quando um pedestre atravessa em cruzamento sem faixa, ou perto dele, você não deve obstruí-lo.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 3, item 2(1). Quem está atravessando é protegido, havendo faixa ou não."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-3-020",
+    "category": "歩行者などの保護",
+    "kp": "5-3-2",
+    "group": "K",
+    "source": "教則 第5章第3節2(5)",
+    "question_type": "text",
+    "qf": "QF-5-3-2-A-N-04",
+    "question_ja": "横断歩道や自転車横断帯のない場所でも、歩行者が横断することがあるので注意する。",
+    "answer": true,
+    "explanation_ja": "教則第5章第3節2(5)のとおりです。横断歩道のないところでの横断が、常に違反になるわけではありません。",
+    "i18n": {
+      "zh": {
+        "question": "即使在没有人行横道和自行车横穿带的地方，也可能有步行者横穿，所以要注意。",
+        "explanation": "符合教则第5章第3节2(5)的规定。在没有人行横道的地方横穿，并不总是构成违规。"
+      },
+      "en": {
+        "question": "Even where there is no pedestrian or bicycle crossing, pedestrians may cross, so take care.",
+        "explanation": "This is Kyosoku Chapter 5 Section 3 item 2(5). Crossing away from a pedestrian crossing is not always an offence."
+      },
+      "vi": {
+        "question": "Ngay ở nơi không có vạch sang đường cho người đi bộ hay xe đạp, người đi bộ vẫn có thể băng qua, nên hãy chú ý.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 3 điểm 2(5). Việc băng qua ngoài vạch sang đường không phải lúc nào cũng là vi phạm."
+      },
+      "pt": {
+        "question": "Mesmo onde não há faixa de pedestres nem para ciclistas, pedestres podem atravessar, então tenha atenção.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 3, item 2(5). Atravessar fora da faixa nem sempre é infração."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-3-021",
+    "category": "暴走行為の禁止",
+    "kp": "5-3-9",
+    "group": "U",
+    "source": "教則 第5章第3節9",
+    "question_type": "text",
+    "qf": "QF-5-3-9-A-N-01",
+    "question_ja": "車を運転して集団で走行する場合は、ジグザグ運転や巻き込み運転など、ほかの車に危険を生じさせたり迷惑を及ぼしたりする行為をしてはいけない。",
+    "answer": true,
+    "explanation_ja": "教則第5章第3節9のとおりです。集団であることが、危険を大きくします。",
+    "i18n": {
+      "zh": {
+        "question": "驾车集体行驶时，不得作蛇形驾驶、卷入式驾驶等给其他车辆造成危险或困扰的行为。",
+        "explanation": "符合教则第5章第3节9的规定。集体行驶会放大危险。"
+      },
+      "en": {
+        "question": "When driving in a group you must not do things that endanger or inconvenience other vehicles, such as zigzagging or hemming them in.",
+        "explanation": "This is Kyosoku Chapter 5 Section 3 item 9. Doing it as a group makes the danger greater."
+      },
+      "vi": {
+        "question": "Khi lái xe đi theo nhóm, bạn không được làm những việc gây nguy hiểm hay phiền hà cho xe khác, như chạy zíc zắc hay ép xe.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 3 điểm 9. Đi theo nhóm càng làm nguy hiểm tăng lên."
+      },
+      "pt": {
+        "question": "Ao dirigir em grupo você não deve fazer coisas que ponham em risco ou incomodem outros veículos, como ziguezaguear ou fechá-los.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 3, item 9. Em grupo, o perigo é maior."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-3-022",
+    "category": "騒音運転の禁止",
+    "kp": "5-3-10",
+    "group": "U",
+    "source": "教則 第5章第3節10",
+    "question_type": "text",
+    "qf": "QF-5-3-10-A-N-01",
+    "question_ja": "著しく他人に迷惑を及ぼす騒音を生じさせるような急発進、急加速や空ぶかしをしてはいけない。",
+    "answer": true,
+    "explanation_ja": "教則第5章第3節10のとおりです。夜間や住宅地では、特に注意が必要です。",
+    "i18n": {
+      "zh": {
+        "question": "不得进行会产生严重扰民噪音的急起步、急加速和空踩油门。",
+        "explanation": "符合教则第5章第3节10的规定。夜间和住宅区尤其需要注意。"
+      },
+      "en": {
+        "question": "You must not make the kind of noise that seriously disturbs others by pulling away sharply, accelerating hard or revving the engine.",
+        "explanation": "This is Kyosoku Chapter 5 Section 3 item 10. Particular care is needed at night and in residential areas."
+      },
+      "vi": {
+        "question": "Bạn không được gây tiếng ồn làm phiền người khác nghiêm trọng bằng cách khởi hành gấp, tăng tốc mạnh hay rồ ga.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 3 điểm 10. Ban đêm và trong khu dân cư càng cần chú ý."
+      },
+      "pt": {
+        "question": "Você não deve provocar ruído que perturbe seriamente os outros com arrancadas bruscas, acelerações fortes ou acelerando em ponto morto.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 3, item 10. À noite e em áreas residenciais, atenção redobrada."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-3-023",
+    "category": "初心運転者などの保護",
+    "kp": "5-3-8",
+    "group": "K",
+    "source": "教則 第5章第3節8(1)",
+    "question_type": "text",
+    "qf": "QF-5-3-8-A-N-03",
+    "question_ja": "仮免許で練習中の者が運転している自動車も、側方に幅寄せをしたり前方に無理に割り込んだりしてはいけない車に含まれる。",
+    "answer": true,
+    "explanation_ja": "教則第5章第3節8(1)カのとおりです。マークの種類ではなく、保護の対象として列挙されています。",
+    "i18n": {
+      "zh": {
+        "question": "持临时驾照练习中的人驾驶的汽车，也属于不得向其侧方逼近挤压、不得强行插入其前方的车辆。",
+        "explanation": "符合教则第5章第3节8(1)カ的规定。它不是按标志种类，而是作为受保护对象被列举出来的。"
+      },
+      "en": {
+        "question": "A car being driven by someone practising on a provisional licence is among those you must not squeeze in alongside or force your way in front of.",
+        "explanation": "This is Kyosoku Chapter 5 Section 3 item 8(1)(f). It is listed as a protected case, not by the mark it carries."
+      },
+      "vi": {
+        "question": "Xe do người đang tập lái bằng tạm điều khiển cũng nằm trong nhóm xe mà bạn không được ép sát hay chen lên trước.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 3 điểm 8(1)(f). Nó được liệt kê như một đối tượng được bảo vệ, không theo loại phù hiệu."
+      },
+      "pt": {
+        "question": "O carro conduzido por quem treina com habilitação provisória está entre aqueles que você não deve espremer nem cortar.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 3, item 8(1)(f). Ele é listado como caso protegido, não pelo selo que exibe."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-3-024",
+    "category": "歩行者などの保護",
+    "kp": "5-3-1",
+    "group": "K",
+    "source": "教則 第5章第3節1(1)",
+    "question_type": "text",
+    "qf": "QF-5-3-1-A-N-05",
+    "question_ja": "歩行者のそばを通るときに安全な間隔が空けられないときは、徐行しなければならない。",
+    "answer": true,
+    "explanation_ja": "教則第5章第3節1(1)のとおりです。間隔と徐行のどちらかを選ぶのであって、どちらもしないという選択はありません。",
+    "i18n": {
+      "zh": {
+        "question": "从步行者旁边通过时无法留出安全间隔的，必须缓行（徐行）。",
+        "explanation": "符合教则第5章第3节1(1)的规定。是在间隔与缓行之间二选一，不存在两者都不做的选项。"
+      },
+      "en": {
+        "question": "Where you cannot leave a safe clearance when passing a pedestrian, you must proceed slowly (徐行).",
+        "explanation": "This is Kyosoku Chapter 5 Section 3 item 1(1). You choose between clearance and slowing; doing neither is not an option."
+      },
+      "vi": {
+        "question": "Khi không thể chừa khoảng cách an toàn lúc đi qua người đi bộ, bạn phải lưu thông chậm (徐行).",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 3 điểm 1(1). Bạn chọn giữa chừa khoảng cách hoặc đi chậm; không làm gì cả thì không được."
+      },
+      "pt": {
+        "question": "Quando não for possível deixar um espaço seguro ao passar por um pedestre, você deve prosseguir lentamente (徐行).",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 3, item 1(1). Escolhe-se entre espaço e lentidão; não fazer nenhum dos dois não é opção."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-3-025",
+    "category": "初心運転者などの保護",
+    "kp": "5-3-8",
+    "group": "K",
+    "source": "教則 第5章第3節8(1)",
+    "question_type": "text",
+    "qf": "QF-5-3-8-D-EI-01",
+    "question_ja": "初心者マークを付けた車は運転がぎこちないので、早く追い越すために幅寄せをして前に出てもよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第3節8(1)により、危険を避けるためやむを得ない場合のほかは、幅寄せや無理な割込みをしてはいけません。",
+    "i18n": {
+      "zh": {
+        "question": "贴有新手标志的车辆驾驶生疏，所以为了尽快超车可以逼近挤压后驶到前面。",
+        "explanation": "错误。根据教则第5章第3节8(1)，除为避免危险不得已的情况外，不得逼近挤压和强行插队。"
+      },
+      "en": {
+        "question": "A car with the beginner's mark is driven awkwardly, so you may squeeze past it to get ahead sooner.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 3 item 8(1) squeezing in and forcing your way in are prohibited except where unavoidable to avoid danger."
+      },
+      "vi": {
+        "question": "Xe dán phù hiệu người mới lái vụng về, nên bạn được ép sát để vượt lên trước cho nhanh.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 3 điểm 8(1), việc ép sát và chen ngang bị cấm trừ khi bắt buộc để tránh nguy hiểm."
+      },
+      "pt": {
+        "question": "O carro com selo de iniciante é conduzido de forma desajeitada, então você pode espremê-lo para passar logo à frente.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 3, item 8(1), espremer e cortar são proibidos salvo quando inevitável para evitar perigo."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-3-026",
+    "category": "初心運転者などの保護",
+    "kp": "5-3-8",
+    "group": "K",
+    "source": "教則 第5章第3節8(1)",
+    "question_type": "text",
+    "qf": "QF-5-3-8-D-NR-01",
+    "question_ja": "幅寄せや無理な割込みが禁止されるのは、初心者マークを付けた車に対してだけである。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第3節8(1)により、高齢者マーク、聴覚障害者マーク、身体障害者マークを付けた車や、仮免許で練習中の車も対象です。",
+    "i18n": {
+      "zh": {
+        "question": "被禁止逼近挤压和强行插队的对象，只有贴着新手标志的车辆。",
+        "explanation": "错误。根据教则第5章第3节8(1)，贴有高龄者标志、听觉障碍者标志、身体障碍者标志的车辆，以及持临时驾照练习中的车辆也是对象。"
+      },
+      "en": {
+        "question": "Squeezing in and forcing your way in front are prohibited only in relation to cars displaying the beginner's mark.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 3 item 8(1) cars with the older driver's, hearing-impaired or disabled-driver marks and cars driven on a provisional licence are covered too."
+      },
+      "vi": {
+        "question": "Việc ép sát và chen ngang chỉ bị cấm đối với xe dán phù hiệu người mới.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 3 điểm 8(1), xe dán phù hiệu người cao tuổi, khiếm thính, người khuyết tật và xe đang tập lái bằng tạm cũng thuộc diện này."
+      },
+      "pt": {
+        "question": "Espremer e cortar só são proibidos em relação a carros com o selo de iniciante.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 3, item 8(1), também entram carros com selo de condutor idoso, de deficiência auditiva ou física e os conduzidos com habilitação provisória."
+      }
+    },
+    "trap_type": "NR",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-3-027",
+    "category": "歩行者などの保護",
+    "kp": "5-3-1",
+    "group": "K",
+    "source": "教則 第5章第3節1(4)",
+    "question_type": "text",
+    "qf": "QF-5-3-1-D-EI-02",
+    "question_ja": "水たまりのあるところでも、歩行者との間に距離があれば速度を落とさずに通ってよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第3節1(4)により、泥や水をはねて他人に迷惑を掛けないように徐行するなど注意して通らなければなりません。",
+    "i18n": {
+      "zh": {
+        "question": "即使在有积水的地方，只要与步行者之间有距离，也可以不减速通过。",
+        "explanation": "错误。根据教则第5章第3节1(4)，必须缓行（徐行）等加以注意通过，以免溅起泥水给他人造成困扰。"
+      },
+      "en": {
+        "question": "Even where there is a puddle you may go through without slowing, as long as there is some distance to the pedestrian.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 3 item 1(4) you must proceed slowly (徐行) or otherwise take care not to splash anyone."
+      },
+      "vi": {
+        "question": "Ngay ở nơi có vũng nước, bạn vẫn được đi qua mà không giảm tốc miễn là còn khoảng cách tới người đi bộ.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 3 điểm 1(4), bạn phải lưu thông chậm (徐行) hoặc chú ý cách khác để không bắn nước vào ai."
+      },
+      "pt": {
+        "question": "Mesmo onde há poça você pode passar sem reduzir, desde que haja alguma distância até o pedestre.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 3, item 1(4), é preciso prosseguir lentamente (徐行) ou tomar outro cuidado para não respingar em ninguém."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-3-028",
+    "category": "歩行者などの保護",
+    "kp": "5-3-2",
+    "group": "K",
+    "source": "教則 第5章第3節2(1)",
+    "question_type": "text",
+    "qf": "QF-5-3-2-D-EI-02",
+    "question_ja": "横断歩道のない交差点では、歩行者が横断していてもその通行を妨げて差し支えない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第3節2(1)により、横断歩道のない交差点やその近くを横断している歩行者の通行を妨げてはいけません。",
+    "i18n": {
+      "zh": {
+        "question": "在没有人行横道的交叉路口，即使有步行者正在横穿，妨碍其通行也没有关系。",
+        "explanation": "错误。根据教则第5章第3节2(1)，不得妨碍在没有人行横道的交叉路口或其附近横穿的步行者通行。"
+      },
+      "en": {
+        "question": "At an intersection with no pedestrian crossing it does not matter if you obstruct a pedestrian who is crossing.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 3 item 2(1) you must not obstruct a pedestrian crossing at or near an intersection that has no crossing."
+      },
+      "vi": {
+        "question": "Tại nút giao thông không có vạch sang đường, việc cản trở người đi bộ đang băng qua cũng không sao.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 3 điểm 2(1), bạn không được cản trở người đi bộ đang băng qua tại hoặc gần nút giao không có vạch."
+      },
+      "pt": {
+        "question": "Em cruzamento sem faixa de pedestres não tem problema obstruir quem está atravessando.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 3, item 2(1), não se deve obstruir o pedestre que atravessa em cruzamento sem faixa ou perto dele."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-3-029",
+    "category": "騒音運転の禁止",
+    "kp": "5-3-10",
+    "group": "U",
+    "source": "教則 第5章第3節10",
+    "question_type": "text",
+    "qf": "QF-5-3-10-D-EI-01",
+    "question_ja": "空ぶかしは車を傷めないので、住宅地であっても問題にならない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第3節10により、著しく他人に迷惑を及ぼす騒音を生じさせるような空ぶかしはしてはいけません。",
+    "i18n": {
+      "zh": {
+        "question": "空踩油门不会损伤车辆，所以即使在住宅区也不成问题。",
+        "explanation": "错误。根据教则第5章第3节10，不得进行会产生严重扰民噪音的空踩油门。"
+      },
+      "en": {
+        "question": "Revving the engine does the car no harm, so it is not a problem even in a residential area.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 3 item 10 you must not rev the engine in a way that makes noise seriously disturbing to others."
+      },
+      "vi": {
+        "question": "Rồ ga không làm hỏng xe nên dù ở khu dân cư cũng không thành vấn đề.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 3 điểm 10, bạn không được rồ ga gây tiếng ồn làm phiền người khác nghiêm trọng."
+      },
+      "pt": {
+        "question": "Acelerar em ponto morto não faz mal ao carro, então não é problema nem em área residencial.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 3, item 10, não se deve acelerar assim provocando ruído que perturbe seriamente os outros."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-3-030",
+    "category": "歩行者などの保護",
+    "kp": "5-3-2",
+    "group": "K",
+    "source": "教則 第5章第3節2(5)",
+    "question_type": "text",
+    "qf": "QF-5-3-2-D-EI-03",
+    "question_ja": "横断歩道のない場所を歩行者が横断することはないので、そのような場所では歩行者に注意する必要はない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第3節2(5)により、横断歩道や自転車横断帯のない場所でも歩行者が横断することがあるので注意します。",
+    "i18n": {
+      "zh": {
+        "question": "步行者不会在没有人行横道的地方横穿，所以在那种地方不需要注意步行者。",
+        "explanation": "错误。根据教则第5章第3节2(5)，即使在没有人行横道和自行车横穿带的地方也可能有步行者横穿，要注意。"
+      },
+      "en": {
+        "question": "Pedestrians never cross where there is no pedestrian crossing, so there is no need to watch for them at such places.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 3 item 2(5) pedestrians may cross even where there is no pedestrian or bicycle crossing, so take care."
+      },
+      "vi": {
+        "question": "Người đi bộ không bao giờ băng qua ở nơi không có vạch sang đường, nên ở đó không cần để ý họ.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 3 điểm 2(5), người đi bộ vẫn có thể băng qua ở nơi không có vạch, nên phải chú ý."
+      },
+      "pt": {
+        "question": "Pedestres nunca atravessam onde não há faixa, então não é preciso vigiá-los nesses locais.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 3, item 2(5), pedestres podem atravessar mesmo sem faixa, por isso é preciso atenção."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-3-031",
+    "category": "初心運転者などの保護",
+    "kp": "5-3-8",
+    "group": "K",
+    "source": "教則 第5章第3節8(2)",
+    "question_type": "text",
+    "qf": "QF-5-3-8-D-SW-01",
+    "question_ja": "聴覚障害者マークを付けた車の運転者には、警音器を鳴らして自分の存在を知らせるとよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第3節8(2)により、この運転者は警音器の音が聞こえないことがあるので、安全に通行できるように配慮します。",
+    "i18n": {
+      "zh": {
+        "question": "对贴有听觉障碍者标志的车辆的驾驶人，最好鸣喇叭告知自己的存在。",
+        "explanation": "错误。根据教则第5章第3节8(2)，这类驾驶人有时听不到喇叭声，所以要加以照顾使其能够安全通行。"
+      },
+      "en": {
+        "question": "It is best to sound the horn to let the driver of a car with the hearing-impaired mark know you are there.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 3 item 8(2) such a driver may not hear the horn, so you show consideration so that they can travel safely."
+      },
+      "vi": {
+        "question": "Tốt nhất là bấm còi để người lái xe có phù hiệu khiếm thính biết bạn đang ở đó.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 3 điểm 8(2), người lái đó có thể không nghe được còi, nên bạn hãy nhường nhịn để họ đi lại an toàn."
+      },
+      "pt": {
+        "question": "O melhor é buzinar para avisar o condutor com selo de deficiência auditiva de que você está ali.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 3, item 8(2), esse condutor pode não ouvir a buzina, por isso tenha consideração para que trafegue com segurança."
+      }
+    },
+    "trap_type": "SW",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-3-032",
+    "category": "歩行者などの保護",
+    "kp": "5-3-1",
+    "group": "K",
+    "source": "教則 第5章第3節1(5)",
+    "question_type": "text",
+    "qf": "QF-5-3-1-D-NR-01",
+    "question_ja": "止まっている車のそばを通るときに注意すべきなのは、その車が急に発進することだけである。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第3節1(5)により、急にドアが開いたり、車の陰から人が飛び出したりすることにも注意が必要です。",
+    "i18n": {
+      "zh": {
+        "question": "从停住的车辆旁边通过时应当注意的，只有该车突然起步。",
+        "explanation": "错误。根据教则第5章第3节1(5)，还要注意突然开门以及有人从车的阴影处跑出来。"
+      },
+      "en": {
+        "question": "The only thing to watch for when passing a stopped vehicle is that it may suddenly move off.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 3 item 1(5) you also watch for a door opening suddenly and for someone darting out from behind it."
+      },
+      "vi": {
+        "question": "Điều duy nhất cần đề phòng khi đi qua xe đang dừng là việc nó đột ngột lăn bánh.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 3 điểm 1(5), bạn còn phải đề phòng cửa bật mở đột ngột và người lao ra từ phía khuất sau xe."
+      },
+      "pt": {
+        "question": "A única coisa a vigiar ao passar por um veículo parado é que ele pode arrancar de repente.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 3, item 1(5), também se vigia uma porta abrindo de repente e alguém saindo de trás dele."
+      }
+    },
+    "trap_type": "NR",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-3-033",
+    "category": "暴走行為の禁止",
+    "kp": "5-3-9",
+    "group": "U",
+    "source": "教則 第5章第3節9",
+    "question_type": "text",
+    "qf": "QF-5-3-9-D-EI-01",
+    "question_ja": "集団で走行するときは、隊列が乱れないように多少のジグザグ運転をしても差し支えない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第3節9により、ジグザグ運転など、ほかの車に危険を生じさせたり迷惑を及ぼしたりする行為をしてはいけません。",
+    "i18n": {
+      "zh": {
+        "question": "集体行驶时，为了不让队列散乱，稍微作些蛇形驾驶也没有关系。",
+        "explanation": "错误。根据教则第5章第3节9，不得作蛇形驾驶等给其他车辆造成危险或困扰的行为。"
+      },
+      "en": {
+        "question": "When driving in a group a little zigzagging is acceptable to keep the formation together.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 3 item 9 you must not zigzag or otherwise endanger or inconvenience other vehicles."
+      },
+      "vi": {
+        "question": "Khi đi theo nhóm, chạy zíc zắc một chút để giữ đội hình cũng không sao.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 3 điểm 9, bạn không được chạy zíc zắc hay làm gì gây nguy hiểm, phiền hà cho xe khác."
+      },
+      "pt": {
+        "question": "Ao dirigir em grupo, ziguezaguear um pouco para manter a formação não tem problema.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 3, item 9, não se deve ziguezaguear nem pôr em risco ou incomodar outros veículos."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-3-034",
+    "category": "歩行者などの保護",
+    "kp": "5-3-1",
+    "group": "K",
+    "source": "教則 第5章第3節1(4)",
+    "question_type": "text",
+    "qf": "QF-5-3-1-D-SC-01",
+    "question_ja": "水たまりのある道路で歩道に歩行者がいたが、遅れそうだったのでそのままの速度で通過し、水をはねてしまった。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第3節1(4)により、泥や水をはねて他人に迷惑を掛けないように徐行するなど注意して通らなければなりません。",
+    "i18n": {
+      "zh": {
+        "question": "在有积水的道路上人行道有步行者，但因为快迟到了就保持原速通过，结果溅了水。",
+        "explanation": "错误。根据教则第5章第3节1(4)，必须缓行（徐行）等加以注意通过，以免溅起泥水给他人造成困扰。"
+      },
+      "en": {
+        "question": "There was a pedestrian on the sidewalk of a road with a puddle, but you were running late, so you went through at the same speed and splashed them.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 3 item 1(4) you must proceed slowly (徐行) or otherwise take care not to splash anyone."
+      },
+      "vi": {
+        "question": "Có người đi bộ trên vỉa hè của con đường có vũng nước, nhưng vì sắp trễ nên bạn đi qua với nguyên tốc độ và bắn nước vào họ.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 3 điểm 1(4), bạn phải lưu thông chậm (徐行) hoặc chú ý để không bắn nước vào ai."
+      },
+      "pt": {
+        "question": "Havia um pedestre na calçada de uma via com poça, mas como você estava atrasado passou na mesma velocidade e o molhou.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 3, item 1(4), é preciso prosseguir lentamente (徐行) ou tomar outro cuidado para não respingar."
+      }
+    },
+    "trap_type": "SC",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  }
+]

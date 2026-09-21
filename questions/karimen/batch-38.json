@@ -1,0 +1,662 @@
+[
+  {
+    "id": "K5-3-035",
+    "category": "歩行者などの保護",
+    "kp": "5-3-4",
+    "group": "K",
+    "source": "教則 第5章第3節4(1)",
+    "question_type": "text",
+    "qf": "QF-5-3-4-A-N-02",
+    "question_ja": "子供が独りで歩いている場合には、一時停止か徐行をして、安全に通れるようにしなければならない。",
+    "answer": true,
+    "explanation_ja": "教則第5章第3節4(1)のとおりです。子供は興味をひくものに夢中になり、突然路上に飛び出すことがあります。",
+    "i18n": {
+      "zh": {
+        "question": "有孩子独自行走时，必须暂停（一時停止）或缓行（徐行），让其能够安全通过。",
+        "explanation": "符合教则第5章第3节4(1)的规定。孩子会专注于感兴趣的事物，有时会突然跑到路上。"
+      },
+      "en": {
+        "question": "Where a child is walking alone you must come to a complete stop (一時停止) or proceed slowly (徐行) so that they can pass safely.",
+        "explanation": "This is Kyosoku Chapter 5 Section 3 item 4(1). A child absorbed in something interesting may suddenly run out into the road."
+      },
+      "vi": {
+        "question": "Khi có trẻ đi một mình, bạn phải tạm dừng (一時停止) hoặc lưu thông chậm (徐行) để trẻ qua được an toàn.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 3 điểm 4(1). Trẻ mải mê với thứ gì đó hấp dẫn có thể đột ngột lao ra đường."
+      },
+      "pt": {
+        "question": "Quando uma criança caminha sozinha você deve fazer parada obrigatória (一時停止) ou prosseguir lentamente (徐行) para que ela passe em segurança.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 3, item 4(1). Uma criança absorta em algo interessante pode correr de repente para a pista."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-3-036",
+    "category": "歩行者などの保護",
+    "kp": "5-3-4",
+    "group": "K",
+    "source": "教則 第5章第3節4(3)",
+    "question_type": "text",
+    "qf": "QF-5-3-4-A-N-03",
+    "question_ja": "学校、幼稚園、遊園地などの付近や通学路の標識のあるところでは、子供が突然飛び出してくることがあるので特に注意する。",
+    "answer": true,
+    "explanation_ja": "教則第5章第3節4(3)のとおりです。子供の姿が見えないときでも、速度を落として通行します。",
+    "i18n": {
+      "zh": {
+        "question": "在学校、幼儿园、游乐园等附近以及设有通学路标识（立牌）的地方，孩子可能突然跑出来，要特别注意。",
+        "explanation": "符合教则第5章第3节4(3)的规定。即使看不到孩子的身影，也要降低速度通过。"
+      },
+      "en": {
+        "question": "Near a school, kindergarten or amusement park, and where the school-route sign stands, children may dart out suddenly, so take particular care.",
+        "explanation": "This is Kyosoku Chapter 5 Section 3 item 4(3). You reduce speed even when no child is in sight."
+      },
+      "vi": {
+        "question": "Gần trường học, nhà trẻ, công viên giải trí và ở nơi có biển đường đến trường, trẻ có thể lao ra bất ngờ nên cần đặc biệt chú ý.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 3 điểm 4(3). Bạn giảm tốc ngay cả khi không thấy trẻ nào."
+      },
+      "pt": {
+        "question": "Perto de escola, creche ou parque, e onde há a placa de rota escolar, crianças podem surgir de repente, exigindo atenção especial.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 3, item 4(3). Reduz-se a velocidade mesmo sem nenhuma criança à vista."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-3-037",
+    "category": "歩行者などの保護",
+    "kp": "5-3-5",
+    "group": "K",
+    "source": "教則 第5章第3節5",
+    "question_type": "text",
+    "qf": "QF-5-3-5-A-N-01",
+    "question_ja": "つえを持って歩いていたり歩行補助車を使っていたりするなど、通行に支障のある高齢者が通行している場合には、一時停止か徐行をして安全に通れるようにしなければならない。",
+    "answer": true,
+    "explanation_ja": "教則第5章第3節5のとおりです。高齢者は歩行が遅くなったり、危険の発見や回避が遅れがちになったりします。",
+    "i18n": {
+      "zh": {
+        "question": "拄着手杖行走、使用助行车等通行有障碍的高龄者通行时，必须暂停（一時停止）或缓行（徐行），让其能够安全通过。",
+        "explanation": "符合教则第5章第3节5的规定。高龄者步行会变慢，发现和回避危险也容易滞后。"
+      },
+      "en": {
+        "question": "Where an older person who has difficulty getting about is passing, such as one walking with a stick or using a walking aid, you must come to a complete stop (一時停止) or proceed slowly (徐行) so that they can pass safely.",
+        "explanation": "This is Kyosoku Chapter 5 Section 3 item 5. Older people walk more slowly and tend to be slower to notice and avoid danger."
+      },
+      "vi": {
+        "question": "Khi có người cao tuổi đi lại khó khăn, chẳng hạn chống gậy hoặc dùng xe tập đi, bạn phải tạm dừng (一時停止) hoặc lưu thông chậm (徐行) để họ qua an toàn.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 3 điểm 5. Người cao tuổi đi chậm hơn và thường chậm nhận ra cũng như né tránh nguy hiểm."
+      },
+      "pt": {
+        "question": "Quando passa um idoso com dificuldade de locomoção, por exemplo com bengala ou andador, você deve parar (一時停止) ou prosseguir lentamente (徐行) para que ele passe em segurança.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 3, item 5. Idosos caminham mais devagar e demoram mais a perceber e evitar o perigo."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-3-038",
+    "category": "歩行者などの保護",
+    "kp": "5-3-5",
+    "group": "K",
+    "source": "教則 第5章第3節5",
+    "question_type": "text",
+    "qf": "QF-5-3-5-A-N-02",
+    "question_ja": "高齢の歩行者の事故は、高齢者が車の直前又は直後を横断しているときに多く起こっている。",
+    "answer": true,
+    "explanation_ja": "教則第5章第3節5のとおりです。止まっている車の陰にも注意が必要です。",
+    "i18n": {
+      "zh": {
+        "question": "高龄步行者的事故，多发生在高龄者从车辆正前方或正后方横穿时。",
+        "explanation": "符合教则第5章第3节5的规定。还要注意停住车辆的阴影处。"
+      },
+      "en": {
+        "question": "Accidents involving older pedestrians happen most often when they cross just in front of or just behind a vehicle.",
+        "explanation": "This is Kyosoku Chapter 5 Section 3 item 5. Watch out for what a stopped vehicle hides as well."
+      },
+      "vi": {
+        "question": "Tai nạn với người đi bộ cao tuổi hay xảy ra nhất khi họ băng qua ngay trước hoặc ngay sau một chiếc xe.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 3 điểm 5. Cũng phải để ý những gì bị xe đang dừng che khuất."
+      },
+      "pt": {
+        "question": "Os acidentes com pedestres idosos ocorrem sobretudo quando eles atravessam logo à frente ou logo atrás de um veículo.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 3, item 5. Atenção também ao que o veículo parado esconde."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-3-039",
+    "category": "歩行者などの保護",
+    "kp": "5-3-7",
+    "group": "K",
+    "source": "教則 第5章第3節7(1)",
+    "question_type": "text",
+    "qf": "QF-5-3-7-A-N-02",
+    "question_ja": "特定小型原動機付自転車や自転車は車両の一種であり、原則として車道を通行することとされている。",
+    "answer": true,
+    "explanation_ja": "教則第5章第3節7(1)のとおりです。これらは不安定で、運転者の身体を防護する機能がないという構造上の特性を持っています。",
+    "i18n": {
+      "zh": {
+        "question": "特定小型轻型摩托车和自行车是车辆的一种，原则上应在车行道通行。",
+        "explanation": "符合教则第5章第3节7(1)的规定。它们在构造上不稳定，也不具备保护驾驶人身体的功能。"
+      },
+      "en": {
+        "question": "A specified small motorized bicycle or a bicycle is a kind of vehicle and travels on the roadway as a rule.",
+        "explanation": "This is Kyosoku Chapter 5 Section 3 item 7(1). They are unstable and structurally have nothing to protect the rider's body."
+      },
+      "vi": {
+        "question": "Xe gắn máy cỡ nhỏ đặc định và xe đạp là một loại phương tiện và về nguyên tắc đi trên lòng đường.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 3 điểm 7(1). Chúng không ổn định và về cấu tạo không có gì bảo vệ cơ thể người lái."
+      },
+      "pt": {
+        "question": "O ciclomotor pequeno especificado e a bicicleta são espécies de veículo e, como regra, circulam pela pista.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 3, item 7(1). São instáveis e, por construção, não têm nada que proteja o corpo do condutor."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-3-040",
+    "category": "歩行者などの保護",
+    "kp": "5-3-7",
+    "group": "K",
+    "source": "教則 第5章第3節7(3)",
+    "question_type": "text",
+    "qf": "QF-5-3-7-A-N-03",
+    "question_ja": "道路に面した場所に出入りするため歩道や路側帯や自転車道を横切る場合には、その直前で一時停止をし、特定小型原動機付自転車や自転車がいないかを確かめる。",
+    "answer": true,
+    "explanation_ja": "教則第5章第3節7(3)のとおりです。歩行者に対する一時停止の義務と同じ扱いになります。",
+    "i18n": {
+      "zh": {
+        "question": "为进出面向道路的场所而横穿人行道、路侧带或自行车道时，要在其正前方暂停（一時停止），确认有没有特定小型轻型摩托车或自行车。",
+        "explanation": "符合教则第5章第3节7(3)的规定。这与对步行者的暂停义务是同样的处理。"
+      },
+      "en": {
+        "question": "When you cross a sidewalk, side strip (路側帯) or bicycle path to enter or leave a place facing the road, you come to a complete stop (一時停止) just before it and check for specified small motorized bicycles and bicycles.",
+        "explanation": "This is Kyosoku Chapter 5 Section 3 item 7(3). It matches the duty to stop for pedestrians."
+      },
+      "vi": {
+        "question": "Khi băng qua vỉa hè, lề đường (路側帯) hay đường dành cho xe đạp để ra vào địa điểm tiếp giáp đường, bạn tạm dừng (一時停止) ngay trước đó và kiểm tra xem có xe gắn máy cỡ nhỏ đặc định hay xe đạp không.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 3 điểm 7(3). Nó tương ứng với nghĩa vụ dừng vì người đi bộ."
+      },
+      "pt": {
+        "question": "Ao atravessar calçada, faixa lateral (路側帯) ou ciclovia para entrar ou sair de um local voltado para a via, você para (一時停止) logo antes e verifica se há ciclomotores pequenos especificados ou bicicletas.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 3, item 7(3). Corresponde ao dever de parar por causa dos pedestres."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-3-041",
+    "category": "歩行者などの保護",
+    "kp": "5-3-7",
+    "group": "K",
+    "source": "教則 第5章第3節7(4)",
+    "question_type": "text",
+    "qf": "QF-5-3-7-A-N-04",
+    "question_ja": "交差点を通行するときは、左側を通行している特定小型原動機付自転車や自転車の巻き込みなどに十分注意するとともに、その運転者が自動車の存在を認識しているかどうか確認しながら通行する。",
+    "answer": true,
+    "explanation_ja": "教則第5章第3節7(4)のとおりです。自転車側が気づいていないことを前提に運転します。",
+    "i18n": {
+      "zh": {
+        "question": "通行交叉路口时，要充分注意不要卷入在左侧通行的特定小型轻型摩托车和自行车，同时一边确认其驾驶人是否意识到汽车的存在一边通行。",
+        "explanation": "符合教则第5章第3节7(4)的规定。要以自行车一方没有察觉为前提来驾驶。"
+      },
+      "en": {
+        "question": "When going through an intersection, take care not to draw in a specified small motorized bicycle or bicycle travelling on your left, and check as you go whether its rider is aware of your car.",
+        "explanation": "This is Kyosoku Chapter 5 Section 3 item 7(4). Drive on the assumption that the rider has not noticed you."
+      },
+      "vi": {
+        "question": "Khi đi qua nút giao thông, hãy hết sức chú ý đừng cuốn xe gắn máy cỡ nhỏ đặc định hay xe đạp đang đi bên trái, đồng thời vừa đi vừa xác nhận người lái xe đó có nhận ra ô tô của bạn không.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 3 điểm 7(4). Hãy lái với giả định rằng người đi xe đạp chưa nhận ra bạn."
+      },
+      "pt": {
+        "question": "Ao atravessar um cruzamento, cuide para não prender um ciclomotor pequeno especificado ou bicicleta que segue à sua esquerda e confira, ao passar, se o condutor percebeu o seu carro.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 3, item 7(4). Dirija supondo que o ciclista não notou você."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-3-042",
+    "category": "歩行者などの保護",
+    "kp": "5-3-6",
+    "group": "K",
+    "source": "教則 第5章第3節6(1)",
+    "question_type": "text",
+    "qf": "QF-5-3-6-A-N-02",
+    "question_ja": "歩行者用道路を特に通行を認められた車が通行するときは、歩行者に注意して徐行しなければならない。",
+    "answer": true,
+    "explanation_ja": "教則第5章第3節6(1)のとおりです。通行が認められても、歩行者が優先される道路であることは変わりません。",
+    "i18n": {
+      "zh": {
+        "question": "获得特别通行许可的车辆通行步行者专用道路时，必须注意步行者并缓行（徐行）。",
+        "explanation": "符合教则第5章第3节6(1)的规定。即使获得通行许可，该道路仍然是步行者优先的道路。"
+      },
+      "en": {
+        "question": "When a vehicle specially permitted to use a pedestrian-only road does so, it must proceed slowly (徐行) with care for pedestrians.",
+        "explanation": "This is Kyosoku Chapter 5 Section 3 item 6(1). Permission does not change the fact that the road belongs to pedestrians."
+      },
+      "vi": {
+        "question": "Khi xe được phép đặc biệt đi trên đường dành riêng cho người đi bộ, xe phải lưu thông chậm (徐行) và chú ý người đi bộ.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 3 điểm 6(1). Được phép không làm thay đổi việc con đường đó thuộc về người đi bộ."
+      },
+      "pt": {
+        "question": "Quando um veículo especialmente autorizado circula em via exclusiva de pedestres, deve prosseguir lentamente (徐行) com atenção a eles.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 3, item 6(1). A autorização não muda o fato de a via ser dos pedestres."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-3-043",
+    "category": "歩行者などの保護",
+    "kp": "5-3-3",
+    "group": "K",
+    "source": "教則 第5章第3節3",
+    "question_type": "text",
+    "qf": "QF-5-3-3-A-N-02",
+    "question_ja": "身体障害者用の車で通行している人がいる場合には、一時停止か徐行をして、その人が安全に通れるようにしなければならない。",
+    "answer": true,
+    "explanation_ja": "教則第5章第3節3のとおりです。白や黄のつえを持った人や盲導犬を連れた人の場合も同じです。",
+    "i18n": {
+      "zh": {
+        "question": "有人使用残疾人专用车辆通行时，必须暂停（一時停止）或缓行（徐行），让其能够安全通过。",
+        "explanation": "符合教则第5章第3节3的规定。拿着白色或黄色手杖的人、带着导盲犬的人的情况也一样。"
+      },
+      "en": {
+        "question": "Where someone is travelling in a vehicle for people with disabilities, you must come to a complete stop (一時停止) or proceed slowly (徐行) so that they can pass safely.",
+        "explanation": "This is Kyosoku Chapter 5 Section 3 item 3. The same goes for a person with a white or yellow cane or with a guide dog."
+      },
+      "vi": {
+        "question": "Khi có người di chuyển bằng xe dành cho người khuyết tật, bạn phải tạm dừng (一時停止) hoặc lưu thông chậm (徐行) để họ qua an toàn.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 3 điểm 3. Điều tương tự áp dụng cho người cầm gậy trắng hoặc vàng hay đi cùng chó dẫn đường."
+      },
+      "pt": {
+        "question": "Quando alguém se desloca em veículo para pessoas com deficiência, você deve parar (一時停止) ou prosseguir lentamente (徐行) para que passe em segurança.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 3, item 3. O mesmo vale para quem usa bengala branca ou amarela ou tem cão-guia."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-3-044",
+    "category": "歩行者などの保護",
+    "kp": "5-3-4",
+    "group": "K",
+    "source": "教則 第5章第3節4(1)",
+    "question_type": "text",
+    "qf": "QF-5-3-4-A-N-04",
+    "question_ja": "子供が独りで歩いているときに注意が必要なのは、判断力が未熟なために無理に道路を横断しようとすることがあるからでもある。",
+    "answer": true,
+    "explanation_ja": "教則第5章第3節4(1)のとおりです。大人と同じ判断を期待してはいけません。",
+    "i18n": {
+      "zh": {
+        "question": "孩子独自行走时需要注意，也是因为其判断力不成熟、有时会勉强横穿道路。",
+        "explanation": "符合教则第5章第3节4(1)的规定。不能期待孩子作出与成年人相同的判断。"
+      },
+      "en": {
+        "question": "Part of why a child walking alone needs care is that their judgement is immature, so they may try to cross the road when they should not.",
+        "explanation": "This is Kyosoku Chapter 5 Section 3 item 4(1). Do not expect a child to judge as an adult would."
+      },
+      "vi": {
+        "question": "Một lý do cần chú ý khi trẻ đi một mình là khả năng phán đoán của trẻ chưa chín, nên trẻ có thể cố băng qua đường khi không nên.",
+        "explanation": "Đúng theo Kyosoku Chương 5 Mục 3 điểm 4(1). Đừng mong trẻ phán đoán như người lớn."
+      },
+      "pt": {
+        "question": "Parte do motivo para cuidar de uma criança sozinha é que seu julgamento é imaturo, e ela pode tentar atravessar quando não deveria.",
+        "explanation": "É o Kyosoku, Capítulo 5, Seção 3, item 4(1). Não espere de uma criança o julgamento de um adulto."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-3-045",
+    "category": "歩行者などの保護",
+    "kp": "5-3-3",
+    "group": "K",
+    "source": "教則 第5章第3節3",
+    "question_type": "text",
+    "qf": "QF-5-3-3-D-EI-01",
+    "question_ja": "白や黄のつえを持った人がいる場合でも、その人が横断しようとしていなければ、一時停止も徐行もしなくてよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第3節3により、これらの人が歩いている場合には、一時停止か徐行をして安全に通れるようにしなければなりません。",
+    "i18n": {
+      "zh": {
+        "question": "即使有拿着白色或黄色手杖的人，只要其没有正要横穿，就可以不暂停（一時停止）也不缓行（徐行）。",
+        "explanation": "错误。根据教则第5章第3节3，这些人在行走时，必须暂停或缓行，让其能够安全通过。"
+      },
+      "en": {
+        "question": "Even where a person with a white or yellow cane is present, you need neither stop nor slow down as long as they are not about to cross.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 3 item 3 you must come to a complete stop (一時停止) or proceed slowly (徐行) when such a person is walking."
+      },
+      "vi": {
+        "question": "Dù có người cầm gậy trắng hoặc vàng, bạn không cần dừng hay đi chậm miễn là họ chưa định băng qua.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 3 điểm 3, khi những người này đang đi bộ, bạn phải tạm dừng (一時停止) hoặc lưu thông chậm (徐行)."
+      },
+      "pt": {
+        "question": "Mesmo havendo alguém com bengala branca ou amarela, não é preciso parar nem reduzir desde que não vá atravessar.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 3, item 3, quando essa pessoa caminha você deve parar (一時停止) ou prosseguir lentamente (徐行)."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-3-046",
+    "category": "歩行者などの保護",
+    "kp": "5-3-5",
+    "group": "K",
+    "source": "教則 第5章第3節5",
+    "question_type": "text",
+    "qf": "QF-5-3-5-D-EX-01",
+    "question_ja": "高齢者が歩いている場合に一時停止か徐行が必要なのは、その高齢者が横断歩道を渡るときに限られる。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第3節5は、通行に支障のある高齢者が通行している場合について定めており、場所を限っていません。",
+    "i18n": {
+      "zh": {
+        "question": "高龄者行走时需要暂停（一時停止）或缓行（徐行），仅限于该高龄者走人行横道时。",
+        "explanation": "错误。教则第5章第3节5规定的是通行有障碍的高龄者通行的情形，并未限定场所。"
+      },
+      "en": {
+        "question": "Stopping or slowing for an older person walking is required only when they are using a pedestrian crossing.",
+        "explanation": "This is wrong. Kyosoku Chapter 5 Section 3 item 5 deals with an older person with difficulty getting about who is passing, and sets no limit as to place."
+      },
+      "vi": {
+        "question": "Việc dừng hay đi chậm vì người cao tuổi đang đi bộ chỉ bắt buộc khi họ đi trên vạch sang đường.",
+        "explanation": "Sai. Kyosoku Chương 5 Mục 3 điểm 5 nói về người cao tuổi đi lại khó khăn đang di chuyển, và không giới hạn địa điểm."
+      },
+      "pt": {
+        "question": "Parar ou reduzir por um idoso a pé só é exigido quando ele usa a faixa de pedestres.",
+        "explanation": "Está errado. O Kyosoku, Capítulo 5, Seção 3, item 5, trata do idoso com dificuldade de locomoção que passa, sem limitar o local."
+      }
+    },
+    "trap_type": "EX",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-3-047",
+    "category": "歩行者などの保護",
+    "kp": "5-3-7",
+    "group": "K",
+    "source": "教則 第5章第3節7(3)",
+    "question_type": "text",
+    "qf": "QF-5-3-7-D-EI-02",
+    "question_ja": "歩道を横切って駐車場に入るときは、歩行者がいなければ一時停止をしなくてよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第3節7(3)および6(2)により、歩道を横切る場合はその直前で一時停止をしなければなりません。",
+    "i18n": {
+      "zh": {
+        "question": "横穿人行道驶入停车场时，只要没有步行者就可以不暂停（一時停止）。",
+        "explanation": "错误。根据教则第5章第3节7(3)和6(2)，横穿人行道时必须在其正前方暂停。"
+      },
+      "en": {
+        "question": "When crossing a sidewalk to enter a car park you need not stop if there is no pedestrian.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 3 items 7(3) and 6(2) you must come to a complete stop (一時停止) just before crossing a sidewalk."
+      },
+      "vi": {
+        "question": "Khi băng qua vỉa hè để vào bãi đỗ, bạn không cần tạm dừng nếu không có người đi bộ.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 3 điểm 7(3) và 6(2), bạn phải tạm dừng (一時停止) ngay trước khi băng qua vỉa hè."
+      },
+      "pt": {
+        "question": "Ao atravessar a calçada para entrar num estacionamento, não é preciso parar se não houver pedestre.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 3, itens 7(3) e 6(2), é obrigatório parar (一時停止) logo antes de atravessar a calçada."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-3-048",
+    "category": "歩行者などの保護",
+    "kp": "5-3-4",
+    "group": "K",
+    "source": "教則 第5章第3節4(2)",
+    "question_type": "text",
+    "qf": "QF-5-3-4-D-EI-01",
+    "question_ja": "止まっている通学通園バスのそばを通るときは、子供が降りてこなければ徐行しなくてよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第3節4(2)により、止まっている通学通園バスのそばを通るときは徐行して安全を確かめなければなりません。",
+    "i18n": {
+      "zh": {
+        "question": "从停住的校车（幼儿园校车）旁边通过时，只要没有孩子下车就可以不缓行（徐行）。",
+        "explanation": "错误。根据教则第5章第3节4(2)，从停住的校车旁边通过时必须缓行并确认安全。"
+      },
+      "en": {
+        "question": "When passing a stopped school or kindergarten bus you need not slow down if no child is getting off.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 3 item 4(2) you must proceed slowly (徐行) and check that it is safe."
+      },
+      "vi": {
+        "question": "Khi đi qua xe đưa đón học sinh đang dừng, bạn không cần đi chậm nếu không có trẻ nào xuống xe.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 3 điểm 4(2), bạn phải lưu thông chậm (徐行) và kiểm tra an toàn."
+      },
+      "pt": {
+        "question": "Ao passar por um ônibus escolar parado não é preciso reduzir se nenhuma criança está descendo.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 3, item 4(2), é preciso prosseguir lentamente (徐行) e verificar a segurança."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-3-049",
+    "category": "歩行者などの保護",
+    "kp": "5-3-6",
+    "group": "K",
+    "source": "教則 第5章第3節6(1)",
+    "question_type": "text",
+    "qf": "QF-5-3-6-D-NR-01",
+    "question_ja": "歩行者用道路は、通行を認められた車であれば、歩行者に注意すれば徐行しなくてよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第3節6(1)により、特に歩行者に注意して徐行しなければなりません。",
+    "i18n": {
+      "zh": {
+        "question": "步行者专用道路，只要是获得通行许可的车辆，注意步行者就可以不缓行（徐行）。",
+        "explanation": "错误。根据教则第5章第3节6(1)，必须特别注意步行者并缓行。"
+      },
+      "en": {
+        "question": "On a pedestrian-only road a permitted vehicle need not proceed slowly (徐行) as long as it watches for pedestrians.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 3 item 6(1) it must proceed slowly with particular care for pedestrians."
+      },
+      "vi": {
+        "question": "Trên đường dành riêng cho người đi bộ, xe được phép chỉ cần chú ý người đi bộ là đủ, không cần lưu thông chậm (徐行).",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 3 điểm 6(1), xe phải lưu thông chậm và đặc biệt chú ý người đi bộ."
+      },
+      "pt": {
+        "question": "Em via exclusiva de pedestres, o veículo autorizado não precisa prosseguir lentamente (徐行) desde que fique atento aos pedestres.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 3, item 6(1), ele deve prosseguir lentamente e com atenção especial."
+      }
+    },
+    "trap_type": "NR",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-3-050",
+    "category": "歩行者などの保護",
+    "kp": "5-3-7",
+    "group": "K",
+    "source": "教則 第5章第3節7(1)",
+    "question_type": "text",
+    "qf": "QF-5-3-7-D-SW-01",
+    "question_ja": "特定小型原動機付自転車や自転車は歩行者に近い乗り物なので、歩道を通行するのが原則である。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第3節7(1)により、これらは車両の一種であり、原則として車道を通行することとされています。",
+    "i18n": {
+      "zh": {
+        "question": "特定小型轻型摩托车和自行车是接近步行者的交通工具，所以原则上应在人行道通行。",
+        "explanation": "错误。根据教则第5章第3节7(1)，它们是车辆的一种，原则上应在车行道通行。"
+      },
+      "en": {
+        "question": "A specified small motorized bicycle or a bicycle is close to a pedestrian, so it travels on the sidewalk as a rule.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 3 item 7(1) they are a kind of vehicle and travel on the roadway as a rule."
+      },
+      "vi": {
+        "question": "Xe gắn máy cỡ nhỏ đặc định và xe đạp gần với người đi bộ nên về nguyên tắc đi trên vỉa hè.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 3 điểm 7(1), chúng là một loại phương tiện và về nguyên tắc đi trên lòng đường."
+      },
+      "pt": {
+        "question": "O ciclomotor pequeno especificado e a bicicleta são próximos do pedestre, então circulam pela calçada como regra.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 3, item 7(1), são espécies de veículo e circulam pela pista como regra."
+      }
+    },
+    "trap_type": "SW",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-3-051",
+    "category": "歩行者などの保護",
+    "kp": "5-3-4",
+    "group": "K",
+    "source": "教則 第5章第3節4(3)",
+    "question_type": "text",
+    "qf": "QF-5-3-4-D-EI-02",
+    "question_ja": "通学路の標識のあるところでは、子供の姿が見えるときだけ注意すればよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第3節4(3)により、こうした場所では子供が突然飛び出してくることがあるので、特に注意しなければなりません。",
+    "i18n": {
+      "zh": {
+        "question": "在设有通学路标识（立牌）的地方，只在看得见孩子身影时注意就可以。",
+        "explanation": "错误。根据教则第5章第3节4(3)，这类场所孩子可能突然跑出来，必须特别注意。"
+      },
+      "en": {
+        "question": "Where the school-route sign stands you need take care only when a child is in sight.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 3 item 4(3) children may dart out suddenly at such places, so particular care is required."
+      },
+      "vi": {
+        "question": "Ở nơi có biển đường đến trường, bạn chỉ cần chú ý khi nhìn thấy trẻ.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 3 điểm 4(3), ở những nơi đó trẻ có thể lao ra bất ngờ nên cần đặc biệt chú ý."
+      },
+      "pt": {
+        "question": "Onde há a placa de rota escolar basta ter cuidado quando houver criança à vista.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 3, item 4(3), crianças podem surgir de repente nesses locais, exigindo atenção especial."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-3-052",
+    "category": "歩行者などの保護",
+    "kp": "5-3-7",
+    "group": "K",
+    "source": "教則 第5章第3節7(4)",
+    "question_type": "text",
+    "qf": "QF-5-3-7-D-EI-03",
+    "question_ja": "交差点で自転車に注意するのは、自転車の運転者が自動車の存在に気づいていることが前提である。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第3節7(4)により、自転車の運転者が自動車の存在を認識しているかどうかを確認しながら通行します。",
+    "i18n": {
+      "zh": {
+        "question": "在交叉路口注意自行车，是以自行车驾驶人已察觉汽车存在为前提的。",
+        "explanation": "错误。根据教则第5章第3节7(4)，要一边确认自行车驾驶人是否意识到汽车的存在一边通行。"
+      },
+      "en": {
+        "question": "Watching for bicycles at an intersection proceeds on the basis that the rider has noticed your car.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 3 item 7(4) you check as you go whether the rider is aware of your car."
+      },
+      "vi": {
+        "question": "Việc chú ý xe đạp tại nút giao dựa trên giả định rằng người đi xe đạp đã nhận ra ô tô của bạn.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 3 điểm 7(4), bạn vừa đi vừa xác nhận người lái xe đạp có nhận ra ô tô của bạn không."
+      },
+      "pt": {
+        "question": "Vigiar bicicletas no cruzamento parte do princípio de que o ciclista percebeu o seu carro.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 3, item 7(4), você confere ao passar se o ciclista percebeu o seu carro."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-3-053",
+    "category": "歩行者などの保護",
+    "kp": "5-3-5",
+    "group": "K",
+    "source": "教則 第5章第3節5",
+    "question_type": "text",
+    "qf": "QF-5-3-5-D-SW-01",
+    "question_ja": "高齢者は一般的に歩行が速くなる傾向があるので、横断に要する時間は短く見積もってよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第3節5により、高齢者は一般的に歩行が遅くなったり、歩行が不安定になったりします。",
+    "i18n": {
+      "zh": {
+        "question": "高龄者一般有步行变快的倾向，所以横穿所需时间可以估算得短一些。",
+        "explanation": "错误。根据教则第5章第3节5，高龄者一般步行会变慢，步态也会变得不稳。"
+      },
+      "en": {
+        "question": "Older people generally walk faster, so you may allow less time for them to cross.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 3 item 5 older people generally walk more slowly and less steadily."
+      },
+      "vi": {
+        "question": "Người cao tuổi nói chung đi nhanh hơn, nên bạn có thể ước lượng thời gian họ băng qua ngắn lại.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 3 điểm 5, người cao tuổi nói chung đi chậm hơn và bước đi kém vững."
+      },
+      "pt": {
+        "question": "Os idosos em geral caminham mais rápido, então você pode prever menos tempo para a travessia deles.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 3, item 5, os idosos em geral caminham mais devagar e de forma menos firme."
+      }
+    },
+    "trap_type": "SW",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K5-3-054",
+    "category": "歩行者などの保護",
+    "kp": "5-3-4",
+    "group": "K",
+    "source": "教則 第5章第3節4(1)",
+    "question_type": "text",
+    "qf": "QF-5-3-4-D-SC-02",
+    "question_ja": "子供が独りで道路脇を歩いていたが、道路を渡る様子がなかったので、そのままの速度で通り過ぎた。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第3節4(1)により、子供が独りで歩いている場合には一時停止か徐行をしなければなりません。",
+    "i18n": {
+      "zh": {
+        "question": "有孩子独自在路边行走，但看上去没有要过马路的样子，就保持原速驶过去了。",
+        "explanation": "错误。根据教则第5章第3节4(1)，孩子独自行走时必须暂停（一時停止）或缓行（徐行）。"
+      },
+      "en": {
+        "question": "A child was walking alone at the roadside but showed no sign of crossing, so you went past at the same speed.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 3 item 4(1) you must come to a complete stop (一時停止) or proceed slowly (徐行) where a child is walking alone."
+      },
+      "vi": {
+        "question": "Có trẻ đi một mình bên lề đường nhưng không có vẻ sẽ sang đường, nên bạn đi qua với nguyên tốc độ.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 3 điểm 4(1), khi trẻ đi một mình bạn phải tạm dừng (一時停止) hoặc lưu thông chậm (徐行)."
+      },
+      "pt": {
+        "question": "Uma criança caminhava sozinha na beira da via sem sinal de que iria atravessar, então você passou na mesma velocidade.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 3, item 4(1), com criança caminhando sozinha é preciso parar (一時停止) ou prosseguir lentamente (徐行)."
+      }
+    },
+    "trap_type": "SC",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  }
+]
