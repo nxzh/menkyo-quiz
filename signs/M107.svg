@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <title>規制標示107 停止禁止部分</title>
+  <rect x="0" y="0" width="1000" height="1000" fill="#4a4f55"/>
+  <rect x="0" y="0" width="1000" height="90" fill="#c4c8cc"/>
+  <rect x="0" y="76" width="1000" height="14" fill="#9da2a8"/>
+  <rect x="0" y="910" width="1000" height="90" fill="#c4c8cc"/>
+  <rect x="0" y="910" width="1000" height="14" fill="#9da2a8"/>
+  <clipPath id="c7"><path clip-rule="evenodd" d="M230,190 H770 V810 H230 Z M365,325 V675 H635 V325 Z"/></clipPath>
+  <g clip-path="url(#c7)" stroke="#ffffff" stroke-width="18">
+  <line x1="-470" y1="810" x2="150" y2="190"/>
+  <line x1="-342" y1="810" x2="278" y2="190"/>
+  <line x1="-214" y1="810" x2="406" y2="190"/>
+  <line x1="-86" y1="810" x2="534" y2="190"/>
+  <line x1="42" y1="810" x2="662" y2="190"/>
+  <line x1="170" y1="810" x2="790" y2="190"/>
+  <line x1="298" y1="810" x2="918" y2="190"/>
+  <line x1="426" y1="810" x2="1046" y2="190"/>
+  <line x1="554" y1="810" x2="1174" y2="190"/>
+  <line x1="682" y1="810" x2="1302" y2="190"/>
+  <line x1="810" y1="810" x2="1430" y2="190"/>
+  </g>
+  <rect x="230" y="190" width="540" height="620" fill="none" stroke="#ffffff" stroke-width="18"/>
+</svg>

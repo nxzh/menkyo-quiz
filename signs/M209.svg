@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <title>指示標示209 路面電車停留場</title>
+  <rect x="0" y="0" width="1000" height="1000" fill="#4a4f55"/>
+  <rect x="560" y="0" width="300" height="1000" fill="#565b61"/>
+  <rect x="595" y="0" width="10" height="1000" fill="#2e3236"/>
+  <rect x="675" y="0" width="10" height="1000" fill="#2e3236"/>
+  <rect x="735" y="0" width="10" height="1000" fill="#2e3236"/>
+  <rect x="815" y="0" width="10" height="1000" fill="#2e3236"/>
+  <path d="M545,90 L380,90 L380,640 L545,900" fill="none" stroke="#ffffff" stroke-width="20" stroke-linejoin="miter"/>
+</svg>

@@ -1,0 +1,782 @@
+[
+  {
+    "id": "KS-061",
+    "category": "警戒標識",
+    "kp": "付3-1-171",
+    "group": "D",
+    "source": "教則 付表3（1）171",
+    "question_type": "sign",
+    "qf": "QF-付3-1-171-A-N-01",
+    "image": {
+      "sign_no": "201-A",
+      "file": "201-A.svg",
+      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+      "file_verified": true
+    },
+    "question_ja": "この標識は、前方に十字形の道路交差点があることを知らせる警戒標識である。",
+    "answer": true,
+    "explanation_ja": "教則付表3（1）171のとおりです。警戒標識は、危険や注意すべき状況を前もって知らせるものです。",
+    "i18n": {
+      "zh": {
+        "question": "这个标识（立牌）是告知前方有十字形道路交叉路口的警戒标识。",
+        "explanation": "符合教则附表3（1）171的规定。警戒标识用于事先告知危险或需要注意的状况。"
+      },
+      "en": {
+        "question": "This sign is a warning sign telling you that there is a crossroads ahead.",
+        "explanation": "This is Kyosoku Appendix 3(1) item 171. A warning sign gives advance notice of a danger or a situation calling for care."
+      },
+      "vi": {
+        "question": "Biển báo giao thông này là biển báo cảnh báo cho biết phía trước có nút giao hình chữ thập.",
+        "explanation": "Đúng theo Kyosoku Phụ lục 3(1) mục 171. Biển báo cảnh báo báo trước về nguy hiểm hoặc tình huống cần chú ý."
+      },
+      "pt": {
+        "question": "Esta sinalização é de advertência e informa que há um cruzamento em cruz à frente.",
+        "explanation": "É o Kyosoku, Anexo 3(1), item 171. A sinalização de advertência avisa com antecedência sobre perigo ou situação que exige cuidado."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免"
+  },
+  {
+    "id": "KS-062",
+    "category": "警戒標識",
+    "kp": "付3-1-173",
+    "group": "D",
+    "source": "教則 付表3（1）173",
+    "question_type": "sign",
+    "qf": "QF-付3-1-173-A-N-01",
+    "image": {
+      "sign_no": "201-C",
+      "file": "201-C.svg",
+      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+      "file_verified": true
+    },
+    "question_ja": "この標識は、前方に丁字形の道路交差点があることを知らせる警戒標識である。",
+    "answer": true,
+    "explanation_ja": "教則付表3（1）173のとおりです。警戒標識は、危険や注意すべき状況を前もって知らせるものです。",
+    "i18n": {
+      "zh": {
+        "question": "这个标识（立牌）是告知前方有丁字形道路交叉路口的警戒标识。",
+        "explanation": "符合教则附表3（1）173的规定。警戒标识用于事先告知危险或需要注意的状况。"
+      },
+      "en": {
+        "question": "This sign is a warning sign telling you that there is a T-junction ahead.",
+        "explanation": "This is Kyosoku Appendix 3(1) item 173. A warning sign gives advance notice of a danger or a situation calling for care."
+      },
+      "vi": {
+        "question": "Biển báo giao thông này là biển báo cảnh báo cho biết phía trước có nút giao hình chữ T.",
+        "explanation": "Đúng theo Kyosoku Phụ lục 3(1) mục 173. Biển báo cảnh báo báo trước về nguy hiểm hoặc tình huống cần chú ý."
+      },
+      "pt": {
+        "question": "Esta sinalização é de advertência e informa que há um entroncamento em T à frente.",
+        "explanation": "É o Kyosoku, Anexo 3(1), item 173. A sinalização de advertência avisa com antecedência sobre perigo ou situação que exige cuidado."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免"
+  },
+  {
+    "id": "KS-063",
+    "category": "警戒標識",
+    "kp": "付3-1-175",
+    "group": "D",
+    "source": "教則 付表3（1）175",
+    "question_type": "sign",
+    "qf": "QF-付3-1-175-A-N-01",
+    "image": {
+      "sign_no": "201-2",
+      "file": "201-2.svg",
+      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+      "file_verified": true
+    },
+    "question_ja": "この標識は、前方にロータリーがあることを知らせる警戒標識である。",
+    "answer": true,
+    "explanation_ja": "教則付表3（1）175のとおりです。警戒標識は、危険や注意すべき状況を前もって知らせるものです。",
+    "i18n": {
+      "zh": {
+        "question": "这个标识（立牌）是告知前方有环岛的警戒标识。",
+        "explanation": "符合教则附表3（1）175的规定。警戒标识用于事先告知危险或需要注意的状况。"
+      },
+      "en": {
+        "question": "This sign is a warning sign telling you that there is a rotary ahead.",
+        "explanation": "This is Kyosoku Appendix 3(1) item 175. A warning sign gives advance notice of a danger or a situation calling for care."
+      },
+      "vi": {
+        "question": "Biển báo giao thông này là biển báo cảnh báo cho biết phía trước có một vòng xoay.",
+        "explanation": "Đúng theo Kyosoku Phụ lục 3(1) mục 175. Biển báo cảnh báo báo trước về nguy hiểm hoặc tình huống cần chú ý."
+      },
+      "pt": {
+        "question": "Esta sinalização é de advertência e informa que há uma rotatória antiga à frente.",
+        "explanation": "É o Kyosoku, Anexo 3(1), item 175. A sinalização de advertência avisa com antecedência sobre perigo ou situação que exige cuidado."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免"
+  },
+  {
+    "id": "KS-064",
+    "category": "警戒標識",
+    "kp": "付3-1-185",
+    "group": "D",
+    "source": "教則 付表3（1）185",
+    "question_type": "sign",
+    "qf": "QF-付3-1-185-A-N-01",
+    "image": {
+      "sign_no": "209-2",
+      "file": "209-2.svg",
+      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+      "file_verified": true
+    },
+    "question_ja": "この標識は、前方に落石のおそれのある場所があることを知らせる警戒標識である。",
+    "answer": true,
+    "explanation_ja": "教則付表3（1）185のとおりです。警戒標識は、危険や注意すべき状況を前もって知らせるものです。",
+    "i18n": {
+      "zh": {
+        "question": "这个标识（立牌）是告知前方有可能落石的场所的警戒标识。",
+        "explanation": "符合教则附表3（1）185的规定。警戒标识用于事先告知危险或需要注意的状况。"
+      },
+      "en": {
+        "question": "This sign is a warning sign telling you that there is a risk of falling rocks ahead.",
+        "explanation": "This is Kyosoku Appendix 3(1) item 185. A warning sign gives advance notice of a danger or a situation calling for care."
+      },
+      "vi": {
+        "question": "Biển báo giao thông này là biển báo cảnh báo cho biết phía trước có nơi có nguy cơ đá rơi.",
+        "explanation": "Đúng theo Kyosoku Phụ lục 3(1) mục 185. Biển báo cảnh báo báo trước về nguy hiểm hoặc tình huống cần chú ý."
+      },
+      "pt": {
+        "question": "Esta sinalização é de advertência e informa que há risco de queda de pedras à frente.",
+        "explanation": "É o Kyosoku, Anexo 3(1), item 185. A sinalização de advertência avisa com antecedência sobre perigo ou situação que exige cuidado."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免"
+  },
+  {
+    "id": "KS-065",
+    "category": "警戒標識",
+    "kp": "付3-1-188",
+    "group": "D",
+    "source": "教則 付表3（1）188",
+    "question_type": "sign",
+    "qf": "QF-付3-1-188-A-N-01",
+    "image": {
+      "sign_no": "211",
+      "file": "211.svg",
+      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+      "file_verified": true
+    },
+    "question_ja": "この標識は、前方に車線数が減少する場所があることを知らせる警戒標識である。",
+    "answer": true,
+    "explanation_ja": "教則付表3（1）188のとおりです。警戒標識は、危険や注意すべき状況を前もって知らせるものです。",
+    "i18n": {
+      "zh": {
+        "question": "这个标识（立牌）是告知前方有车道数减少的地点的警戒标识。",
+        "explanation": "符合教则附表3（1）188的规定。警戒标识用于事先告知危险或需要注意的状况。"
+      },
+      "en": {
+        "question": "This sign is a warning sign telling you that there is a reduction in the number of lanes ahead.",
+        "explanation": "This is Kyosoku Appendix 3(1) item 188. A warning sign gives advance notice of a danger or a situation calling for care."
+      },
+      "vi": {
+        "question": "Biển báo giao thông này là biển báo cảnh báo cho biết phía trước có đoạn giảm số làn.",
+        "explanation": "Đúng theo Kyosoku Phụ lục 3(1) mục 188. Biển báo cảnh báo báo trước về nguy hiểm hoặc tình huống cần chú ý."
+      },
+      "pt": {
+        "question": "Esta sinalização é de advertência e informa que há redução do número de faixas à frente.",
+        "explanation": "É o Kyosoku, Anexo 3(1), item 188. A sinalização de advertência avisa com antecedência sobre perigo ou situação que exige cuidado."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免"
+  },
+  {
+    "id": "KS-066",
+    "category": "警戒標識",
+    "kp": "付3-1-190",
+    "group": "D",
+    "source": "教則 付表3（1）190",
+    "question_type": "sign",
+    "qf": "QF-付3-1-190-A-N-01",
+    "image": {
+      "sign_no": "212-2",
+      "file": "212-2.svg",
+      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+      "file_verified": true
+    },
+    "question_ja": "この標識は、前方に二方向交通となる場所があることを知らせる警戒標識である。",
+    "answer": true,
+    "explanation_ja": "教則付表3（1）190のとおりです。警戒標識は、危険や注意すべき状況を前もって知らせるものです。",
+    "i18n": {
+      "zh": {
+        "question": "这个标识（立牌）是告知前方有变为双向交通的地点的警戒标识。",
+        "explanation": "符合教则附表3（1）190的规定。警戒标识用于事先告知危险或需要注意的状况。"
+      },
+      "en": {
+        "question": "This sign is a warning sign telling you that there is two-way traffic ahead.",
+        "explanation": "This is Kyosoku Appendix 3(1) item 190. A warning sign gives advance notice of a danger or a situation calling for care."
+      },
+      "vi": {
+        "question": "Biển báo giao thông này là biển báo cảnh báo cho biết phía trước có đoạn có xe hai chiều.",
+        "explanation": "Đúng theo Kyosoku Phụ lục 3(1) mục 190. Biển báo cảnh báo báo trước về nguy hiểm hoặc tình huống cần chú ý."
+      },
+      "pt": {
+        "question": "Esta sinalização é de advertência e informa que há trânsito nos dois sentidos à frente.",
+        "explanation": "É o Kyosoku, Anexo 3(1), item 190. A sinalização de advertência avisa com antecedência sobre perigo ou situação que exige cuidado."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免"
+  },
+  {
+    "id": "KS-067",
+    "category": "警戒標識",
+    "kp": "付3-1-192",
+    "group": "D",
+    "source": "教則 付表3（1）192",
+    "question_type": "sign",
+    "qf": "QF-付3-1-192-A-N-01",
+    "image": {
+      "sign_no": "212-4",
+      "file": "212-4.svg",
+      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+      "file_verified": true
+    },
+    "question_ja": "この標識は、前方に急な下り坂があることを知らせる警戒標識である。",
+    "answer": true,
+    "explanation_ja": "教則付表3（1）192のとおりです。警戒標識は、危険や注意すべき状況を前もって知らせるものです。",
+    "i18n": {
+      "zh": {
+        "question": "这个标识（立牌）是告知前方有陡下坡的警戒标识。",
+        "explanation": "符合教则附表3（1）192的规定。警戒标识用于事先告知危险或需要注意的状况。"
+      },
+      "en": {
+        "question": "This sign is a warning sign telling you that there is a steep descent ahead.",
+        "explanation": "This is Kyosoku Appendix 3(1) item 192. A warning sign gives advance notice of a danger or a situation calling for care."
+      },
+      "vi": {
+        "question": "Biển báo giao thông này là biển báo cảnh báo cho biết phía trước có dốc xuống gấp.",
+        "explanation": "Đúng theo Kyosoku Phụ lục 3(1) mục 192. Biển báo cảnh báo báo trước về nguy hiểm hoặc tình huống cần chú ý."
+      },
+      "pt": {
+        "question": "Esta sinalização é de advertência e informa que há uma descida íngreme à frente.",
+        "explanation": "É o Kyosoku, Anexo 3(1), item 192. A sinalização de advertência avisa com antecedência sobre perigo ou situação que exige cuidado."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免"
+  },
+  {
+    "id": "KS-068",
+    "category": "警戒標識",
+    "kp": "付3-1-193",
+    "group": "D",
+    "source": "教則 付表3（1）193",
+    "question_type": "sign",
+    "qf": "QF-付3-1-193-A-N-01",
+    "image": {
+      "sign_no": "213",
+      "file": "213.svg",
+      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+      "file_verified": true
+    },
+    "question_ja": "この標識は、前方に道路工事中の場所があることを知らせる警戒標識である。",
+    "answer": true,
+    "explanation_ja": "教則付表3（1）193のとおりです。警戒標識は、危険や注意すべき状況を前もって知らせるものです。",
+    "i18n": {
+      "zh": {
+        "question": "这个标识（立牌）是告知前方有道路施工中的地点的警戒标识。",
+        "explanation": "符合教则附表3（1）193的规定。警戒标识用于事先告知危险或需要注意的状况。"
+      },
+      "en": {
+        "question": "This sign is a warning sign telling you that there is road works ahead.",
+        "explanation": "This is Kyosoku Appendix 3(1) item 193. A warning sign gives advance notice of a danger or a situation calling for care."
+      },
+      "vi": {
+        "question": "Biển báo giao thông này là biển báo cảnh báo cho biết phía trước có đoạn đang thi công đường.",
+        "explanation": "Đúng theo Kyosoku Phụ lục 3(1) mục 193. Biển báo cảnh báo báo trước về nguy hiểm hoặc tình huống cần chú ý."
+      },
+      "pt": {
+        "question": "Esta sinalização é de advertência e informa que há obras na via à frente.",
+        "explanation": "É o Kyosoku, Anexo 3(1), item 193. A sinalização de advertência avisa com antecedência sobre perigo ou situação que exige cuidado."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免"
+  },
+  {
+    "id": "KS-069",
+    "category": "警戒標識",
+    "kp": "付3-1-194",
+    "group": "D",
+    "source": "教則 付表3（1）194",
+    "question_type": "sign",
+    "qf": "QF-付3-1-194-A-N-01",
+    "image": {
+      "sign_no": "214",
+      "file": "214.svg",
+      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+      "file_verified": true
+    },
+    "question_ja": "この標識は、前方に横風の強い場所があることを知らせる警戒標識である。",
+    "answer": true,
+    "explanation_ja": "教則付表3（1）194のとおりです。警戒標識は、危険や注意すべき状況を前もって知らせるものです。",
+    "i18n": {
+      "zh": {
+        "question": "这个标识（立牌）是告知前方有横风强劲的地点的警戒标识。",
+        "explanation": "符合教则附表3（1）194的规定。警戒标识用于事先告知危险或需要注意的状况。"
+      },
+      "en": {
+        "question": "This sign is a warning sign telling you that there is strong crosswinds ahead.",
+        "explanation": "This is Kyosoku Appendix 3(1) item 194. A warning sign gives advance notice of a danger or a situation calling for care."
+      },
+      "vi": {
+        "question": "Biển báo giao thông này là biển báo cảnh báo cho biết phía trước có đoạn có gió ngang mạnh.",
+        "explanation": "Đúng theo Kyosoku Phụ lục 3(1) mục 194. Biển báo cảnh báo báo trước về nguy hiểm hoặc tình huống cần chú ý."
+      },
+      "pt": {
+        "question": "Esta sinalização é de advertência e informa que há vento lateral forte à frente.",
+        "explanation": "É o Kyosoku, Anexo 3(1), item 194. A sinalização de advertência avisa com antecedência sobre perigo ou situação que exige cuidado."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免"
+  },
+  {
+    "id": "KS-070",
+    "category": "警戒標識",
+    "kp": "付3-1-195",
+    "group": "D",
+    "source": "教則 付表3（1）195",
+    "question_type": "sign",
+    "qf": "QF-付3-1-195-A-N-01",
+    "image": {
+      "sign_no": "214-2-しか",
+      "file": "214-2-しか.svg",
+      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+      "file_verified": true
+    },
+    "question_ja": "この標識は、前方に動物が飛び出すおそれのある場所があることを知らせる警戒標識である。",
+    "answer": true,
+    "explanation_ja": "教則付表3（1）195のとおりです。警戒標識は、危険や注意すべき状況を前もって知らせるものです。",
+    "i18n": {
+      "zh": {
+        "question": "这个标识（立牌）是告知前方有可能有动物窜出的场所的警戒标识。",
+        "explanation": "符合教则附表3（1）195的规定。警戒标识用于事先告知危险或需要注意的状况。"
+      },
+      "en": {
+        "question": "This sign is a warning sign telling you that there is a risk of animals running out ahead.",
+        "explanation": "This is Kyosoku Appendix 3(1) item 195. A warning sign gives advance notice of a danger or a situation calling for care."
+      },
+      "vi": {
+        "question": "Biển báo giao thông này là biển báo cảnh báo cho biết phía trước có nơi động vật có thể lao ra.",
+        "explanation": "Đúng theo Kyosoku Phụ lục 3(1) mục 195. Biển báo cảnh báo báo trước về nguy hiểm hoặc tình huống cần chú ý."
+      },
+      "pt": {
+        "question": "Esta sinalização é de advertência e informa que há risco de animais na pista à frente.",
+        "explanation": "É o Kyosoku, Anexo 3(1), item 195. A sinalização de advertência avisa com antecedência sobre perigo ou situação que exige cuidado."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免"
+  },
+  {
+    "id": "KS-071",
+    "category": "警戒標識",
+    "kp": "付3-1-174",
+    "group": "D",
+    "source": "教則 付表3（1）174",
+    "question_type": "sign",
+    "qf": "QF-付3-1-174-D-SS-01",
+    "image": {
+      "sign_no": "201-D",
+      "file": "201-D.svg",
+      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+      "file_verified": true
+    },
+    "question_ja": "この標識は、前方に十字形の道路交差点があることを知らせている。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則付表3（1）174のこの標識は、前方にY形道路交差点があることを知らせるものです。",
+    "i18n": {
+      "zh": {
+        "question": "这个标识（立牌）告知前方有十字形道路交叉路口。",
+        "explanation": "错误。教则附表3（1）174的这个标识告知前方有Y形道路交叉路口。"
+      },
+      "en": {
+        "question": "This sign tells you that there is a crossroads ahead.",
+        "explanation": "This is wrong. This sign, Kyosoku Appendix 3(1) item 174, tells you that there is a Y-junction ahead."
+      },
+      "vi": {
+        "question": "Biển báo giao thông này cho biết phía trước có nút giao hình chữ thập.",
+        "explanation": "Sai. Biển này, Kyosoku Phụ lục 3(1) mục 174, cho biết phía trước có nút giao hình chữ Y."
+      },
+      "pt": {
+        "question": "Esta sinalização informa que há um cruzamento em cruz à frente.",
+        "explanation": "Está errado. Esta placa, Kyosoku Anexo 3(1) item 174, informa que há um entroncamento em Y à frente."
+      }
+    },
+    "trap_type": "SS",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免"
+  },
+  {
+    "id": "KS-072",
+    "category": "警戒標識",
+    "kp": "付3-1-176",
+    "group": "D",
+    "source": "教則 付表3（1）176",
+    "question_type": "sign",
+    "qf": "QF-付3-1-176-D-SS-01",
+    "image": {
+      "sign_no": "202-右",
+      "file": "202-右.svg",
+      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+      "file_verified": true
+    },
+    "question_ja": "この標識は、前方の道路が背向屈曲していることを知らせている。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則付表3（1）176のこの標識は、前方に右方又は左方の屈曲があることを知らせるものです。",
+    "i18n": {
+      "zh": {
+        "question": "这个标识（立牌）告知前方道路是背向弯曲的。",
+        "explanation": "错误。教则附表3（1）176的这个标识告知前方有向右或向左的弯曲。"
+      },
+      "en": {
+        "question": "This sign tells you that the road ahead has reverse bends.",
+        "explanation": "This is wrong. This sign, Kyosoku Appendix 3(1) item 176, tells you that there is a bend to the right or left ahead."
+      },
+      "vi": {
+        "question": "Biển báo giao thông này cho biết đường phía trước có các khúc cong ngược chiều nhau.",
+        "explanation": "Sai. Biển này, Kyosoku Phụ lục 3(1) mục 176, cho biết phía trước có một khúc cong sang phải hoặc sang trái."
+      },
+      "pt": {
+        "question": "Esta sinalização informa que a via à frente tem curvas em sentidos opostos.",
+        "explanation": "Está errado. Esta placa, Kyosoku Anexo 3(1) item 176, informa que há uma curva à direita ou à esquerda à frente."
+      }
+    },
+    "trap_type": "SS",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免"
+  },
+  {
+    "id": "KS-073",
+    "category": "警戒標識",
+    "kp": "付3-1-180",
+    "group": "D",
+    "source": "教則 付表3（1）180",
+    "question_type": "sign",
+    "qf": "QF-付3-1-180-D-SS-01",
+    "image": {
+      "sign_no": "206-右",
+      "file": "206-右.svg",
+      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+      "file_verified": true
+    },
+    "question_ja": "この標識は、前方に急な上り坂があることを知らせている。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則付表3（1）180のこの標識は、前方につづら折りの道路があることを知らせるものです。",
+    "i18n": {
+      "zh": {
+        "question": "这个标识（立牌）告知前方有陡上坡。",
+        "explanation": "错误。教则附表3（1）180的这个标识告知前方有连续盘山弯道。"
+      },
+      "en": {
+        "question": "This sign tells you that there is a steep climb ahead.",
+        "explanation": "This is wrong. This sign, Kyosoku Appendix 3(1) item 180, tells you that there are hairpin bends ahead."
+      },
+      "vi": {
+        "question": "Biển báo giao thông này cho biết phía trước có dốc lên gấp.",
+        "explanation": "Sai. Biển này, Kyosoku Phụ lục 3(1) mục 180, cho biết phía trước có các khúc cua tay áo nối tiếp."
+      },
+      "pt": {
+        "question": "Esta sinalização informa que há uma subida íngreme à frente.",
+        "explanation": "Está errado. Esta placa, Kyosoku Anexo 3(1) item 180, informa que há curvas em ziguezague à frente."
+      }
+    },
+    "trap_type": "SS",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免"
+  },
+  {
+    "id": "KS-074",
+    "category": "警戒標識",
+    "kp": "付3-1-186",
+    "group": "D",
+    "source": "教則 付表3（1）186",
+    "question_type": "sign",
+    "qf": "QF-付3-1-186-D-SS-01",
+    "image": {
+      "sign_no": "209-3",
+      "file": "209-3.svg",
+      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+      "file_verified": true
+    },
+    "question_ja": "この標識は、前方の路面が滑りやすいことを知らせている。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則付表3（1）186のこの標識は、前方の路面に凹凸があることを知らせるものです。",
+    "i18n": {
+      "zh": {
+        "question": "这个标识（立牌）告知前方路面易滑。",
+        "explanation": "错误。教则附表3（1）186的这个标识告知前方路面有凹凸。"
+      },
+      "en": {
+        "question": "This sign tells you that the road surface ahead is slippery.",
+        "explanation": "This is wrong. This sign, Kyosoku Appendix 3(1) item 186, tells you that the road surface ahead is uneven."
+      },
+      "vi": {
+        "question": "Biển báo giao thông này cho biết mặt đường phía trước trơn trượt.",
+        "explanation": "Sai. Biển này, Kyosoku Phụ lục 3(1) mục 186, cho biết mặt đường phía trước gồ ghề."
+      },
+      "pt": {
+        "question": "Esta sinalização informa que o piso adiante é escorregadio.",
+        "explanation": "Está errado. Esta placa, Kyosoku Anexo 3(1) item 186, informa que o piso adiante é irregular."
+      }
+    },
+    "trap_type": "SS",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免"
+  },
+  {
+    "id": "KS-075",
+    "category": "警戒標識",
+    "kp": "付3-1-191",
+    "group": "D",
+    "source": "教則 付表3（1）191",
+    "question_type": "sign",
+    "qf": "QF-付3-1-191-D-SS-01",
+    "image": {
+      "sign_no": "212-3",
+      "file": "212-3.svg",
+      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+      "file_verified": true
+    },
+    "question_ja": "この標識は、前方に急な下り坂があることを知らせている。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則付表3（1）191のこの標識は、前方に急な上り坂があることを知らせるものです。",
+    "i18n": {
+      "zh": {
+        "question": "这个标识（立牌）告知前方有陡下坡。",
+        "explanation": "错误。教则附表3（1）191的这个标识告知前方有陡上坡。"
+      },
+      "en": {
+        "question": "This sign tells you that there is a steep descent ahead.",
+        "explanation": "This is wrong. This sign, Kyosoku Appendix 3(1) item 191, tells you that there is a steep climb ahead."
+      },
+      "vi": {
+        "question": "Biển báo giao thông này cho biết phía trước có dốc xuống gấp.",
+        "explanation": "Sai. Biển này, Kyosoku Phụ lục 3(1) mục 191, cho biết phía trước có dốc lên gấp."
+      },
+      "pt": {
+        "question": "Esta sinalização informa que há uma descida íngreme à frente.",
+        "explanation": "Está errado. Esta placa, Kyosoku Anexo 3(1) item 191, informa que há uma subida íngreme à frente."
+      }
+    },
+    "trap_type": "SS",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免"
+  },
+  {
+    "id": "KS-076",
+    "category": "警戒標識",
+    "kp": "付3-1-196",
+    "group": "D",
+    "source": "教則 付表3（1）196",
+    "question_type": "sign",
+    "qf": "QF-付3-1-196-D-SS-01",
+    "image": {
+      "sign_no": "215",
+      "file": "215.svg",
+      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+      "file_verified": true
+    },
+    "question_ja": "この標識は、前方に道路工事中の場所があることを知らせている。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則付表3（1）196のこの標識は、ほかの警戒標識では表せないその他の危険があることを知らせるものです。",
+    "i18n": {
+      "zh": {
+        "question": "这个标识（立牌）告知前方有道路施工中的地点。",
+        "explanation": "错误。教则附表3（1）196的这个标识告知存在其他警戒标识无法表示的其他危险。"
+      },
+      "en": {
+        "question": "This sign tells you that there are road works ahead.",
+        "explanation": "This is wrong. This sign, Kyosoku Appendix 3(1) item 196, warns of some other danger that no other warning sign covers."
+      },
+      "vi": {
+        "question": "Biển báo giao thông này cho biết phía trước có đoạn đang thi công đường.",
+        "explanation": "Sai. Biển này, Kyosoku Phụ lục 3(1) mục 196, cảnh báo một nguy hiểm khác mà các biển cảnh báo còn lại không thể hiện."
+      },
+      "pt": {
+        "question": "Esta sinalização informa que há obras na via à frente.",
+        "explanation": "Está errado. Esta placa, Kyosoku Anexo 3(1) item 196, adverte sobre outro perigo que nenhuma outra placa cobre."
+      }
+    },
+    "trap_type": "SS",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免"
+  },
+  {
+    "id": "KS-077",
+    "category": "警戒標識",
+    "kp": "付3-1-187",
+    "group": "D",
+    "source": "教則 付表3（1）187",
+    "question_type": "sign",
+    "qf": "QF-付3-1-187-D-AB-01",
+    "image": {
+      "sign_no": "210",
+      "file": "210.svg",
+      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+      "file_verified": true
+    },
+    "question_ja": "この標識のあるところでは、合流してくる車が優先するので必ず道を譲らなければならない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則付表3（1）187のこの標識は合流交通があることを知らせる警戒標識で、優先関係を定めるものではありません。",
+    "i18n": {
+      "zh": {
+        "question": "在设有这个标识（立牌）的地方，汇入的车辆优先，所以必须让路。",
+        "explanation": "错误。教则附表3（1）187的这个标识是告知有汇入交通的警戒标识，并不规定优先关系。"
+      },
+      "en": {
+        "question": "Where this sign stands the merging vehicle has priority, so you must always give way.",
+        "explanation": "This is wrong. This sign, Kyosoku Appendix 3(1) item 187, is a warning sign telling you traffic merges here; it does not settle who has priority."
+      },
+      "vi": {
+        "question": "Ở nơi có biển này, xe nhập vào được ưu tiên nên bạn buộc phải nhường đường.",
+        "explanation": "Sai. Biển này, Kyosoku Phụ lục 3(1) mục 187, là biển cảnh báo có luồng xe nhập vào; nó không quy định bên nào được ưu tiên."
+      },
+      "pt": {
+        "question": "Onde está esta placa o veículo que converge tem preferência, então você sempre deve dar passagem.",
+        "explanation": "Está errado. Esta placa, Kyosoku Anexo 3(1) item 187, é de advertência sobre trânsito convergindo; não define preferência."
+      }
+    },
+    "trap_type": "AB",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免"
+  },
+  {
+    "id": "KS-078",
+    "category": "警戒標識",
+    "kp": "付3-1-184",
+    "group": "D",
+    "source": "教則 付表3（1）184",
+    "question_type": "sign",
+    "qf": "QF-付3-1-184-D-EI-01",
+    "image": {
+      "sign_no": "209",
+      "file": "209.svg",
+      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+      "file_verified": true
+    },
+    "question_ja": "この標識のあるところでは、路面が滑りやすいので急ブレーキを掛けて速度を落とすとよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。滑りやすい路面では急ブレーキは横滑りの原因になり、手前で徐々に速度を落とします。",
+    "i18n": {
+      "zh": {
+        "question": "在设有这个标识（立牌）的地方，因为路面易滑，最好急刹车降低速度。",
+        "explanation": "错误。在易滑路面上急刹车会导致侧滑，要在跟前逐渐降低速度。"
+      },
+      "en": {
+        "question": "Where this sign stands the road is slippery, so it is best to brake hard to reduce speed.",
+        "explanation": "This is wrong. Hard braking on a slippery surface causes a skid; you reduce speed gradually beforehand."
+      },
+      "vi": {
+        "question": "Ở nơi có biển này mặt đường trơn nên tốt nhất là phanh gấp để giảm tốc.",
+        "explanation": "Sai. Phanh gấp trên mặt đường trơn gây trượt ngang; bạn giảm tốc từ từ ngay từ trước đó."
+      },
+      "pt": {
+        "question": "Onde está esta placa o piso é escorregadio, então o melhor é frear com força para reduzir.",
+        "explanation": "Está errado. Frear forte em piso escorregadio provoca derrapagem; reduz-se aos poucos antes."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免"
+  },
+  {
+    "id": "KS-079",
+    "category": "警戒標識",
+    "kp": "付3-1-182",
+    "group": "D",
+    "source": "教則 付表3（1）182",
+    "question_type": "sign",
+    "qf": "QF-付3-1-182-D-EI-01",
+    "image": {
+      "sign_no": "208",
+      "file": "208.svg",
+      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+      "file_verified": true
+    },
+    "question_ja": "この標識のあるところでは、子供の姿が見えなければ速度を落とす必要はない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第5章第3節4(3)により、このような場所では子供が突然飛び出してくることがあるので特に注意します。",
+    "i18n": {
+      "zh": {
+        "question": "在设有这个标识（立牌）的地方，只要看不到孩子的身影就不需要降低速度。",
+        "explanation": "错误。根据教则第5章第3节4(3)，这类场所有可能有孩子突然跑出来，要特别注意。"
+      },
+      "en": {
+        "question": "Where this sign stands you need not slow down as long as no children are in sight.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 3 item 4(3) children can dart out suddenly at such places, so take particular care."
+      },
+      "vi": {
+        "question": "Ở nơi có biển này, bạn không cần giảm tốc miễn là không thấy trẻ em nào.",
+        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 3 điểm 4(3), ở những nơi như vậy trẻ có thể lao ra bất ngờ nên cần đặc biệt chú ý."
+      },
+      "pt": {
+        "question": "Onde está esta placa você não precisa reduzir enquanto não vir crianças.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 3, item 4(3), nesses locais crianças podem surgir de repente, exigindo atenção especial."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免"
+  },
+  {
+    "id": "KS-080",
+    "category": "警戒標識",
+    "kp": "付3-1-181",
+    "group": "D",
+    "source": "教則 付表3（1）181",
+    "question_type": "sign",
+    "qf": "QF-付3-1-181-D-EX-01",
+    "image": {
+      "sign_no": "207-B",
+      "file": "207-B.svg",
+      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+      "file_verified": true
+    },
+    "question_ja": "この標識のあるところでは、信号機があっても一時停止をしなければならない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第6章第1節1(1)により、踏切に信号機がある場合は、その信号に従って通過することができます。",
+    "i18n": {
+      "zh": {
+        "question": "在设有这个标识（立牌）的地方，即使有信号灯也必须暂停（一時停止）。",
+        "explanation": "错误。根据教则第6章第1节1(1)，铁路道口设有信号灯的，可以按该信号灯通过。"
+      },
+      "en": {
+        "question": "Where this sign stands you must come to a complete stop (一時停止) even if there is a traffic light.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 6 Section 1 item 1(1), where a railway crossing has a traffic light you may cross in accordance with it."
+      },
+      "vi": {
+        "question": "Ở nơi có biển này, bạn phải tạm dừng (一時停止) ngay cả khi có đèn tín hiệu.",
+        "explanation": "Sai. Theo Kyosoku Chương 6 Mục 1 điểm 1(1), nơi đường ngang có đèn tín hiệu thì bạn được qua theo đèn đó."
+      },
+      "pt": {
+        "question": "Onde está esta placa você deve fazer parada obrigatória (一時停止) mesmo havendo semáforo.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 6, Seção 1, item 1(1), onde a passagem de nível tem semáforo, atravessa-se conforme ele."
+      }
+    },
+    "trap_type": "EX",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免"
+  }
+]

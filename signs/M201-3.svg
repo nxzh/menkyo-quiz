@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <title>指示標示201の3 自転車横断帯</title>
+  <rect x="0" y="0" width="1000" height="1000" fill="#4a4f55"/>
+  <rect x="0" y="0" width="1000" height="110" fill="#c4c8cc"/>
+  <rect x="0" y="96" width="1000" height="14" fill="#9da2a8"/>
+  <rect x="0" y="890" width="1000" height="110" fill="#c4c8cc"/>
+  <rect x="0" y="890" width="1000" height="14" fill="#9da2a8"/>
+  <rect x="349" y="110" width="22" height="780" fill="#ffffff"/>
+  <rect x="629" y="110" width="22" height="780" fill="#ffffff"/>
+  <g transform="rotate(-90 500 500)"><circle cx="400.25" cy="538" r="58.9" stroke="#ffffff" stroke-width="12.35" fill="none" stroke-linecap="round" stroke-linejoin="round"/><circle cx="599.75" cy="538" r="58.9" stroke="#ffffff" stroke-width="12.35" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M400.25,538 L433.5,443 L523.75,455.35 L490.5,538 L441.1,460.1 M490.5,538 L599.75,538 L523.75,455.35 M519.95,455.35 L514.25,430.65 M493.35,428.75 L540.85,428.75 M433.5,443 L425.9,416.4 L397.4,414.5" stroke="#ffffff" stroke-width="12.35" fill="none" stroke-linecap="round" stroke-linejoin="round"/></g>
+</svg>

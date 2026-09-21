@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <title>規制標示114の3 同 歩道通行部分</title>
+  <rect x="0" y="0" width="1000" height="1000" fill="#c4c8cc"/>
+  <rect x="720" y="0" width="280" height="1000" fill="#4a4f55"/>
+  <rect x="706" y="0" width="14" height="1000" fill="#9da2a8"/>
+  <rect x="0" y="0" width="60" height="1000" fill="#a9aeb3"/>
+  <rect x="321" y="0" width="18" height="1000" fill="#ffffff"/>
+  <circle cx="399.25" cy="546" r="71.3" stroke="#ffffff" stroke-width="14.95" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="640.75" cy="546" r="71.3" stroke="#ffffff" stroke-width="14.95" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M399.25,546 L439.5,431 L548.75,445.95 L508.5,546 L448.7,451.7 M508.5,546 L640.75,546 L548.75,445.95 M544.15,445.95 L537.25,416.05 M511.95,413.75 L569.45,413.75 M439.5,431 L430.3,398.8 L395.8,396.5" stroke="#ffffff" stroke-width="14.95" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <title>指示標示201 横断歩道</title>
+  <rect x="0" y="0" width="1000" height="1000" fill="#4a4f55"/>
+  <rect x="0" y="0" width="1000" height="110" fill="#c4c8cc"/>
+  <rect x="0" y="96" width="1000" height="14" fill="#9da2a8"/>
+  <rect x="0" y="890" width="1000" height="110" fill="#c4c8cc"/>
+  <rect x="0" y="890" width="1000" height="14" fill="#9da2a8"/>
+  <rect x="0" y="491" width="300" height="18" fill="#ffffff"/>
+  <rect x="700" y="491" width="300" height="18" fill="#ffffff"/>
+  <rect x="340" y="135" width="320" height="52" fill="#ffffff"/>
+  <rect x="340" y="239" width="320" height="52" fill="#ffffff"/>
+  <rect x="340" y="343" width="320" height="52" fill="#ffffff"/>
+  <rect x="340" y="447" width="320" height="52" fill="#ffffff"/>
+  <rect x="340" y="551" width="320" height="52" fill="#ffffff"/>
+  <rect x="340" y="655" width="320" height="52" fill="#ffffff"/>
+  <rect x="340" y="759" width="320" height="52" fill="#ffffff"/>
+</svg>

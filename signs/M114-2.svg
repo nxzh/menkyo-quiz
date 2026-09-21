@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <title>規制標示114の2 特例特定小型原動機付自転車・普通自転車歩道通行可</title>
+  <rect x="0" y="0" width="1000" height="1000" fill="#c4c8cc"/>
+  <rect x="620" y="0" width="380" height="1000" fill="#4a4f55"/>
+  <rect x="606" y="0" width="14" height="1000" fill="#9da2a8"/>
+  <circle cx="152.5" cy="560" r="93" stroke="#ffffff" stroke-width="19.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="467.5" cy="560" r="93" stroke="#ffffff" stroke-width="19.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M152.5,560 L205,410 L347.5,429.5 L295,560 L217,437 M295,560 L467.5,560 L347.5,429.5 M341.5,429.5 L332.5,390.5 M299.5,387.5 L374.5,387.5 M205,410 L193,368 L148,365" stroke="#ffffff" stroke-width="19.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

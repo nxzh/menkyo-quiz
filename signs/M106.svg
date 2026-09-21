@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <title>規制標示106 立入り禁止部分</title>
+  <rect x="0" y="0" width="1000" height="1000" fill="#4a4f55"/>
+  <clipPath id="c1"><path d="M400,120 Q400,40 500,40 Q600,40 600,120 L600,880 Q600,960 500,960 Q400,960 400,880 Z"/></clipPath>
+  <g clip-path="url(#c1)">
+  <line x1="-720" y1="960" x2="200" y2="40" stroke="#ffffff" stroke-width="34"/>
+  <line x1="-610" y1="960" x2="310" y2="40" stroke="#ffffff" stroke-width="34"/>
+  <line x1="-500" y1="960" x2="420" y2="40" stroke="#ffffff" stroke-width="34"/>
+  <line x1="-390" y1="960" x2="530" y2="40" stroke="#ffffff" stroke-width="34"/>
+  <line x1="-280" y1="960" x2="640" y2="40" stroke="#ffffff" stroke-width="34"/>
+  <line x1="-170" y1="960" x2="750" y2="40" stroke="#ffffff" stroke-width="34"/>
+  <line x1="-60" y1="960" x2="860" y2="40" stroke="#ffffff" stroke-width="34"/>
+  <line x1="50" y1="960" x2="970" y2="40" stroke="#ffffff" stroke-width="34"/>
+  <line x1="160" y1="960" x2="1080" y2="40" stroke="#ffffff" stroke-width="34"/>
+  <line x1="270" y1="960" x2="1190" y2="40" stroke="#ffffff" stroke-width="34"/>
+  <line x1="380" y1="960" x2="1300" y2="40" stroke="#ffffff" stroke-width="34"/>
+  <line x1="490" y1="960" x2="1410" y2="40" stroke="#ffffff" stroke-width="34"/>
+  <line x1="600" y1="960" x2="1520" y2="40" stroke="#ffffff" stroke-width="34"/>
+  <line x1="710" y1="960" x2="1630" y2="40" stroke="#ffffff" stroke-width="34"/>
+  <line x1="820" y1="960" x2="1740" y2="40" stroke="#ffffff" stroke-width="34"/>
+  <line x1="930" y1="960" x2="1850" y2="40" stroke="#ffffff" stroke-width="34"/>
+  <line x1="1040" y1="960" x2="1960" y2="40" stroke="#ffffff" stroke-width="34"/>
+  <line x1="1150" y1="960" x2="2070" y2="40" stroke="#ffffff" stroke-width="34"/>
+  <line x1="1260" y1="960" x2="2180" y2="40" stroke="#ffffff" stroke-width="34"/>
+  <line x1="1370" y1="960" x2="2290" y2="40" stroke="#ffffff" stroke-width="34"/>
+  <line x1="1480" y1="960" x2="2400" y2="40" stroke="#ffffff" stroke-width="34"/>
+  </g>
+  <path d="M400,120 Q400,40 500,40 Q600,40 600,120 L600,880 Q600,960 500,960 Q400,960 400,880 Z" fill="none" stroke="#ffc700" stroke-width="24"/>
+</svg>

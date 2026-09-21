@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <title>指示標示201の2 斜め横断可（中央付近まで設ける様式）</title>
+  <rect x="0" y="0" width="1000" height="1000" fill="#c4c8cc"/>
+  <rect x="300" y="0" width="400" height="1000" fill="#4a4f55"/>
+  <rect x="0" y="300" width="1000" height="400" fill="#4a4f55"/>
+  <path d="M260,300 Q300,300 300,260 L300,300 Z" fill="#4a4f55"/>
+  <path d="M740,300 Q700,300 700,260 L700,300 Z" fill="#4a4f55"/>
+  <path d="M260,700 Q300,700 300,740 L300,700 Z" fill="#4a4f55"/>
+  <path d="M740,700 Q700,700 700,740 L700,700 Z" fill="#4a4f55"/>
+  <rect x="318" y="210" width="34" height="74" fill="#ffffff"/>
+  <rect x="386" y="210" width="34" height="74" fill="#ffffff"/>
+  <rect x="454" y="210" width="34" height="74" fill="#ffffff"/>
+  <rect x="522" y="210" width="34" height="74" fill="#ffffff"/>
+  <rect x="590" y="210" width="34" height="74" fill="#ffffff"/>
+  <rect x="318" y="716" width="34" height="74" fill="#ffffff"/>
+  <rect x="386" y="716" width="34" height="74" fill="#ffffff"/>
+  <rect x="454" y="716" width="34" height="74" fill="#ffffff"/>
+  <rect x="522" y="716" width="34" height="74" fill="#ffffff"/>
+  <rect x="590" y="716" width="34" height="74" fill="#ffffff"/>
+  <rect x="210" y="318" width="74" height="34" fill="#ffffff"/>
+  <rect x="210" y="386" width="74" height="34" fill="#ffffff"/>
+  <rect x="210" y="454" width="74" height="34" fill="#ffffff"/>
+  <rect x="210" y="522" width="74" height="34" fill="#ffffff"/>
+  <rect x="210" y="590" width="74" height="34" fill="#ffffff"/>
+  <rect x="716" y="318" width="74" height="34" fill="#ffffff"/>
+  <rect x="716" y="386" width="74" height="34" fill="#ffffff"/>
+  <rect x="716" y="454" width="74" height="34" fill="#ffffff"/>
+  <rect x="716" y="522" width="74" height="34" fill="#ffffff"/>
+  <rect x="716" y="590" width="74" height="34" fill="#ffffff"/>
+  <g fill="#ffffff">
+  <g transform="translate(500,500) rotate(45)"><rect x="99" y="-80" width="34" height="160"/><rect x="161" y="-80" width="34" height="160"/><rect x="223" y="-80" width="34" height="160"/></g>
+  <g transform="translate(500,500) rotate(135)"><rect x="99" y="-80" width="34" height="160"/><rect x="161" y="-80" width="34" height="160"/><rect x="223" y="-80" width="34" height="160"/></g>
+  <g transform="translate(500,500) rotate(225)"><rect x="99" y="-80" width="34" height="160"/><rect x="161" y="-80" width="34" height="160"/><rect x="223" y="-80" width="34" height="160"/></g>
+  <g transform="translate(500,500) rotate(315)"><rect x="99" y="-80" width="34" height="160"/><rect x="161" y="-80" width="34" height="160"/><rect x="223" y="-80" width="34" height="160"/></g>
+  </g>
+</svg>

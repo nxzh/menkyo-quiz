@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <title>指示標示207 安全地帯（外わく黄・内わく白）</title>
+  <rect x="0" y="0" width="1000" height="1000" fill="#4a4f55"/>
+  <rect x="560" y="0" width="300" height="1000" fill="#565b61"/>
+  <rect x="595" y="0" width="10" height="1000" fill="#2e3236"/>
+  <rect x="675" y="0" width="10" height="1000" fill="#2e3236"/>
+  <rect x="735" y="0" width="10" height="1000" fill="#2e3236"/>
+  <rect x="815" y="0" width="10" height="1000" fill="#2e3236"/>
+  <rect x="330" y="120" width="200" height="760" fill="none" stroke="#ffc700" stroke-width="30"/>
+  <rect x="372" y="162" width="116" height="676" fill="none" stroke="#ffffff" stroke-width="16"/>
+</svg>

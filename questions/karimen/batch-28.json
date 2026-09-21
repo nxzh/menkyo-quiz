@@ -1,0 +1,662 @@
+[
+  {
+    "id": "K2-2-001",
+    "category": "歩行者の通るところ",
+    "kp": "2-2",
+    "group": "J",
+    "source": "教則 第2章第2節1",
+    "question_type": "text",
+    "qf": "QF-2-2-A-N-01",
+    "question_ja": "歩道や幅の十分な路側帯がある道路では、道路工事などで通行できない場合を除き、歩行者はその歩道や路側帯を通らなければならない。",
+    "answer": true,
+    "explanation_ja": "教則第2章第2節1のとおりです。歩行者が車道を歩けるのは、これらがない道路です。",
+    "i18n": {
+      "zh": {
+        "question": "在设有人行道或宽度足够的路侧带的道路上，除因道路施工等无法通行的情况外，步行者必须走该人行道或路侧带。",
+        "explanation": "符合教则第2章第2节1的规定。步行者能走车行道的，是没有这些设施的道路。"
+      },
+      "en": {
+        "question": "On a road with a sidewalk or a side strip (路側帯) of sufficient width, a pedestrian must use it, except where road works or the like make it impassable.",
+        "explanation": "This is Kyosoku Chapter 2 Section 2 item 1. A pedestrian walks on the roadway only where there is neither."
+      },
+      "vi": {
+        "question": "Trên đường có vỉa hè hoặc lề đường (路側帯) đủ rộng, người đi bộ phải đi trên đó, trừ khi thi công đường hay lý do tương tự khiến không đi được.",
+        "explanation": "Đúng theo Kyosoku Chương 2 Mục 2 điểm 1. Người đi bộ chỉ đi dưới lòng đường ở nơi không có cả hai."
+      },
+      "pt": {
+        "question": "Em via com calçada ou faixa lateral (路側帯) de largura suficiente, o pedestre deve usá-la, salvo se obras ou algo semelhante a tornarem intransitável.",
+        "explanation": "É o Kyosoku, Capítulo 2, Seção 2, item 1. O pedestre anda pela pista só onde não há nenhuma das duas."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K2-2-002",
+    "category": "歩行者の通るところ",
+    "kp": "2-2",
+    "group": "J",
+    "source": "教則 第2章第2節3",
+    "question_type": "text",
+    "qf": "QF-2-2-A-N-02",
+    "question_ja": "歩道も幅の十分な路側帯もない道路では、歩行者は道路の右端を通らなければならない。",
+    "answer": true,
+    "explanation_ja": "教則第2章第2節3のとおりです。向かってくる車が見えるようにするためです。",
+    "i18n": {
+      "zh": {
+        "question": "在既没有人行道也没有宽度足够的路侧带的道路上，步行者必须走道路右端。",
+        "explanation": "符合教则第2章第2节3的规定。这是为了能看见迎面驶来的车辆。"
+      },
+      "en": {
+        "question": "On a road with neither a sidewalk nor a side strip (路側帯) of sufficient width, a pedestrian must walk on the right-hand edge of the road.",
+        "explanation": "This is Kyosoku Chapter 2 Section 2 item 3. It lets you see the vehicles coming towards you."
+      },
+      "vi": {
+        "question": "Trên đường không có vỉa hè lẫn lề đường (路側帯) đủ rộng, người đi bộ phải đi ở mép phải của đường.",
+        "explanation": "Đúng theo Kyosoku Chương 2 Mục 2 điểm 3. Như vậy bạn nhìn thấy xe đang đi tới phía mình."
+      },
+      "pt": {
+        "question": "Em via sem calçada e sem faixa lateral (路側帯) de largura suficiente, o pedestre deve caminhar pela borda direita.",
+        "explanation": "É o Kyosoku, Capítulo 2, Seção 2, item 3. Assim você enxerga os veículos que vêm na sua direção."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K2-2-003",
+    "category": "歩行者の通るところ",
+    "kp": "2-2",
+    "group": "J",
+    "source": "教則 第2章第2節3",
+    "question_type": "text",
+    "qf": "QF-2-2-A-N-03",
+    "question_ja": "歩道も幅の十分な路側帯もない道路でも、右端を通ると横断を繰り返すことになってかえって危険な場合などは、左端を通ることができる。",
+    "answer": true,
+    "explanation_ja": "教則第2章第2節3のとおりです。右端通行の原則には、この例外があります。",
+    "i18n": {
+      "zh": {
+        "question": "即使是既没有人行道也没有宽度足够的路侧带的道路，如果走右端会导致反复横穿反而危险，也可以走左端。",
+        "explanation": "符合教则第2章第2节3的规定。右端通行的原则有这一例外。"
+      },
+      "en": {
+        "question": "Even on a road with neither a sidewalk nor a side strip (路側帯) of sufficient width, you may walk on the left-hand edge where keeping right would mean crossing back and forth and so be more dangerous.",
+        "explanation": "This is Kyosoku Chapter 2 Section 2 item 3. This is the exception to the rule of keeping right."
+      },
+      "vi": {
+        "question": "Ngay trên đường không có vỉa hè lẫn lề đường (路側帯) đủ rộng, bạn vẫn được đi ở mép trái nếu đi bên phải sẽ phải băng qua lại nhiều lần và do đó nguy hiểm hơn.",
+        "explanation": "Đúng theo Kyosoku Chương 2 Mục 2 điểm 3. Đây là ngoại lệ của nguyên tắc đi bên phải."
+      },
+      "pt": {
+        "question": "Mesmo em via sem calçada nem faixa lateral (路側帯) suficiente, você pode andar pela borda esquerda quando manter-se à direita implicaria travessias repetidas e maior perigo.",
+        "explanation": "É o Kyosoku, Capítulo 2, Seção 2, item 3. É a exceção à regra de manter-se à direita."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 3,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K2-2-004",
+    "category": "歩行者の通るところ",
+    "kp": "2-2",
+    "group": "J",
+    "source": "教則 第2章第2節4",
+    "question_type": "text",
+    "qf": "QF-2-2-A-N-04",
+    "question_ja": "歩行者用道路では歩行者は道路の中央部を通ることができるが、通行の認められた車が通ることがあるので注意する。",
+    "answer": true,
+    "explanation_ja": "教則第2章第2節4のとおりです。歩行者用道路でも車がまったく通らないわけではありません。",
+    "i18n": {
+      "zh": {
+        "question": "在步行者专用道路上，步行者可以走道路中央部分，但因为有可能有获得通行许可的车辆通过，所以要注意。",
+        "explanation": "符合教则第2章第2节4的规定。即使是步行者专用道路，也并非完全没有车辆通行。"
+      },
+      "en": {
+        "question": "On a pedestrian-only road a pedestrian may walk down the middle, but should take care because vehicles with permission do use it.",
+        "explanation": "This is Kyosoku Chapter 2 Section 2 item 4. Even a pedestrian-only road is not entirely free of vehicles."
+      },
+      "vi": {
+        "question": "Trên đường dành riêng cho người đi bộ, bạn được đi ở giữa đường, nhưng phải chú ý vì vẫn có xe được cấp phép đi qua.",
+        "explanation": "Đúng theo Kyosoku Chương 2 Mục 2 điểm 4. Ngay cả đường dành riêng cho người đi bộ cũng không hoàn toàn vắng xe."
+      },
+      "pt": {
+        "question": "Em via exclusiva de pedestres você pode andar pelo meio, mas deve ter cuidado porque veículos autorizados circulam por ela.",
+        "explanation": "É o Kyosoku, Capítulo 2, Seção 2, item 4. Nem mesmo a via exclusiva fica totalmente livre de veículos."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K2-2-005",
+    "category": "歩行者の通るところ",
+    "kp": "2-2",
+    "group": "J",
+    "source": "教則 第2章第2節5",
+    "question_type": "text",
+    "qf": "QF-2-2-A-N-05",
+    "question_ja": "歩行者は、標識によって通行が禁止されている道路や、高速自動車国道や自動車専用道路に入ってはいけない。",
+    "answer": true,
+    "explanation_ja": "教則第2章第2節5のとおりです。自動車専用道路も、高速自動車国道と同じ扱いになります。",
+    "i18n": {
+      "zh": {
+        "question": "步行者不得进入由标识（立牌）禁止通行的道路，以及高速公路和汽车专用道路。",
+        "explanation": "符合教则第2章第2节5的规定。汽车专用道路与高速公路是同样的处理。"
+      },
+      "en": {
+        "question": "A pedestrian must not enter a road closed to pedestrians by sign, a national expressway or a motor-vehicle-only road.",
+        "explanation": "This is Kyosoku Chapter 2 Section 2 item 5. A motor-vehicle-only road is treated the same as a national expressway."
+      },
+      "vi": {
+        "question": "Người đi bộ không được đi vào đường bị biển báo cấm, đường cao tốc quốc gia hay đường chỉ dành cho ô tô.",
+        "explanation": "Đúng theo Kyosoku Chương 2 Mục 2 điểm 5. Đường chỉ dành cho ô tô được xử lý như đường cao tốc quốc gia."
+      },
+      "pt": {
+        "question": "O pedestre não deve entrar em via fechada por placa, em via expressa nacional nem em via exclusiva para automóveis.",
+        "explanation": "É o Kyosoku, Capítulo 2, Seção 2, item 5. A via exclusiva para automóveis recebe o mesmo tratamento da expressa nacional."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K2-3-001",
+    "category": "横断の仕方",
+    "kp": "2-3-1",
+    "group": "J",
+    "source": "教則 第2章第3節1",
+    "question_type": "text",
+    "qf": "QF-2-3-1-A-N-01",
+    "question_ja": "横断歩道や信号機のある交差点が近くにあるところでは、歩行者はその横断歩道や交差点で横断しなければならない。",
+    "answer": true,
+    "explanation_ja": "教則第2章第3節1のとおりです。横断歩道橋や横断用地下道が近くにあるときは、できるだけその施設を利用します。",
+    "i18n": {
+      "zh": {
+        "question": "在附近有人行横道或设有信号灯的交叉路口的地方，步行者必须在该人行横道或交叉路口横穿。",
+        "explanation": "符合教则第2章第3节1的规定。附近有人行天桥或地下横穿通道时，要尽量利用这些设施。"
+      },
+      "en": {
+        "question": "Where there is a pedestrian crossing or a signalled intersection nearby, a pedestrian must cross at that crossing or intersection.",
+        "explanation": "This is Kyosoku Chapter 2 Section 3 item 1. Where a footbridge or underpass is nearby, use it if you can."
+      },
+      "vi": {
+        "question": "Ở nơi gần có vạch sang đường hoặc nút giao có đèn tín hiệu, người đi bộ phải băng qua tại đó.",
+        "explanation": "Đúng theo Kyosoku Chương 2 Mục 3 điểm 1. Nếu gần đó có cầu vượt hay hầm bộ hành, hãy cố gắng dùng chúng."
+      },
+      "pt": {
+        "question": "Havendo faixa de pedestres ou cruzamento semaforizado por perto, o pedestre deve atravessar ali.",
+        "explanation": "É o Kyosoku, Capítulo 2, Seção 3, item 1. Se houver passarela ou passagem subterrânea próxima, use-a quando possível."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K2-3-002",
+    "category": "横断の仕方",
+    "kp": "2-3-1",
+    "group": "J",
+    "source": "教則 第2章第3節1",
+    "question_type": "text",
+    "qf": "QF-2-3-1-A-N-02",
+    "question_ja": "「歩行者等横断禁止」の標識のあるところでは、歩行者は横断をしてはいけない。",
+    "answer": true,
+    "explanation_ja": "教則第2章第3節1のとおりです。ガードレールのあるところで横断するのも極めて危険です。",
+    "i18n": {
+      "zh": {
+        "question": "在设有「禁止步行者等横穿」标识（立牌）的地方，步行者不得横穿。",
+        "explanation": "符合教则第2章第3节1的规定。在设有护栏的地方横穿也极其危险。"
+      },
+      "en": {
+        "question": "Where the No crossing for pedestrians sign stands, a pedestrian must not cross.",
+        "explanation": "This is Kyosoku Chapter 2 Section 3 item 1. Crossing where there is a guard rail is extremely dangerous too."
+      },
+      "vi": {
+        "question": "Ở nơi có biển Cấm người đi bộ băng qua, người đi bộ không được băng qua đường.",
+        "explanation": "Đúng theo Kyosoku Chương 2 Mục 3 điểm 1. Băng qua ở nơi có hộ lan cũng cực kỳ nguy hiểm."
+      },
+      "pt": {
+        "question": "Onde há a placa de proibida a travessia de pedestres, o pedestre não deve atravessar.",
+        "explanation": "É o Kyosoku, Capítulo 2, Seção 3, item 1. Atravessar onde há defensa metálica também é extremamente perigoso."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K2-3-003",
+    "category": "横断の仕方",
+    "kp": "2-3-2",
+    "group": "J",
+    "source": "教則 第2章第3節2(3)",
+    "question_type": "text",
+    "qf": "QF-2-3-2-A-N-01",
+    "question_ja": "歩行者用の信号の青の点滅は黄信号と同じ意味であり、青の点滅になったら横断を始めてはいけない。",
+    "answer": true,
+    "explanation_ja": "教則第2章第3節2(3)のとおりです。横断中であれば、速やかに渡り終えるか引き返します。",
+    "i18n": {
+      "zh": {
+        "question": "步行者用信号灯的绿灯闪烁与黄灯含义相同，变为绿灯闪烁后不得开始横穿。",
+        "explanation": "符合教则第2章第3节2(3)的规定。如果正在横穿，要迅速走完或返回。"
+      },
+      "en": {
+        "question": "A flashing green on a pedestrian signal means the same as an amber light, and once it starts flashing you must not begin crossing.",
+        "explanation": "This is Kyosoku Chapter 2 Section 3 item 2(3). If you are already crossing, finish promptly or turn back."
+      },
+      "vi": {
+        "question": "Đèn xanh nhấp nháy dành cho người đi bộ có nghĩa như đèn vàng, và khi nó bắt đầu nhấp nháy bạn không được bắt đầu băng qua.",
+        "explanation": "Đúng theo Kyosoku Chương 2 Mục 3 điểm 2(3). Nếu đang băng qua, hãy đi hết nhanh hoặc quay lại."
+      },
+      "pt": {
+        "question": "O verde piscando no sinal de pedestres tem o mesmo sentido do amarelo, e quando começa a piscar você não deve iniciar a travessia.",
+        "explanation": "É o Kyosoku, Capítulo 2, Seção 3, item 2(3). Se já estiver atravessando, conclua depressa ou volte."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K2-3-004",
+    "category": "横断の仕方",
+    "kp": "2-3-2",
+    "group": "J",
+    "source": "教則 第2章第3節2(5)",
+    "question_type": "text",
+    "qf": "QF-2-3-2-A-N-02",
+    "question_ja": "歩行者は道路を斜めに横断してはいけないが、スクランブル交差点では歩行者用の信号に従って斜め横断もできる。",
+    "answer": true,
+    "explanation_ja": "教則第2章第3節2(5)のとおりです。スクランブル交差点は、車に対する信号を全部赤にして歩行者の自由な通行を認めるものです。",
+    "i18n": {
+      "zh": {
+        "question": "步行者不得斜穿道路，但在全向十字路口可以按步行者用信号灯斜穿。",
+        "explanation": "符合教则第2章第3节2(5)的规定。全向十字路口是把对车辆的信号全部变红、允许步行者自由通行的路口。"
+      },
+      "en": {
+        "question": "A pedestrian must not cross a road diagonally, but at a scramble crossing you may cross diagonally in accordance with the pedestrian signal.",
+        "explanation": "This is Kyosoku Chapter 2 Section 3 item 2(5). A scramble crossing turns every vehicle signal red and lets pedestrians move freely."
+      },
+      "vi": {
+        "question": "Người đi bộ không được băng chéo qua đường, nhưng tại giao lộ toàn hướng thì được băng chéo theo đèn dành cho người đi bộ.",
+        "explanation": "Đúng theo Kyosoku Chương 2 Mục 3 điểm 2(5). Giao lộ toàn hướng chuyển mọi đèn dành cho xe sang đỏ và cho người đi bộ đi tự do."
+      },
+      "pt": {
+        "question": "O pedestre não deve atravessar na diagonal, mas em um cruzamento em diagonal pode fazê-lo conforme o sinal de pedestres.",
+        "explanation": "É o Kyosoku, Capítulo 2, Seção 3, item 2(5). Nesse cruzamento todos os sinais de veículos ficam vermelhos e os pedestres circulam livremente."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K2-3-005",
+    "category": "横断の仕方",
+    "kp": "2-3-2",
+    "group": "J",
+    "source": "教則 第2章第3節2(2)",
+    "question_type": "text",
+    "qf": "QF-2-3-2-A-N-03",
+    "question_ja": "信号が青になっても、右左の車や路面電車が止まったのを確かめてから横断するようにする。",
+    "answer": true,
+    "explanation_ja": "教則第2章第3節2(2)のとおりです。信号が変わりそうなときは、無理をしないで次の青信号を待ちます。",
+    "i18n": {
+      "zh": {
+        "question": "即使信号灯变绿，也要确认左右的车辆和路面电车已经停住后再横穿。",
+        "explanation": "符合教则第2章第3节2(2)的规定。信号灯快要变化时，不要勉强，等下一个绿灯。"
+      },
+      "en": {
+        "question": "Even after the light turns green, cross only once you have confirmed that vehicles and streetcars (trams) to left and right have stopped.",
+        "explanation": "This is Kyosoku Chapter 2 Section 3 item 2(2). If the light looks like changing, do not push it; wait for the next green."
+      },
+      "vi": {
+        "question": "Ngay cả khi đèn đã xanh, hãy băng qua sau khi xác nhận xe cộ và tàu điện hai bên đã dừng.",
+        "explanation": "Đúng theo Kyosoku Chương 2 Mục 3 điểm 2(2). Nếu đèn sắp đổi, đừng cố; hãy chờ lượt xanh sau."
+      },
+      "pt": {
+        "question": "Mesmo com o sinal verde, atravesse só depois de confirmar que os veículos e bondes dos dois lados pararam.",
+        "explanation": "É o Kyosoku, Capítulo 2, Seção 3, item 2(2). Se o sinal parecer prestes a mudar, não force; espere o próximo verde."
+      }
+    },
+    "trap_type": "N",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K2-3-006",
+    "category": "歩行者の通るところ",
+    "kp": "2-2",
+    "group": "J",
+    "source": "教則 第2章第2節1",
+    "question_type": "text",
+    "qf": "QF-2-2-D-EI-01",
+    "question_ja": "歩道がある道路でも、車道のほうが歩きやすければ車道を歩いてよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第2章第2節1により、歩道がある道路では、道路工事などで通行できない場合を除き歩道を通らなければなりません。",
+    "i18n": {
+      "zh": {
+        "question": "即使是设有人行道的道路，只要车行道更好走，也可以走车行道。",
+        "explanation": "错误。根据教则第2章第2节1，设有人行道的道路上，除因道路施工等无法通行的情况外必须走人行道。"
+      },
+      "en": {
+        "question": "Even on a road with a sidewalk you may walk on the roadway if it is easier going.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 2 Section 2 item 1 you must use the sidewalk where there is one, except where road works or the like make it impassable."
+      },
+      "vi": {
+        "question": "Ngay trên đường có vỉa hè, bạn vẫn được đi dưới lòng đường nếu ở đó dễ đi hơn.",
+        "explanation": "Sai. Theo Kyosoku Chương 2 Mục 2 điểm 1, ở nơi có vỉa hè bạn phải đi trên vỉa hè, trừ khi thi công đường khiến không đi được."
+      },
+      "pt": {
+        "question": "Mesmo em via com calçada você pode andar pela pista se for mais fácil caminhar nela.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 2, Seção 2, item 1, havendo calçada você deve usá-la, salvo obras que a tornem intransitável."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K2-3-007",
+    "category": "歩行者の通るところ",
+    "kp": "2-2",
+    "group": "J",
+    "source": "教則 第2章第2節3",
+    "question_type": "text",
+    "qf": "QF-2-2-D-SW-01",
+    "question_ja": "歩道も幅の十分な路側帯もない道路では、歩行者は道路の左端を通らなければならない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第2章第2節3により、歩行者は道路の右端を通らなければなりません。",
+    "i18n": {
+      "zh": {
+        "question": "在既没有人行道也没有宽度足够的路侧带的道路上，步行者必须走道路左端。",
+        "explanation": "错误。根据教则第2章第2节3，步行者必须走道路右端。"
+      },
+      "en": {
+        "question": "On a road with neither a sidewalk nor a side strip (路側帯) of sufficient width, a pedestrian must walk on the left-hand edge.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 2 Section 2 item 3 a pedestrian must walk on the right-hand edge."
+      },
+      "vi": {
+        "question": "Trên đường không có vỉa hè lẫn lề đường (路側帯) đủ rộng, người đi bộ phải đi ở mép trái.",
+        "explanation": "Sai. Theo Kyosoku Chương 2 Mục 2 điểm 3, người đi bộ phải đi ở mép phải của đường."
+      },
+      "pt": {
+        "question": "Em via sem calçada nem faixa lateral (路側帯) suficiente, o pedestre deve caminhar pela borda esquerda.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 2, Seção 2, item 3, o pedestre deve caminhar pela borda direita."
+      }
+    },
+    "trap_type": "SW",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K2-3-008",
+    "category": "横断の仕方",
+    "kp": "2-3-1",
+    "group": "J",
+    "source": "教則 第2章第3節1",
+    "question_type": "text",
+    "qf": "QF-2-3-1-D-EI-01",
+    "question_ja": "横断歩道が近くにあっても、車が来ていなければどこで横断してもよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第2章第3節1により、横断歩道が近くにあるところでは、その横断歩道で横断しなければなりません。",
+    "i18n": {
+      "zh": {
+        "question": "即使附近有人行横道，只要没有车辆驶来，在哪里横穿都可以。",
+        "explanation": "错误。根据教则第2章第3节1，附近有人行横道的地方必须在该人行横道横穿。"
+      },
+      "en": {
+        "question": "Even with a pedestrian crossing nearby you may cross anywhere as long as no vehicle is coming.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 2 Section 3 item 1 you must cross at the crossing where one is nearby."
+      },
+      "vi": {
+        "question": "Dù gần đó có vạch sang đường, bạn vẫn được băng qua ở bất cứ đâu miễn là không có xe tới.",
+        "explanation": "Sai. Theo Kyosoku Chương 2 Mục 3 điểm 1, ở nơi gần có vạch sang đường thì bạn phải băng qua tại đó."
+      },
+      "pt": {
+        "question": "Mesmo com faixa de pedestres por perto, você pode atravessar em qualquer lugar desde que não venha veículo.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 2, Seção 3, item 1, havendo faixa por perto você deve atravessar nela."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K2-3-009",
+    "category": "横断の仕方",
+    "kp": "2-3-2",
+    "group": "J",
+    "source": "教則 第2章第3節2(3)",
+    "question_type": "text",
+    "qf": "QF-2-3-2-D-SW-01",
+    "question_ja": "歩行者用の信号の青の点滅は、青信号と同じ意味である。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第2章第3節2(3)により、青の点滅は黄信号と同じ意味で、横断を始めてはいけません。",
+    "i18n": {
+      "zh": {
+        "question": "步行者用信号灯的绿灯闪烁，与绿灯含义相同。",
+        "explanation": "错误。根据教则第2章第3节2(3)，绿灯闪烁与黄灯含义相同，不得开始横穿。"
+      },
+      "en": {
+        "question": "A flashing green on a pedestrian signal means the same as a steady green.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 2 Section 3 item 2(3) a flashing green means the same as an amber light, and you must not begin crossing."
+      },
+      "vi": {
+        "question": "Đèn xanh nhấp nháy dành cho người đi bộ có nghĩa như đèn xanh thường.",
+        "explanation": "Sai. Theo Kyosoku Chương 2 Mục 3 điểm 2(3), đèn xanh nhấp nháy có nghĩa như đèn vàng, và bạn không được bắt đầu băng qua."
+      },
+      "pt": {
+        "question": "O verde piscando no sinal de pedestres tem o mesmo sentido do verde fixo.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 2, Seção 3, item 2(3), o verde piscando equivale ao amarelo, e não se deve iniciar a travessia."
+      }
+    },
+    "trap_type": "SW",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K2-3-010",
+    "category": "横断の仕方",
+    "kp": "2-3-2",
+    "group": "J",
+    "source": "教則 第2章第3節2(5)",
+    "question_type": "text",
+    "qf": "QF-2-3-2-D-EO-01",
+    "question_ja": "歩行者は、どのような場合でも道路を斜めに横断してはいけない。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第2章第3節2(5)により、スクランブル交差点では歩行者用の信号に従って斜め横断もできます。",
+    "i18n": {
+      "zh": {
+        "question": "步行者在任何情况下都不得斜穿道路。",
+        "explanation": "错误。根据教则第2章第3节2(5)，在全向十字路口可以按步行者用信号灯斜穿。"
+      },
+      "en": {
+        "question": "A pedestrian must never cross a road diagonally, in any circumstances.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 2 Section 3 item 2(5) you may cross diagonally at a scramble crossing in accordance with the pedestrian signal."
+      },
+      "vi": {
+        "question": "Người đi bộ không bao giờ được băng chéo qua đường, trong mọi hoàn cảnh.",
+        "explanation": "Sai. Theo Kyosoku Chương 2 Mục 3 điểm 2(5), tại giao lộ toàn hướng bạn được băng chéo theo đèn dành cho người đi bộ."
+      },
+      "pt": {
+        "question": "O pedestre nunca pode atravessar na diagonal, em nenhuma circunstância.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 2, Seção 3, item 2(5), num cruzamento em diagonal isso é permitido conforme o sinal de pedestres."
+      }
+    },
+    "trap_type": "EO",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K2-3-011",
+    "category": "横断の仕方",
+    "kp": "2-3-3",
+    "group": "J",
+    "source": "教則 第2章第3節3(4)",
+    "question_type": "text",
+    "qf": "QF-2-3-3-D-EI-01",
+    "question_ja": "信号機のない場所で車が止まってくれたときは、すぐに横断を始めてよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第2章第3節3(4)により、ほかの車の動きに注意し、安全を確認してから横断を始めます。",
+    "i18n": {
+      "zh": {
+        "question": "在没有信号灯的地方车辆为自己停下时，可以立刻开始横穿。",
+        "explanation": "错误。根据教则第2章第3节3(4)，要注意其他车辆的动向、确认安全后再开始横穿。"
+      },
+      "en": {
+        "question": "Where there is no signal and a vehicle stops for you, you may start crossing at once.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 2 Section 3 item 3(4) you watch what other vehicles are doing and start only once you have confirmed it is safe."
+      },
+      "vi": {
+        "question": "Ở nơi không có đèn tín hiệu, khi một xe dừng lại nhường bạn thì bạn được bắt đầu băng qua ngay.",
+        "explanation": "Sai. Theo Kyosoku Chương 2 Mục 3 điểm 3(4), bạn phải để ý các xe khác và chỉ bắt đầu khi đã xác nhận an toàn."
+      },
+      "pt": {
+        "question": "Onde não há semáforo e um veículo para para você, pode começar a atravessar de imediato.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 2, Seção 3, item 3(4), observe o que fazem os outros veículos e só comece depois de confirmar a segurança."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K2-3-012",
+    "category": "歩行者の通るところ",
+    "kp": "2-2",
+    "group": "J",
+    "source": "教則 第2章第2節5",
+    "question_type": "text",
+    "qf": "QF-2-2-D-NR-01",
+    "question_ja": "歩行者が入ってはいけないのは、高速自動車国道だけである。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第2章第2節5により、自動車専用道路や、標識によって通行が禁止されている道路にも入ってはいけません。",
+    "i18n": {
+      "zh": {
+        "question": "步行者不得进入的只有高速公路。",
+        "explanation": "错误。根据教则第2章第2节5，汽车专用道路以及由标识（立牌）禁止通行的道路也不得进入。"
+      },
+      "en": {
+        "question": "The only road a pedestrian must not enter is a national expressway.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 2 Section 2 item 5 a motor-vehicle-only road and any road closed to pedestrians by sign are also barred."
+      },
+      "vi": {
+        "question": "Đường duy nhất người đi bộ không được vào là đường cao tốc quốc gia.",
+        "explanation": "Sai. Theo Kyosoku Chương 2 Mục 2 điểm 5, đường chỉ dành cho ô tô và đường bị biển báo cấm cũng không được vào."
+      },
+      "pt": {
+        "question": "A única via em que o pedestre não pode entrar é a expressa nacional.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 2, Seção 2, item 5, a via exclusiva para automóveis e qualquer via fechada por placa também são vedadas."
+      }
+    },
+    "trap_type": "NR",
+    "difficulty": 2,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K2-3-013",
+    "category": "横断の仕方",
+    "kp": "2-3-2",
+    "group": "J",
+    "source": "教則 第2章第3節2(4)",
+    "question_type": "text",
+    "qf": "QF-2-3-2-D-EI-01",
+    "question_ja": "押ボタン式の歩行者用信号機のあるところでは、ボタンを押さずに横断してよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第2章第3節2(4)により、ボタンを押して青信号に変わるのを待ちます。",
+    "i18n": {
+      "zh": {
+        "question": "在设有按钮式步行者用信号机的地方，可以不按按钮就横穿。",
+        "explanation": "错误。根据教则第2章第3节2(4)，要按下按钮，等信号变绿。"
+      },
+      "en": {
+        "question": "Where there is a push-button pedestrian signal you may cross without pressing the button.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 2 Section 3 item 2(4) you press the button and wait for the light to turn green."
+      },
+      "vi": {
+        "question": "Ở nơi có đèn dành cho người đi bộ loại nút bấm, bạn được băng qua mà không cần bấm nút.",
+        "explanation": "Sai. Theo Kyosoku Chương 2 Mục 3 điểm 2(4), bạn bấm nút và chờ đèn chuyển xanh."
+      },
+      "pt": {
+        "question": "Onde há sinal de pedestres com botão, você pode atravessar sem apertá-lo.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 2, Seção 3, item 2(4), aperta-se o botão e espera-se o verde."
+      }
+    },
+    "trap_type": "EI",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K2-3-014",
+    "category": "横断の仕方",
+    "kp": "2-3-1",
+    "group": "J",
+    "source": "教則 第2章第3節1",
+    "question_type": "text",
+    "qf": "QF-2-3-1-D-SC-01",
+    "question_ja": "横断歩道が50メートルほど先にあったが、近くに車が見えなかったので、その場で道路を横断した。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第2章第3節1により、横断歩道が近くにあるところでは、その横断歩道で横断しなければなりません。",
+    "i18n": {
+      "zh": {
+        "question": "人行横道在前方50米左右处，但因为附近看不到车辆，就在原地横穿了道路。",
+        "explanation": "错误。根据教则第2章第3节1，附近有人行横道的地方必须在该人行横道横穿。"
+      },
+      "en": {
+        "question": "There was a pedestrian crossing about 50 metres ahead, but as you saw no vehicles nearby you crossed the road where you were.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 2 Section 3 item 1 you must cross at the crossing where one is nearby."
+      },
+      "vi": {
+        "question": "Có một vạch sang đường cách khoảng 50 mét phía trước, nhưng vì không thấy xe nào gần đó nên bạn băng qua ngay tại chỗ.",
+        "explanation": "Sai. Theo Kyosoku Chương 2 Mục 3 điểm 1, ở nơi gần có vạch sang đường thì phải băng qua tại đó."
+      },
+      "pt": {
+        "question": "Havia uma faixa de pedestres cerca de 50 metros à frente, mas como não via veículos por perto você atravessou ali mesmo.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 2, Seção 3, item 1, havendo faixa por perto você deve atravessar nela."
+      }
+    },
+    "trap_type": "SC",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  },
+  {
+    "id": "K2-3-015",
+    "category": "横断の仕方",
+    "kp": "2-3-3",
+    "group": "J",
+    "source": "教則 第2章第3節3(2)",
+    "question_type": "text",
+    "qf": "QF-2-3-3-D-NR-01",
+    "question_ja": "信号機のない場所で横断しようとするときに確かめるのは、右方向から来る車だけでよい。",
+    "answer": false,
+    "explanation_ja": "誤りです。教則第2章第3節3(2)により、右左をよく見て確かめ、特に左方向から進行してくる車にも注意します。",
+    "i18n": {
+      "zh": {
+        "question": "在没有信号灯的地方准备横穿时，只要确认从右方驶来的车辆就可以。",
+        "explanation": "错误。根据教则第2章第3节3(2)，要仔细看左右确认，特别是还要注意从左方驶来的车辆。"
+      },
+      "en": {
+        "question": "When about to cross where there is no signal, it is enough to check for vehicles coming from the right.",
+        "explanation": "This is wrong. Under Kyosoku Chapter 2 Section 3 item 3(2) you look carefully both ways, with particular care for vehicles coming from the left."
+      },
+      "vi": {
+        "question": "Khi sắp băng qua ở nơi không có đèn tín hiệu, chỉ cần kiểm tra xe đến từ bên phải là đủ.",
+        "explanation": "Sai. Theo Kyosoku Chương 2 Mục 3 điểm 3(2), bạn nhìn kỹ cả hai phía, đặc biệt chú ý xe đến từ bên trái."
+      },
+      "pt": {
+        "question": "Ao atravessar onde não há semáforo, basta conferir os veículos que vêm da direita.",
+        "explanation": "Está errado. Pelo Kyosoku, Capítulo 2, Seção 3, item 3(2), olha-se bem para os dois lados, com atenção especial aos que vêm da esquerda."
+      }
+    },
+    "trap_type": "NR",
+    "difficulty": 1,
+    "exam_scope": "仮免|本免|外免"
+  }
+]
