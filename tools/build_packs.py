@@ -3,16 +3,18 @@
 
 Reads questions/karimen/*.json and data/taxonomy.*.json, writes dist/:
 
-    manifest.json           what the app fetches first; free URLs only
-    core-free.json          language-neutral, answers, free tier
-    <lang>-free.json        question + explanation only, no answers
+    manifest.json           what the app fetches first
+    core-<tier>.json        language-neutral: answers, chapter, citation, trap
+    <lang>-<tier>.json      question + explanation only, no answers
     taxonomy.json           chapter and section names in five languages
-    p/<uuid>.bin            AES-256-GCM full packs (core + one per language)
 
-Invariants this script enforces (CLAUDE.md 3, 4, 6):
+Nothing here is encrypted. The questions are public, so a cipher over a
+plaintext published beside it protects nothing; the purchase buys how much of
+the bank the app shows, and the app enforces that.
+
+Invariants this script enforces (CLAUDE.md 3 and 4):
 
   * no language pack carries an answer, or any other core field
-  * the public manifest carries no URL, filename or key for a full pack
   * every core id is present in every language pack
   * output is byte-identical for unchanged input, so an unchanged pack is
     never re-downloaded
@@ -25,16 +27,12 @@ Usage:
 from __future__ import annotations
 
 import argparse
-import base64
 import glob
 import hashlib
-import hmac
 import json
-import os
 import shutil
 import sys
-import uuid
-from datetime import date, timezone, datetime
+from datetime import date
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -53,8 +51,6 @@ ANSWER_BALANCE_SLACK = 4  # |true - false| in the free tier
 
 LAW_REVISION_DATE = "2026-09-01"  # 施行令 revision the bank reflects
 MIN_APP_VERSION = "1.0.0"
-
-DEV_KEY = b"\x00" * 32  # only with --dev; never published
 
 
 class BuildError(Exception):
@@ -80,6 +76,16 @@ def load_questions() -> list[dict]:
     if dupes:
         raise BuildError(f"duplicate question ids: {dupes}")
     return sorted(out, key=lambda q: q["id"])
+
+
+def load_exams() -> list[str]:
+    """The exams this bank can serve, declared rather than inferred."""
+    path = DATA / "exams.json"
+    if not path.exists():
+        raise BuildError(f"missing {path}")
+    with open(path, encoding="utf-8") as fh:
+        doc = json.load(fh)
+    return [exam["code"] for exam in doc["exams"] if exam.get("ready")]
 
 
 def load_taxonomy() -> dict[str, dict]:
@@ -237,41 +243,6 @@ def sha256(data: bytes) -> str:
     return hashlib.sha256(data).hexdigest()
 
 
-def pack_key() -> tuple[bytes, bool]:
-    raw = os.environ.get("MENKYO_PACK_KEY")
-    if raw:
-        key = base64.b64decode(raw)
-        if len(key) != 32:
-            raise BuildError("MENKYO_PACK_KEY must decode to 32 bytes")
-        return key, False
-    return DEV_KEY, True
-
-
-def derive(key: bytes, label: str, length: int) -> bytes:
-    return hmac.new(key, label.encode("utf-8"), hashlib.sha256).digest()[:length]
-
-
-def full_pack_name(key: bytes, pack_id: str, version: int) -> str:
-    """Unguessable, stable filename. The Worker derives the same name from the
-    same key, so no mapping has to be stored anywhere."""
-    return str(uuid.UUID(bytes=derive(key, f"name:{pack_id}:{version}", 16))) + ".bin"
-
-
-def encrypt(key: bytes, pack_id: str, version: int, plaintext: bytes) -> bytes:
-    """AES-256-GCM, nonce derived from (key, pack, version) so the build stays
-    byte-reproducible while never reusing a nonce for different content."""
-    from cryptography.hazmat.primitives.ciphers.aead import AESGCM
-
-    nonce = derive(key, f"nonce:{pack_id}:{version}", 12)
-    return nonce + AESGCM(key).encrypt(nonce, plaintext, None)
-
-
-def decrypt(key: bytes, blob: bytes) -> bytes:
-    from cryptography.hazmat.primitives.ciphers.aead import AESGCM
-
-    return AESGCM(key).decrypt(blob[:12], blob[12:], None)
-
-
 # ---------------------------------------------------------------- build
 
 
@@ -343,7 +314,7 @@ def release_notes(previous_manifest, content_version, counts, changed,
     return [note] + previous_notes
 
 
-def build(dest: Path, *, dev_ok: bool = True) -> dict:
+def build(dest: Path) -> dict:
     questions = load_questions()
     tax = load_taxonomy()
     section_to_chapter, section_order = chapter_index(tax)
@@ -356,9 +327,6 @@ def build(dest: Path, *, dev_ok: bool = True) -> dict:
             )
 
     tiers = assign_tiers(questions, section_order)
-    key, is_dev = pack_key()
-    if is_dev and not dev_ok:
-        raise BuildError("MENKYO_PACK_KEY is not set; refusing to publish with the dev key")
 
     previous = {}
     prev = None
@@ -399,26 +367,19 @@ def build(dest: Path, *, dev_ok: bool = True) -> dict:
     for pid in sorted(bodies):
         kind, tier, payload = bodies[pid]
         version = content_version if pid in changed else previous[pid]["version"]
-        entry = {
+        name = f"{pid}.json"
+        files[name] = payload
+        packs.append({
             "id": pid,
             "kind": kind,
             "tier": tier,
             "lang": None if kind != "lang" else pid.rsplit("-", 1)[0],
             "version": version,
             "payload_sha256": sha256(payload),
-        }
-        if tier == "free":
-            name = f"{pid}.json"
-            files[name] = payload
-            entry.update(sha256=sha256(payload), bytes=len(payload),
-                         url=f"{REPO_RAW}/{name}")
-        else:
-            blob = encrypt(key, pid, version, payload)
-            name = f"p/{full_pack_name(key, pid, version)}"
-            files[name] = blob
-            # no url, no filename, no key in the public manifest
-            entry.update(sha256=sha256(blob), bytes=len(blob), url=None, encrypted=True)
-        packs.append(entry)
+            "sha256": sha256(payload),
+            "bytes": len(payload),
+            "url": f"{REPO_RAW}/{name}",
+        })
 
     notes = release_notes(previous_manifest=prev if prev_version else None,
                           content_version=content_version,
@@ -444,22 +405,21 @@ def build(dest: Path, *, dev_ok: bool = True) -> dict:
             "total": len(questions),
         },
         "languages": LANG_ORDER,
+        "exams": load_exams(),
         "packs": packs,
     }
-    if is_dev:
-        manifest["dev_key"] = True
     files["manifest.json"] = (
         json.dumps(manifest, ensure_ascii=False, indent=2, sort_keys=True) + "\n"
     ).encode("utf-8")
 
-    check(manifest, bodies, files, questions, tiers, key, section_to_chapter)
+    check(manifest, bodies, files, questions, tiers, section_to_chapter)
     return {"manifest": manifest, "files": files, "questions": questions, "tiers": tiers}
 
 
 # ---------------------------------------------------------------- assertions
 
 
-def check(manifest, bodies, files, questions, tiers, key, section_to_chapter) -> None:
+def check(manifest, bodies, files, questions, tiers, section_to_chapter) -> None:
     core_ids = {tier: {q["id"] for q in questions if tiers[q["id"]] == tier}
                 for tier in ("free", "full")}
 
@@ -487,16 +447,8 @@ def check(manifest, bodies, files, questions, tiers, key, section_to_chapter) ->
                 break
         if name is None:
             raise BuildError(f"{entry['id']}: manifest sha256 matches no emitted file")
-        if entry["tier"] == "full":
-            if entry["url"] is not None:
-                raise BuildError(f"{entry['id']}: a full pack must not carry a URL")
-            if decrypt(key, files[name]) != bodies[entry["id"]][2]:
-                raise BuildError(f"{entry['id']}: AES-GCM round trip failed")
-
-    blob = json.dumps(manifest, ensure_ascii=False)
-    for fname in files:
-        if fname.startswith("p/") and fname.split("/")[1] in blob:
-            raise BuildError("a full pack filename appears in the public manifest")
+        if not entry["url"]:
+            raise BuildError(f"{entry['id']}: every pack must carry a URL")
 
     free = [q for q in questions if tiers[q["id"]] == "free"]
     if len(free) != FREE_COUNT:
@@ -514,9 +466,10 @@ def check(manifest, bodies, files, questions, tiers, key, section_to_chapter) ->
 
 
 def write(dest: Path, files: dict[str, bytes]) -> None:
+    # A previous build encrypted the paid packs into p/; nothing writes there now.
     if (dest / "p").exists():
         shutil.rmtree(dest / "p")
-    (dest / "p").mkdir(parents=True, exist_ok=True)
+    dest.mkdir(parents=True, exist_ok=True)
     for name, data in files.items():
         path = dest / name
         path.parent.mkdir(parents=True, exist_ok=True)
@@ -527,14 +480,12 @@ def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--check", action="store_true",
                     help="verify dist/ is what the current input produces")
-    ap.add_argument("--publish", action="store_true",
-                    help="refuse to run with the development key")
     ap.add_argument("--dest", default=str(DIST))
     args = ap.parse_args()
 
     dest = Path(args.dest)
     try:
-        result = build(dest, dev_ok=not args.publish)
+        result = build(dest)
     except BuildError as exc:
         print(f"build_packs: {exc}", file=sys.stderr)
         return 1
@@ -567,11 +518,7 @@ def main() -> int:
     write(dest, files)
     print(f"content_version {manifest['content_version']} → {dest}")
     for entry in manifest["packs"]:
-        where = "public" if entry["tier"] == "free" else "encrypted"
-        print(f"  {entry['id']:<16} v{entry['version']:<3} {entry['bytes']:>8}B  {where}")
-    if manifest.get("dev_key"):
-        print("\n  ! built with the development key — set MENKYO_PACK_KEY to publish",
-              file=sys.stderr)
+        print(f"  {entry['id']:<16} v{entry['version']:<3} {entry['bytes']:>8}B  {entry['tier']}")
     return 0
 
 

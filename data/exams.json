@@ -1,0 +1,8 @@
+{
+  "note": "Which exams this bank can actually serve. Most 仮免 questions are also valid for 本免 and 外免切替, so counting a question's exam_scope would claim an exam the bank cannot fill. An exam becomes ready when its own question set is written — the 本免 needs its illustrated hazard-prediction items, and the 外免切替's own parameters are still unconfirmed.",
+  "exams": [
+    { "code": "仮免", "ready": true },
+    { "code": "本免", "ready": false },
+    { "code": "外免", "ready": false }
+  ]
+}

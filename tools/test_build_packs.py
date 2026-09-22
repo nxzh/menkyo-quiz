@@ -37,8 +37,6 @@ class BuildTestCase(unittest.TestCase):
         entry = self.pack(pack_id)
         for name, data in self.result["files"].items():
             if bp.sha256(data) == entry["sha256"]:
-                if entry["tier"] == "full":
-                    data = bp.decrypt(bp.pack_key()[0], data)
                 return json.loads(data)
         self.fail(f"no file for {pack_id}")
 
@@ -123,31 +121,36 @@ class TestPackSplit(BuildTestCase):
         questions = [{"id": "K1-1-001", "kp": "1-1", "answer": True}]
         with self.assertRaises(bp.BuildError):
             bp.check(manifest, bodies, files, questions, {"K1-1-001": "free"},
-                     bp.DEV_KEY, {"1-1": "1"})
+                     {"1-1": "1"})
 
 
 class TestManifest(BuildTestCase):
-    def test_full_packs_have_no_url_and_no_filename_in_the_manifest(self):
-        blob = json.dumps(self.manifest, ensure_ascii=False)
+    def test_every_pack_is_plain_and_addressable(self):
+        """The questions are public, so the packs are too — no cipher, no
+        withheld URL, nothing to hold a key for."""
         for entry in self.manifest["packs"]:
-            if entry["tier"] == "full":
-                self.assertIsNone(entry["url"])
-                self.assertTrue(entry.get("encrypted"))
-        for path in self.result["files"]:
-            if path.startswith("p/"):
-                self.assertNotIn(Path(path).name, blob)
+            self.assertTrue(entry["url"].startswith("https://"), entry["id"])
+            self.assertNotIn("encrypted", entry)
+        for name, data in self.result["files"].items():
+            self.assertTrue(name.endswith(".json"), name)
+            json.loads(data)   # every published file is readable JSON
 
-    def test_free_packs_are_plain_and_addressable(self):
-        for entry in self.manifest["packs"]:
-            if entry["tier"] == "free":
-                self.assertTrue(entry["url"].startswith("https://"))
-                self.assertFalse(entry.get("encrypted"))
+    def test_a_paid_pack_reads_like_any_other(self):
+        full = self.payload("core-full")
+        self.assertTrue(full["questions"])
+        self.assertTrue(all(q["tier"] == "full" for q in full["questions"]))
 
     def test_manifest_hashes_match_the_emitted_bytes(self):
         for entry in self.manifest["packs"]:
             match = [n for n, d in self.result["files"].items() if bp.sha256(d) == entry["sha256"]]
             self.assertEqual(len(match), 1, entry["id"])
             self.assertEqual(len(self.result["files"][match[0]]), entry["bytes"])
+
+    def test_the_build_needs_no_secret(self):
+        # No key, no environment, no dev-key warning: the whole point.
+        self.assertFalse(hasattr(bp, "pack_key"))
+        self.assertFalse(hasattr(bp, "encrypt"))
+        self.assertNotIn("dev_key", self.manifest)
 
     def test_law_revision_date_and_counts(self):
         self.assertRegex(self.manifest["law_revision_date"], r"^\d{4}-\d{2}-\d{2}$")
@@ -156,39 +159,6 @@ class TestManifest(BuildTestCase):
             self.manifest["counts"]["total"],
         )
         self.assertEqual(self.manifest["counts"]["total"], len(self.questions))
-
-
-class TestCrypto(BuildTestCase):
-    def test_full_packs_round_trip(self):
-        key = bp.pack_key()[0]
-        for entry in self.manifest["packs"]:
-            if entry["tier"] != "full":
-                continue
-            name = next(n for n, d in self.result["files"].items() if bp.sha256(d) == entry["sha256"])
-            plain = bp.decrypt(key, self.result["files"][name])
-            self.assertEqual(bp.sha256(plain), entry["payload_sha256"])
-            json.loads(plain)
-
-    def test_ciphertext_hides_the_questions(self):
-        entry = self.pack("ja-full")
-        name = next(n for n, d in self.result["files"].items() if bp.sha256(d) == entry["sha256"])
-        blob = self.result["files"][name]
-        self.assertNotIn("運転".encode("utf-8"), blob)
-        self.assertNotIn(b'"question"', blob)
-
-    def test_filename_is_unguessable_and_stable(self):
-        a = bp.full_pack_name(bp.DEV_KEY, "core-full", 3)
-        self.assertEqual(a, bp.full_pack_name(bp.DEV_KEY, "core-full", 3))
-        self.assertNotEqual(a, bp.full_pack_name(bp.DEV_KEY, "core-full", 4))
-        self.assertNotEqual(a, bp.full_pack_name(b"\x01" * 32, "core-full", 3))
-
-    def test_tampered_ciphertext_is_rejected(self):
-        entry = self.pack("core-full")
-        name = next(n for n, d in self.result["files"].items() if bp.sha256(d) == entry["sha256"])
-        blob = bytearray(self.result["files"][name])
-        blob[-1] ^= 0x01
-        with self.assertRaises(Exception):
-            bp.decrypt(bp.pack_key()[0], bytes(blob))
 
 
 class TestVersioning(BuildTestCase):

@@ -29,26 +29,36 @@ The Menkyo app never reads this repository's question files directly. It reads
 
 | file | what it is |
 |---|---|
-| `manifest.json` | what the app fetches first: `content_version`, `min_app_version`, `law_revision_date`, `hidden_ids`, and every pack's version, size and sha256 |
-| `core-free.json` | the 120 free questions without any question text: answers, chapter, knowledge point, citation, trap type |
-| `<lang>-free.json` | the same 120 questions as text only — question and explanation, **never an answer** |
+| `manifest.json` | what the app fetches first: `content_version`, `min_app_version`, `law_revision_date`, `hidden_ids`, which exams the bank can serve, the per-version notes, and every pack's version, size, sha256 and URL |
+| `core-free.json` / `core-full.json` | the questions without any question text: answers, chapter, knowledge point, citation, trap type, tier |
+| `<lang>-free.json` / `<lang>-full.json` | the same questions as text only — question and explanation, **never an answer** |
 | `taxonomy.json` | chapter and section names in all five languages |
-| `p/<uuid>.bin` | the 880 paid questions, AES-256-GCM, one blob per pack |
 
-The split is a requirement, not a convenience: the answer key exists only in the core
-pack, so a language pack can be read by anyone without giving the answers away.
+The core/language split is a requirement, not a convenience: the answer key
+exists only in the core pack, so a language pack can be read by anyone without
+giving the answers away.
+
+The free/full split is what the app's one purchase buys — 120 questions or all
+1000. It is a visibility limit and nothing more: every pack is published in the
+clear, because these questions are public and a cipher over a plaintext
+published beside it would protect nothing.
 
 ```sh
-python3 -m pip install cryptography
 python3 tools/build_packs.py            # regenerate dist/
 python3 tools/build_packs.py --check    # CI: is dist/ what the questions say it is?
 ```
 
-Full packs are encrypted with `MENKYO_PACK_KEY` (base64, 32 bytes). Without it the
-build uses an all-zero development key and says so; a published `dist/` must be built
-with the real key, which also decides the `p/<uuid>.bin` filenames. Rotating the key
-changes those filenames and requires a rebuild and a redeploy of the entitlement
-worker.
+The build needs no secret and no environment. Unchanged questions produce
+byte-identical packs, so a pack's version moves only when its bytes do and the
+app never re-downloads one that did not change.
+
+## Which exams the bank serves
+
+`data/exams.json` declares it, and the manifest carries it. Most 仮免 questions
+are also valid for 本免 and 外免切替, so counting a question's `exam_scope`
+would claim an exam this bank cannot fill. Today that is 仮免 alone; the app
+shows the other two as not yet available rather than offering an exam it cannot
+give.
 
 ## Sources
 
