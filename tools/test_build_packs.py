@@ -111,7 +111,8 @@ class TestPackSplit(BuildTestCase):
     def test_answer_leakage_is_caught(self):
         """The assertion, not the happy path: a hand-built leaky pack must fail."""
         bodies = {
-            "en-free": ("lang", "free", bp.dumps({"lang": "en", "questions": [
+            "en-free": ("lang", "free", bp.dumps({"license": bp.LICENSE, "lang": "en",
+                                                  "questions": [
                 {"id": "K1-1-001", "question": "q", "explanation": "e", "answer": True}
             ]}))
         }
@@ -145,6 +146,29 @@ class TestManifest(BuildTestCase):
             match = [n for n, d in self.result["files"].items() if bp.sha256(d) == entry["sha256"]]
             self.assertEqual(len(match), 1, entry["id"])
             self.assertEqual(len(self.result["files"][match[0]]), entry["bytes"])
+
+    def test_the_licence_travels_with_every_pack(self):
+        """A pack is fetched on its own, so it states its own terms."""
+        self.assertEqual(self.manifest["license"], bp.LICENSE)
+        content = bp.LICENSE["content"]
+        for field in ("id", "url", "attribution", "source"):
+            self.assertTrue(content[field], field)
+        self.assertEqual(content["id"], "CC-BY-NC-SA-4.0")
+        for entry in self.manifest["packs"]:
+            self.assertEqual(self.payload(entry["id"])["license"], bp.LICENSE, entry["id"])
+
+    def test_a_pack_without_the_licence_fails_the_build(self):
+        bodies = {"taxonomy": ("taxonomy", "free", bp.dumps({"languages": {}}))}
+        files = {"taxonomy.json": bodies["taxonomy"][2]}
+        manifest = {"license": bp.LICENSE,
+                    "packs": [{"id": "taxonomy", "kind": "taxonomy", "tier": "free",
+                               "sha256": bp.sha256(files["taxonomy.json"]), "url": "x"}]}
+        with self.assertRaises(bp.BuildError):
+            bp.check(manifest, bodies, files, [], {}, {})
+
+    def test_a_manifest_without_the_licence_fails_the_build(self):
+        with self.assertRaises(bp.BuildError):
+            bp.check({"packs": []}, {}, {}, [], {}, {})
 
     def test_the_build_needs_no_secret(self):
         # No key, no environment, no dev-key warning: the whole point.
@@ -185,6 +209,46 @@ class TestVersioning(BuildTestCase):
         self.assertEqual(by_id[f"vi-{tier}"]["version"], after["content_version"])
         for pack_id in ("core-free", "core-full", "ja-free", "taxonomy"):
             self.assertEqual(by_id[pack_id]["version"], before[pack_id]["version"], pack_id)
+        # and the note names that language, and only that language
+        note = after["notes"][0]["items"]["en"]
+        self.assertEqual(note, ["Translations corrected (Vietnamese)"])
+
+    def test_editing_the_licence_moves_every_pack(self):
+        """The statement is part of the published bytes, so changing it is a
+        content change: every pack's version moves, once."""
+        original = bp.LICENSE
+        edited = copy.deepcopy(original)
+        edited["content"]["attribution"] += " (test)"
+        bp.LICENSE = edited
+        try:
+            after = bp.build(self.tmp)["manifest"]
+        finally:
+            bp.LICENSE = original
+
+        self.assertEqual(after["content_version"], self.manifest["content_version"] + 1)
+        for entry in after["packs"]:
+            self.assertEqual(entry["version"], after["content_version"], entry["id"])
+        # every pack moved, but no question did: the note must say so and must
+        # not claim corrected translations (design-spec §5.4)
+        for lang, lines in after["notes"][0]["items"].items():
+            self.assertEqual(len(lines), 1, lang)
+        self.assertEqual(after["notes"][0]["items"]["en"], ["Licence statement updated"])
+        self.assertEqual(after["notes"][0]["items"]["zh-Hans"], ["更新许可证声明"])
+
+    def test_a_licence_edit_leaves_the_question_text_hash_alone(self):
+        original = bp.LICENSE
+        edited = copy.deepcopy(original)
+        edited["content"]["attribution"] += " (test)"
+        bp.LICENSE = edited
+        try:
+            after = bp.build(self.tmp)["manifest"]
+        finally:
+            bp.LICENSE = original
+        before = {p["id"]: p for p in self.manifest["packs"]}
+        for entry in after["packs"]:
+            self.assertNotEqual(entry["sha256"], before[entry["id"]]["sha256"], entry["id"])
+            self.assertEqual(entry["text_sha256"], before[entry["id"]]["text_sha256"],
+                             entry["id"])
 
     def test_an_unknown_kp_fails_the_build(self):
         original = bp.load_questions

@@ -29,7 +29,7 @@ The Menkyo app never reads this repository's question files directly. It reads
 
 | file | what it is |
 |---|---|
-| `manifest.json` | what the app fetches first: `content_version`, `min_app_version`, `law_revision_date`, `hidden_ids`, which exams the bank can serve, the per-version notes, and every pack's version, size, sha256 and URL |
+| `manifest.json` | what the app fetches first: `content_version`, `min_app_version`, `law_revision_date`, `hidden_ids`, the licence the content is published under, which exams the bank can serve, the per-version notes, and every pack's version, size, sha256 and URL |
 | `core-free.json` / `core-full.json` | the questions without any question text: answers, chapter, knowledge point, citation, trap type, tier |
 | `<lang>-free.json` / `<lang>-full.json` | the same questions as text only — question and explanation, **never an answer** |
 | `taxonomy.json` | chapter and section names in all five languages |
@@ -38,10 +38,12 @@ The core/language split is a requirement, not a convenience: the answer key
 exists only in the core pack, so a language pack can be read by anyone without
 giving the answers away.
 
-The free/full split is what the app's one purchase buys — 120 questions or all
-1000. It is a visibility limit and nothing more: every pack is published in the
-clear, because these questions are public and a cipher over a plaintext
-published beside it would protect nothing.
+The free/full split is one half of what the app's one purchase buys: 120 questions
+to study for free, all 1000 with the purchase, which also unlocks the app's timed
+mock exams. It is a visibility limit and nothing more: every pack is published in
+the clear, because these questions are public and a cipher over a plaintext
+published beside it would protect nothing. Reading the bank here is free, under the
+licence below, and always will be.
 
 ```sh
 python3 tools/build_packs.py            # regenerate dist/
@@ -96,13 +98,25 @@ python3 tools/stats.py karimen
 
 `validate.py` checks structure, that `trap_type: N` and `answer: true` correspond one
 to one, that a non-text question never carries the 外免 scope, ○× balance, id and
-fingerprint uniqueness, that every referenced sign file exists, sentence-count parity
-across the five languages, and the glossary's banned Chinese renderings. `stats.py`
+fingerprint uniqueness, that every referenced sign file exists and carries the licence
+and source URL its index row states, sentence-count parity across the five languages,
+and the glossary's banned Chinese renderings. `stats.py`
 prints knowledge-point coverage and the trap mix against the authoring targets.
 
 ## Licence
 
 - Question content, explanations and translations: [CC BY-NC-SA 4.0](LICENSE-CONTENT).
+  Study, copy and share them; do not use them commercially; share adaptations under
+  the same licence. The same statement travels inside `manifest.json` and every pack
+  in `dist/`, so a downloaded pack carries its own terms.
 - Tooling and schema: [MIT](LICENSE-CODE).
-- Road-sign SVGs under `signs/`: the signs themselves are reproductions of the 標識令
-  catalogue (PD-Japan-exempt); per-file provenance is in `signs/index.csv`.
+- Road-sign SVGs under `signs/`: reproductions of the 標識令 catalogue, excluded from
+  copyright by Article 13 of the Copyright Act. Licence, upstream file and source URL
+  are recorded per file in `signs/index.csv` — see `signs/README.md`.
+
+**Commercial use** — a driving school, a 登録支援機関, an app carrying advertising,
+anything sold — is outside CC BY-NC-SA 4.0 and needs a separate licence from the
+copyright holder. Open an issue titled `Commercial licence`.
+
+**Contributions**: corrections are welcome as issues; pull requests that add or change
+content are not accepted. [CONTRIBUTING.md](CONTRIBUTING.md) says why.

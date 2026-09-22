@@ -1,191 +1,191 @@
-file,sign_no,name_ja,variant,category,source,source_file
-201-2.svg,201-2,ロータリーあり,,警戒標識,commons,Japan_road_sign_201-2.svg
-201-A.svg,201-A,┼形道路交差点あり,,警戒標識,commons,Japan_road_sign_201-A.svg
-201-B-右.svg,201-B,├形（又は┤形）道路交差点あり,右,警戒標識,commons,Japan_road_sign_201-B-R.svg
-201-B-左.svg,201-B,├形（又は┤形）道路交差点あり,左,警戒標識,commons,Japan_road_sign_201-B-L.svg
-201-C.svg,201-C,Ｔ形道路交差点あり,,警戒標識,commons,Japan_road_sign_201-C.svg
-201-D.svg,201-D,Ｙ形道路交差点あり,,警戒標識,commons,Japan_road_sign_201-D.svg
-202-右.svg,202,右（又は左）方屈曲あり,右,警戒標識,commons,Japan_road_sign_202-R.svg
-202-左.svg,202,右（又は左）方屈曲あり,左,警戒標識,commons,Japan_road_sign_202-L.svg
-203-右.svg,203,右（又は左）方屈折あり,右,警戒標識,commons,Japan_road_sign_203-R.svg
-203-左.svg,203,右（又は左）方屈折あり,左,警戒標識,commons,Japan_road_sign_203-L.svg
-204-右.svg,204,右（又は左）背向屈曲あり,右,警戒標識,commons,Japan_road_sign_204-R.svg
-204-左.svg,204,右（又は左）背向屈曲あり,左,警戒標識,commons,Japan_road_sign_204-L.svg
-205-右.svg,205,右（又は左）背向屈折あり,右,警戒標識,commons,Japan_road_sign_205-R.svg
-205-左.svg,205,右（又は左）背向屈折あり,左,警戒標識,commons,Japan_road_sign_205-L.svg
-206-右.svg,206,右（又は左）つづら折りあり,右,警戒標識,commons,Japan_road_sign_206-R.svg
-206-左.svg,206,右（又は左）つづら折りあり,左,警戒標識,commons,Japan_road_sign_206-L.svg
-207-A.svg,207-A,踏切あり,,警戒標識,commons,Japan_road_sign_207-A.svg
-207-B.svg,207-B,踏切あり,,警戒標識,commons,Japan_road_sign_207-B.svg
-208-2.svg,208-2,信号機あり,,警戒標識,commons,Japan_road_sign_208-2.svg
-208.svg,208,学校、幼稚園、保育所等あり,,警戒標識,commons,Japan_road_sign_208.svg
-209-2.svg,209-2,落石のおそれあり,,警戒標識,commons,Japan_road_sign_209-2.svg
-209-3.svg,209-3,路面凹凸あり,,警戒標識,commons,Japan_road_sign_209-3.svg
-209.svg,209,すべりやすい,,警戒標識,commons,Japan_road_sign_209.svg
-210.svg,210,合流交通あり,,警戒標識,commons,Japan_road_sign_210.svg
-211.svg,211,車線数減少,,警戒標識,commons,Japan_road_sign_211.svg
-212-2.svg,212-2,二方向交通,,警戒標識,commons,Japan_road_sign_212-2.svg
-212-3.svg,212-3,上り急勾配あり,,警戒標識,commons,Japan_road_sign_212-3.svg
-212-4.svg,212-4,下り急勾配あり,,警戒標識,commons,Japan_road_sign_212-4.svg
-212.svg,212,幅員減少,,警戒標識,commons,Japan_road_sign_212.svg
-213.svg,213,道路工事中,,警戒標識,commons,Japan_road_sign_213.svg
-214-2-うさぎ.svg,214-2,動物が飛び出すおそれあり,うさぎ,警戒標識,commons,Japan_road_sign_214-2_Hare.svg
-214-2-さる.svg,214-2,動物が飛び出すおそれあり,さる,警戒標識,commons,Japan_road_sign_214-2_Monkey.svg
-214-2-しか.svg,214-2,動物が飛び出すおそれあり,しか,警戒標識,commons,Japan_road_sign_214-2.svg
-214-2-たぬき.svg,214-2,動物が飛び出すおそれあり,たぬき,警戒標識,commons,Japan_road_sign_214-2_Raccoon-dog.svg
-214.svg,214,横風注意,,警戒標識,commons,Japan_road_sign_214.svg
-215.svg,215,その他の危険,,警戒標識,commons,Japan_road_sign_215.svg
-301.svg,301,通行止め,,規制標識,commons,Japan_road_sign_301.svg
-302.svg,302,車両通行止め,,規制標識,commons,Japan_road_sign_302.svg
-303.svg,303,車両進入禁止,,規制標識,commons,Japan_road_sign_303.svg
-304.svg,304,二輪の自動車以外の自動車通行止め,,規制標識,commons,Japan_road_sign_304.svg
-305.svg,305,大型貨物自動車等通行止め,,規制標識,commons,Japan_road_sign_305.svg
-306.svg,306,大型乗用自動車等通行止め,,規制標識,commons,Japan_road_sign_306.svg
-307.svg,307,二輪の自動車・一般原動機付自転車通行止め,,規制標識,commons,Japan_road_sign_307.svg
-308.svg,308,自転車以外の軽車両通行止め,,規制標識,commons,Japan_road_sign_308.svg
-309.svg,309,特定小型原動機付自転車・自転車通行止め,,規制標識,commons,Japan_road_sign_309.svg
-310-2.svg,310-2,大型自動二輪車及び普通自動二輪車二人乗り通行禁止,,規制標識,commons,Japan_road_sign_310-2.svg
-310-3.svg,310-3,タイヤチェーンを取り付けていない車両通行止め,,規制標識,commons,Japan_road_sign_310-3.svg
-310-大型貨物・バス.svg,310,車両（組合せ）通行止め,大型貨物・バス,規制標識,commons,Japan_road_sign_310_Tracks_and_Buses.svg
-310-自動車・自転車.svg,310,車両（組合せ）通行止め,自動車・自転車,規制標識,commons,Japan_road_sign_310.svg
-310-軽車両・自転車.svg,310,車両（組合せ）通行止め,軽車両・自転車,規制標識,commons,Japan_road_sign_310_Motorless_Vehicles_and_Bicycles.svg
-311-A-右.svg,311-A,指定方向外進行禁止,右,規制標識,commons,Japan_road_sign_311-A-R.svg
-311-A-左.svg,311-A,指定方向外進行禁止,左,規制標識,commons,Japan_road_sign_311-A-L.svg
-311-B-右.svg,311-B,指定方向外進行禁止,右,規制標識,commons,Japan_road_sign_311-B-R.svg
-311-B-左.svg,311-B,指定方向外進行禁止,左,規制標識,commons,Japan_road_sign_311-B-L.svg
-311-C.svg,311-C,指定方向外進行禁止,,規制標識,commons,Japan_road_sign_311-C.svg
-311-D.svg,311-D,指定方向外進行禁止,,規制標識,commons,Japan_road_sign_311-D.svg
-311-E.svg,311-E,指定方向外進行禁止,,規制標識,commons,Japan_road_sign_311-E.svg
-311-F-左.svg,311-F,指定方向外進行禁止,左,規制標識,commons,Japan_road_sign_311-F-L.svg
-312.svg,312,車両横断禁止,,規制標識,commons,Japan_road_sign_312.svg
-313.svg,313,転回禁止,,規制標識,commons,Japan_road_sign_313.svg
-314.svg,314,追越しのための右側部分はみ出し通行禁止,,規制標識,commons,Japan_road_sign_314.svg
-315.svg,315,駐停車禁止,,規制標識,commons,Japan_road_sign_315.svg
-316.svg,316,駐車禁止,,規制標識,commons,Japan_road_sign_316.svg
-318.svg,318,時間制限駐車区間,,規制標識,commons,Japan_road_sign_318.svg
-319.svg,319,危険物積載車両通行止め,,規制標識,commons,Japan_road_sign_319.svg
-320.svg,320,重量制限,,規制標識,commons,Japan_road_sign_320.svg
-321.svg,321,高さ制限,,規制標識,commons,Japan_road_sign_321.svg
-322.svg,322,最大幅,,規制標識,commons,Japan_road_sign_322.svg
-323-10.svg,323,最高速度,10,規制標識,commons,Japan_road_sign_323_(10).svg
-323-100.svg,323,最高速度,100,規制標識,commons,Japan_road_sign_323_(100).svg
-323-20.svg,323,最高速度,20,規制標識,commons,Japan_road_sign_323_(20).svg
-323-30.svg,323,最高速度,30,規制標識,commons,Japan_road_sign_323_(30).svg
-323-40.svg,323,最高速度,40,規制標識,commons,Japan_road_sign_323_(40).svg
-323-50.svg,323,最高速度,50,規制標識,commons,Japan_road_sign_323_(50).svg
-323-60.svg,323,最高速度,60,規制標識,commons,Japan_road_sign_323_(60).svg
-323-70.svg,323,最高速度,70,規制標識,commons,Japan_road_sign_323_(70).svg
-323-80.svg,323,最高速度,80,規制標識,commons,Japan_road_sign_323_(80).svg
-323-90.svg,323,最高速度,90,規制標識,commons,Japan_road_sign_323_(90).svg
-324-30.svg,324,最低速度,30,規制標識,commons,Japan_road_sign_324_(30).svg
-325-2.svg,325-2,特定小型原動機付自転車・自転車専用,,規制標識,commons,Japan_road_sign_325-2.svg
-325-3.svg,325-3,普通自転車等及び歩行者等専用,,規制標識,commons,Japan_road_sign_325-3.svg
-325-4.svg,325-4,歩行者等専用,,規制標識,commons,Japan_road_sign_325-4.svg
-325-5-A.svg,325-5-A,許可車両専用,,規制標識,self-drawn,325-5-A_許可車両専用_バス.svg
-325-5-B.svg,325-5-B,許可車両専用,,規制標識,self-drawn,325-5-B_許可車両専用_タクシー.svg
-325-5-C.svg,325-5-C,許可車両専用,,規制標識,self-drawn,325-5-C_許可車両専用_貨物.svg
-325-6.svg,325-6,許可車両（組合せ）専用,,規制標識,self-drawn,325-6_許可車両（組合せ）専用.svg
-325-7.svg,325-7,広域災害応急対策車両専用,,規制標識,self-drawn,325-7_広域災害応急対策車両専用.svg
-325.svg,325,自動車専用,,規制標識,commons,Japan_road_sign_325.svg
-326-2-A-左.svg,326-2-A,特定小型原動機付自転車・自転車一方通行,左,規制標識,commons,Japan_road_sign_326-2-A-L.svg
-326-2-B.svg,326-2-B,特定小型原動機付自転車・自転車一方通行,,規制標識,commons,Japan_road_sign_326-2-B.svg
-326-A-右.svg,326-A,一方通行,右,規制標識,commons,Japan_road_sign_326-A-R.svg
-326-A-左.svg,326-A,一方通行,左,規制標識,commons,Japan_road_sign_326-A-L.svg
-326-B.svg,326-B,一方通行,,規制標識,commons,Japan_road_sign_326-B.svg
-327-10.svg,327-10,環状の交差点における右回り通行,,規制標識,commons,Japan_road_sign_327-10.svg
-327-11.svg,327-11,平行駐車,,規制標識,commons,Japanese_Road_sign_327-10.svg
-327-12.svg,327-12,直角駐車,,規制標識,commons,Japanese_Road_sign_327-11.svg
-327-13.svg,327-13,斜め駐車,,規制標識,commons,Japanese_Road_sign_327-12.svg
-327-2.svg,327-2,特定の種類の車両の通行区分,,規制標識,commons,Japanese_road_sign_327-2.svg
-327-3.svg,327-3,牽引自動車の高速自動車国道通行区分,,規制標識,commons,Japanese_road_sign_327-3.svg
-327-4-2.svg,327-4-2,普通自転車専用通行帯,,規制標識,commons,Japanese_road_sign_327-4-2.svg
-327-4.svg,327-4,専用通行帯,,規制標識,commons,Japanese_road_sign_327-4.svg
-327-5.svg,327-5,路線バス等優先通行帯,,規制標識,commons,Japanese_road_sign_327-5.svg
-327-6.svg,327-6,牽引自動車の自動車専用道路第一通行帯通行指定区間,,規制標識,commons,Japanese_road_sign_327-6.svg
-327-7-A.svg,327-7-A,進行方向別通行区分,,規制標識,commons,Japanese_road_sign_327-7-A.svg
-327-7-B.svg,327-7-B,進行方向別通行区分,,規制標識,commons,Japanese_road_sign_327-7-B.svg
-327-7-C.svg,327-7-C,進行方向別通行区分,,規制標識,commons,Japanese_road_sign_327-7-C.svg
-327-7-D.svg,327-7-D,進行方向別通行区分,,規制標識,commons,Japanese_road_sign_327-7-D.svg
-327-8.svg,327-8,一般原動機付自転車の右折方法（二段階）,,規制標識,commons,Japan_road_sign_327-8.svg
-327-9.svg,327-9,一般原動機付自転車の右折方法（小回り）,,規制標識,commons,Japan_road_sign_327-9.svg
-327.svg,327,車両通行区分,,規制標識,commons,Japanese_road_sign_(Vehicle_Passing_Division).svg
-328.svg,328,警笛鳴らせ,,規制標識,commons,Japan_road_sign_328.svg
-329-A.svg,329-A,徐行,,規制標識,commons,Japan_road_sign_329-A.svg
-329-B.svg,329-B,徐行,,規制標識,commons,Japan_road_sign_329-B.svg
-330-A.svg,330-A,一時停止,,規制標識,commons,Japan_road_sign_330-A.svg
-330-B.svg,330-B,一時停止,,規制標識,commons,Japan_road_sign_330-B.svg
-331.svg,331,歩行者等通行止め,,規制標識,commons,Japan_road_sign_331.svg
-332-わたるな.svg,332,歩行者等横断禁止,わたるな,規制標識,commons,Japan_road_sign_332_wataruna.svg
-332-横断禁止.svg,332,歩行者等横断禁止,横断禁止,規制標識,commons,Japan_road_sign_332.svg
-401.svg,401,並進可,,指示標識,commons,Japan_road_sign_401.svg
-402.svg,402,軌道敷内通行可,,指示標識,commons,Japan_road_sign_402.svg
-403.svg,403,駐車可,,指示標識,commons,"Japanese_Road_sign_(Parking_lot_A,_Parking_permitted).svg"
-404.svg,404,停車可,,指示標識,commons,Japan_road_sign_404.svg
-405.svg,405,優先道路,,指示標識,commons,Japan_road_sign_405.svg
-406-2.svg,406-2,停止線,,指示標識,commons,Japanese_road_sign_406-2.svg
-406.svg,406,中央線,,指示標識,commons,Japan_road_sign_406.svg
-407-2.svg,407-2,自転車横断帯,,指示標識,commons,Japan_road_sign_407-2.svg
-407-3.svg,407-3,横断歩道・自転車横断帯,,指示標識,commons,Japan_road_sign_407-3.svg
-407-A.svg,407-A,横断歩道,,指示標識,commons,Japan_road_sign_407-A.svg
-407-B.svg,407-B,横断歩道,,指示標識,commons,Japan_road_sign_407-B.svg
-408.svg,408,安全地帯,,指示標識,commons,Japan_road_sign_408.svg
-409-A.svg,409-A,規制予告,,指示標識,commons,Japanese_road_sign_409-A.svg
-409-B.svg,409-B,規制予告,,指示標識,commons,Japanese_road_sign_409-B.svg
-M101.svg,101,転回禁止,,規制標示,self-drawn,R101_転回禁止.svg
-M102-2-A_黄実線.svg,102-2,進路変更禁止,A_黄実線,規制標示,self-drawn,R102-2-A_進路変更禁止_黄実線.svg
-M102-2-B_黄実線と白破線.svg,102-2,進路変更禁止,B_黄実線と白破線,規制標示,self-drawn,R102-2-B_進路変更禁止_黄実線と白破線.svg
-M102-A_黄実線.svg,102,追越しのための右側部分はみ出し通行禁止,A_黄実線,規制標示,self-drawn,R102-A_追越しのための右側部分はみ出し通行禁止_黄実線.svg
-M102-B_黄二重線.svg,102,追越しのための右側部分はみ出し通行禁止,B_黄二重線,規制標示,self-drawn,R102-B_追越しのための右側部分はみ出し通行禁止_黄二重線.svg
-M102-C_黄実線と白破線.svg,102,追越しのための右側部分はみ出し通行禁止,C_黄実線と白破線,規制標示,self-drawn,R102-C_追越しのための右側部分はみ出し通行禁止_黄実線と白破線.svg
-M103.svg,103,駐停車禁止,,規制標示,self-drawn,R103_駐停車禁止.svg
-M104.svg,104,駐車禁止,,規制標示,self-drawn,R104_駐車禁止.svg
-M105.svg,105,最高速度,,規制標示,self-drawn,R105_最高速度.svg
-M106.svg,106,立入り禁止部分,,規制標示,self-drawn,R106_立入り禁止部分.svg
-M107.svg,107,停止禁止部分,,規制標示,self-drawn,R107_停止禁止部分.svg
-M108-2.svg,108-2,駐停車禁止路側帯,,規制標示,self-drawn,R108-2_駐停車禁止路側帯.svg
-M108-3.svg,108-3,歩行者用路側帯,,規制標示,self-drawn,R108-3_歩行者用路側帯.svg
-M108.svg,108,路側帯,,規制標示,self-drawn,R108_路側帯.svg
-M109-2.svg,109-2,優先本線車道,,規制標示,self-drawn,R109-2_優先本線車道.svg
-M109-3.svg,109-3,車両通行区分,,規制標示,self-drawn,R109-3_車両通行区分.svg
-M109-4.svg,109-4,特定の種類の車両の通行区分,,規制標示,self-drawn,R109-4_特定の種類の車両の通行区分.svg
-M109-5.svg,109-5,牽引自動車の高速自動車国道通行区分,,規制標示,self-drawn,R109-5_牽引自動車の高速自動車国道通行区分.svg
-M109-6.svg,109-6,専用通行帯,,規制標示,self-drawn,R109-6_専用通行帯.svg
-M109-7.svg,109-7,路線バス等優先通行帯,,規制標示,self-drawn,R109-7_路線バス等優先通行帯.svg
-M109-8.svg,109-8,牽引自動車の自動車専用道路第一通行帯通行指定区間,,規制標示,self-drawn,R109-8_牽引自動車の自動車専用道路第一通行帯通行指定区間.svg
-M109-A_実線.svg,109,車両通行帯,A_実線,規制標示,self-drawn,R109-A_車両通行帯_実線.svg
-M109-B_破線.svg,109,車両通行帯,B_破線,規制標示,self-drawn,R109-B_車両通行帯_破線.svg
-M110.svg,110,進行方向別通行区分,,規制標示,self-drawn,R110_進行方向別通行区分.svg
-M111-2.svg,111-2,環状交差点における左折等の方法,,規制標示,self-drawn,R111-2_環状交差点における左折等の方法.svg
-M111-A_ひし形.svg,111,右左折の方法,A_ひし形,規制標示,self-drawn,R111-A_右左折の方法_ひし形.svg
-M111-B_円形.svg,111,右左折の方法,B_円形,規制標示,self-drawn,R111-B_右左折の方法_円形.svg
-M112.svg,112,平行駐車,,規制標示,self-drawn,R112_平行駐車.svg
-M113.svg,113,直角駐車,,規制標示,self-drawn,R113_直角駐車.svg
-M114-2.svg,114-2,特例特定小型原動機付自転車・普通自転車歩道通行可,,規制標示,self-drawn,R114-2_特例特定小型原動機付自転車・普通自転車歩道通行可.svg
-M114-3.svg,114-3,特例特定小型原動機付自転車・普通自転車の歩道通行部分,,規制標示,self-drawn,R114-3_特例特定小型原動機付自転車・普通自転車の歩道通行部分.svg
-M114-4.svg,114-4,普通自転車の交差点進入禁止,,規制標示,self-drawn,R114-4_普通自転車の交差点進入禁止.svg
-M114.svg,114,斜め駐車,,規制標示,self-drawn,R114_斜め駐車.svg
-M115-A_最高速度.svg,115,終わり,A_最高速度,規制標示,self-drawn,R115-A_終わり_最高速度.svg
-M115-B_転回禁止.svg,115,終わり,B_転回禁止,規制標示,self-drawn,R115-B_終わり_転回禁止.svg
-M201-2-A.svg,201-2,斜め横断可,A,指示標示,self-drawn,S201-2-A_斜め横断可.svg
-M201-2-B.svg,201-2,斜め横断可,B,指示標示,self-drawn,S201-2-B_斜め横断可.svg
-M201-3.svg,201-3,自転車横断帯,,指示標示,self-drawn,S201-3_自転車横断帯.svg
-M201.svg,201,横断歩道,,指示標示,self-drawn,S201_横断歩道.svg
-M202.svg,202,右側通行,,指示標示,self-drawn,S202_右側通行.svg
-M203-2.svg,203-2,二段停止線,,指示標示,self-drawn,S203-2_二段停止線.svg
-M203.svg,203,停止線,,指示標示,self-drawn,S203_停止線.svg
-M204.svg,204,進行方向,,指示標示,self-drawn,S204_進行方向.svg
-M205-A_実線.svg,205,中央線,A_実線,指示標示,self-drawn,S205-A_中央線_実線.svg
-M205-B_破線.svg,205,中央線,B_破線,指示標示,self-drawn,S205-B_中央線_破線.svg
-M205-C_二重実線.svg,205,中央線,C_二重実線,指示標示,self-drawn,S205-C_中央線_二重実線.svg
-M206-A_実線.svg,206,車線境界線,A_実線,指示標示,self-drawn,S206-A_車線境界線_実線.svg
-M206-B_破線.svg,206,車線境界線,B_破線,指示標示,self-drawn,S206-B_車線境界線_破線.svg
-M207.svg,207,安全地帯,,指示標示,self-drawn,S207_安全地帯.svg
-M208-2.svg,208-2,導流帯,,指示標示,self-drawn,S208-2_導流帯.svg
-M208-A_片側.svg,208,安全地帯又は路上障害物に接近,A_片側,指示標示,self-drawn,S208-A_安全地帯又は路上障害物に接近_片側.svg
-M208-B_両側.svg,208,安全地帯又は路上障害物に接近,B_両側,指示標示,self-drawn,S208-B_安全地帯又は路上障害物に接近_両側.svg
-M209.svg,209,路面電車停留場,,指示標示,self-drawn,S209_路面電車停留場.svg
-M210.svg,210,横断歩道又は自転車横断帯あり,,指示標示,self-drawn,S210_横断歩道又は自転車横断帯あり.svg
-M211.svg,211,前方優先道路,,指示標示,self-drawn,S211_前方優先道路.svg
-O.svg,,総重量・高さ限度緩和指定道路_A,,その他,commons,Japanese_Road_sign_118-4_and_5-A.svg
-O503-D-白地（参考）.svg,503-D,車両の種類,白地（参考）,その他,self-drawn,503-D_標章車専用_white-variant.svg
-O_2.svg,,総重量・高さ限度緩和指定道路_B,,その他,commons,Japanese_Road_sign_118-4_and_5-B.svg
+file,sign_no,name_ja,variant,category,source,source_file,license,source_url
+201-2.svg,201-2,ロータリーあり,,警戒標識,commons,Japan_road_sign_201-2.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_201-2.svg
+201-A.svg,201-A,┼形道路交差点あり,,警戒標識,commons,Japan_road_sign_201-A.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_201-A.svg
+201-B-右.svg,201-B,├形（又は┤形）道路交差点あり,右,警戒標識,commons,Japan_road_sign_201-B-R.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_201-B-R.svg
+201-B-左.svg,201-B,├形（又は┤形）道路交差点あり,左,警戒標識,commons,Japan_road_sign_201-B-L.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_201-B-L.svg
+201-C.svg,201-C,Ｔ形道路交差点あり,,警戒標識,commons,Japan_road_sign_201-C.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_201-C.svg
+201-D.svg,201-D,Ｙ形道路交差点あり,,警戒標識,commons,Japan_road_sign_201-D.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_201-D.svg
+202-右.svg,202,右（又は左）方屈曲あり,右,警戒標識,commons,Japan_road_sign_202-R.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_202-R.svg
+202-左.svg,202,右（又は左）方屈曲あり,左,警戒標識,commons,Japan_road_sign_202-L.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_202-L.svg
+203-右.svg,203,右（又は左）方屈折あり,右,警戒標識,commons,Japan_road_sign_203-R.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_203-R.svg
+203-左.svg,203,右（又は左）方屈折あり,左,警戒標識,commons,Japan_road_sign_203-L.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_203-L.svg
+204-右.svg,204,右（又は左）背向屈曲あり,右,警戒標識,commons,Japan_road_sign_204-R.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_204-R.svg
+204-左.svg,204,右（又は左）背向屈曲あり,左,警戒標識,commons,Japan_road_sign_204-L.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_204-L.svg
+205-右.svg,205,右（又は左）背向屈折あり,右,警戒標識,commons,Japan_road_sign_205-R.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_205-R.svg
+205-左.svg,205,右（又は左）背向屈折あり,左,警戒標識,commons,Japan_road_sign_205-L.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_205-L.svg
+206-右.svg,206,右（又は左）つづら折りあり,右,警戒標識,commons,Japan_road_sign_206-R.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_206-R.svg
+206-左.svg,206,右（又は左）つづら折りあり,左,警戒標識,commons,Japan_road_sign_206-L.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_206-L.svg
+207-A.svg,207-A,踏切あり,,警戒標識,commons,Japan_road_sign_207-A.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_207-A.svg
+207-B.svg,207-B,踏切あり,,警戒標識,commons,Japan_road_sign_207-B.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_207-B.svg
+208-2.svg,208-2,信号機あり,,警戒標識,commons,Japan_road_sign_208-2.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_208-2.svg
+208.svg,208,学校、幼稚園、保育所等あり,,警戒標識,commons,Japan_road_sign_208.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_208.svg
+209-2.svg,209-2,落石のおそれあり,,警戒標識,commons,Japan_road_sign_209-2.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_209-2.svg
+209-3.svg,209-3,路面凹凸あり,,警戒標識,commons,Japan_road_sign_209-3.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_209-3.svg
+209.svg,209,すべりやすい,,警戒標識,commons,Japan_road_sign_209.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_209.svg
+210.svg,210,合流交通あり,,警戒標識,commons,Japan_road_sign_210.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_210.svg
+211.svg,211,車線数減少,,警戒標識,commons,Japan_road_sign_211.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_211.svg
+212-2.svg,212-2,二方向交通,,警戒標識,commons,Japan_road_sign_212-2.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_212-2.svg
+212-3.svg,212-3,上り急勾配あり,,警戒標識,commons,Japan_road_sign_212-3.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_212-3.svg
+212-4.svg,212-4,下り急勾配あり,,警戒標識,commons,Japan_road_sign_212-4.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_212-4.svg
+212.svg,212,幅員減少,,警戒標識,commons,Japan_road_sign_212.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_212.svg
+213.svg,213,道路工事中,,警戒標識,commons,Japan_road_sign_213.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_213.svg
+214-2-うさぎ.svg,214-2,動物が飛び出すおそれあり,うさぎ,警戒標識,commons,Japan_road_sign_214-2_Hare.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_214-2_Hare.svg
+214-2-さる.svg,214-2,動物が飛び出すおそれあり,さる,警戒標識,commons,Japan_road_sign_214-2_Monkey.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_214-2_Monkey.svg
+214-2-しか.svg,214-2,動物が飛び出すおそれあり,しか,警戒標識,commons,Japan_road_sign_214-2.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_214-2.svg
+214-2-たぬき.svg,214-2,動物が飛び出すおそれあり,たぬき,警戒標識,commons,Japan_road_sign_214-2_Raccoon-dog.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_214-2_Raccoon-dog.svg
+214.svg,214,横風注意,,警戒標識,commons,Japan_road_sign_214.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_214.svg
+215.svg,215,その他の危険,,警戒標識,commons,Japan_road_sign_215.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_215.svg
+301.svg,301,通行止め,,規制標識,commons,Japan_road_sign_301.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_301.svg
+302.svg,302,車両通行止め,,規制標識,commons,Japan_road_sign_302.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_302.svg
+303.svg,303,車両進入禁止,,規制標識,commons,Japan_road_sign_303.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_303.svg
+304.svg,304,二輪の自動車以外の自動車通行止め,,規制標識,commons,Japan_road_sign_304.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_304.svg
+305.svg,305,大型貨物自動車等通行止め,,規制標識,commons,Japan_road_sign_305.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_305.svg
+306.svg,306,大型乗用自動車等通行止め,,規制標識,commons,Japan_road_sign_306.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_306.svg
+307.svg,307,二輪の自動車・一般原動機付自転車通行止め,,規制標識,commons,Japan_road_sign_307.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_307.svg
+308.svg,308,自転車以外の軽車両通行止め,,規制標識,commons,Japan_road_sign_308.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_308.svg
+309.svg,309,特定小型原動機付自転車・自転車通行止め,,規制標識,commons,Japan_road_sign_309.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_309.svg
+310-2.svg,310-2,大型自動二輪車及び普通自動二輪車二人乗り通行禁止,,規制標識,commons,Japan_road_sign_310-2.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_310-2.svg
+310-3.svg,310-3,タイヤチェーンを取り付けていない車両通行止め,,規制標識,commons,Japan_road_sign_310-3.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_310-3.svg
+310-大型貨物・バス.svg,310,車両（組合せ）通行止め,大型貨物・バス,規制標識,commons,Japan_road_sign_310_Tracks_and_Buses.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_310_Tracks_and_Buses.svg
+310-自動車・自転車.svg,310,車両（組合せ）通行止め,自動車・自転車,規制標識,commons,Japan_road_sign_310.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_310.svg
+310-軽車両・自転車.svg,310,車両（組合せ）通行止め,軽車両・自転車,規制標識,commons,Japan_road_sign_310_Motorless_Vehicles_and_Bicycles.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_310_Motorless_Vehicles_and_Bicycles.svg
+311-A-右.svg,311-A,指定方向外進行禁止,右,規制標識,commons,Japan_road_sign_311-A-R.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_311-A-R.svg
+311-A-左.svg,311-A,指定方向外進行禁止,左,規制標識,commons,Japan_road_sign_311-A-L.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_311-A-L.svg
+311-B-右.svg,311-B,指定方向外進行禁止,右,規制標識,commons,Japan_road_sign_311-B-R.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_311-B-R.svg
+311-B-左.svg,311-B,指定方向外進行禁止,左,規制標識,commons,Japan_road_sign_311-B-L.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_311-B-L.svg
+311-C.svg,311-C,指定方向外進行禁止,,規制標識,commons,Japan_road_sign_311-C.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_311-C.svg
+311-D.svg,311-D,指定方向外進行禁止,,規制標識,commons,Japan_road_sign_311-D.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_311-D.svg
+311-E.svg,311-E,指定方向外進行禁止,,規制標識,commons,Japan_road_sign_311-E.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_311-E.svg
+311-F-左.svg,311-F,指定方向外進行禁止,左,規制標識,commons,Japan_road_sign_311-F-L.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_311-F-L.svg
+312.svg,312,車両横断禁止,,規制標識,commons,Japan_road_sign_312.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_312.svg
+313.svg,313,転回禁止,,規制標識,commons,Japan_road_sign_313.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_313.svg
+314.svg,314,追越しのための右側部分はみ出し通行禁止,,規制標識,commons,Japan_road_sign_314.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_314.svg
+315.svg,315,駐停車禁止,,規制標識,commons,Japan_road_sign_315.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_315.svg
+316.svg,316,駐車禁止,,規制標識,commons,Japan_road_sign_316.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_316.svg
+318.svg,318,時間制限駐車区間,,規制標識,commons,Japan_road_sign_318.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_318.svg
+319.svg,319,危険物積載車両通行止め,,規制標識,commons,Japan_road_sign_319.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_319.svg
+320.svg,320,重量制限,,規制標識,commons,Japan_road_sign_320.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_320.svg
+321.svg,321,高さ制限,,規制標識,commons,Japan_road_sign_321.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_321.svg
+322.svg,322,最大幅,,規制標識,commons,Japan_road_sign_322.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_322.svg
+323-10.svg,323,最高速度,10,規制標識,commons,Japan_road_sign_323_(10).svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_323_%2810%29.svg
+323-100.svg,323,最高速度,100,規制標識,commons,Japan_road_sign_323_(100).svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_323_%28100%29.svg
+323-20.svg,323,最高速度,20,規制標識,commons,Japan_road_sign_323_(20).svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_323_%2820%29.svg
+323-30.svg,323,最高速度,30,規制標識,commons,Japan_road_sign_323_(30).svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_323_%2830%29.svg
+323-40.svg,323,最高速度,40,規制標識,commons,Japan_road_sign_323_(40).svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_323_%2840%29.svg
+323-50.svg,323,最高速度,50,規制標識,commons,Japan_road_sign_323_(50).svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_323_%2850%29.svg
+323-60.svg,323,最高速度,60,規制標識,commons,Japan_road_sign_323_(60).svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_323_%2860%29.svg
+323-70.svg,323,最高速度,70,規制標識,commons,Japan_road_sign_323_(70).svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_323_%2870%29.svg
+323-80.svg,323,最高速度,80,規制標識,commons,Japan_road_sign_323_(80).svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_323_%2880%29.svg
+323-90.svg,323,最高速度,90,規制標識,commons,Japan_road_sign_323_(90).svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_323_%2890%29.svg
+324-30.svg,324,最低速度,30,規制標識,commons,Japan_road_sign_324_(30).svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_324_%2830%29.svg
+325-2.svg,325-2,特定小型原動機付自転車・自転車専用,,規制標識,commons,Japan_road_sign_325-2.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_325-2.svg
+325-3.svg,325-3,普通自転車等及び歩行者等専用,,規制標識,commons,Japan_road_sign_325-3.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_325-3.svg
+325-4.svg,325-4,歩行者等専用,,規制標識,commons,Japan_road_sign_325-4.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_325-4.svg
+325-5-A.svg,325-5-A,許可車両専用,,規制標識,self-drawn,325-5-A_許可車両専用_バス.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
+325-5-B.svg,325-5-B,許可車両専用,,規制標識,self-drawn,325-5-B_許可車両専用_タクシー.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
+325-5-C.svg,325-5-C,許可車両専用,,規制標識,self-drawn,325-5-C_許可車両専用_貨物.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
+325-6.svg,325-6,許可車両（組合せ）専用,,規制標識,self-drawn,325-6_許可車両（組合せ）専用.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
+325-7.svg,325-7,広域災害応急対策車両専用,,規制標識,self-drawn,325-7_広域災害応急対策車両専用.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
+325.svg,325,自動車専用,,規制標識,commons,Japan_road_sign_325.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_325.svg
+326-2-A-左.svg,326-2-A,特定小型原動機付自転車・自転車一方通行,左,規制標識,commons,Japan_road_sign_326-2-A-L.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_326-2-A-L.svg
+326-2-B.svg,326-2-B,特定小型原動機付自転車・自転車一方通行,,規制標識,commons,Japan_road_sign_326-2-B.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_326-2-B.svg
+326-A-右.svg,326-A,一方通行,右,規制標識,commons,Japan_road_sign_326-A-R.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_326-A-R.svg
+326-A-左.svg,326-A,一方通行,左,規制標識,commons,Japan_road_sign_326-A-L.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_326-A-L.svg
+326-B.svg,326-B,一方通行,,規制標識,commons,Japan_road_sign_326-B.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_326-B.svg
+327-10.svg,327-10,環状の交差点における右回り通行,,規制標識,commons,Japan_road_sign_327-10.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_327-10.svg
+327-11.svg,327-11,平行駐車,,規制標識,commons,Japanese_Road_sign_327-10.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japanese_Road_sign_327-10.svg
+327-12.svg,327-12,直角駐車,,規制標識,commons,Japanese_Road_sign_327-11.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japanese_Road_sign_327-11.svg
+327-13.svg,327-13,斜め駐車,,規制標識,commons,Japanese_Road_sign_327-12.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japanese_Road_sign_327-12.svg
+327-2.svg,327-2,特定の種類の車両の通行区分,,規制標識,commons,Japanese_road_sign_327-2.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japanese_road_sign_327-2.svg
+327-3.svg,327-3,牽引自動車の高速自動車国道通行区分,,規制標識,commons,Japanese_road_sign_327-3.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japanese_road_sign_327-3.svg
+327-4-2.svg,327-4-2,普通自転車専用通行帯,,規制標識,commons,Japanese_road_sign_327-4-2.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japanese_road_sign_327-4-2.svg
+327-4.svg,327-4,専用通行帯,,規制標識,commons,Japanese_road_sign_327-4.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japanese_road_sign_327-4.svg
+327-5.svg,327-5,路線バス等優先通行帯,,規制標識,commons,Japanese_road_sign_327-5.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japanese_road_sign_327-5.svg
+327-6.svg,327-6,牽引自動車の自動車専用道路第一通行帯通行指定区間,,規制標識,commons,Japanese_road_sign_327-6.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japanese_road_sign_327-6.svg
+327-7-A.svg,327-7-A,進行方向別通行区分,,規制標識,commons,Japanese_road_sign_327-7-A.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japanese_road_sign_327-7-A.svg
+327-7-B.svg,327-7-B,進行方向別通行区分,,規制標識,commons,Japanese_road_sign_327-7-B.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japanese_road_sign_327-7-B.svg
+327-7-C.svg,327-7-C,進行方向別通行区分,,規制標識,commons,Japanese_road_sign_327-7-C.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japanese_road_sign_327-7-C.svg
+327-7-D.svg,327-7-D,進行方向別通行区分,,規制標識,commons,Japanese_road_sign_327-7-D.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japanese_road_sign_327-7-D.svg
+327-8.svg,327-8,一般原動機付自転車の右折方法（二段階）,,規制標識,commons,Japan_road_sign_327-8.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_327-8.svg
+327-9.svg,327-9,一般原動機付自転車の右折方法（小回り）,,規制標識,commons,Japan_road_sign_327-9.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_327-9.svg
+327.svg,327,車両通行区分,,規制標識,commons,Japanese_road_sign_(Vehicle_Passing_Division).svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japanese_road_sign_%28Vehicle_Passing_Division%29.svg
+328.svg,328,警笛鳴らせ,,規制標識,commons,Japan_road_sign_328.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_328.svg
+329-A.svg,329-A,徐行,,規制標識,commons,Japan_road_sign_329-A.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_329-A.svg
+329-B.svg,329-B,徐行,,規制標識,commons,Japan_road_sign_329-B.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_329-B.svg
+330-A.svg,330-A,一時停止,,規制標識,commons,Japan_road_sign_330-A.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_330-A.svg
+330-B.svg,330-B,一時停止,,規制標識,commons,Japan_road_sign_330-B.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_330-B.svg
+331.svg,331,歩行者等通行止め,,規制標識,commons,Japan_road_sign_331.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_331.svg
+332-わたるな.svg,332,歩行者等横断禁止,わたるな,規制標識,commons,Japan_road_sign_332_wataruna.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_332_wataruna.svg
+332-横断禁止.svg,332,歩行者等横断禁止,横断禁止,規制標識,commons,Japan_road_sign_332.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_332.svg
+401.svg,401,並進可,,指示標識,commons,Japan_road_sign_401.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_401.svg
+402.svg,402,軌道敷内通行可,,指示標識,commons,Japan_road_sign_402.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_402.svg
+403.svg,403,駐車可,,指示標識,commons,"Japanese_Road_sign_(Parking_lot_A,_Parking_permitted).svg",PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japanese_Road_sign_%28Parking_lot_A%2C_Parking_permitted%29.svg
+404.svg,404,停車可,,指示標識,commons,Japan_road_sign_404.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_404.svg
+405.svg,405,優先道路,,指示標識,commons,Japan_road_sign_405.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_405.svg
+406-2.svg,406-2,停止線,,指示標識,commons,Japanese_road_sign_406-2.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japanese_road_sign_406-2.svg
+406.svg,406,中央線,,指示標識,commons,Japan_road_sign_406.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_406.svg
+407-2.svg,407-2,自転車横断帯,,指示標識,commons,Japan_road_sign_407-2.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_407-2.svg
+407-3.svg,407-3,横断歩道・自転車横断帯,,指示標識,commons,Japan_road_sign_407-3.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_407-3.svg
+407-A.svg,407-A,横断歩道,,指示標識,commons,Japan_road_sign_407-A.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_407-A.svg
+407-B.svg,407-B,横断歩道,,指示標識,commons,Japan_road_sign_407-B.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_407-B.svg
+408.svg,408,安全地帯,,指示標識,commons,Japan_road_sign_408.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_408.svg
+409-A.svg,409-A,規制予告,,指示標識,commons,Japanese_road_sign_409-A.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japanese_road_sign_409-A.svg
+409-B.svg,409-B,規制予告,,指示標識,commons,Japanese_road_sign_409-B.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japanese_road_sign_409-B.svg
+M101.svg,101,転回禁止,,規制標示,self-drawn,R101_転回禁止.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
+M102-2-A_黄実線.svg,102-2,進路変更禁止,A_黄実線,規制標示,self-drawn,R102-2-A_進路変更禁止_黄実線.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
+M102-2-B_黄実線と白破線.svg,102-2,進路変更禁止,B_黄実線と白破線,規制標示,self-drawn,R102-2-B_進路変更禁止_黄実線と白破線.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
+M102-A_黄実線.svg,102,追越しのための右側部分はみ出し通行禁止,A_黄実線,規制標示,self-drawn,R102-A_追越しのための右側部分はみ出し通行禁止_黄実線.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
+M102-B_黄二重線.svg,102,追越しのための右側部分はみ出し通行禁止,B_黄二重線,規制標示,self-drawn,R102-B_追越しのための右側部分はみ出し通行禁止_黄二重線.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
+M102-C_黄実線と白破線.svg,102,追越しのための右側部分はみ出し通行禁止,C_黄実線と白破線,規制標示,self-drawn,R102-C_追越しのための右側部分はみ出し通行禁止_黄実線と白破線.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
+M103.svg,103,駐停車禁止,,規制標示,self-drawn,R103_駐停車禁止.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
+M104.svg,104,駐車禁止,,規制標示,self-drawn,R104_駐車禁止.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
+M105.svg,105,最高速度,,規制標示,self-drawn,R105_最高速度.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
+M106.svg,106,立入り禁止部分,,規制標示,self-drawn,R106_立入り禁止部分.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
+M107.svg,107,停止禁止部分,,規制標示,self-drawn,R107_停止禁止部分.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
+M108-2.svg,108-2,駐停車禁止路側帯,,規制標示,self-drawn,R108-2_駐停車禁止路側帯.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
+M108-3.svg,108-3,歩行者用路側帯,,規制標示,self-drawn,R108-3_歩行者用路側帯.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
+M108.svg,108,路側帯,,規制標示,self-drawn,R108_路側帯.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
+M109-2.svg,109-2,優先本線車道,,規制標示,self-drawn,R109-2_優先本線車道.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
+M109-3.svg,109-3,車両通行区分,,規制標示,self-drawn,R109-3_車両通行区分.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
+M109-4.svg,109-4,特定の種類の車両の通行区分,,規制標示,self-drawn,R109-4_特定の種類の車両の通行区分.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
+M109-5.svg,109-5,牽引自動車の高速自動車国道通行区分,,規制標示,self-drawn,R109-5_牽引自動車の高速自動車国道通行区分.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
+M109-6.svg,109-6,専用通行帯,,規制標示,self-drawn,R109-6_専用通行帯.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
+M109-7.svg,109-7,路線バス等優先通行帯,,規制標示,self-drawn,R109-7_路線バス等優先通行帯.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
+M109-8.svg,109-8,牽引自動車の自動車専用道路第一通行帯通行指定区間,,規制標示,self-drawn,R109-8_牽引自動車の自動車専用道路第一通行帯通行指定区間.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
+M109-A_実線.svg,109,車両通行帯,A_実線,規制標示,self-drawn,R109-A_車両通行帯_実線.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
+M109-B_破線.svg,109,車両通行帯,B_破線,規制標示,self-drawn,R109-B_車両通行帯_破線.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
+M110.svg,110,進行方向別通行区分,,規制標示,self-drawn,R110_進行方向別通行区分.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
+M111-2.svg,111-2,環状交差点における左折等の方法,,規制標示,self-drawn,R111-2_環状交差点における左折等の方法.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
+M111-A_ひし形.svg,111,右左折の方法,A_ひし形,規制標示,self-drawn,R111-A_右左折の方法_ひし形.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
+M111-B_円形.svg,111,右左折の方法,B_円形,規制標示,self-drawn,R111-B_右左折の方法_円形.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
+M112.svg,112,平行駐車,,規制標示,self-drawn,R112_平行駐車.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
+M113.svg,113,直角駐車,,規制標示,self-drawn,R113_直角駐車.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
+M114-2.svg,114-2,特例特定小型原動機付自転車・普通自転車歩道通行可,,規制標示,self-drawn,R114-2_特例特定小型原動機付自転車・普通自転車歩道通行可.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
+M114-3.svg,114-3,特例特定小型原動機付自転車・普通自転車の歩道通行部分,,規制標示,self-drawn,R114-3_特例特定小型原動機付自転車・普通自転車の歩道通行部分.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
+M114-4.svg,114-4,普通自転車の交差点進入禁止,,規制標示,self-drawn,R114-4_普通自転車の交差点進入禁止.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
+M114.svg,114,斜め駐車,,規制標示,self-drawn,R114_斜め駐車.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
+M115-A_最高速度.svg,115,終わり,A_最高速度,規制標示,self-drawn,R115-A_終わり_最高速度.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
+M115-B_転回禁止.svg,115,終わり,B_転回禁止,規制標示,self-drawn,R115-B_終わり_転回禁止.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
+M201-2-A.svg,201-2,斜め横断可,A,指示標示,self-drawn,S201-2-A_斜め横断可.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
+M201-2-B.svg,201-2,斜め横断可,B,指示標示,self-drawn,S201-2-B_斜め横断可.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
+M201-3.svg,201-3,自転車横断帯,,指示標示,self-drawn,S201-3_自転車横断帯.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
+M201.svg,201,横断歩道,,指示標示,self-drawn,S201_横断歩道.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
+M202.svg,202,右側通行,,指示標示,self-drawn,S202_右側通行.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
+M203-2.svg,203-2,二段停止線,,指示標示,self-drawn,S203-2_二段停止線.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
+M203.svg,203,停止線,,指示標示,self-drawn,S203_停止線.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
+M204.svg,204,進行方向,,指示標示,self-drawn,S204_進行方向.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
+M205-A_実線.svg,205,中央線,A_実線,指示標示,self-drawn,S205-A_中央線_実線.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
+M205-B_破線.svg,205,中央線,B_破線,指示標示,self-drawn,S205-B_中央線_破線.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
+M205-C_二重実線.svg,205,中央線,C_二重実線,指示標示,self-drawn,S205-C_中央線_二重実線.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
+M206-A_実線.svg,206,車線境界線,A_実線,指示標示,self-drawn,S206-A_車線境界線_実線.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
+M206-B_破線.svg,206,車線境界線,B_破線,指示標示,self-drawn,S206-B_車線境界線_破線.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
+M207.svg,207,安全地帯,,指示標示,self-drawn,S207_安全地帯.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
+M208-2.svg,208-2,導流帯,,指示標示,self-drawn,S208-2_導流帯.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
+M208-A_片側.svg,208,安全地帯又は路上障害物に接近,A_片側,指示標示,self-drawn,S208-A_安全地帯又は路上障害物に接近_片側.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
+M208-B_両側.svg,208,安全地帯又は路上障害物に接近,B_両側,指示標示,self-drawn,S208-B_安全地帯又は路上障害物に接近_両側.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
+M209.svg,209,路面電車停留場,,指示標示,self-drawn,S209_路面電車停留場.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
+M210.svg,210,横断歩道又は自転車横断帯あり,,指示標示,self-drawn,S210_横断歩道又は自転車横断帯あり.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
+M211.svg,211,前方優先道路,,指示標示,self-drawn,S211_前方優先道路.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
+O.svg,,総重量・高さ限度緩和指定道路_A,,その他,commons,Japanese_Road_sign_118-4_and_5-A.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japanese_Road_sign_118-4_and_5-A.svg
+O503-D-白地（参考）.svg,503-D,車両の種類,白地（参考）,その他,self-drawn,503-D_標章車専用_white-variant.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
+O_2.svg,,総重量・高さ限度緩和指定道路_B,,その他,commons,Japanese_Road_sign_118-4_and_5-B.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japanese_Road_sign_118-4_and_5-B.svg

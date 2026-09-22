@@ -18,6 +18,8 @@ Invariants this script enforces (CLAUDE.md 3 and 4):
   * every core id is present in every language pack
   * output is byte-identical for unchanged input, so an unchanged pack is
     never re-downloaded
+  * the manifest and every pack carry the licence the content is published
+    under, so a downloaded pack states its own terms
 
 Usage:
     python3 tools/build_packs.py              # write dist/
@@ -51,6 +53,24 @@ ANSWER_BALANCE_SLACK = 4  # |true - false| in the free tier
 
 LAW_REVISION_DATE = "2026-09-01"  # 施行令 revision the bank reflects
 MIN_APP_VERSION = "1.0.0"
+
+# The terms the published bytes come under, written once and emitted into the
+# manifest *and* into every pack: a pack is fetched by anonymous GET and gets
+# copied around on its own, and a licence that lives only in a sibling file is
+# a licence nobody carries. `signs/index.csv` holds artwork provenance per file.
+LICENSE = {
+    "content": {
+        "id": "CC-BY-NC-SA-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "attribution": "menkyo-quiz © 2026 Naixiao Zhang — CC BY-NC-SA 4.0",
+        "source": "https://github.com/nxzh/menkyo-quiz",
+    },
+    "artwork": {
+        "id": "PD-Japan-exempt",
+        "note": "標識令 catalogue reproductions; per-file provenance in signs/index.csv",
+    },
+    "tools": {"id": "MIT"},
+}
 
 
 class BuildError(Exception):
@@ -243,16 +263,29 @@ def sha256(data: bytes) -> str:
     return hashlib.sha256(data).hexdigest()
 
 
+def text_sha256(payload: bytes) -> str:
+    """The pack's content hash with the licence statement taken out, so a
+    licence edit is never mistaken for a content edit (design-spec §5.4)."""
+    doc = json.loads(payload)
+    doc.pop("license", None)
+    return sha256(dumps(doc))
+
+
 # ---------------------------------------------------------------- build
 
 
 def release_notes(previous_manifest, content_version, counts, changed,
-                  law_revision_date, hidden_ids):
+                  law_revision_date, hidden_ids, text_changed, license_changed):
     """The "what changed" note the app shows, in all five languages.
 
     Written from what actually moved between the two manifests rather than by
     hand, so a note can never claim something the packs do not say. Older notes
     are carried over, newest first (design-spec §5.4).
+
+    `changed` is which packs' bytes moved — that is what a version bump and a
+    re-download follow. `text_changed` is which of them moved because their
+    *questions* did: editing the licence statement rewrites every pack, and a
+    note claiming corrected translations on that day would be a lie.
     """
     previous_notes = (previous_manifest or {}).get("notes", [])
     if not changed:
@@ -261,26 +294,29 @@ def release_notes(previous_manifest, content_version, counts, changed,
     old_counts = (previous_manifest or {}).get("counts", {})
     added = counts["total"] - old_counts.get("total", 0)
     withdrawn = len(hidden_ids) - len(((previous_manifest or {}).get("hidden_ids", [])))
-    langs = sorted({pid.rsplit("-", 1)[0] for pid in changed if not pid.startswith("core")
-                    and pid != "taxonomy"})
+    langs = sorted({pid.rsplit("-", 1)[0] for pid in text_changed
+                    if not pid.startswith("core") and pid != "taxonomy"})
     law_changed = (previous_manifest or {}).get("law_revision_date") != law_revision_date
 
     templates = {
         "ja": {"added": "問題を{n}問追加", "withdrawn": "問題を{n}問取り下げ",
                "translations": "訳文を修正（{langs}）", "law": "{date}時点の法令に対応",
-               "first": "最初のリリース"},
+               "license": "ライセンス表記を更新", "first": "最初のリリース"},
         "en": {"added": "{n} questions added", "withdrawn": "{n} questions withdrawn",
                "translations": "Translations corrected ({langs})",
-               "law": "Reflects the law as of {date}", "first": "First release"},
+               "law": "Reflects the law as of {date}",
+               "license": "Licence statement updated", "first": "First release"},
         "zh-Hans": {"added": "新增 {n} 道题", "withdrawn": "撤回 {n} 道题",
                     "translations": "修正译文（{langs}）", "law": "对应 {date} 的法令",
-                    "first": "首次发布"},
+                    "license": "更新许可证声明", "first": "首次发布"},
         "vi": {"added": "Thêm {n} câu hỏi", "withdrawn": "Rút {n} câu hỏi",
                "translations": "Sửa bản dịch ({langs})",
-               "law": "Theo luật tính đến {date}", "first": "Phát hành lần đầu"},
+               "law": "Theo luật tính đến {date}",
+               "license": "Cập nhật thông tin giấy phép", "first": "Phát hành lần đầu"},
         "pt-BR": {"added": "{n} questões adicionadas", "withdrawn": "{n} questões retiradas",
                   "translations": "Traduções corrigidas ({langs})",
-                  "law": "Reflete a lei em {date}", "first": "Primeira versão"},
+                  "law": "Reflete a lei em {date}",
+                  "license": "Declaração de licença atualizada", "first": "Primeira versão"},
     }
     names = {"ja": {"ja": "日本語", "en": "英語", "zh-Hans": "中国語", "vi": "ベトナム語",
                     "pt-BR": "ポルトガル語"},
@@ -308,6 +344,8 @@ def release_notes(previous_manifest, content_version, counts, changed,
             lines.append(words["translations"].format(langs=readable))
         if law_changed:
             lines.append(words["law"].format(date=law_revision_date))
+        if license_changed and previous_manifest is not None:
+            lines.append(words["license"])
         items[lang] = lines
 
     note = {"version": content_version, "date": date.today().isoformat(), "items": items}
@@ -347,13 +385,17 @@ def build(dest: Path) -> dict:
         ids = [q["id"] for q in questions if tiers[q["id"]] == tier]
         core = [core_entry(q, tiers[q["id"]], section_to_chapter)
                 for q in questions if tiers[q["id"]] == tier]
-        bodies[f"core-{tier}"] = ("core", tier, dumps({"questions": core}))
+        bodies[f"core-{tier}"] = ("core", tier,
+                                  dumps({"license": LICENSE, "questions": core}))
         for lang in LANG_ORDER:
             items = [lang_entry(q, lang) for q in questions if tiers[q["id"]] == tier]
             if len(items) != len(ids):
                 raise BuildError(f"{lang}-{tier}: {len(items)} texts for {len(ids)} questions")
-            bodies[f"{lang}-{tier}"] = ("lang", tier, dumps({"lang": lang, "questions": items}))
-    bodies["taxonomy"] = ("taxonomy", "free", dumps({"languages": tax}))
+            bodies[f"{lang}-{tier}"] = ("lang", tier,
+                                        dumps({"license": LICENSE, "lang": lang,
+                                               "questions": items}))
+    bodies["taxonomy"] = ("taxonomy", "free",
+                          dumps({"license": LICENSE, "languages": tax}))
 
     # ---- content_version advances only when some pack's bytes changed
     changed = {
@@ -361,6 +403,17 @@ def build(dest: Path) -> dict:
         if previous.get(pid, {}).get("payload_sha256") != sha256(payload)
     }
     content_version = prev_version + 1 if changed else prev_version or 1
+
+    # What moved *inside* a pack, licence aside. A manifest written before the
+    # licence statement existed carries no text hash, so nothing is claimed
+    # about it: unknown is not "changed".
+    text_hashes = {pid: text_sha256(payload) for pid, (_k, _t, payload) in bodies.items()}
+    text_changed = {
+        pid for pid, digest in text_hashes.items()
+        if "text_sha256" in previous.get(pid, {})
+        and previous[pid]["text_sha256"] != digest
+    }
+    license_changed = (prev or {}).get("license") != LICENSE
 
     packs = []
     files: dict[str, bytes] = {}
@@ -377,6 +430,7 @@ def build(dest: Path) -> dict:
             "version": version,
             "payload_sha256": sha256(payload),
             "sha256": sha256(payload),
+            "text_sha256": text_hashes[pid],
             "bytes": len(payload),
             "url": f"{REPO_RAW}/{name}",
         })
@@ -388,10 +442,13 @@ def build(dest: Path) -> dict:
                                   "total": len(questions)},
                           changed=changed,
                           law_revision_date=LAW_REVISION_DATE,
-                          hidden_ids=[])
+                          hidden_ids=[],
+                          text_changed=text_changed,
+                          license_changed=license_changed)
 
     manifest = {
         "notes": notes,
+        "license": LICENSE,
         "content_version": content_version,
         "min_app_version": MIN_APP_VERSION,
         "law_revision_date": LAW_REVISION_DATE,
@@ -423,8 +480,13 @@ def check(manifest, bodies, files, questions, tiers, section_to_chapter) -> None
     core_ids = {tier: {q["id"] for q in questions if tiers[q["id"]] == tier}
                 for tier in ("free", "full")}
 
+    if manifest.get("license") != LICENSE:
+        raise BuildError("the manifest does not carry the licence statement")
+
     for pid, (kind, tier, payload) in bodies.items():
         doc = json.loads(payload)
+        if doc.get("license") != LICENSE:
+            raise BuildError(f"{pid}: pack does not carry the licence statement")
         if kind == "lang":
             leaked = [q["id"] for q in doc["questions"] if set(q) - {"id", "question", "explanation"}]
             if leaked:

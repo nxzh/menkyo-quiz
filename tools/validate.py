@@ -8,7 +8,12 @@ Zero dependencies (stdlib only). Run from the repository root:
 
 Exit code 1 if any ERROR is reported. WARNs do not fail the build; they mark
 things a human has to look at (absolute wording, sentence-count drift).
+
+The sign index (signs/index.csv) is checked too: every artwork file has a row,
+every row a file, every row a licence and a source URL, and every question's
+declared image licence is the one its file's row carries.
 """
+import csv
 import json
 import pathlib
 import re
@@ -49,13 +54,49 @@ ABBREV = re.compile(r"\b(etc|Dr|Mr|Mrs|Ms|vs|No|v\.v|Sr|Sra)\.", re.IGNORECASE)
 SENT_END = re.compile(r"[。．！？]|[.!?](?=[\s\u00a0]|$)")
 
 
+SIGN_INDEX = ROOT / "signs" / "index.csv"
+SIGN_FIELDS = ("license", "source_url")
+
+
+def sign_index(errors):
+    """file name -> its index row. The only index: there is no index.json."""
+    if not SIGN_INDEX.exists():
+        errors.append("signs/index.csv: not found")
+        return {}
+    with SIGN_INDEX.open(encoding="utf-8") as f:
+        rows = list(csv.DictReader(f))
+    index = {}
+    for row in rows:
+        name = (row.get("file") or "").strip()
+        if not name:
+            errors.append("signs/index.csv: a row has no file name")
+            continue
+        if name in index:
+            errors.append(f"signs/index.csv: duplicate row for {name}")
+        index[name] = row
+    return index
+
+
+def check_signs(index, errors):
+    """Provenance is per file or it is not provenance (CLAUDE.md compliance)."""
+    for name, row in sorted(index.items()):
+        for field in SIGN_FIELDS:
+            if not (row.get(field) or "").strip():
+                errors.append(f"signs/index.csv: {name} has no {field}")
+        if not (ROOT / "signs" / name).exists():
+            errors.append(f"signs/index.csv: {name} has a row but no file")
+    on_disk = {p.name for p in (ROOT / "signs").glob("*.svg")}
+    for name in sorted(on_disk - set(index)):
+        errors.append(f"signs/{name}: artwork with no row in index.csv")
+
+
 def sentences(text):
     t = DECIMAL.sub("", text)
     t = ABBREV.sub(lambda m: m.group(0)[:-1], t)
     return len(SENT_END.findall(t.strip()))
 
 
-def check_batch(path, seen_ids, seen_qf, errors, warns):
+def check_batch(path, seen_ids, seen_qf, signs, errors, warns):
     def err(msg):
         errors.append(f"{path.name}: {msg}")
 
@@ -128,9 +169,15 @@ def check_batch(path, seen_ids, seen_qf, errors, warns):
         if q["question_type"] != "text" and "image" not in q:
             err(f"{tag}: {q['question_type']} question has no image")
         if "image" in q:
-            f = ROOT / "signs" / q["image"]["file"]
-            if not f.exists():
-                err(f"{tag}: image file signs/{q['image']['file']} not found")
+            name = q["image"]["file"]
+            if not (ROOT / "signs" / name).exists():
+                err(f"{tag}: image file signs/{name} not found")
+            row = signs.get(name)
+            if row is None:
+                err(f"{tag}: image file signs/{name} has no row in index.csv")
+            elif q["image"].get("license") != row.get("license"):
+                err(f"{tag}: image licence {q['image'].get('license')!r} differs "
+                    f"from signs/index.csv {row.get('license')!r} for {name}")
 
         # spec §1.4 AB: absolute wording is a trap, not decoration.
         if q["trap_type"] != "AB":
@@ -181,8 +228,10 @@ def main(argv):
 
     errors, warns, all_items = [], [], []
     seen_ids, seen_qf = {}, {}
+    signs = sign_index(errors)
+    check_signs(signs, errors)
     for p in paths:
-        all_items += check_batch(p, seen_ids, seen_qf, errors, warns)
+        all_items += check_batch(p, seen_ids, seen_qf, signs, errors, warns)
 
     for w in warns:
         print(f"WARN  {w}")
