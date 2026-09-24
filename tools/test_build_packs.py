@@ -266,9 +266,25 @@ class TestTaxonomy(BuildTestCase):
     def test_every_language_has_every_code(self):
         doc = self.payload("taxonomy")
         base = bp.taxonomy_codes(doc["languages"]["ja"])
-        self.assertEqual(len(base), 41)
         for lang in bp.LANG_ORDER:
             self.assertEqual(bp.taxonomy_codes(doc["languages"][lang]), base)
+
+    def test_the_shipped_taxonomy_is_exactly_what_the_bank_uses(self):
+        """No chapter or section the reader can open and find nothing in, and
+        none the bank cites that has no name. Derived, not a fixed count:
+        data/taxonomy.* may hold more than the bank happens to use."""
+        doc = self.payload("taxonomy")
+        tax = bp.load_taxonomy()
+        section_to_chapter, _ = bp.chapter_index(tax)
+        used_sections = {bp.section_of(q["kp"]) for q in self.questions}
+        used_chapters = {section_to_chapter[c] for c in used_sections}
+        shipped = doc["languages"]["ja"]["chapters"]
+        self.assertEqual({c["code"] for c in shipped}, used_chapters)
+        self.assertEqual(
+            {s["code"] for c in shipped for s in c["sections"]}, used_sections
+        )
+        for chapter in shipped:
+            self.assertTrue(chapter["sections"], f"chapter {chapter['code']} ships empty")
 
     def test_every_question_section_has_a_name(self):
         doc = self.payload("taxonomy")

@@ -1,0 +1,669 @@
+[
+ {
+  "id": "K5-5-501",
+  "category": "合図と警音器",
+  "kp": "5-5-1",
+  "group": "N",
+  "source": "教則 第5章第5節1(1)",
+  "question_type": "text",
+  "qf": "QF-5-5-A-N-02",
+  "question_ja": "車が交差点で右折や左折をするときの合図は、その交差点から30メートル手前の地点に達したときに始めなければならない。",
+  "answer": true,
+  "explanation_ja": "教則第5章第5節1(1)のとおりです。交差点以外の場所で右左折するときも、その地点から30メートル手前で合図を始めます。",
+  "i18n": {
+   "zh": {
+    "question": "车辆在交叉路口右拐弯或左拐弯时的打信号（转向灯或手势），必须在到达距该交叉路口30米近前的地点时开始。",
+    "explanation": "符合教则第5章第5节1(1)的规定。在交叉路口以外的场所右拐弯或左拐弯时，也要在距该地点30米近前开始打信号。"
+   },
+   "en": {
+    "question": "When a vehicle turns right or left at an intersection, it must start the signal (by indicator or hand) on reaching the point 30 metres before that intersection.",
+    "explanation": "This is Kyosoku Chapter 5 Section 5 item 1(1). When turning right or left somewhere other than an intersection, the signal likewise starts 30 metres before that point."
+   },
+   "vi": {
+    "question": "Khi xe rẽ phải hoặc rẽ trái tại nút giao thông, phải bắt đầu báo hiệu (bằng xi nhan hoặc tay) khi tới điểm cách nút giao đó 30 mét.",
+    "explanation": "Đúng theo Kyosoku Chương 5 Mục 5 điểm 1(1). Khi rẽ phải hoặc rẽ trái ở nơi không phải nút giao thông, cũng bắt đầu báo hiệu từ 30 mét trước điểm đó."
+   },
+   "pt": {
+    "question": "Quando o veículo faz conversão à direita ou à esquerda num cruzamento, deve começar a sinalizar (com seta ou mão) ao chegar ao ponto 30 metros antes desse cruzamento.",
+    "explanation": "É o Kyosoku, Capítulo 5, Seção 5, item 1(1). Ao fazer a conversão fora de um cruzamento, também se começa a sinalizar 30 metros antes daquele ponto."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-5-502",
+  "category": "合図と警音器",
+  "kp": "5-5-1",
+  "group": "N",
+  "source": "教則 第5章第5節1(1)",
+  "question_type": "text",
+  "qf": "QF-5-5-A-N-01",
+  "question_ja": "運転者が道路の途中で転回をしようとする場合、合図を出すのは、転回を始めようとする地点の手前30メートルまで近づいたときである。",
+  "answer": true,
+  "explanation_ja": "教則第5章第5節1(1)のとおりです。転回は表のうえで右折と同じ欄にあり、合図の時期も方法も右折と同じです。",
+  "i18n": {
+   "zh": {
+    "question": "驾驶员要在道路途中掉头时，打信号（转向灯或手势）的时机是接近到距离准备开始掉头的地点前30米处时。",
+    "explanation": "符合教则第5章第5节1(1)的规定。掉头在表中与右拐弯同属一栏，打信号的时期和方法都与右拐弯相同。"
+   },
+   "en": {
+    "question": "When a driver is going to make a U-turn part-way along a road, the moment to give the signal (by indicator or hand) is when the vehicle has come within 30 metres of the point where the turn is to begin.",
+    "explanation": "This is Kyosoku Chapter 5 Section 5 item 1(1). A U-turn sits in the same row of the table as a right turn, so both the timing and the method of the signal are the same as for a right turn."
+   },
+   "vi": {
+    "question": "Khi người lái xe định quay đầu ở giữa đường, thời điểm báo hiệu (bằng xi nhan hoặc tay) là lúc xe đã đến gần trong vòng 30 mét trước điểm định bắt đầu quay đầu.",
+    "explanation": "Đúng theo Kyosoku Chương 5 Mục 5 điểm 1(1). Quay đầu nằm cùng hàng với rẽ phải trong bảng, nên cả thời điểm lẫn cách báo hiệu đều giống rẽ phải."
+   },
+   "pt": {
+    "question": "Quando o condutor vai fazer um retorno no meio da via, o momento de sinalizar (com seta ou mão) é quando o veículo chega a 30 metros do ponto onde o retorno vai começar.",
+    "explanation": "É o Kyosoku, Capítulo 5, Seção 5, item 1(1). O retorno está na mesma linha da tabela que a conversão à direita, por isso o momento e o modo de sinalizar são os mesmos."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-5-503",
+  "category": "合図と警音器",
+  "kp": "5-5-1",
+  "group": "N",
+  "source": "教則 第5章第5節1(1)",
+  "question_type": "text",
+  "qf": "QF-5-5-A-N-13",
+  "question_ja": "同じ方向に進行しながら進路を変えようとするときの合図は、進路を変えようとする約3秒前に行う。",
+  "answer": true,
+  "explanation_ja": "教則第5章第5節1(1)のとおりです。30メートル手前というのは右左折や転回のときの時期で、進路変更は約3秒前です。",
+  "i18n": {
+   "zh": {
+    "question": "在同一方向行驶中想要变更路线时的打信号（转向灯或手势），在想要变更路线的大约3秒前进行。",
+    "explanation": "符合教则第5章第5节1(1)的规定。30米近前是右拐弯、左拐弯或掉头时的时期，路线变更则是大约3秒前。"
+   },
+   "en": {
+    "question": "When changing lanes while travelling in the same direction, the signal (by indicator or hand) is given about 3 seconds before the change.",
+    "explanation": "This is Kyosoku Chapter 5 Section 5 item 1(1). The figure of 30 metres before belongs to turning right or left and to a U-turn; changing lanes is about 3 seconds before."
+   },
+   "vi": {
+    "question": "Khi chuyển làn trong lúc vẫn đi theo cùng một hướng, việc báo hiệu (bằng xi nhan hoặc tay) được thực hiện khoảng 3 giây trước khi chuyển.",
+    "explanation": "Đúng theo Kyosoku Chương 5 Mục 5 điểm 1(1). Mốc 30 mét là dành cho rẽ phải, rẽ trái và quay đầu; chuyển làn là khoảng 3 giây trước."
+   },
+   "pt": {
+    "question": "Ao mudar de faixa seguindo na mesma direção, sinaliza-se (com seta ou mão) cerca de 3 segundos antes da mudança.",
+    "explanation": "É o Kyosoku, Capítulo 5, Seção 5, item 1(1). A marca de 30 metros é a da conversão à direita ou à esquerda e do retorno; a mudança de faixa é cerca de 3 segundos antes."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-5-504",
+  "category": "合図と警音器",
+  "kp": "5-5-1",
+  "group": "N",
+  "source": "教則 第5章第5節1(1)",
+  "question_type": "text",
+  "qf": "QF-5-5-A-N-06",
+  "question_ja": "徐行や停止をするときの合図は、徐行や停止をしようとするときに行う。",
+  "answer": true,
+  "explanation_ja": "教則第5章第5節1(1)のとおりです。ブレーキ灯をつけるか、腕を車の外に出して斜め下に伸ばして合図します。",
+  "i18n": {
+   "zh": {
+    "question": "缓行（徐行）或停止时的打信号（转向灯或手势），在想要缓行或停止时进行。",
+    "explanation": "符合教则第5章第5节1(1)的规定。用点亮刹车灯，或把手臂伸出车外并向斜下方伸直的方法打信号。"
+   },
+   "en": {
+    "question": "The signal (by indicator or hand) for proceeding slowly (徐行) or stopping is given at the moment you are about to proceed slowly or stop.",
+    "explanation": "This is Kyosoku Chapter 5 Section 5 item 1(1). You signal by showing the brake light or by putting an arm out of the vehicle and stretching it down at an angle."
+   },
+   "vi": {
+    "question": "Việc báo hiệu (bằng xi nhan hoặc tay) khi lưu thông chậm (徐行) hoặc dừng lại được thực hiện ngay lúc sắp lưu thông chậm hoặc dừng.",
+    "explanation": "Đúng theo Kyosoku Chương 5 Mục 5 điểm 1(1). Báo hiệu bằng cách bật đèn phanh, hoặc đưa cánh tay ra ngoài xe và duỗi chếch xuống dưới."
+   },
+   "pt": {
+    "question": "O sinal (com seta ou mão) para prosseguir lentamente (徐行) ou parar é feito no momento em que se vai prosseguir lentamente ou parar.",
+    "explanation": "É o Kyosoku, Capítulo 5, Seção 5, item 1(1). Sinaliza-se acendendo a luz de freio ou pondo o braço para fora do veículo, esticado na diagonal para baixo."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-5-505",
+  "category": "合図と警音器",
+  "kp": "5-5-1",
+  "group": "N",
+  "source": "教則 第5章第5節1(1)",
+  "question_type": "text",
+  "qf": "QF-5-5-A-N-12",
+  "question_ja": "夕日の反射で方向指示器が見えにくいために腕で合図をする運転者が、右腕を車の右側の外に出して肘を垂直に上に曲げるか、左腕を車の左側の外に出して水平に伸ばしていれば、その車は左折しようとしている。",
+  "answer": true,
+  "explanation_ja": "教則第5章第5節1(1)のとおりです。右折や転回のときは、この二つがちょうど逆になります。",
+  "i18n": {
+   "zh": {
+    "question": "因夕阳反射使方向指示器不易看清而用手臂打信号的驾驶员，若把右臂伸出车右侧外并将肘部垂直向上弯曲，或把左臂伸出车左侧外并水平伸直，就表示该车要左拐弯。",
+    "explanation": "符合教则第5章第5节1(1)的规定。右拐弯或掉头时，这两种做法正好相反。"
+   },
+   "en": {
+    "question": "When a driver signals with an arm because the reflection of the setting sun makes the turn indicator hard to see, putting the right arm out of the right side of the vehicle with the elbow bent vertically upwards, or the left arm out of the left side stretched horizontally, means that the vehicle is about to make a left turn.",
+    "explanation": "This is Kyosoku Chapter 5 Section 5 item 1(1). For a right turn or a U-turn the two are exactly the other way round."
+   },
+   "vi": {
+    "question": "Khi người lái xe báo hiệu bằng cánh tay vì ánh nắng chiều phản chiếu làm khó nhìn thấy đèn xi nhan, việc đưa tay phải ra ngoài phía bên phải xe và gập khuỷu tay thẳng đứng lên trên, hoặc đưa tay trái ra ngoài phía bên trái xe và duỗi ngang, có nghĩa là xe sắp rẽ trái.",
+    "explanation": "Đúng theo Kyosoku Chương 5 Mục 5 điểm 1(1). Khi rẽ phải hoặc quay đầu, hai cách này đảo ngược lại."
+   },
+   "pt": {
+    "question": "Quando o condutor sinaliza com o braço porque o reflexo do sol poente dificulta enxergar a seta (indicador de direção), pôr o braço direito para fora do lado direito do veículo com o cotovelo dobrado verticalmente para cima, ou o braço esquerdo para fora do lado esquerdo esticado na horizontal, significa que o veículo vai fazer uma conversão à esquerda.",
+    "explanation": "É o Kyosoku, Capítulo 5, Seção 5, item 1(1). Para a conversão à direita ou o retorno, as duas formas se invertem."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 3,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-1-506",
+  "category": "合図と警音器",
+  "kp": "5-1-5",
+  "group": "N",
+  "source": "教則 第5章第1節5(2) / 第5章第5節1(1)",
+  "question_type": "text",
+  "qf": "QF-5-5-A-N-09",
+  "question_ja": "道路の左端に止まっていた車が発進するときの合図は、右側の方向指示器を操作するなど、右方に進路を変えるときと同じ方法で行う。",
+  "answer": true,
+  "explanation_ja": "教則第5章第1節5(2)のとおり、発進のときは方向指示器などで合図をします。左端から車道に出ることは右方への進路変更にあたるので、その方法は右折の合図と同じです（教則第5章第5節1(1)）。",
+  "i18n": {
+   "zh": {
+    "question": "停在道路左端的车辆起步时的打信号（转向灯或手势），采用操作右侧方向指示器等与向右方变更路线时相同的方法。",
+    "explanation": "按教则第5章第1节5(2)的规定，起步时用方向指示器等打信号。从左端驶入车道属于向右方变更路线，因此方法与右拐弯的打信号相同（教则第5章第5节1(1)）。"
+   },
+   "en": {
+    "question": "When a vehicle standing at the left edge of the road moves off, it signals (by indicator or hand) in the same way as for a change of course to the right, for instance with the right turn indicator.",
+    "explanation": "Kyosoku Chapter 5 Section 1 item 5(2) says that you signal with the turn indicator or the like when moving off. Pulling out from the left edge into the carriageway is a change of course to the right, so the method is the same as the signal for a right turn (Kyosoku Chapter 5 Section 5 item 1(1))."
+   },
+   "vi": {
+    "question": "Khi xe đang đứng ở mép trái của đường bắt đầu chạy, việc báo hiệu (bằng xi nhan hoặc tay) được làm giống như khi chuyển hướng sang phải, chẳng hạn bằng đèn xi nhan phải.",
+    "explanation": "Kyosoku Chương 5 Mục 1 điểm 5(2) quy định khi bắt đầu chạy phải báo hiệu bằng đèn xi nhan hoặc cách tương tự. Rời mép trái để ra lòng đường là chuyển hướng sang phải, nên cách báo hiệu giống với khi rẽ phải (Kyosoku Chương 5 Mục 5 điểm 1(1))."
+   },
+   "pt": {
+    "question": "Quando o veículo parado na extremidade esquerda da via inicia a marcha, sinaliza (com seta ou mão) do mesmo modo que para mudar de direção para a direita, por exemplo com a seta direita.",
+    "explanation": "O Kyosoku, Capítulo 5, Seção 1, item 5(2), diz que ao iniciar a marcha se sinaliza com a seta ou meio semelhante. Sair da extremidade esquerda para a pista é uma mudança de direção para a direita, por isso o modo de sinalizar é o mesmo da conversão à direita (Kyosoku, Capítulo 5, Seção 5, item 1(1))."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 3,
+  "exam_scope": "仮免|本免|外免",
+  "verify": true
+ },
+ {
+  "id": "K5-5-507",
+  "category": "合図と警音器",
+  "kp": "5-5-1",
+  "group": "N",
+  "source": "教則 第5章第5節1(3)",
+  "question_type": "text",
+  "qf": "QF-5-5-A-N-16",
+  "question_ja": "進路変更などの行為を終わったときは速やかに合図をやめなければならず、必要がないのに合図をしてはいけない。",
+  "answer": true,
+  "explanation_ja": "教則第5章第5節1(3)のとおりです。必要のない方向指示器の点滅は、周りの交通に車の動きを読み違えさせるおそれがあります。",
+  "i18n": {
+   "zh": {
+    "question": "变更路线等行为结束时必须迅速停止打信号（转向灯或手势），没有必要时不得打信号。",
+    "explanation": "符合教则第5章第5节1(3)的规定。没有必要的方向指示器闪烁，有可能让周围的交通误判本车的动向。"
+   },
+   "en": {
+    "question": "When you have finished an act such as changing lanes you must stop the signal (by indicator or hand) promptly, and you must not signal when there is no need to.",
+    "explanation": "This is Kyosoku Chapter 5 Section 5 item 1(3). A turn indicator flashing with no need for it may make the traffic around you misread where your vehicle is going."
+   },
+   "vi": {
+    "question": "Khi đã kết thúc hành vi như chuyển làn thì phải tắt báo hiệu (bằng xi nhan hoặc tay) ngay, và không được báo hiệu khi không cần thiết.",
+    "explanation": "Đúng theo Kyosoku Chương 5 Mục 5 điểm 1(3). Đèn xi nhan nhấp nháy khi không cần thiết có thể khiến các phương tiện xung quanh hiểu sai hướng đi của xe bạn."
+   },
+   "pt": {
+    "question": "Ao terminar um ato como a mudança de faixa, deve-se parar de sinalizar (com seta ou mão) sem demora, e não se deve sinalizar quando não há necessidade.",
+    "explanation": "É o Kyosoku, Capítulo 5, Seção 5, item 1(3). A seta piscando sem necessidade pode levar o trânsito ao redor a interpretar mal para onde o seu veículo vai."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-5-508",
+  "category": "合図と警音器",
+  "kp": "5-5-1",
+  "group": "N",
+  "source": "教則 第5章第5節1(5) / 付表3（1）36、37",
+  "question_type": "text",
+  "qf": "QF-5-5-A-N-17",
+  "question_ja": "運転者が警音器を鳴らさなければならないのは、「警笛鳴らせ」の標識が立っている場所を通るときと、「警笛区間」の標識で示された区間の中で、見通しのきかない交差点や曲がり角、上り坂の頂上を通るときである。",
+  "answer": true,
+  "explanation_ja": "教則第5章第5節1(5)のとおりです。「警笛区間」の標識は区間全体を指定するもので、鳴らす義務があるのはその区間内のこの三つの場所です。",
+  "i18n": {
+   "zh": {
+    "question": "驾驶员必须鸣喇叭的情形，是通过设有「鸣笛」标识（立牌）的场所时，以及在「鸣笛区间」标识所示的区间内通过视野不好的交叉路口、拐角或上坡坡顶时。",
+    "explanation": "符合教则第5章第5节1(5)的规定。「鸣笛区间」标识指定的是整个区间，有鸣笛义务的是该区间内的这三处场所。"
+   },
+   "en": {
+    "question": "The occasions on which a driver has to sound the horn are when passing a place where a \"Sound horn\" road sign stands, and when passing an intersection, a bend or the crest of a hill with poor visibility inside the section shown by a \"Sound horn zone\" sign.",
+    "explanation": "This is Kyosoku Chapter 5 Section 5 item 1(5). The \"Sound horn zone\" sign designates the whole section, and the duty to sound the horn applies at those three places inside it."
+   },
+   "vi": {
+    "question": "Những lúc người lái xe phải bấm còi là khi đi qua nơi có biển báo giao thông «Bấm còi», và khi đi qua nút giao thông, chỗ đường cong hay đỉnh dốc có tầm nhìn hạn chế bên trong đoạn được biển «Đoạn đường phải bấm còi» chỉ ra.",
+    "explanation": "Đúng theo Kyosoku Chương 5 Mục 5 điểm 1(5). Biển «Đoạn đường phải bấm còi» chỉ định cả đoạn đường, và nghĩa vụ bấm còi áp dụng ở ba nơi đó bên trong đoạn."
+   },
+   "pt": {
+    "question": "As ocasiões em que o condutor tem de buzinar são ao passar por um lugar onde está a placa \"Toque a buzina\" e ao passar por cruzamento, curva ou topo de aclive com pouca visibilidade dentro do trecho indicado pela placa \"Trecho de uso obrigatório da buzina\".",
+    "explanation": "É o Kyosoku, Capítulo 5, Seção 5, item 1(5). A placa de trecho indica todo o trecho, e o dever de buzinar vale nesses três lugares dentro dele."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 3,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-5-509",
+  "category": "合図と警音器",
+  "kp": "5-5-1",
+  "group": "N",
+  "source": "教則 第5章第5節1(5)",
+  "question_type": "text",
+  "qf": "QF-5-5-A-N-03",
+  "question_ja": "車は、警音器を鳴らさなければならない場所のほかは、危険を避けるためやむを得ない場合を除いて警音器を鳴らしてはいけない。",
+  "answer": true,
+  "explanation_ja": "教則第5章第5節1(5)のとおりです。鳴らす義務があるのは「警笛鳴らせ」の標識がある場所と、「警笛区間」の標識がある区間内の見通しのきかない場所だけです。",
+  "i18n": {
+   "zh": {
+    "question": "车辆除了必须鸣喇叭的场所以外，除为避免危险而不得已的情况外不得鸣喇叭。",
+    "explanation": "符合教则第5章第5节1(5)的规定。有鸣笛义务的只有设有「鸣笛」标识（立牌）的场所，以及设有「鸣笛区间」标识的区间内视野不好的场所。"
+   },
+   "en": {
+    "question": "Apart from the places where it must sound the horn, a vehicle may not sound it except where doing so is unavoidable in order to avoid danger.",
+    "explanation": "This is Kyosoku Chapter 5 Section 5 item 1(5). The duty to sound the horn applies only at a place with a \"Sound horn\" road sign and at the places of poor visibility inside a section marked \"Sound horn zone\"."
+   },
+   "vi": {
+    "question": "Ngoài những nơi bắt buộc phải bấm còi, xe không được bấm còi trừ khi việc đó là không thể tránh khỏi để tránh nguy hiểm.",
+    "explanation": "Đúng theo Kyosoku Chương 5 Mục 5 điểm 1(5). Nghĩa vụ bấm còi chỉ có ở nơi có biển báo giao thông «Bấm còi» và ở những chỗ có tầm nhìn hạn chế trong đoạn có biển «Đoạn đường phải bấm còi»."
+   },
+   "pt": {
+    "question": "Fora dos lugares em que é obrigatório buzinar, o veículo não pode usar a buzina, salvo quando isso é inevitável para evitar um perigo.",
+    "explanation": "É o Kyosoku, Capítulo 5, Seção 5, item 1(5). O dever de buzinar existe apenas no local com a placa \"Toque a buzina\" e nos pontos de pouca visibilidade dentro do \"Trecho de uso obrigatório da buzina\"."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-7-510",
+  "category": "合図と警音器",
+  "kp": "5-7-2",
+  "group": "N",
+  "source": "教則 第5章第7節2(1) / 第5章第5節1(1)",
+  "question_type": "text",
+  "qf": "QF-5-5-D-NU-03",
+  "question_ja": "車が左折するときは、左折しようとする地点から30メートル手前に達してから道路の左端に寄ればよい。",
+  "answer": false,
+  "explanation_ja": "30メートル手前というのは合図を始める時期です。道路の左端には、あらかじめできるだけ寄っておかなければなりません（教則第5章第7節2(1)、第5章第5節1(1)）。",
+  "i18n": {
+   "zh": {
+    "question": "车辆左拐弯时，在到达距想要左拐弯的地点30米近前之后再靠向道路左端即可。",
+    "explanation": "30米近前是开始打信号（转向灯或手势）的时期。必须预先尽量靠向道路左端（教则第5章第7节2(1)、第5章第5节1(1)）。"
+   },
+   "en": {
+    "question": "When a vehicle turns left, it is enough to move over to the left edge of the road after reaching the point 30 metres before the place where it will turn.",
+    "explanation": "The 30 metres is when the signal (by indicator or hand) starts. You must move over to the left edge of the road as far as possible in advance (Kyosoku Chapter 5 Section 7 item 2(1) and Chapter 5 Section 5 item 1(1))."
+   },
+   "vi": {
+    "question": "Khi xe rẽ trái, chỉ cần áp sát mép trái của đường sau khi đã tới điểm cách nơi rẽ 30 mét là đủ.",
+    "explanation": "Mốc 30 mét là lúc bắt đầu báo hiệu (bằng xi nhan hoặc tay). Phải áp sát mép trái của đường từ trước, càng sát càng tốt (Kyosoku Chương 5 Mục 7 điểm 2(1) và Chương 5 Mục 5 điểm 1(1))."
+   },
+   "pt": {
+    "question": "Quando o veículo faz a conversão à esquerda, basta encostar na extremidade esquerda da via depois de chegar ao ponto 30 metros antes do lugar da conversão.",
+    "explanation": "Os 30 metros são o momento de começar a sinalizar (com seta ou mão). É preciso encostar na extremidade esquerda da via com antecedência, o mais próximo possível (Kyosoku, Capítulo 5, Seção 7, item 2(1), e Capítulo 5, Seção 5, item 1(1))."
+   }
+  },
+  "trap_type": "NU",
+  "difficulty": 3,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-5-511",
+  "category": "合図と警音器",
+  "kp": "5-5-1",
+  "group": "N",
+  "source": "教則 第5章第5節1(3)",
+  "question_type": "text",
+  "qf": "QF-5-5-D-EI-05",
+  "question_ja": "進路変更の合図は、進路を変え終わったあともしばらく続けておくほうが、後ろの車に自分の動きがよく伝わるのでよい。",
+  "answer": false,
+  "explanation_ja": "行為が終わったときは、速やかに合図をやめなければなりません。必要がないのに合図を続けると、次の動きを誤解されます（教則第5章第5節1(3)）。",
+  "i18n": {
+   "zh": {
+    "question": "变更路线的打信号（转向灯或手势），在变更完成之后再持续一段时间，能让后车更清楚地了解本车动向，因此更好。",
+    "explanation": "行为结束时必须迅速停止打信号。没有必要还继续打信号，会让人误解下一步的动向（教则第5章第5节1(3)）。"
+   },
+   "en": {
+    "question": "It is better to keep the lane-change signal (by indicator or hand) running for a while after the change is complete, because the vehicle behind then understands your movement better.",
+    "explanation": "When the act is over you must stop the signal promptly. Keeping it on with no need for it makes others misread your next move (Kyosoku Chapter 5 Section 5 item 1(3))."
+   },
+   "vi": {
+    "question": "Nên duy trì báo hiệu (bằng xi nhan hoặc tay) chuyển làn thêm một lúc sau khi đã chuyển xong, vì như thế xe phía sau hiểu rõ hơn hướng đi của bạn.",
+    "explanation": "Khi hành vi đã kết thúc thì phải tắt báo hiệu ngay. Tiếp tục báo hiệu khi không cần thiết sẽ khiến người khác hiểu sai động tác tiếp theo của bạn (Kyosoku Chương 5 Mục 5 điểm 1(3))."
+   },
+   "pt": {
+    "question": "É melhor manter o sinal (com seta ou mão) de mudança de faixa ligado por algum tempo depois de concluída a mudança, pois assim o veículo de trás entende melhor o seu movimento.",
+    "explanation": "Quando o ato termina, é preciso parar de sinalizar sem demora. Manter o sinal sem necessidade faz os outros interpretarem mal o seu próximo movimento (Kyosoku, Capítulo 5, Seção 5, item 1(3))."
+   }
+  },
+  "trap_type": "EI",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-5-512",
+  "category": "合図と警音器",
+  "kp": "5-5-1",
+  "group": "N",
+  "source": "教則 第5章第5節1(2)",
+  "question_type": "text",
+  "qf": "QF-5-5-D-SW-03",
+  "question_ja": "環状交差点を出ようとするときの合図は、出ようとする出口に向けてハンドルを切り始めるときに行う。",
+  "answer": false,
+  "explanation_ja": "合図を行うのは、出ようとする地点の直前の出口の側方を通過したときです。環状交差点に入った直後の出口を出る場合は、その環状交差点に入ったときに合図します（教則第5章第5節1(2)）。",
+  "i18n": {
+   "zh": {
+    "question": "想要驶出环形交叉路口时的打信号（转向灯或手势），在朝着要驶出的出口开始打方向把时进行。",
+    "explanation": "打信号的时机是通过想要驶出地点的前一个出口侧方时。如果要驶出的是进入环形交叉路口后紧接着的出口，则在进入该环形交叉路口时打信号（教则第5章第5节1(2)）。"
+   },
+   "en": {
+    "question": "The signal (by indicator or hand) for leaving a roundabout is given when you start to turn the steering wheel towards the exit you are taking.",
+    "explanation": "The signal is given when you pass alongside the exit immediately before the one you are taking. If you are leaving by the exit right after the one you entered, you signal as you enter the roundabout (Kyosoku Chapter 5 Section 5 item 1(2))."
+   },
+   "vi": {
+    "question": "Việc báo hiệu (bằng xi nhan hoặc tay) khi định ra khỏi giao lộ vòng xuyến được thực hiện lúc bắt đầu đánh vô lăng về phía lối ra.",
+    "explanation": "Phải báo hiệu khi đi ngang qua lối ra liền trước lối ra mà bạn định đi. Nếu ra ở lối ngay sau khi vào vòng xuyến, thì báo hiệu ngay lúc vào vòng xuyến đó (Kyosoku Chương 5 Mục 5 điểm 1(2))."
+   },
+   "pt": {
+    "question": "O sinal (com seta ou mão) para sair de uma rotatória é dado quando se começa a girar o volante em direção à saída escolhida.",
+    "explanation": "O sinal é dado ao passar ao lado da saída imediatamente anterior àquela que se vai tomar. Se a saída for a primeira logo após a entrada, sinaliza-se ao entrar na rotatória (Kyosoku, Capítulo 5, Seção 5, item 1(2))."
+   }
+  },
+  "trap_type": "SW",
+  "difficulty": 3,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-5-513",
+  "category": "合図と警音器",
+  "kp": "5-5-1",
+  "group": "N",
+  "source": "教則 第5章第5節1(5)",
+  "question_type": "text",
+  "qf": "QF-5-5-D-EI-02",
+  "question_ja": "住宅地の見通しのきかない曲がり角にさしかかった運転者は、「警笛鳴らせ」や「警笛区間」の標識が立っていない場所であっても、警音器を鳴らして自分の車の接近を知らせる義務がある。",
+  "answer": false,
+  "explanation_ja": "警音器を鳴らす義務があるのは、これらの標識で指定された場所や区間の中だけです。標識のないところでは、危険を避けるためやむを得ない場合のほかは鳴らしてはいけません（教則第5章第5節1(5)）。",
+  "i18n": {
+   "zh": {
+    "question": "驶近住宅区内视野不好的拐角的驾驶员，即使所在场所没有立着「鸣笛」或「鸣笛区间」标识（立牌），也有义务鸣喇叭告知自己车辆的接近。",
+    "explanation": "有鸣喇叭义务的只限于由这些标识指定的场所或区间之内。没有标识的地方，除为避免危险而不得已的情况外不得鸣笛（教则第5章第5节1(5)）。"
+   },
+   "en": {
+    "question": "A driver coming up to a bend with poor visibility in a residential area has a duty to sound the horn to announce the approach of the vehicle, even at a place where no \"Sound horn\" or \"Sound horn zone\" road sign stands.",
+    "explanation": "The duty to sound the horn exists only at the places and inside the sections designated by those signs. Where there is no such sign you may not sound it, except where it is unavoidable in order to avoid danger (Kyosoku Chapter 5 Section 5 item 1(5))."
+   },
+   "vi": {
+    "question": "Người lái xe đang tới gần chỗ đường cong có tầm nhìn hạn chế trong khu dân cư có nghĩa vụ bấm còi để báo xe mình đang đến, ngay cả ở nơi không có biển báo giao thông «Bấm còi» hay «Đoạn đường phải bấm còi».",
+    "explanation": "Nghĩa vụ bấm còi chỉ tồn tại ở những nơi và những đoạn được các biển đó chỉ định. Ở nơi không có biển, không được bấm còi trừ khi không thể tránh khỏi để tránh nguy hiểm (Kyosoku Chương 5 Mục 5 điểm 1(5))."
+   },
+   "pt": {
+    "question": "O condutor que se aproxima de uma curva com pouca visibilidade num bairro residencial tem o dever de buzinar para anunciar a aproximação do veículo, mesmo num lugar onde não há a placa \"Toque a buzina\" nem a de \"Trecho de uso obrigatório da buzina\".",
+    "explanation": "O dever de buzinar só existe nos locais e trechos indicados por essas placas. Onde não há placa, não se pode buzinar, salvo quando é inevitável para evitar um perigo (Kyosoku, Capítulo 5, Seção 5, item 1(5))."
+   }
+  },
+  "trap_type": "EI",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-5-514",
+  "category": "合図と警音器",
+  "kp": "5-5-1",
+  "group": "N",
+  "source": "教則 第5章第5節1(5)",
+  "question_type": "text",
+  "qf": "QF-5-5-D-EX-02",
+  "question_ja": "「警笛鳴らせ」の標識がある場所以外では、危険を避けるためであっても警音器を鳴らしてはいけない。",
+  "answer": false,
+  "explanation_ja": "危険を避けるためやむを得ない場合は、鳴らすことができます。鳴らしてはいけないのは、それ以外の場合です（教則第5章第5節1(5)）。",
+  "i18n": {
+   "zh": {
+    "question": "在设有「鸣笛」标识（立牌）的场所以外，即使是为了避免危险也不得鸣喇叭。",
+    "explanation": "为避免危险而不得已时是可以鸣笛的。不得鸣笛的是除此以外的情况（教则第5章第5节1(5)）。"
+   },
+   "en": {
+    "question": "Anywhere other than a place with a \"Sound horn\" road sign, a vehicle may not sound its horn even in order to avoid danger.",
+    "explanation": "Where it is unavoidable in order to avoid danger, you may sound it. What you may not do is sound it in any other case (Kyosoku Chapter 5 Section 5 item 1(5))."
+   },
+   "vi": {
+    "question": "Ở nơi không có biển báo giao thông «Bấm còi», xe không được bấm còi ngay cả để tránh nguy hiểm.",
+    "explanation": "Khi không thể tránh khỏi để tránh nguy hiểm thì được bấm còi. Điều bị cấm là bấm còi trong những trường hợp khác (Kyosoku Chương 5 Mục 5 điểm 1(5))."
+   },
+   "pt": {
+    "question": "Fora dos locais com a placa \"Toque a buzina\", o veículo não pode buzinar nem mesmo para evitar um perigo.",
+    "explanation": "Quando é inevitável para evitar um perigo, é permitido buzinar. O que não se pode é buzinar nos demais casos (Kyosoku, Capítulo 5, Seção 5, item 1(5))."
+   }
+  },
+  "trap_type": "EX",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-5-515",
+  "category": "合図と警音器",
+  "kp": "5-5-1",
+  "group": "N",
+  "source": "教則 第5章第5節1(5)",
+  "question_type": "text",
+  "qf": "QF-5-5-D-AB-01",
+  "question_ja": "交差点の付近や横断歩道の手前では、歩行者に車の接近を知らせるため、必ず警音器を鳴らさなければならない。",
+  "answer": false,
+  "explanation_ja": "そのような決まりはありません。警音器を鳴らす義務があるのは「警笛鳴らせ」の標識がある場所などで、それ以外では危険を避けるためやむを得ない場合しか鳴らせません（教則第5章第5節1(5)）。",
+  "i18n": {
+   "zh": {
+    "question": "在交叉路口附近和人行横道近前，为了让步行者知道车辆接近，必须鸣喇叭。",
+    "explanation": "没有这样的规定。有鸣喇叭义务的是设有「鸣笛」标识（立牌）的场所等，除此以外只有为避免危险而不得已时才能鸣笛（教则第5章第5节1(5)）。"
+   },
+   "en": {
+    "question": "Near an intersection and before a pedestrian crossing, a vehicle must always sound its horn to let pedestrians know it is coming.",
+    "explanation": "There is no such rule. The duty to sound the horn applies at places such as those with a \"Sound horn\" road sign, and elsewhere you may sound it only where it is unavoidable in order to avoid danger (Kyosoku Chapter 5 Section 5 item 1(5))."
+   },
+   "vi": {
+    "question": "Ở gần nút giao thông và trước vạch sang đường cho người đi bộ, xe nhất định phải bấm còi để báo cho người đi bộ biết xe đang tới.",
+    "explanation": "Không có quy định như vậy. Nghĩa vụ bấm còi áp dụng ở những nơi như chỗ có biển báo giao thông «Bấm còi», còn ở nơi khác chỉ được bấm khi không thể tránh khỏi để tránh nguy hiểm (Kyosoku Chương 5 Mục 5 điểm 1(5))."
+   },
+   "pt": {
+    "question": "Perto de um cruzamento e antes de uma faixa de pedestres, o veículo deve sempre buzinar para avisar os pedestres de que está chegando.",
+    "explanation": "Não existe essa regra. O dever de buzinar vale em lugares como os que têm a placa \"Toque a buzina\"; nos demais só se pode buzinar quando isso é inevitável para evitar um perigo (Kyosoku, Capítulo 5, Seção 5, item 1(5))."
+   }
+  },
+  "trap_type": "AB",
+  "difficulty": 1,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-5-516",
+  "category": "合図と警音器",
+  "kp": "5-5-1",
+  "group": "N",
+  "source": "教則 第5章第5節1(5)",
+  "question_type": "text",
+  "qf": "QF-5-5-D-SC-02",
+  "question_ja": "友人を迎えに行き、家の前に着いたことを知らせるために、車の中から警音器を短く鳴らした。",
+  "answer": false,
+  "explanation_ja": "到着を知らせるために鳴らすことは、法令で鳴らさなければならない場合にも、危険を避けるためやむを得ない場合にも当たりません。このようなときに警音器を鳴らしてはいけません（教則第5章第5節1(5)）。",
+  "i18n": {
+   "zh": {
+    "question": "去接朋友，到达其家门前时，为了告知已经到达，在车内短促地鸣了喇叭。",
+    "explanation": "为告知到达而鸣笛，既不属于法令规定必须鸣笛的情况，也不属于为避免危险而不得已的情况。这种时候不得鸣喇叭（教则第5章第5节1(5)）。"
+   },
+   "en": {
+    "question": "Going to pick up a friend, you gave a short blast on the horn from inside the car to let them know you had arrived outside their house.",
+    "explanation": "Sounding the horn to announce your arrival is neither a case where the law requires it nor a case where it is unavoidable in order to avoid danger. You may not sound the horn at a time like that (Kyosoku Chapter 5 Section 5 item 1(5))."
+   },
+   "vi": {
+    "question": "Đi đón bạn, khi đến trước cửa nhà bạn, bạn đã bấm còi ngắn từ trong xe để báo rằng mình đã tới.",
+    "explanation": "Bấm còi để báo là mình đã đến không thuộc trường hợp luật bắt buộc bấm còi, cũng không thuộc trường hợp không thể tránh khỏi để tránh nguy hiểm. Vào lúc như vậy không được bấm còi (Kyosoku Chương 5 Mục 5 điểm 1(5))."
+   },
+   "pt": {
+    "question": "Ao buscar um amigo, você deu uma buzinada curta de dentro do carro para avisar que havia chegado em frente à casa dele.",
+    "explanation": "Buzinar para anunciar a chegada não é um caso em que a lei obriga a buzinar nem um caso em que isso é inevitável para evitar um perigo. Num momento assim não se pode usar a buzina (Kyosoku, Capítulo 5, Seção 5, item 1(5))."
+   }
+  },
+  "trap_type": "SC",
+  "difficulty": 1,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-5-517",
+  "category": "合図と警音器",
+  "kp": "5-5-1",
+  "group": "N",
+  "source": "教則 第5章第5節1(5) / 第5章第3節2(2)",
+  "question_type": "text",
+  "qf": "QF-5-5-D-SC-03",
+  "question_ja": "横断歩道を横断している歩行者がいたが、急いでいたので警音器を鳴らして道をあけてもらい、その横を通過した。",
+  "answer": false,
+  "explanation_ja": "歩行者が横断歩道を横断しているときは、その手前（停止線があるときはその手前）で一時停止をして歩行者に道を譲らなければなりません（教則第5章第3節2(2)）。急いでいることは、警音器を鳴らしてよい「危険を避けるためやむを得ない場合」には当たりません（教則第5章第5節1(5)）。",
+  "i18n": {
+   "zh": {
+    "question": "有步行者正在人行横道上横穿，但因为赶时间，就鸣喇叭让对方让路，并从其旁边通过了。",
+    "explanation": "步行者正在人行横道上横穿时，必须在其近前（有停止线时在停止线近前）暂停（一時停止），把路让给步行者（教则第5章第3节2(2)）。赶时间并不属于可以鸣喇叭的「为避免危险而不得已的情况」（教则第5章第5节1(5)）。"
+   },
+   "en": {
+    "question": "A pedestrian was crossing on a pedestrian crossing, but you were in a hurry, so you sounded the horn to make them give way and drove past them.",
+    "explanation": "While a pedestrian is crossing on a pedestrian crossing you must come to a complete stop (一時停止) before it, or before the stop line where there is one, and let the pedestrian go (Kyosoku Chapter 5 Section 3 item 2(2)). Being in a hurry is not a case where sounding the horn is unavoidable in order to avoid danger (Kyosoku Chapter 5 Section 5 item 1(5))."
+   },
+   "vi": {
+    "question": "Có người đi bộ đang băng qua trên vạch sang đường cho người đi bộ, nhưng vì vội nên bạn đã bấm còi để họ nhường đường và đi vượt qua bên cạnh họ.",
+    "explanation": "Khi người đi bộ đang băng qua trên vạch sang đường, phải tạm dừng (一時停止) trước vạch, hoặc trước vạch dừng nếu có, và nhường đường cho họ (Kyosoku Chương 5 Mục 3 điểm 2(2)). Việc vội vàng không phải là trường hợp bấm còi là không thể tránh khỏi để tránh nguy hiểm (Kyosoku Chương 5 Mục 5 điểm 1(5))."
+   },
+   "pt": {
+    "question": "Havia um pedestre atravessando na faixa de pedestres, mas você estava com pressa, buzinou para que ele saísse da frente e passou ao lado dele.",
+    "explanation": "Enquanto o pedestre atravessa na faixa de pedestres, é preciso fazer parada obrigatória (一時停止) antes dela, ou antes da linha de parada quando houver, e dar passagem a ele (Kyosoku, Capítulo 5, Seção 3, item 2(2)). Estar com pressa não é um caso em que buzinar seja inevitável para evitar um perigo (Kyosoku, Capítulo 5, Seção 5, item 1(5))."
+   }
+  },
+  "trap_type": "SC",
+  "difficulty": 1,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-5-518",
+  "category": "合図と警音器",
+  "kp": "5-5-1",
+  "group": "N",
+  "source": "教則 第5章第5節1(5) / 第5章第3節1(1)",
+  "question_type": "text",
+  "qf": "QF-5-5-D-SC-07",
+  "question_ja": "歩行者の多い道路を通るときは、歩行者に注意をうながすため、警音器を鳴らしながら通行するとよい。",
+  "answer": false,
+  "explanation_ja": "警音器を鳴らしてよいのは、法令で鳴らさなければならないときと、危険を避けるためやむを得ないときだけです（教則第5章第5節1(5)）。歩行者のそばを通るときは、歩行者との間に安全な間隔を空けるか徐行しなければなりません（教則第5章第3節1(1)）。",
+  "i18n": {
+   "zh": {
+    "question": "通过步行者较多的道路时，为了提醒步行者注意，一边鸣喇叭一边通行比较好。",
+    "explanation": "可以鸣喇叭的只有法令规定必须鸣笛时，以及为避免危险而不得已时（教则第5章第5节1(5)）。从步行者旁边通过时，必须与步行者保持安全的间隔或缓行（徐行）（教则第5章第3节1(1)）。"
+   },
+   "en": {
+    "question": "On a road with many pedestrians it is good practice to sound the horn as you go, to alert them.",
+    "explanation": "You may sound the horn only where the law requires it and where it is unavoidable in order to avoid danger (Kyosoku Chapter 5 Section 5 item 1(5)). When passing close to pedestrians you must leave a safe gap between you and them or proceed slowly (徐行) (Kyosoku Chapter 5 Section 3 item 1(1))."
+   },
+   "vi": {
+    "question": "Khi đi qua đường có nhiều người đi bộ, nên vừa đi vừa bấm còi để nhắc họ chú ý.",
+    "explanation": "Chỉ được bấm còi khi luật bắt buộc và khi đó là điều không thể tránh khỏi để tránh nguy hiểm (Kyosoku Chương 5 Mục 5 điểm 1(5)). Khi đi qua gần người đi bộ, phải giữ khoảng cách an toàn với họ hoặc lưu thông chậm (徐行) (Kyosoku Chương 5 Mục 3 điểm 1(1))."
+   },
+   "pt": {
+    "question": "Numa via com muitos pedestres, convém buzinar enquanto se passa, para chamar a atenção deles.",
+    "explanation": "Só se pode buzinar quando a lei exige e quando isso é inevitável para evitar um perigo (Kyosoku, Capítulo 5, Seção 5, item 1(5)). Ao passar perto de pedestres, é preciso deixar um espaço seguro entre você e eles ou prosseguir lentamente (徐行) (Kyosoku, Capítulo 5, Seção 3, item 1(1))."
+   }
+  },
+  "trap_type": "SC",
+  "difficulty": 1,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-5-519",
+  "category": "合図と警音器",
+  "kp": "5-5-1",
+  "group": "N",
+  "source": "教則 第5章第5節1(5) / 第6章第3節2(4)",
+  "question_type": "text",
+  "qf": "QF-5-5-D-SW-02",
+  "question_ja": "夜間、見通しの悪い交差点の手前では、前照灯を上向きにしたり点滅させたりするよりも、警音器を鳴らして接近を知らせるほうがよい。",
+  "answer": false,
+  "explanation_ja": "見通しの悪い交差点やカーブの手前では、前照灯を上向きにするか点滅させて、ほかの車や歩行者に接近を知らせます（教則第6章第3節2(4)）。警音器は、標識で指定された場所などのほかは、危険を避けるためやむを得ない場合しか鳴らせません（教則第5章第5節1(5)）。",
+  "i18n": {
+   "zh": {
+    "question": "夜间，在视野不好的交叉路口近前，与其把前照灯调成远光或使其闪烁，不如鸣喇叭告知接近为好。",
+    "explanation": "在视野不好的交叉路口或弯道近前，要把前照灯调成远光或使其闪烁，向其他车辆和步行者告知本车的接近（教则第6章第3节2(4)）。喇叭除了标识（立牌）指定的场所等以外，只有为避免危险而不得已时才能鸣（教则第5章第5节1(5)）。"
+   },
+   "en": {
+    "question": "At night, before an intersection with poor visibility, it is better to sound the horn to announce that you are coming than to switch the headlights to full beam or flash them.",
+    "explanation": "Before an intersection or bend with poor visibility you switch the headlights to full beam or flash them, to let other vehicles and pedestrians know you are coming (Kyosoku Chapter 6 Section 3 item 2(4)). Apart from places designated by a road sign, the horn may be sounded only where it is unavoidable in order to avoid danger (Kyosoku Chapter 5 Section 5 item 1(5))."
+   },
+   "vi": {
+    "question": "Ban đêm, trước nút giao thông có tầm nhìn hạn chế, bấm còi để báo mình đang tới thì tốt hơn là bật đèn pha chiếu xa hoặc nháy đèn.",
+    "explanation": "Trước nút giao thông hoặc chỗ đường cong có tầm nhìn hạn chế, hãy bật đèn pha chiếu xa hoặc nháy đèn để báo cho xe khác và người đi bộ biết mình đang tới (Kyosoku Chương 6 Mục 3 điểm 2(4)). Ngoài những nơi được biển báo giao thông chỉ định, chỉ được bấm còi khi đó là điều không thể tránh khỏi để tránh nguy hiểm (Kyosoku Chương 5 Mục 5 điểm 1(5))."
+   },
+   "pt": {
+    "question": "À noite, antes de um cruzamento com pouca visibilidade, é melhor buzinar para avisar que você está chegando do que pôr o farol alto ou piscá-lo.",
+    "explanation": "Antes de um cruzamento ou de uma curva com pouca visibilidade, põe-se o farol alto ou pisca-se o farol para avisar os outros veículos e os pedestres de que você está chegando (Kyosoku, Capítulo 6, Seção 3, item 2(4)). Fora dos locais indicados por placa, a buzina só pode ser usada quando isso é inevitável para evitar um perigo (Kyosoku, Capítulo 5, Seção 5, item 1(5))."
+   }
+  },
+  "trap_type": "SW",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-5-520",
+  "category": "合図と警音器",
+  "kp": "5-5-1",
+  "group": "N",
+  "source": "教則 第5章第5節1(1)",
+  "question_type": "signal",
+  "qf": "QF-5-5-D-SW-01",
+  "image": {
+   "sign_no": "S-手による合図-ひじ垂直",
+   "file": "S-手による合図-ひじ垂直.svg",
+   "license": "CC BY-NC-SA 4.0 (menkyo-quiz original drawing)",
+   "file_verified": true
+  },
+  "question_ja": "図は、運転者が右腕を車の右側の外に出して肘を垂直に上に曲げているところである。この合図は、右折か転回をすることを表している。",
+  "answer": false,
+  "explanation_ja": "この合図が表すのは、左折か左方への進路変更です。右折や転回の合図は、右腕を車の右側の外に出して水平に伸ばすか、左腕を車の左側の外に出して肘を垂直に上に曲げて行います（教則第5章第5節1(1)）。",
+  "i18n": {
+   "zh": {
+    "question": "图中是驾驶员把右臂伸出车右侧外、将肘部垂直向上弯曲的情形。这个打信号（转向灯或手势）表示要右拐弯或掉头。",
+    "explanation": "这个信号表示的是左拐弯或向左方变更路线。右拐弯或掉头的打信号，采用把右臂伸出车右侧外并水平伸直，或把左臂伸出车左侧外并将肘部垂直向上弯曲的方法（教则第5章第5节1(1)）。"
+   },
+   "en": {
+    "question": "The figure shows the driver with the right arm out of the right side of the vehicle and the elbow bent vertically upwards. This signal (by indicator or hand) means a right turn or a U-turn.",
+    "explanation": "That signal means a left turn or a change of course to the left. The signal for a right turn or a U-turn is made by putting the right arm out of the right side and stretching it horizontally, or by putting the left arm out of the left side and bending the elbow vertically upwards (Kyosoku Chapter 5 Section 5 item 1(1))."
+   },
+   "vi": {
+    "question": "Hình vẽ người lái xe đưa tay phải ra ngoài phía bên phải xe và gập khuỷu tay thẳng đứng lên trên. Báo hiệu (bằng xi nhan hoặc tay) này có nghĩa là rẽ phải hoặc quay đầu.",
+    "explanation": "Báo hiệu đó có nghĩa là rẽ trái hoặc chuyển hướng sang bên trái. Báo hiệu rẽ phải hoặc quay đầu được làm bằng cách đưa tay phải ra ngoài phía bên phải và duỗi ngang, hoặc đưa tay trái ra ngoài phía bên trái và gập khuỷu tay thẳng đứng lên trên (Kyosoku Chương 5 Mục 5 điểm 1(1))."
+   },
+   "pt": {
+    "question": "A figura mostra o condutor com o braço direito para fora do lado direito do veículo e o cotovelo dobrado verticalmente para cima. Esse sinal (com seta ou mão) significa conversão à direita ou retorno.",
+    "explanation": "Esse sinal significa conversão à esquerda ou mudança de direção para a esquerda. O sinal de conversão à direita ou de retorno é feito pondo o braço direito para fora do lado direito e esticando-o na horizontal, ou pondo o braço esquerdo para fora do lado esquerdo e dobrando o cotovelo verticalmente para cima (Kyosoku, Capítulo 5, Seção 5, item 1(1))."
+   }
+  },
+  "trap_type": "SW",
+  "difficulty": 3,
+  "exam_scope": "仮免|本免"
+ }
+]

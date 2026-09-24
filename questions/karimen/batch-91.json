@@ -1,0 +1,368 @@
+[
+ {
+  "id": "K8-4-901",
+  "category": "二輪車",
+  "kp": "8-4-2",
+  "group": "T",
+  "source": "教則 第8章第4節2(1)",
+  "question_type": "text",
+  "qf": "QF-8章-A-N-01",
+  "question_ja": "二輪車の運転者がブレーキを掛けるときは、ハンドルを切らずに車体をまっすぐ立てたまま、エンジンブレーキを効かせながら前輪と後輪のブレーキを同時に使うとよい。",
+  "answer": true,
+  "explanation_ja": "教則第8章第4節2(1)のとおりです。このとき乗車姿勢を正しく保たないと、前のめりになります。",
+  "i18n": {
+   "zh": {
+    "question": "二轮车（摩托车及轻型摩托车）的驾驶人使用刹车时，最好不转动方向把、把车身保持直立，一边让发动机制动起作用，一边同时使用前轮和后轮的刹车。",
+    "explanation": "符合教则第8章第4节2(1)的规定。此时如果不保持正确的乘车姿势，身体会向前倾。"
+   },
+   "en": {
+    "question": "When the rider of a two-wheeled vehicle (motorcycles and general motorized bicycles) applies the brakes, it is best to keep the machine standing straight without turning the handlebars and to use the front and rear brakes at the same time while letting the engine brake work.",
+    "explanation": "This is Kyosoku Chapter 8 Section 4 item 2(1). If the riding posture is not kept correct at that moment, the rider is thrown forward."
+   },
+   "vi": {
+    "question": "Khi người lái xe hai bánh (xe mô tô và xe gắn máy) bóp phanh, tốt nhất là giữ thân xe dựng thẳng, không đánh tay lái, và dùng đồng thời phanh bánh trước và bánh sau trong khi để phanh động cơ phát huy tác dụng.",
+    "explanation": "Đúng theo Kyosoku Chương 8 Mục 4 điểm 2(1). Nếu lúc đó không giữ đúng tư thế ngồi, người lái sẽ bị chúi về phía trước."
+   },
+   "pt": {
+    "question": "Quando o condutor de um veículo de duas rodas (motocicletas e bicicletas motorizadas) aciona os freios, o melhor é manter o veículo em pé, sem virar o guidão, e usar ao mesmo tempo os freios dianteiro e traseiro, aproveitando o freio motor.",
+    "explanation": "É o Kyosoku, Capítulo 8, Seção 4, item 2(1). Se a postura de pilotagem não for mantida correta nesse momento, o corpo é lançado para a frente."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K8-6-902",
+  "category": "二輪車",
+  "kp": "8-6-3",
+  "group": "T",
+  "source": "教則 第8章第6節3",
+  "question_type": "text",
+  "qf": "QF-8章-A-N-02",
+  "question_ja": "エンジンを切って二輪車を押して歩いている人は歩行者として扱われるので、歩道を通行することができるが、ほかの車をけん引しているものや側車付きのものを押しているときは別である。",
+  "answer": true,
+  "explanation_ja": "教則第8章第6節3のとおりです。エンジンを掛けているもの、ほかの車をけん引しているもの、側車付きのものを押しているときは、歩行者としては扱われません。",
+  "i18n": {
+   "zh": {
+    "question": "熄火后推着二轮车（摩托车及轻型摩托车）步行的人按步行者对待，因此可以在人行道上通行，但推的是牵引着其他车辆的二轮车或带侧座的二轮车时则另当别论。",
+    "explanation": "符合教则第8章第6节3的规定。推着发动机未熄火的、牵引着其他车辆的或带侧座的二轮车时，不按步行者对待。"
+   },
+   "en": {
+    "question": "A person pushing a two-wheeled vehicle (motorcycles and general motorized bicycles) with the engine switched off is treated as a pedestrian and may use the sidewalk, but it is otherwise if what is being pushed is towing another vehicle or has a sidecar.",
+    "explanation": "This is Kyosoku Chapter 8 Section 6 item 3. A machine whose engine is running, one that is towing another vehicle and one with a sidecar are not treated as a pedestrian when pushed."
+   },
+   "vi": {
+    "question": "Người tắt máy và dắt bộ xe hai bánh (xe mô tô và xe gắn máy) được coi là người đi bộ nên có thể đi trên vỉa hè, nhưng nếu xe được dắt đang kéo xe khác hoặc là xe có thùng bên thì lại khác.",
+    "explanation": "Đúng theo Kyosoku Chương 8 Mục 6 điểm 3. Xe đang nổ máy, xe đang kéo xe khác và xe có thùng bên thì khi dắt bộ không được coi là người đi bộ."
+   },
+   "pt": {
+    "question": "Quem empurra um veículo de duas rodas (motocicletas e bicicletas motorizadas) com o motor desligado é tratado como pedestre e pode usar a calçada, mas é diferente se o veículo empurrado estiver rebocando outro veículo ou tiver sidecar.",
+    "explanation": "É o Kyosoku, Capítulo 8, Seção 6, item 3. O veículo com o motor ligado, o que reboca outro veículo e o que tem sidecar não são tratados como pedestre quando empurrados."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K8-3-903",
+  "category": "二輪車",
+  "kp": "8-3-3",
+  "group": "T",
+  "source": "教則 第8章第3節3(2)イ",
+  "question_type": "text",
+  "qf": "QF-8章-A-N-04",
+  "question_ja": "一般原動機付自転車の右折方法（小回り）の標識がある道路の交差点など、二段階の右折方法によらない交差点では、一般原動機付自転車は、あらかじめできるだけ道路の中央に寄り、交差点の中心のすぐ内側を徐行しながら右折しなければならない。",
+  "answer": true,
+  "explanation_ja": "教則第8章第3節3(2)イのとおりです。この小回りの右折方法による場合は、青の矢印の信号に従って右折することができます。",
+  "i18n": {
+   "zh": {
+    "question": "在设有一般轻型摩托车小转弯右拐弯标识（立牌）的道路的交叉路口等、不采用二阶段右拐弯方法的交叉路口，一般轻型摩托车必须事先尽量靠道路中央，缓行（徐行）通过交叉路口中心的内侧右拐弯。",
+    "explanation": "符合教则第8章第3节3(2)イ的规定。采用这种小转弯右拐弯方法时，可以按绿色箭头信号灯右拐弯。"
+   },
+   "en": {
+    "question": "At an intersection on a road carrying the sign Right turn method for general motorized bicycles (small turn), and at other intersections where the two-step right turn does not apply, a general motorized bicycle (moped) must move over as close to the centre of the road as it can beforehand and turn right just inside the centre of the intersection, proceeding slowly (徐行).",
+    "explanation": "This is Kyosoku Chapter 8 Section 3 item 3(2)イ. When the small right turn is used, the rider may turn right on a green arrow light."
+   },
+   "vi": {
+    "question": "Tại nút giao thông trên đường có biển báo Cách rẽ phải của xe gắn máy (rẽ nhỏ) và tại các nút giao thông khác không áp dụng cách rẽ phải hai bước, xe gắn máy (原付) phải áp sát vào giữa đường từ trước và rẽ phải sát bên trong tâm nút giao thông, vừa đi vừa lưu thông chậm (徐行).",
+    "explanation": "Đúng theo Kyosoku Chương 8 Mục 3 điểm 3(2)イ. Khi rẽ phải kiểu rẽ nhỏ, người lái có thể rẽ phải theo đèn mũi tên xanh."
+   },
+   "pt": {
+    "question": "No cruzamento de uma via com a placa Conversão à direita de bicicletas motorizadas (giro curto), e nos demais cruzamentos em que não se aplica a conversão à direita em duas etapas, o ciclomotor deve aproximar-se previamente o máximo possível do centro da via e convergir à direita logo por dentro do centro do cruzamento, prosseguindo lentamente (徐行).",
+    "explanation": "É o Kyosoku, Capítulo 8, Seção 3, item 3(2)イ. Quando se usa o giro curto, é possível convergir à direita obedecendo à seta verde do semáforo."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 3,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-2-904",
+  "category": "通行区分",
+  "kp": "5-2-7",
+  "group": "T",
+  "source": "教則 第5章第2節7(2) / 第5章第3節6(2)",
+  "question_type": "text",
+  "qf": "QF-8章-A-N-05",
+  "question_ja": "二輪車も車であるから、歩道や路側帯や自転車道を通行してはならないが、道路に面した場所に出入りするために横切る場合などは別である。",
+  "answer": true,
+  "explanation_ja": "教則第5章第2節7(2)のとおりです。横切る場合でも、その直前で一時停止をし、歩行者の通行を妨げないようにしなければなりません（教則第5章第3節6(2)）。",
+  "i18n": {
+   "zh": {
+    "question": "二轮车（摩托车及轻型摩托车）也是车辆，因此不得在人行道、路侧带（路側帯）或自行车道上通行，但为了出入面向道路的场所而横穿时则另当别论。",
+    "explanation": "符合教则第5章第2节7(2)的规定。即使是横穿，也必须在其正前方暂停（一時停止），不得妨碍步行者通行（教则第5章第3节6(2)）。"
+   },
+   "en": {
+    "question": "A two-wheeled vehicle (motorcycles and general motorized bicycles) is a vehicle too, so it may not travel on a sidewalk, a side strip (路側帯) or a bicycle path, but it is otherwise when it crosses one to enter or leave a roadside facility.",
+    "explanation": "This is Kyosoku Chapter 5 Section 2 item 7(2). Even when crossing one, the rider must come to a complete stop (一時停止) just before it and must not obstruct the passage of pedestrians (Kyosoku Chapter 5 Section 3 item 6(2))."
+   },
+   "vi": {
+    "question": "Xe hai bánh (xe mô tô và xe gắn máy) cũng là phương tiện, nên không được đi trên vỉa hè, lề đường (路側帯) hay đường dành cho xe đạp, nhưng khi băng ngang để ra vào nơi ven đường thì lại khác.",
+    "explanation": "Đúng theo Kyosoku Chương 5 Mục 2 điểm 7(2). Ngay cả khi băng ngang, người lái cũng phải tạm dừng (一時停止) ngay trước đó và không được cản trở người đi bộ lưu thông (Kyosoku Chương 5 Mục 3 điểm 6(2))."
+   },
+   "pt": {
+    "question": "O veículo de duas rodas (motocicletas e bicicletas motorizadas) também é veículo, por isso não pode circular pela calçada, pela faixa lateral (路側帯) nem pela ciclovia, mas é diferente quando as atravessa para entrar ou sair de um estabelecimento à beira da via.",
+    "explanation": "É o Kyosoku, Capítulo 5, Seção 2, item 7(2). Mesmo ao atravessar, é obrigatório fazer parada obrigatória (一時停止) logo antes e não se deve obstruir a passagem dos pedestres (Kyosoku, Capítulo 5, Seção 3, item 6(2))."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K8-6-905",
+  "category": "二輪車",
+  "kp": "8-6-3",
+  "group": "T",
+  "source": "教則 第8章第6節3",
+  "question_type": "text",
+  "qf": "QF-8章-D-EX-01",
+  "question_ja": "側車付きの二輪車であっても、エンジンを切って押して歩いているときは、歩行者として扱われる。",
+  "answer": false,
+  "explanation_ja": "側車付きのものを押しているときは、エンジンを切っていても歩行者としては扱われません（教則第8章第6節3）。歩行者として扱われるのは、エンジンを掛けておらず、ほかの車をけん引しておらず、側車の付いていない二輪車を押して歩くときです。",
+  "i18n": {
+   "zh": {
+    "question": "即使是带侧座的二轮车（摩托车及轻型摩托车），只要熄火后推着步行，也按步行者对待。",
+    "explanation": "推着带侧座的二轮车时，即使已经熄火也不按步行者对待（教则第8章第6节3）。按步行者对待的是推着未开动发动机、未牵引其他车辆、且不带侧座的二轮车步行的情况。"
+   },
+   "en": {
+    "question": "Even a two-wheeled vehicle (motorcycles and general motorized bicycles) with a sidecar is treated as a pedestrian while it is being pushed with the engine switched off.",
+    "explanation": "A machine with a sidecar is not treated as a pedestrian when pushed, even with the engine switched off (Kyosoku Chapter 8 Section 6 item 3). What is treated as a pedestrian is pushing a two-wheeled vehicle whose engine is not running, which is not towing another vehicle and which has no sidecar."
+   },
+   "vi": {
+    "question": "Ngay cả xe hai bánh (xe mô tô và xe gắn máy) có thùng bên, khi tắt máy và dắt bộ thì cũng được coi là người đi bộ.",
+    "explanation": "Xe có thùng bên khi được dắt bộ thì không được coi là người đi bộ, dù đã tắt máy (Kyosoku Chương 8 Mục 6 điểm 3). Chỉ được coi là người đi bộ khi dắt bộ xe hai bánh không nổ máy, không kéo xe khác và không có thùng bên."
+   },
+   "pt": {
+    "question": "Mesmo um veículo de duas rodas (motocicletas e bicicletas motorizadas) com sidecar é tratado como pedestre enquanto é empurrado com o motor desligado.",
+    "explanation": "O veículo com sidecar não é tratado como pedestre ao ser empurrado, ainda que com o motor desligado (Kyosoku, Capítulo 8, Seção 6, item 3). É tratado como pedestre quem empurra um veículo de duas rodas com o motor desligado, que não esteja rebocando outro veículo e que não tenha sidecar."
+   }
+  },
+  "trap_type": "EX",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K8-1-906",
+  "category": "二輪車",
+  "kp": "8-1",
+  "group": "T",
+  "source": "教則 第8章第1節",
+  "question_type": "text",
+  "qf": "QF-8章-D-SC-01",
+  "question_ja": "二輪車は手軽な乗り物で運転操作も簡単なので、四輪車ほど慎重に運転しなくてもよい。",
+  "answer": false,
+  "explanation_ja": "二輪車は、体で安定を保ちながら走り、停止すれば安定を失うという構造上の特性を持つため、四輪車とは違った運転技術を必要とします。手軽な乗り物であると気を許さないで、常に慎重に運転しなければなりません（教則第8章第1節）。",
+  "i18n": {
+   "zh": {
+    "question": "二轮车（摩托车及轻型摩托车）是轻便的交通工具，驾驶操作也简单，因此不必像四轮车那样慎重驾驶。",
+    "explanation": "二轮车具有靠身体保持平衡行驶、一停下就失去平衡的构造特性，需要与四轮车不同的驾驶技术。不可因为它轻便就放松警惕，必须始终慎重驾驶（教则第8章第1节）。"
+   },
+   "en": {
+    "question": "A two-wheeled vehicle (motorcycles and general motorized bicycles) is a handy machine and easy to operate, so it need not be ridden as carefully as a four-wheeled vehicle.",
+    "explanation": "A two-wheeled vehicle runs while the rider holds it steady with the body and loses its stability once it stops, a structural feature that calls for riding skills different from those of a four-wheeled vehicle. The rider must not let the machine's handiness breed carelessness and must ride carefully at all times (Kyosoku Chapter 8 Section 1)."
+   },
+   "vi": {
+    "question": "Xe hai bánh (xe mô tô và xe gắn máy) là phương tiện gọn nhẹ và thao tác lái cũng đơn giản, nên không cần lái cẩn thận như xe bốn bánh.",
+    "explanation": "Xe hai bánh chạy được nhờ người lái giữ thăng bằng bằng cơ thể và mất thăng bằng ngay khi dừng lại, đặc tính cấu tạo này đòi hỏi kỹ thuật lái khác với xe bốn bánh. Không được chủ quan vì xe gọn nhẹ, mà phải luôn lái cẩn thận (Kyosoku Chương 8 Mục 1)."
+   },
+   "pt": {
+    "question": "O veículo de duas rodas (motocicletas e bicicletas motorizadas) é um meio de transporte prático e de operação simples, por isso não precisa ser conduzido com tanto cuidado quanto um veículo de quatro rodas.",
+    "explanation": "O veículo de duas rodas anda enquanto o condutor o mantém equilibrado com o corpo e perde a estabilidade assim que para, característica estrutural que exige uma técnica de pilotagem diferente da do veículo de quatro rodas. Não se deve baixar a guarda por ser um veículo prático: é preciso pilotar sempre com cuidado (Kyosoku, Capítulo 8, Seção 1)."
+   }
+  },
+  "trap_type": "SC",
+  "difficulty": 1,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K8-3-907",
+  "category": "二輪車",
+  "kp": "8-3-3",
+  "group": "T",
+  "source": "教則 第8章第3節3(2)ア",
+  "question_type": "text",
+  "qf": "QF-8章-D-SW-01",
+  "question_ja": "一般原動機付自転車が二段階の右折方法で右折するときも、自動車と同じように、あらかじめできるだけ道路の中央に寄り、交差点の中心のすぐ内側を徐行しながら通行する。",
+  "answer": false,
+  "explanation_ja": "二段階の右折方法では、あらかじめできるだけ道路の左端に寄り、青信号で徐行しながら交差点の向こう側までまっすぐに進み、その地点で止まって右に向きを変えます（教則第8章第3節3(2)ア）。道路の中央に寄るのは、小回りの右折方法です。",
+  "i18n": {
+   "zh": {
+    "question": "一般轻型摩托车以二阶段右拐弯方法右拐弯时，也和汽车一样，事先尽量靠道路中央，缓行（徐行）通过交叉路口中心的内侧。",
+    "explanation": "二阶段右拐弯方法是事先尽量靠道路左端，在绿灯时缓行笔直前进到交叉路口对面，在该处停下并把车头转向右方（教则第8章第3节3(2)ア）。靠道路中央行驶的是小转弯右拐弯方法。"
+   },
+   "en": {
+    "question": "When a general motorized bicycle (moped) makes a two-step right turn, it too moves over as close to the centre of the road as it can beforehand and passes just inside the centre of the intersection, proceeding slowly (徐行), exactly as a motor vehicle does.",
+    "explanation": "In the two-step right turn the rider moves over as close to the left edge of the road as possible beforehand, goes straight across to the far side of the intersection on a green light while proceeding slowly, stops there and turns to face right (Kyosoku Chapter 8 Section 3 item 3(2)ア). Moving over to the centre of the road is the small right turn."
+   },
+   "vi": {
+    "question": "Khi xe gắn máy (原付) rẽ phải bằng cách rẽ phải hai bước, xe cũng áp sát vào giữa đường từ trước và đi sát bên trong tâm nút giao thông, vừa đi vừa lưu thông chậm (徐行), giống như xe ô tô.",
+    "explanation": "Với cách rẽ phải hai bước, người lái áp sát vào mép trái đường từ trước, đi thẳng sang phía bên kia nút giao thông khi đèn xanh trong lúc lưu thông chậm, dừng tại đó rồi chuyển hướng sang phải (Kyosoku Chương 8 Mục 3 điểm 3(2)ア). Áp sát vào giữa đường là cách rẽ phải kiểu rẽ nhỏ."
+   },
+   "pt": {
+    "question": "Quando o ciclomotor faz a conversão à direita em duas etapas, ele também se aproxima previamente o máximo possível do centro da via e passa logo por dentro do centro do cruzamento, prosseguindo lentamente (徐行), tal como um automóvel.",
+    "explanation": "Na conversão à direita em duas etapas, o condutor aproxima-se previamente o máximo possível da borda esquerda da via, segue em frente até o lado oposto do cruzamento com o semáforo verde enquanto prossegue lentamente, para nesse ponto e vira para a direita (Kyosoku, Capítulo 8, Seção 3, item 3(2)ア). Aproximar-se do centro da via é o giro curto."
+   }
+  },
+  "trap_type": "SW",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K8-3-908",
+  "category": "二輪車",
+  "kp": "8-3-3",
+  "group": "T",
+  "source": "教則 第8章第3節3(2)",
+  "question_type": "text",
+  "qf": "QF-8章-D-SW-02",
+  "question_ja": "交通整理の行われていない交差点では、一般原動機付自転車は二段階の右折方法で右折しなければならない。",
+  "answer": false,
+  "explanation_ja": "二段階の右折方法によるのは、標識のある道路や車両通行帯が三つ以上ある道路で、信号機などにより交通整理の行われている交差点の場合です（教則第8章第3節3(2)ア）。交通整理の行われていない交差点では、小回りの右折方法で右折します（教則第8章第3節3(2)イ）。",
+  "i18n": {
+   "zh": {
+    "question": "在未进行交通整理的交叉路口，一般轻型摩托车必须以二阶段右拐弯方法右拐弯。",
+    "explanation": "采用二阶段右拐弯方法的，是设有标识（立牌）的道路或车辆通行带有三条以上的道路上、由信号灯等进行交通整理的交叉路口（教则第8章第3节3(2)ア）。在未进行交通整理的交叉路口，以小转弯右拐弯方法右拐弯（教则第8章第3节3(2)イ）。"
+   },
+   "en": {
+    "question": "At an intersection where traffic is not under traffic control, a general motorized bicycle (moped) must make a two-step right turn.",
+    "explanation": "The two-step right turn applies at intersections under traffic control by a traffic light or the like, on a road carrying the sign or on a road with three or more vehicle lanes (Kyosoku Chapter 8 Section 3 item 3(2)ア). At an intersection not under traffic control the rider makes a small right turn (Kyosoku Chapter 8 Section 3 item 3(2)イ)."
+   },
+   "vi": {
+    "question": "Tại nút giao thông không có điều khiển giao thông, xe gắn máy (原付) phải rẽ phải bằng cách rẽ phải hai bước.",
+    "explanation": "Cách rẽ phải hai bước áp dụng tại nút giao thông có điều khiển giao thông bằng đèn tín hiệu hoặc tương tự, trên đường có biển báo hoặc trên đường có từ ba làn đường trở lên (Kyosoku Chương 8 Mục 3 điểm 3(2)ア). Tại nút giao thông không có điều khiển giao thông, người lái rẽ phải kiểu rẽ nhỏ (Kyosoku Chương 8 Mục 3 điểm 3(2)イ)."
+   },
+   "pt": {
+    "question": "No cruzamento em que não há controle de trânsito, o ciclomotor deve fazer a conversão à direita em duas etapas.",
+    "explanation": "A conversão à direita em duas etapas vale nos cruzamentos sob controle de trânsito por semáforo ou equivalente, em via com a placa ou em via com três ou mais faixas de rolamento (Kyosoku, Capítulo 8, Seção 3, item 3(2)ア). No cruzamento sem controle de trânsito, o condutor faz o giro curto (Kyosoku, Capítulo 8, Seção 3, item 3(2)イ)."
+   }
+  },
+  "trap_type": "SW",
+  "difficulty": 3,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "KS-909",
+  "category": "標識",
+  "kp": "付3-1-35",
+  "group": "T",
+  "source": "教則 付表3（1）35の3 / 第8章第3節3(2)イ",
+  "question_type": "sign",
+  "qf": "QF-付3-A-N-10",
+  "image": {"sign_no": "327-9", "file": "327-9.svg", "license": "PD-Japan-exempt (標識令 catalogue reproduction)", "file_verified": true},
+  "question_ja": "この標識のある道路の交差点では、一般原動機付自転車は、あらかじめできるだけ道路の中央に寄り、交差点の中心のすぐ内側を徐行しながら右折しなければならない。",
+  "answer": true,
+  "explanation_ja": "教則付表3（1）35の3のとおりです。この標識は一般原動機付自転車の小回りの右折方法を指定するもので、この場合は青の矢印の信号に従って右折することができます。",
+  "i18n": {
+   "zh": {
+    "question": "在设有这个标识（立牌）的道路的交叉路口，一般轻型摩托车必须事先尽量靠道路中央，缓行（徐行）通过交叉路口中心的内侧右拐弯。",
+    "explanation": "符合教则附表3（1）35の3的规定。这个标识指定一般轻型摩托车的小转弯右拐弯方法，此时可以按绿色箭头信号灯右拐弯。"
+   },
+   "en": {
+    "question": "At an intersection on a road with this sign, a general motorized bicycle (moped) must move over as close to the centre of the road as it can beforehand and turn right just inside the centre of the intersection, proceeding slowly (徐行).",
+    "explanation": "This is Kyosoku Appendix 3(1) item 35-3. The sign designates the small right turn for general motorized bicycles, and in that case the rider may turn right on a green arrow light."
+   },
+   "vi": {
+    "question": "Tại nút giao thông trên đường có biển báo giao thông này, xe gắn máy (原付) phải áp sát vào giữa đường từ trước và rẽ phải sát bên trong tâm nút giao thông, vừa đi vừa lưu thông chậm (徐行).",
+    "explanation": "Đúng theo Kyosoku Phụ lục 3(1) mục 35-3. Biển này chỉ định cách rẽ phải kiểu rẽ nhỏ cho xe gắn máy, và khi đó người lái có thể rẽ phải theo đèn mũi tên xanh."
+   },
+   "pt": {
+    "question": "No cruzamento de uma via com esta placa, o ciclomotor deve aproximar-se previamente o máximo possível do centro da via e convergir à direita logo por dentro do centro do cruzamento, prosseguindo lentamente (徐行).",
+    "explanation": "É o Kyosoku, Anexo 3(1), item 35-3. A placa designa o giro curto para ciclomotores e, nesse caso, é possível convergir à direita obedecendo à seta verde do semáforo."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 3,
+  "exam_scope": "仮免|本免"
+ },
+ {
+  "id": "KS-910",
+  "category": "標識",
+  "kp": "付3-1-11",
+  "group": "T",
+  "source": "教則 付表3（1）11 / 第8章第1節4(1)",
+  "question_type": "sign",
+  "qf": "QF-付3-D-SS-10",
+  "image": {"sign_no": "310-2", "file": "310-2.svg", "license": "PD-Japan-exempt (標識令 catalogue reproduction)", "file_verified": true},
+  "question_ja": "この標識は大型自動二輪車と普通自動二輪車の二人乗りによる通行を禁止するものであるから、一般原動機付自転車であれば、この標識のある道路を二人乗りで通行してもよい。",
+  "answer": false,
+  "explanation_ja": "一般原動機付自転車は、この標識のあるなしにかかわらず、二人乗りをしてはいけません（教則第8章第1節4(1)）。この標識が禁止しているのは、大型自動二輪車と普通自動二輪車の二人乗りによる通行です（教則付表3（1）11）。",
+  "i18n": {
+   "zh": {
+    "question": "这个标识（立牌）禁止大型摩托车和普通摩托车双人乘坐通行，因此一般轻型摩托车可以双人乘坐在设有这个标识的道路上通行。",
+    "explanation": "一般轻型摩托车无论有没有这个标识，都不得二人同乘（教则第8章第1节4(1)）。这个标识禁止的是大型摩托车和普通摩托车的双人乘坐通行（教则附表3（1）11）。"
+   },
+   "en": {
+    "question": "This sign forbids large motorcycles and ordinary motorcycles to travel carrying a passenger, so a general motorized bicycle (moped) may travel on a road with this sign with a passenger aboard.",
+    "explanation": "A general motorized bicycle may not carry a passenger at all, whether or not this sign is there (Kyosoku Chapter 8 Section 1 item 4(1)). What the sign forbids is travel with a passenger by large motorcycles and ordinary motorcycles (Kyosoku Appendix 3(1) item 11)."
+   },
+   "vi": {
+    "question": "Biển báo giao thông này cấm xe mô tô cỡ lớn và xe mô tô thường chở hai người, nên xe gắn máy (原付) thì có thể chở hai người đi trên đường có biển này.",
+    "explanation": "Xe gắn máy không được chở hai người, bất kể có biển này hay không (Kyosoku Chương 8 Mục 1 điểm 4(1)). Biển này cấm xe mô tô cỡ lớn và xe mô tô thường lưu thông khi chở hai người (Kyosoku Phụ lục 3(1) mục 11)."
+   },
+   "pt": {
+    "question": "Esta placa proíbe motocicletas de grande porte e motocicletas comuns de circular com passageiro, por isso o ciclomotor pode circular com passageiro na via onde ela está.",
+    "explanation": "O ciclomotor não pode transportar passageiro, haja ou não esta placa (Kyosoku, Capítulo 8, Seção 1, item 4(1)). O que a placa proíbe é a circulação com passageiro de motocicletas de grande porte e de motocicletas comuns (Kyosoku, Anexo 3(1), item 11)."
+   }
+  },
+  "trap_type": "SS",
+  "difficulty": 3,
+  "exam_scope": "仮免|本免"
+ },
+ {
+  "id": "KS-911",
+  "category": "標識",
+  "kp": "付3-1-35",
+  "group": "T",
+  "source": "教則 付表3（1）35の2 / 第8章第3節3(2)ア",
+  "question_type": "sign",
+  "qf": "QF-付3-D-SW-01",
+  "image": {"sign_no": "327-8", "file": "327-8.svg", "license": "PD-Japan-exempt (標識令 catalogue reproduction)", "file_verified": true},
+  "question_ja": "この標識がある交差点で右折しようとする一般原動機付自転車の運転者は、道路の中央に寄り、交差点の中心のすぐ内側を徐行しながら曲がらなければならない。",
+  "answer": false,
+  "explanation_ja": "この標識は一般原動機付自転車の二段階の右折方法を指定するものですから、あらかじめできるだけ道路の左端に寄らなければなりません（教則付表3（1）35の2、第8章第3節3(2)ア）。道路の中央に寄るのは、小回りの右折方法です。",
+  "i18n": {
+   "zh": {
+    "question": "在设有这个标识（立牌）的交叉路口要右拐弯的一般轻型摩托车驾驶人，必须靠向道路中央，沿着交叉路口中心的内侧缓行（徐行）拐弯。",
+    "explanation": "这个标识指定一般轻型摩托车的二阶段右拐弯方法，因此必须事先尽量靠道路左端（教则附表3（1）35の2、第8章第3节3(2)ア）。靠道路中央的是小转弯右拐弯方法。"
+   },
+   "en": {
+    "question": "A rider of a general motorized bicycle (moped) about to turn right at an intersection with this sign must move over to the centre of the road and turn while proceeding slowly (徐行) just inside the centre of the intersection.",
+    "explanation": "This sign designates the two-step right turn for general motorized bicycles, so the rider must move over as close to the left edge of the road as possible beforehand (Kyosoku Appendix 3(1) item 35-2 and Chapter 8 Section 3 item 3(2)ア). Moving over to the centre of the road is the small right turn."
+   },
+   "vi": {
+    "question": "Người lái xe gắn máy (原付) định rẽ phải tại nút giao thông có biển báo giao thông này phải nép vào giữa đường và rẽ trong khi lưu thông chậm (徐行) ngay phía trong tâm của nút giao thông.",
+    "explanation": "Biển này chỉ định cách rẽ phải hai bước cho xe gắn máy, nên người lái phải áp sát vào mép trái đường từ trước (Kyosoku Phụ lục 3(1) mục 35-2 và Chương 8 Mục 3 điểm 3(2)ア). Áp sát vào giữa đường là cách rẽ phải kiểu rẽ nhỏ."
+   },
+   "pt": {
+    "question": "O condutor de ciclomotor que vai convergir à direita num cruzamento com esta placa deve aproximar-se do centro da via e fazer a curva prosseguindo lentamente (徐行) logo por dentro do centro do cruzamento.",
+    "explanation": "Esta placa designa a conversão à direita em duas etapas para ciclomotores, por isso o condutor deve aproximar-se previamente o máximo possível da borda esquerda da via (Kyosoku, Anexo 3(1), item 35-2, e Capítulo 8, Seção 3, item 3(2)ア). Aproximar-se do centro da via é o giro curto."
+   }
+  },
+  "trap_type": "SW",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免"
+ }
+]

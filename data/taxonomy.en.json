@@ -1,197 +1,232 @@
 {
-  "lang": "en",
-  "source": "交通の方法に関する教則（令和6年9月4日 国家公安委員会告示第37号）目次、および道路交通法",
-  "chapters": [
+ "lang": "en",
+ "source": "交通の方法に関する教則（令和6年9月4日 国家公安委員会告示第37号）目次、および道路交通法",
+ "chapters": [
+  {
+   "code": "1",
+   "kind": "kyosoku",
+   "name": "Rules shared by pedestrians and drivers",
+   "sections": [
     {
-      "code": "1",
-      "kind": "kyosoku",
-      "name": "Rules shared by pedestrians and drivers",
-      "sections": [
-        {
-          "code": "1-1",
-          "name": "Basic attitude"
-        },
-        {
-          "code": "1-2",
-          "name": "Obeying traffic lights, road signs and road markings"
-        },
-        {
-          "code": "1-3",
-          "name": "Obeying instructions from police officers"
-        },
-        {
-          "code": "1-4",
-          "name": "What must not be done on the road"
-        }
-      ]
+     "code": "1-1",
+     "name": "Basic attitude"
     },
     {
-      "code": "2",
-      "kind": "kyosoku",
-      "name": "Rules for pedestrians",
-      "sections": [
-        {
-          "code": "2-2",
-          "name": "Where pedestrians walk"
-        },
-        {
-          "code": "2-3",
-          "name": "How to cross the road"
-        }
-      ]
+     "code": "1-2",
+     "name": "Obeying traffic lights, road signs and road markings"
     },
     {
-      "code": "3",
-      "kind": "kyosoku",
-      "name": "Rules for riders of specified small motorized bicycles and bicycles",
-      "sections": [
-        {
-          "code": "3-1",
-          "name": "Riding a specified small motorized bicycle correctly"
-        },
-        {
-          "code": "3-2",
-          "name": "Riding a bicycle correctly"
-        },
-        {
-          "code": "3-3",
-          "name": "Riding safely"
-        }
-      ]
+     "code": "1-3",
+     "name": "Obeying instructions from police officers"
     },
     {
-      "code": "4",
-      "kind": "kyosoku",
-      "name": "Before driving a motor vehicle or a general motorized bicycle",
-      "sections": [
-        {
-          "code": "4-1",
-          "name": "Care to take when driving"
-        },
-        {
-          "code": "4-2",
-          "name": "How the driver's licence works"
-        }
-      ]
-    },
-    {
-      "code": "5",
-      "kind": "kyosoku",
-      "name": "How to drive a motor vehicle or a general motorized bicycle",
-      "sections": [
-        {
-          "code": "5-1",
-          "name": "Starting off safely"
-        },
-        {
-          "code": "5-2",
-          "name": "Where a motor vehicle travels"
-        },
-        {
-          "code": "5-3",
-          "name": "Protecting pedestrians"
-        },
-        {
-          "code": "5-4",
-          "name": "Safe speed and following distance"
-        },
-        {
-          "code": "5-5",
-          "name": "Changing lanes and related manoeuvres"
-        },
-        {
-          "code": "5-6",
-          "name": "Overtaking and related rules"
-        },
-        {
-          "code": "5-7",
-          "name": "How to pass through an intersection"
-        },
-        {
-          "code": "5-9",
-          "name": "Driving an automatic transmission vehicle"
-        }
-      ]
-    },
-    {
-      "code": "6",
-      "kind": "kyosoku",
-      "name": "Driving in dangerous places",
-      "sections": [
-        {
-          "code": "6-1",
-          "name": "Railway crossings"
-        },
-        {
-          "code": "6-2",
-          "name": "Hills and curves"
-        }
-      ]
-    },
-    {
-      "code": "8",
-      "kind": "kyosoku",
-      "name": "How to ride a two-wheeled vehicle",
-      "sections": [
-        {
-          "code": "8-1",
-          "name": "What a two-wheeled vehicle rider must know"
-        },
-        {
-          "code": "8-2",
-          "name": "Riding correctly"
-        },
-        {
-          "code": "8-3",
-          "name": "Riding safely"
-        },
-        {
-          "code": "8-4",
-          "name": "Using the brakes"
-        }
-      ]
-    },
-    {
-      "code": "付3",
-      "kind": "appendix",
-      "name": "Appendix 3 — Types and meanings of road signs and road markings",
-      "sections": [
-        {
-          "code": "付3-1",
-          "name": "Types and meanings of road signs"
-        },
-        {
-          "code": "付3-2",
-          "name": "Types and meanings of road markings"
-        }
-      ]
-    },
-    {
-      "code": "法",
-      "kind": "law",
-      "name": "Road Traffic Act — driver's licence",
-      "sections": [
-        {
-          "code": "法84-5",
-          "name": "Learner's permit (仮免)"
-        },
-        {
-          "code": "法87-1",
-          "name": "When you may drive on a learner's permit"
-        },
-        {
-          "code": "法87-2",
-          "name": "The supervising passenger and the practice sign"
-        },
-        {
-          "code": "法88-1",
-          "name": "Who may not hold a licence"
-        },
-        {
-          "code": "法96",
-          "name": "How long a learner's permit lasts"
-        }
-      ]
+     "code": "1-4",
+     "name": "What must not be done on the road"
     }
-  ]
+   ]
+  },
+  {
+   "code": "2",
+   "kind": "kyosoku",
+   "name": "Rules for pedestrians",
+   "sections": [
+    {
+     "code": "2-2",
+     "name": "Where pedestrians walk"
+    },
+    {
+     "code": "2-3",
+     "name": "How to cross the road"
+    }
+   ]
+  },
+  {
+   "code": "3",
+   "kind": "kyosoku",
+   "name": "Rules for riders of specified small motorized bicycles and bicycles",
+   "sections": [
+    {
+     "code": "3-1",
+     "name": "Riding a specified small motorized bicycle correctly"
+    },
+    {
+     "code": "3-2",
+     "name": "Riding a bicycle correctly"
+    },
+    {
+     "code": "3-3",
+     "name": "Riding safely"
+    }
+   ]
+  },
+  {
+   "code": "4",
+   "kind": "kyosoku",
+   "name": "Before driving a motor vehicle or a general motorized bicycle",
+   "sections": [
+    {
+     "code": "4-1",
+     "name": "Care to take when driving"
+    },
+    {
+     "code": "4-2",
+     "name": "How the driver's licence works"
+    },
+    {
+     "code": "4-4",
+     "name": "Carrying people and loads"
+    }
+   ]
+  },
+  {
+   "code": "5",
+   "kind": "kyosoku",
+   "name": "How to drive a motor vehicle or a general motorized bicycle",
+   "sections": [
+    {
+     "code": "5-1",
+     "name": "Starting off safely"
+    },
+    {
+     "code": "5-2",
+     "name": "Where a motor vehicle travels"
+    },
+    {
+     "code": "5-3",
+     "name": "Protecting pedestrians"
+    },
+    {
+     "code": "5-4",
+     "name": "Safe speed and following distance"
+    },
+    {
+     "code": "5-5",
+     "name": "Changing lanes and related manoeuvres"
+    },
+    {
+     "code": "5-6",
+     "name": "Overtaking and related rules"
+    },
+    {
+     "code": "5-7",
+     "name": "How to pass through an intersection"
+    },
+    {
+     "code": "5-8",
+     "name": "Parking and stopping"
+    },
+    {
+     "code": "5-9",
+     "name": "Driving an automatic transmission vehicle"
+    }
+   ]
+  },
+  {
+   "code": "6",
+   "kind": "kyosoku",
+   "name": "Driving in dangerous places",
+   "sections": [
+    {
+     "code": "6-1",
+     "name": "Railway crossings"
+    },
+    {
+     "code": "6-2",
+     "name": "Hills and curves"
+    },
+    {
+     "code": "6-3",
+     "name": "At night"
+    }
+   ]
+  },
+  {
+   "code": "8",
+   "kind": "kyosoku",
+   "name": "How to ride a two-wheeled vehicle",
+   "sections": [
+    {
+     "code": "8-1",
+     "name": "What a two-wheeled vehicle rider must know"
+    },
+    {
+     "code": "8-2",
+     "name": "Riding correctly"
+    },
+    {
+     "code": "8-3",
+     "name": "Riding safely"
+    },
+    {
+     "code": "8-4",
+     "name": "Using the brakes"
+    },
+    {
+     "code": "8-6",
+     "name": "Other things a rider must watch for"
+    }
+   ]
+  },
+  {
+   "code": "11",
+   "kind": "kyosoku",
+   "name": "What owners, users and safety managers must know",
+   "sections": [
+    {
+     "code": "11-1",
+     "name": "A vehicle owner's duties"
+    }
+   ]
+  },
+  {
+   "code": "付3",
+   "kind": "appendix",
+   "name": "Appendix 3 — Types and meanings of road signs and road markings",
+   "sections": [
+    {
+     "code": "付3-1",
+     "name": "Types and meanings of road signs"
+    },
+    {
+     "code": "付3-2",
+     "name": "Types and meanings of road markings"
+    }
+   ]
+  },
+  {
+   "code": "法",
+   "kind": "law",
+   "name": "Road Traffic Act — driver's licence",
+   "sections": [
+    {
+     "code": "法64-1",
+     "name": "Driving without a licence"
+    },
+    {
+     "code": "法84-5",
+     "name": "Learner's permit (仮免)"
+    },
+    {
+     "code": "法87-1",
+     "name": "When you may drive on a learner's permit"
+    },
+    {
+     "code": "法87-2",
+     "name": "The supervising passenger and the practice sign"
+    },
+    {
+     "code": "法88-1",
+     "name": "Who may not hold a licence"
+    },
+    {
+     "code": "法96",
+     "name": "How long a learner's permit lasts"
+    },
+    {
+     "code": "法103-1",
+     "name": "Revocation and suspension of a licence"
+    }
+   ]
+  }
+ ]
 }

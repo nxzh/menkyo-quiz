@@ -1,0 +1,662 @@
+[
+ {
+  "id": "K1-1-912",
+  "category": "運転者の心得",
+  "kp": "1-1-2",
+  "group": "U",
+  "source": "教則 第1章第1節2(1)、2(2)",
+  "question_type": "text",
+  "qf": "QF-1-1-A-N-01",
+  "question_ja": "道路を通行するときは、自分の通行の利便だけを考えるのではなく、周りの歩行者や車の動きに注意し、相手の立場について思いやりの気持ちを持って通行することが大切である。",
+  "answer": true,
+  "explanation_ja": "教則第1章第1節2(1)、2(2)のとおりです。ほかの人々が安全に通行できるように配慮することは、運転者や歩行者としての社会的責任でもあります。",
+  "i18n": {
+   "zh": {
+    "question": "在道路上通行时，重要的是不只考虑自己通行的方便，还要注意周围步行者和车辆的动向，站在对方的立场上体谅对方。",
+    "explanation": "符合教则第1章第1节2(1)、2(2)的规定。为他人能够安全通行而加以顾及，也是作为驾驶员和步行者的社会责任。"
+   },
+   "en": {
+    "question": "When using the road it is important not to think only of your own convenience, but to watch the movements of the pedestrians and vehicles around you and to travel with consideration for the other person's position.",
+    "explanation": "This is Kyosoku Chapter 1 Section 1 items 2(1) and 2(2). Taking care that other people can travel safely is also a social responsibility of a driver and of a pedestrian."
+   },
+   "vi": {
+    "question": "Khi lưu thông trên đường, điều quan trọng là không chỉ nghĩ đến sự thuận tiện của riêng mình, mà còn chú ý đến chuyển động của người đi bộ và các xe xung quanh và đi lại với sự thông cảm cho vị trí của người khác.",
+    "explanation": "Đúng theo Kyosoku Chương 1 Mục 1 điểm 2(1) và 2(2). Quan tâm để người khác lưu thông an toàn cũng là trách nhiệm xã hội của người lái xe và của người đi bộ."
+   },
+   "pt": {
+    "question": "Ao usar a via é importante não pensar apenas na própria conveniência, mas observar os movimentos dos pedestres e dos veículos ao redor e circular com consideração pela situação do outro.",
+    "explanation": "É o Kyosoku, Capítulo 1, Seção 1, itens 2(1) e 2(2). Zelar para que as outras pessoas possam circular com segurança também é uma responsabilidade social do condutor e do pedestre."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 1,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K1-1-913",
+  "category": "運転者の心得",
+  "kp": "1-1-1",
+  "group": "U",
+  "source": "教則 第1章第1節1",
+  "question_type": "text",
+  "qf": "QF-1-1-D-EI-01",
+  "question_ja": "運転に自信があり、交通事故を起こすおそれはないと自分で判断できるときは、交通規則に従わなくてもよい。",
+  "answer": false,
+  "explanation_ja": "交通規則は、みんなが道路を安全、円滑に通行する上で守るべき共通の約束事として決められたものです。自信があるかどうかにかかわらず、交通規則を守ることは社会人としての基本的な責務です（教則第1章第1節1）。",
+  "i18n": {
+   "zh": {
+    "question": "如果对自己的驾驶有信心，并且自己判断不会引发交通事故，就可以不遵守交通规则。",
+    "explanation": "交通规则是为了让大家安全、顺畅地在道路上通行而定下的、必须共同遵守的约定。无论有没有信心，遵守交通规则都是作为社会一员的基本责任（教则第1章第1节1）。"
+   },
+   "en": {
+    "question": "When you are confident of your driving and judge for yourself that there is no risk of causing a traffic accident, you need not follow the traffic rules.",
+    "explanation": "The traffic rules are the common promises everyone must keep so that all road users can travel safely and smoothly. Confident or not, keeping the traffic rules is a basic duty of a member of society (Kyosoku Chapter 1 Section 1 item 1)."
+   },
+   "vi": {
+    "question": "Khi tự tin vào tay lái của mình và tự đánh giá rằng không có nguy cơ gây tai nạn giao thông thì có thể không cần tuân thủ luật giao thông.",
+    "explanation": "Luật giao thông là những quy ước chung mà mọi người phải giữ để ai cũng lưu thông an toàn và thông suốt trên đường. Dù tự tin hay không, tuân thủ luật giao thông là trách nhiệm cơ bản của một thành viên trong xã hội (Kyosoku Chương 1 Mục 1 điểm 1)."
+   },
+   "pt": {
+    "question": "Quando se tem confiança na própria direção e se julga por conta própria que não há risco de causar um acidente de trânsito, não é preciso seguir as regras de trânsito.",
+    "explanation": "As regras de trânsito são os compromissos comuns que todos devem cumprir para que todos circulem com segurança e fluidez na via. Com ou sem confiança, cumprir as regras de trânsito é um dever básico de quem vive em sociedade (Kyosoku, Capítulo 1, Seção 1, item 1)."
+   }
+  },
+  "trap_type": "EI",
+  "difficulty": 1,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K1-2-914",
+  "category": "信号",
+  "kp": "1-2-1",
+  "group": "U",
+  "source": "教則 付表1（1）",
+  "question_type": "text",
+  "qf": "QF-1-2-D-SC-01",
+  "question_ja": "黄色の灯火の点滅を示す信号機のある交差点では、車は徐行して進行しなければならない。",
+  "answer": false,
+  "explanation_ja": "黄色の灯火の点滅は、歩行者や車や路面電車が他の交通に注意して進むことができることを意味しています。徐行しなければならないという意味ではありません（教則付表1（1））。",
+  "i18n": {
+   "zh": {
+    "question": "在设有显示黄灯闪烁的信号灯的交叉路口，车辆必须缓行（徐行）通过。",
+    "explanation": "黄灯闪烁的意思是，步行者、车辆和路面电车可以注意其他交通后前进。它并不表示必须缓行（教则附表1（1））。"
+   },
+   "en": {
+    "question": "At an intersection with a traffic light showing a flashing yellow light, a vehicle must proceed slowly (徐行).",
+    "explanation": "A flashing yellow light means that pedestrians, vehicles and streetcars (trams) may proceed while paying attention to other traffic. It does not mean that they must proceed slowly (Kyosoku Appendix 1(1))."
+   },
+   "vi": {
+    "question": "Tại nút giao thông có đèn tín hiệu đang là đèn vàng nhấp nháy, xe phải lưu thông chậm (徐行) khi đi qua.",
+    "explanation": "Đèn vàng nhấp nháy có nghĩa là người đi bộ, xe và tàu điện mặt đất có thể đi tiếp trong khi chú ý đến các phương tiện khác. Nó không có nghĩa là bắt buộc phải lưu thông chậm (Kyosoku Phụ lục 1(1))."
+   },
+   "pt": {
+    "question": "No cruzamento com um semáforo mostrando luz amarela intermitente, o veículo deve prosseguir lentamente (徐行).",
+    "explanation": "A luz amarela intermitente significa que pedestres, veículos e bondes podem prosseguir com atenção ao restante do trânsito. Ela não significa que seja obrigatório prosseguir lentamente (Kyosoku, Anexo 1(1))."
+   }
+  },
+  "trap_type": "SC",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K1-4-915",
+  "category": "道路でしてはいけないこと",
+  "kp": "1-4-1",
+  "group": "U",
+  "source": "教則 第1章第4節1(8)",
+  "question_type": "text",
+  "qf": "QF-1-4-A-N-01",
+  "question_ja": "路面が凍り付くおそれのあるときに、道路に水をまいてはいけない。",
+  "answer": true,
+  "explanation_ja": "教則第1章第4節1(8)のとおりです。道路上でこのような危険なことをしてはいけません。",
+  "i18n": {
+   "zh": {
+    "question": "在路面有可能结冰的时候，不得向道路上洒水。",
+    "explanation": "符合教则第1章第4节1(8)的规定。不得在道路上做这类危险的事。"
+   },
+   "en": {
+    "question": "You must not sprinkle water on the road when the surface is liable to freeze.",
+    "explanation": "This is Kyosoku Chapter 1 Section 4 item 1(8). Dangerous acts of this kind must not be done on the road."
+   },
+   "vi": {
+    "question": "Không được tưới nước lên đường khi mặt đường có nguy cơ đóng băng.",
+    "explanation": "Đúng theo Kyosoku Chương 1 Mục 4 điểm 1(8). Không được làm những việc nguy hiểm như vậy trên đường."
+   },
+   "pt": {
+    "question": "Não se deve jogar água na via quando houver risco de a superfície congelar.",
+    "explanation": "É o Kyosoku, Capítulo 1, Seção 4, item 1(8). Atos perigosos desse tipo não podem ser praticados na via."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K1-4-916",
+  "category": "道路でしてはいけないこと",
+  "kp": "1-4-1",
+  "group": "U",
+  "source": "教則 第1章第4節1(1)",
+  "question_type": "text",
+  "qf": "QF-1-4-A-N-02",
+  "question_ja": "交通の妨げとなるような危険な行為は道路上でしてはならず、酒に酔ってふらついたり、道路に座り込んだり寝そべったりすることもこれにあたる。",
+  "answer": true,
+  "explanation_ja": "教則第1章第4節1(1)のとおりです。道路は多数の人や車が通行するところですから、交通の妨げとなる危険な行為をしてはいけません。",
+  "i18n": {
+   "zh": {
+    "question": "妨碍交通的危险行为不得在道路上进行，因醉酒而摇摇晃晃、在道路上坐下或躺卧也属于这类行为。",
+    "explanation": "符合教则第1章第4节1(1)的规定。道路是众多行人和车辆通行的地方，不得做妨碍交通的危险行为。"
+   },
+   "en": {
+    "question": "Dangerous acts that obstruct traffic must not be done on the road, and staggering about drunk, sitting down in the roadway or lying down in it count as such acts.",
+    "explanation": "This is Kyosoku Chapter 1 Section 4 item 1(1). The road is a place where many people and vehicles travel, so dangerous acts that obstruct traffic must not be done."
+   },
+   "vi": {
+    "question": "Không được thực hiện trên đường những hành vi nguy hiểm gây cản trở giao thông, và việc say rượu đi loạng choạng, ngồi bệt xuống đường hay nằm ra đường cũng thuộc loại hành vi đó.",
+    "explanation": "Đúng theo Kyosoku Chương 1 Mục 4 điểm 1(1). Đường là nơi nhiều người và nhiều xe cùng lưu thông, nên không được làm những việc nguy hiểm gây cản trở giao thông."
+   },
+   "pt": {
+    "question": "Atos perigosos que atrapalham o trânsito não podem ser praticados na via, e cambalear embriagado, sentar-se na pista ou deitar-se nela também são atos desse tipo.",
+    "explanation": "É o Kyosoku, Capítulo 1, Seção 4, item 1(1). A via é um lugar por onde circulam muitas pessoas e veículos, por isso não se devem praticar atos perigosos que atrapalhem o trânsito."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 1,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-3-917",
+  "category": "運転者の心得",
+  "kp": "5-3-10",
+  "group": "U",
+  "source": "教則 第5章第3節10 / 道交法第71条第5号の3",
+  "question_type": "text",
+  "qf": "QF-1-4-A-N-03",
+  "question_ja": "著しく他人に迷惑を及ぼす騒音を生じさせるような急発進、急加速や空ぶかしをしてはいけない。",
+  "answer": true,
+  "explanation_ja": "教則第5章第3節10のとおりです。正当な理由がないのにこのような運転をすることは、道交法第71条第5号の3でも禁じられています。",
+  "i18n": {
+   "zh": {
+    "question": "不得以产生严重扰民噪声的方式急起步、急加速或空轰油门。",
+    "explanation": "符合教则第5章第3节10的规定。在没有正当理由的情况下这样驾驶，道路交通法第71条第5号の3也予以禁止。"
+   },
+   "en": {
+    "question": "You must not start off suddenly, accelerate suddenly or rev the engine in a way that makes noise seriously disturbing to other people.",
+    "explanation": "This is Kyosoku Chapter 5 Section 3 item 10. Driving that way without a legitimate reason is forbidden by Road Traffic Act Article 71 item 5-3 as well."
+   },
+   "vi": {
+    "question": "Không được khởi hành đột ngột, tăng tốc đột ngột hay rú ga theo cách gây tiếng ồn làm phiền nghiêm trọng đến người khác.",
+    "explanation": "Đúng theo Kyosoku Chương 5 Mục 3 điểm 10. Lái xe như vậy mà không có lý do chính đáng cũng bị cấm theo Luật Giao thông đường bộ Điều 71 khoản 5-3."
+   },
+   "pt": {
+    "question": "Não se deve arrancar bruscamente, acelerar bruscamente nem acelerar o motor em ponto morto de modo a produzir ruído que incomode seriamente outras pessoas.",
+    "explanation": "É o Kyosoku, Capítulo 5, Seção 3, item 10. Dirigir assim sem motivo legítimo também é proibido pelo artigo 71, item 5-3, da Lei de Trânsito."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-1-918",
+  "category": "運転者の心得",
+  "kp": "5-1-2",
+  "group": "U",
+  "source": "道交法第71条第5号の5 / 教則 第5章第1節2(4)",
+  "question_type": "text",
+  "qf": "QF-1-4-A-N-04",
+  "question_ja": "走行中は、手で保持しなければ通話することができない携帯電話を通話のために使用してはならないが、手で保持しなくても通話できるハンズフリー装置を使う通話は、この禁止には当たらない。",
+  "answer": true,
+  "explanation_ja": "禁じられているのは、その全部又は一部を手で保持しなければ送信も受信もできない無線通話装置を、通話のために使用することです（道交法第71条第5号の5）。ハンズフリー装置はこれに当たりませんが、通話に気を取られると危険ですから、運転する前に電源を切るなどの配慮が必要です（教則第5章第1節2(4)）。",
+  "i18n": {
+   "zh": {
+    "question": "行驶中不得为通话而使用必须用手拿着才能通话的手机，但使用不必用手拿着也能通话的免提装置进行通话，不属于这一禁止范围。",
+    "explanation": "被禁止的是为通话而使用那种必须用手拿着其全部或一部分才能收发的无线通话装置（道路交通法第71条第5号の5）。免提装置不属于此类，但通话会分散注意力而有危险，因此有必要在驾驶前关机等加以注意（教则第5章第1节2(4)）。"
+   },
+   "en": {
+    "question": "While the vehicle is moving you may not use for a call a mobile phone that has to be held in the hand to talk on, but a call made with a hands-free device that works without being held in the hand does not fall under that prohibition.",
+    "explanation": "What is forbidden is using for a call a wireless call device that can neither transmit nor receive unless all or part of it is held in the hand (Road Traffic Act Article 71 item 5-5). A hands-free device is not such a device, but a call still draws attention away and is dangerous, so it is wise to switch the phone off before driving (Kyosoku Chapter 5 Section 1 item 2(4))."
+   },
+   "vi": {
+    "question": "Khi xe đang chạy, không được dùng để gọi điện chiếc điện thoại di động phải cầm trên tay mới nói chuyện được, nhưng cuộc gọi dùng thiết bị rảnh tay không cần cầm trên tay thì không thuộc điều cấm này.",
+    "explanation": "Điều bị cấm là dùng để gọi điện một thiết bị đàm thoại vô tuyến mà nếu không cầm toàn bộ hoặc một phần trên tay thì không thể truyền cũng không thể nhận (Luật Giao thông đường bộ Điều 71 khoản 5-5). Thiết bị rảnh tay không thuộc loại đó, nhưng cuộc gọi vẫn làm phân tán chú ý và gây nguy hiểm, nên cần tắt nguồn điện thoại trước khi lái xe (Kyosoku Chương 5 Mục 1 điểm 2(4))."
+   },
+   "pt": {
+    "question": "Com o veículo em movimento não se pode usar para falar um celular que precise ser segurado na mão, mas a chamada feita com um dispositivo viva-voz que funciona sem ser segurado na mão não se enquadra nessa proibição.",
+    "explanation": "O que é proibido é usar para uma chamada um aparelho de comunicação sem fio que não consiga transmitir nem receber sem que todo ele ou parte dele seja segurado na mão (artigo 71, item 5-5, da Lei de Trânsito). O dispositivo viva-voz não é desse tipo, mas a chamada ainda desvia a atenção e é perigosa, por isso convém desligar o aparelho antes de dirigir (Kyosoku, Capítulo 5, Seção 1, item 2(4))."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 3,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K1-4-919",
+  "category": "道路でしてはいけないこと",
+  "kp": "1-4-1",
+  "group": "U",
+  "source": "教則 第1章第4節1(5)",
+  "question_type": "text",
+  "qf": "QF-1-4-D-EI-01",
+  "question_ja": "車から紙くずやたばこの吸い殻を投げ捨てても、量が少なく交通の妨げにならないのであれば差し支えない。",
+  "answer": false,
+  "explanation_ja": "量が少なくても、車からたばこの吸い殻、紙くず、空きかんなどを投げ捨ててはいけません（教則第1章第4節1(5)）。体や物を車の外に出すことも同じです。",
+  "i18n": {
+   "zh": {
+    "question": "从车上扔弃纸屑或烟头，只要量少、不妨碍交通，就没有关系。",
+    "explanation": "即使量少，也不得从车上扔弃烟头、纸屑、空罐等（教则第1章第4节1(5)）。把身体或物品伸出、探出车外也是一样。"
+   },
+   "en": {
+    "question": "Throwing scraps of paper or cigarette ends out of a vehicle is all right as long as the amount is small and it does not obstruct traffic.",
+    "explanation": "However small the amount, cigarette ends, scraps of paper, empty cans and the like must not be thrown out of a vehicle (Kyosoku Chapter 1 Section 4 item 1(5)). The same applies to putting your body or an object out of the vehicle."
+   },
+   "vi": {
+    "question": "Ném giấy vụn hay đầu mẩu thuốc lá ra khỏi xe cũng không sao, miễn là lượng ít và không cản trở giao thông.",
+    "explanation": "Dù lượng ít đến đâu, cũng không được ném đầu mẩu thuốc lá, giấy vụn, lon rỗng và những thứ tương tự ra khỏi xe (Kyosoku Chương 1 Mục 4 điểm 1(5)). Thò người hay đồ vật ra ngoài xe cũng vậy."
+   },
+   "pt": {
+    "question": "Jogar pedaços de papel ou pontas de cigarro para fora do veículo não tem problema, desde que a quantidade seja pequena e não atrapalhe o trânsito.",
+    "explanation": "Por menor que seja a quantidade, não se podem jogar pontas de cigarro, pedaços de papel, latas vazias e coisas assim para fora do veículo (Kyosoku, Capítulo 1, Seção 4, item 1(5)). O mesmo vale para colocar o corpo ou objetos para fora do veículo."
+   }
+  },
+  "trap_type": "EI",
+  "difficulty": 1,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K1-4-920",
+  "category": "道路でしてはいけないこと",
+  "kp": "1-4-2",
+  "group": "U",
+  "source": "教則 第1章第4節2",
+  "question_type": "text",
+  "qf": "QF-1-4-D-EI-02",
+  "question_ja": "歩道と車道の区別のある道路であれば、車の通行の妨げにはならないので、歩道の上に商品を陳列してもよい。",
+  "answer": false,
+  "explanation_ja": "歩道も道路の一部ですから、道路上に商品などを陳列してはいけません（教則第1章第4節2）。土砂や材木など交通の妨げになる物を置くことも同じです。",
+  "i18n": {
+   "zh": {
+    "question": "只要是人行道与车道有区分的道路，就不会妨碍车辆通行，因此可以在人行道上陈列商品。",
+    "explanation": "人行道也是道路的一部分，因此不得在道路上陈列商品等（教则第1章第4节2）。放置泥沙、木材等妨碍交通的物品也是一样。"
+   },
+   "en": {
+    "question": "On a road where the sidewalk is separated from the roadway it does not obstruct vehicles, so goods may be displayed on the sidewalk.",
+    "explanation": "The sidewalk is part of the road too, so goods and the like must not be displayed on the road (Kyosoku Chapter 1 Section 4 item 2). The same applies to leaving earth, timber and other things that obstruct traffic."
+   },
+   "vi": {
+    "question": "Nếu là con đường có phân tách vỉa hè với lòng đường thì không cản trở xe cộ, nên có thể bày hàng hóa trên vỉa hè.",
+    "explanation": "Vỉa hè cũng là một phần của đường, nên không được bày hàng hóa và những thứ tương tự trên đường (Kyosoku Chương 1 Mục 4 điểm 2). Đặt đất cát, gỗ và những vật gây cản trở giao thông cũng vậy."
+   },
+   "pt": {
+    "question": "Numa via em que a calçada é separada da pista, isso não atrapalha os veículos, por isso podem-se expor mercadorias sobre a calçada.",
+    "explanation": "A calçada também faz parte da via, por isso não se podem expor mercadorias e coisas do gênero na via (Kyosoku, Capítulo 1, Seção 4, item 2). O mesmo vale para deixar terra, madeira e outros objetos que atrapalhem o trânsito."
+   }
+  },
+  "trap_type": "EI",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K1-4-921",
+  "category": "道路でしてはいけないこと",
+  "kp": "1-4-1",
+  "group": "U",
+  "source": "教則 第1章第4節1(2)",
+  "question_type": "text",
+  "qf": "QF-1-4-D-SC-01",
+  "question_ja": "車の通りが激しい道路の上で、近所の子供と向かい合ってボールを投げ合って遊んだ。",
+  "answer": false,
+  "explanation_ja": "交通量の多いところでキャッチボールやローラースケートなどをしてはいけません（教則第1章第4節1(2)）。道路上でこのような危険なことをすると、交通の妨げとなり事故の原因になります。",
+  "i18n": {
+   "zh": {
+    "question": "在车辆往来频繁的道路上，与附近的孩子面对面地互相投球玩耍。",
+    "explanation": "不得在交通量大的地方玩投接球或轮滑等（教则第1章第4节1(2)）。在道路上做这类危险的事会妨碍交通，成为事故的原因。"
+   },
+   "en": {
+    "question": "On a road with heavy vehicle traffic, I stood facing a neighbourhood child and played at throwing a ball back and forth.",
+    "explanation": "Playing catch, roller skating and the like must not be done where traffic is heavy (Kyosoku Chapter 1 Section 4 item 1(2)). Dangerous acts of this kind on the road obstruct traffic and cause accidents."
+   },
+   "vi": {
+    "question": "Trên con đường có xe cộ qua lại tấp nập, tôi đứng đối diện một đứa trẻ hàng xóm và chơi ném bóng qua lại.",
+    "explanation": "Không được chơi ném bắt bóng, trượt patin và những trò tương tự ở nơi có lưu lượng giao thông lớn (Kyosoku Chương 1 Mục 4 điểm 1(2)). Làm những việc nguy hiểm như vậy trên đường sẽ cản trở giao thông và gây tai nạn."
+   },
+   "pt": {
+    "question": "Numa via com trânsito intenso de veículos, fiquei de frente para uma criança da vizinhança e brinquei de atirar a bola de um para o outro.",
+    "explanation": "Não se pode jogar bola, andar de patins e coisas do gênero onde o trânsito é intenso (Kyosoku, Capítulo 1, Seção 4, item 1(2)). Atos perigosos desse tipo na via atrapalham o trânsito e causam acidentes."
+   }
+  },
+  "trap_type": "SC",
+  "difficulty": 1,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K6-3-922",
+  "category": "夜間の運転",
+  "kp": "6-3-1",
+  "group": "U",
+  "source": "教則 第6章第3節1(4) / 第5章第4節2(4)",
+  "question_type": "text",
+  "qf": "QF-5-4-A-N-29",
+  "question_ja": "夜間、前の車に続いて走るときは、その車のブレーキ灯に注意し、ブレーキ灯がついたら前の車がブレーキペダルを踏んで速度を落とそうとしていると判断して、車間距離を十分にとるようにする。",
+  "answer": true,
+  "explanation_ja": "教則第6章第3節1(4)のとおりです。ブレーキ灯は徐行や停止をしようとするときの合図でもありますから、前の車が急に止まっても追突しない車間距離をとらなければなりません（教則第5章第4節2(4)）。",
+  "i18n": {
+   "zh": {
+    "question": "夜间跟在前车后面行驶时，要注意前车的刹车灯，刹车灯一亮就判断前车正踩下刹车踏板减速，并保持充分的车距。",
+    "explanation": "符合教则第6章第3节1(4)的规定。刹车灯同时也是缓行（徐行）或停车时的信号，因此必须保持即使前车突然停下也不会追尾的车距（教则第5章第4节2(4)）。"
+   },
+   "en": {
+    "question": "When following another vehicle at night, watch its brake light, and when the brake light comes on, judge that the vehicle ahead is pressing the brake pedal to slow down and keep a good distance behind it.",
+    "explanation": "This is Kyosoku Chapter 6 Section 3 item 1(4). The brake light is also the signal given when a driver is about to proceed slowly (徐行) or stop, so you must keep a following distance at which you would not run into the vehicle ahead if it stopped suddenly (Kyosoku Chapter 5 Section 4 item 2(4))."
+   },
+   "vi": {
+    "question": "Khi chạy theo sau xe khác vào ban đêm, hãy chú ý đèn phanh của xe đó, và khi đèn phanh bật sáng thì phán đoán rằng xe phía trước đang đạp bàn đạp phanh để giảm tốc, đồng thời giữ đủ khoảng cách với xe đó.",
+    "explanation": "Đúng theo Kyosoku Chương 6 Mục 3 điểm 1(4). Đèn phanh cũng là tín hiệu báo khi sắp lưu thông chậm (徐行) hoặc dừng lại, nên phải giữ khoảng cách sao cho xe phía trước có dừng đột ngột cũng không va chạm từ phía sau (Kyosoku Chương 5 Mục 4 điểm 2(4))."
+   },
+   "pt": {
+    "question": "Ao seguir outro veículo à noite, observe a luz de freio dele e, quando ela acender, conclua que o veículo da frente está pisando no pedal do freio para reduzir a velocidade e mantenha boa distância dele.",
+    "explanation": "É o Kyosoku, Capítulo 6, Seção 3, item 1(4). A luz de freio também é o sinal de quem vai prosseguir lentamente (徐行) ou parar, por isso é preciso manter uma distância em que não se colida por trás caso o veículo da frente pare de repente (Kyosoku, Capítulo 5, Seção 4, item 2(4))."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-1-923",
+  "category": "合図と警音器",
+  "kp": "5-1-5",
+  "group": "U",
+  "source": "教則 第5章第1節5(2)",
+  "question_type": "text",
+  "qf": "QF-5-5-A-N-19",
+  "question_ja": "路端に停止している車が右側の方向指示器を出したときは、その車が発進しようとしていると判断し、そのそばを通るときは速度を落として進むようにする。",
+  "answer": true,
+  "explanation_ja": "発進するときは、方向指示器などによって発進の合図をすることとされています（教則第5章第1節5(2)）。停止している車が合図を出したら発進に備え、その車の動きに注意しなければなりません。",
+  "i18n": {
+   "zh": {
+    "question": "停在路边的车打出右侧方向指示器时，应判断该车将要起步，从它旁边经过时要减速前进。",
+    "explanation": "起步时须用方向指示器等打出起步的信号（教则第5章第1节5(2)）。停着的车打出信号时，就要为它起步做好准备，注意该车的动向。"
+   },
+   "en": {
+    "question": "When a vehicle stopped at the roadside puts on its right turn indicator, judge that it is about to move off, and slow down as you pass it.",
+    "explanation": "A driver moving off is to signal the start with the turn indicator or the like (Kyosoku Chapter 5 Section 1 item 5(2)). When a stopped vehicle gives that signal you must expect it to move off and watch what it does."
+   },
+   "vi": {
+    "question": "Khi một chiếc xe đang dừng bên lề bật đèn xi nhan bên phải, hãy phán đoán rằng xe đó sắp khởi hành và giảm tốc độ khi đi ngang qua nó.",
+    "explanation": "Khi khởi hành, người lái phải báo hiệu bằng đèn xi nhan hoặc cách tương tự (Kyosoku Chương 5 Mục 1 điểm 5(2)). Khi xe đang dừng phát tín hiệu đó, phải lường trước việc xe sẽ khởi hành và chú ý đến chuyển động của xe."
+   },
+   "pt": {
+    "question": "Quando um veículo parado junto ao meio-fio aciona a seta do lado direito, conclua que ele vai arrancar e reduza a velocidade ao passar por ele.",
+    "explanation": "Quem vai arrancar deve sinalizar a partida com a seta ou meio equivalente (Kyosoku, Capítulo 5, Seção 1, item 5(2)). Quando um veículo parado dá esse sinal, é preciso contar com a partida dele e observar o que ele faz."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-7-924",
+  "category": "交差点",
+  "kp": "5-7-1",
+  "group": "U",
+  "source": "教則 第5章第7節1(1)",
+  "question_type": "text",
+  "qf": "QF-5-7-A-N-15",
+  "question_ja": "交差点で右折しようとするときは、対向車のかげになって直進してくる二輪車が見えにくいことがあるので、対向車が途切れてもその後方をよく確かめてから右折する。",
+  "answer": true,
+  "explanation_ja": "教則第5章第7節1(1)のとおりです。交差点に入ろうとするときや交差点内を通行するときは、右折車や歩行者などに気を配りながら、交差点の状況に応じてできる限り安全な速度と方法で進行しなければなりません。",
+  "i18n": {
+   "zh": {
+    "question": "在交叉路口右拐弯时，直行过来的二轮车（摩托车及轻型摩托车）可能被对向车挡住而不易看见，因此即使对向车流中断，也要仔细确认其后方再右拐弯。",
+    "explanation": "符合教则第5章第7节1(1)的规定。要进入交叉路口或在交叉路口内通行时，必须留意右拐弯车辆和步行者等，并根据交叉路口的情况以尽可能安全的速度和方法行驶。"
+   },
+   "en": {
+    "question": "When turning right at an intersection, a two-wheeled vehicle (motorcycles and general motorized bicycles) coming straight on can be hard to see behind an oncoming vehicle, so even after a gap opens in the oncoming traffic, check carefully behind it before turning.",
+    "explanation": "This is Kyosoku Chapter 5 Section 7 item 1(1). When entering or passing through an intersection you must proceed at as safe a speed and in as safe a manner as the situation allows, keeping an eye on right-turning vehicles, pedestrians and others."
+   },
+   "vi": {
+    "question": "Khi rẽ phải tại nút giao thông, xe hai bánh (xe mô tô và xe gắn máy) đi thẳng tới có thể bị xe đi ngược chiều che khuất nên khó nhìn thấy, vì vậy dù dòng xe ngược chiều có ngắt quãng cũng phải kiểm tra kỹ phía sau nó rồi mới rẽ.",
+    "explanation": "Đúng theo Kyosoku Chương 5 Mục 7 điểm 1(1). Khi sắp vào nút giao thông hoặc khi đang đi trong nút giao thông, phải đi với tốc độ và cách thức an toàn nhất có thể tùy theo tình hình, đồng thời để ý đến xe rẽ phải, người đi bộ và những người khác."
+   },
+   "pt": {
+    "question": "Ao converger à direita num cruzamento, um veículo de duas rodas (motocicletas e bicicletas motorizadas) que segue em frente pode ficar escondido atrás de um veículo em sentido contrário, por isso, mesmo quando abre uma brecha no fluxo contrário, verifique bem atrás dele antes de virar.",
+    "explanation": "É o Kyosoku, Capítulo 5, Seção 7, item 1(1). Ao entrar num cruzamento ou ao circular dentro dele, é preciso seguir na velocidade e do modo mais seguros que a situação permitir, atento aos veículos que convergem à direita, aos pedestres e aos demais."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-7-925",
+  "category": "交差点",
+  "kp": "5-7-1",
+  "group": "U",
+  "source": "教則 第5章第7節1(1) / 第5章第7節3(3)",
+  "question_type": "text",
+  "qf": "QF-5-7-A-N-16",
+  "question_ja": "交通整理の行われていない交差点に近づいたとき、交差する道路に「一時停止」の標識があるのが見えたが、その道路から来る車が止まらないことも考えられるので、徐行して交差点に入った。",
+  "answer": true,
+  "explanation_ja": "教則第5章第7節1(1)のとおりです。交差する道路の車には停止線の直前で一時停止をする義務がありますが（教則第5章第7節3(3)）、その車が標識に従うとは限らないので、交差点の状況に応じてできる限り安全な速度と方法で進行しなければなりません。",
+  "i18n": {
+   "zh": {
+    "question": "接近未进行交通整理的交叉路口时，看到交叉道路上设有「暂停（一時停止）」标识（立牌），但考虑到从该道路来的车也可能不停车，于是缓行（徐行）进入了交叉路口。",
+    "explanation": "符合教则第5章第7节1(1)的规定。交叉道路上的车有义务在停止线正前方暂停（教则第5章第7节3(3)），但不能保证该车一定遵守标识，因此必须根据交叉路口的情况以尽可能安全的速度和方法行驶。"
+   },
+   "en": {
+    "question": "Approaching an intersection not under traffic control I saw that the crossing road had a Stop (一時停止) sign, but since a vehicle coming from that road might not stop, I entered the intersection proceeding slowly (徐行).",
+    "explanation": "This is Kyosoku Chapter 5 Section 7 item 1(1). A vehicle on the crossing road is obliged to come to a complete stop just before the stop line (Kyosoku Chapter 5 Section 7 item 3(3)), but it will not necessarily obey the sign, so you must proceed at as safe a speed and in as safe a manner as the situation allows."
+   },
+   "vi": {
+    "question": "Khi đến gần nút giao thông không có điều khiển giao thông, tôi thấy trên đường giao cắt có biển «Tạm dừng (一時停止)», nhưng vì xe từ đường đó có thể không dừng lại nên tôi đã lưu thông chậm (徐行) khi vào nút giao thông.",
+    "explanation": "Đúng theo Kyosoku Chương 5 Mục 7 điểm 1(1). Xe trên đường giao cắt có nghĩa vụ dừng hẳn ngay trước vạch dừng (Kyosoku Chương 5 Mục 7 điểm 3(3)), nhưng không chắc xe đó sẽ tuân theo biển báo, nên phải đi với tốc độ và cách thức an toàn nhất có thể tùy theo tình hình."
+   },
+   "pt": {
+    "question": "Ao me aproximar de um cruzamento sem controle de trânsito, vi que a via transversal tinha a placa de Parada obrigatória (一時停止), mas, como um veículo vindo dessa via poderia não parar, entrei no cruzamento prosseguindo lentamente (徐行).",
+    "explanation": "É o Kyosoku, Capítulo 5, Seção 7, item 1(1). O veículo da via transversal tem a obrigação de parar completamente logo antes da linha de parada (Kyosoku, Capítulo 5, Seção 7, item 3(3)), mas não é certo que ele obedeça à placa, por isso é preciso seguir na velocidade e do modo mais seguros que a situação permitir."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-1-926",
+  "category": "駐車と停車",
+  "kp": "5-1-5",
+  "group": "U",
+  "source": "教則 第5章第1節5(3)",
+  "question_type": "text",
+  "qf": "QF-5-8-A-N-01",
+  "question_ja": "自宅の車庫に車を入れるときは、次に出るときバックで発進しなくてすむように、後退して車庫に入れておくとよい。",
+  "answer": true,
+  "explanation_ja": "教則第5章第1節5(3)のとおりです。やむを得ずバックで発進する場合で、後方の見通しがよくないときや狭い道路から広い道路に出るときは、同乗者などに後方の確認を手伝ってもらいましょう。",
+  "i18n": {
+   "zh": {
+    "question": "把车停进自家车库时，最好倒车入库，以便下次出来时不必后退起步。",
+    "explanation": "符合教则第5章第1节5(3)的规定。在不得已需要后退起步、而后方视野不好或要从窄路驶入宽路时，应请搭乘者等帮忙确认后方。"
+   },
+   "en": {
+    "question": "When you put the car into your own garage, it is better to back it in, so that next time you come out you do not have to move off in reverse.",
+    "explanation": "This is Kyosoku Chapter 5 Section 1 item 5(3). When you have no choice but to move off in reverse and the view behind is poor, or you are coming out of a narrow road onto a wide one, have a passenger or someone else help you check behind."
+   },
+   "vi": {
+    "question": "Khi đưa xe vào gara nhà mình, tốt nhất là lùi xe vào, để lần sau ra xe không phải khởi hành bằng cách lùi.",
+    "explanation": "Đúng theo Kyosoku Chương 5 Mục 1 điểm 5(3). Khi buộc phải khởi hành bằng cách lùi xe mà tầm nhìn phía sau không tốt, hoặc khi từ đường hẹp ra đường rộng, hãy nhờ người ngồi cùng xe giúp quan sát phía sau."
+   },
+   "pt": {
+    "question": "Ao guardar o carro na sua própria garagem, é melhor entrar de ré, para que da próxima vez não seja preciso arrancar de marcha à ré ao sair.",
+    "explanation": "É o Kyosoku, Capítulo 5, Seção 1, item 5(3). Quando não houver alternativa a arrancar de ré e a visibilidade para trás for ruim, ou ao sair de uma via estreita para uma larga, peça a um passageiro ou a outra pessoa que ajude a verificar o que vem atrás."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K6-2-927",
+  "category": "坂道・カーブ",
+  "kp": "6-2-1",
+  "group": "U",
+  "source": "教則 第6章第2節1(6)",
+  "question_type": "text",
+  "qf": "QF-6-2-A-N-01",
+  "question_ja": "坂道で行き違うときは、上り坂での発進が難しいので、近くに待避所がある場合を除き、下りの車が上りの車に道を譲る。",
+  "answer": true,
+  "explanation_ja": "教則第6章第2節1(6)のとおりです。近くに待避所があるときは、上りの車でもその待避所に入って待ちます。",
+  "i18n": {
+   "zh": {
+    "question": "在坡道上会车时，由于上坡起步困难，除附近有避车处的情况外，下坡的车要给上坡的车让出道路。",
+    "explanation": "符合教则第6章第2节1(6)的规定。附近有避车处时，上坡的车也可以驶入该避车处等待。"
+   },
+   "en": {
+    "question": "When passing an oncoming vehicle on a hill, because moving off on an upgrade is hard, the vehicle going down gives way to the vehicle coming up, except where there is a turnout nearby.",
+    "explanation": "This is Kyosoku Chapter 6 Section 2 item 1(6). Where there is a turnout nearby, the vehicle coming up may pull into it and wait instead."
+   },
+   "vi": {
+    "question": "Khi tránh xe ngược chiều trên đường dốc, do khởi hành ở dốc lên rất khó, xe đang xuống dốc phải nhường đường cho xe đang lên dốc, trừ trường hợp gần đó có điểm tránh xe.",
+    "explanation": "Đúng theo Kyosoku Chương 6 Mục 2 điểm 1(6). Khi gần đó có điểm tránh xe, xe đang lên dốc cũng có thể vào điểm tránh xe đó để chờ."
+   },
+   "pt": {
+    "question": "Ao cruzar com um veículo em sentido contrário numa ladeira, como arrancar em aclive é difícil, o veículo que desce dá passagem ao que sobe, salvo quando há um refúgio por perto.",
+    "explanation": "É o Kyosoku, Capítulo 6, Seção 2, item 1(6). Quando há um refúgio por perto, o veículo que sobe também pode entrar nele e esperar."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K6-2-928",
+  "category": "坂道・カーブ",
+  "kp": "6-2-1",
+  "group": "U",
+  "source": "教則 第6章第2節1(8)、1(9)",
+  "question_type": "text",
+  "qf": "QF-6-2-A-N-02",
+  "question_ja": "片側が転落のおそれのあるがけになっている道路で、安全な行き違いができないときは、がけ側の車が一時停止をして道を譲る。",
+  "answer": true,
+  "explanation_ja": "教則第6章第2節1(8)のとおりです。山道では路肩が崩れやすくなっていることがありますので、行き違いのときは路肩に寄り過ぎないよう注意しましょう（教則第6章第2節1(9)）。",
+  "i18n": {
+   "zh": {
+    "question": "在一侧是有坠落危险的陡坡的道路上，无法安全会车时，靠陡坡一侧的车要暂停（一時停止）并让出道路。",
+    "explanation": "符合教则第6章第2节1(8)的规定。山路上的路肩有时容易塌陷，会车时要注意不要过于靠近路肩（教则第6章第2节1(9)）。"
+   },
+   "en": {
+    "question": "On a road with a cliff on one side from which a vehicle could fall, when an oncoming vehicle cannot be passed safely, the vehicle on the cliff side comes to a complete stop (一時停止) and gives way.",
+    "explanation": "This is Kyosoku Chapter 6 Section 2 item 1(8). On mountain roads the road shoulder is sometimes liable to crumble, so take care not to move too far onto it when passing an oncoming vehicle (Kyosoku Chapter 6 Section 2 item 1(9))."
+   },
+   "vi": {
+    "question": "Trên con đường mà một bên là vách dốc có nguy cơ rơi xuống, khi không thể tránh xe ngược chiều một cách an toàn thì xe ở phía vách dốc phải tạm dừng (一時停止) và nhường đường.",
+    "explanation": "Đúng theo Kyosoku Chương 6 Mục 2 điểm 1(8). Trên đường núi, mép đường (路肩) đôi khi dễ sạt lở, nên khi tránh xe ngược chiều hãy chú ý đừng lấn quá sát mép đường (Kyosoku Chương 6 Mục 2 điểm 1(9))."
+   },
+   "pt": {
+    "question": "Numa via com um despenhadeiro de um dos lados, de onde o veículo poderia cair, quando não é possível cruzar com segurança com um veículo em sentido contrário, o veículo do lado do despenhadeiro faz parada obrigatória (一時停止) e dá passagem.",
+    "explanation": "É o Kyosoku, Capítulo 6, Seção 2, item 1(8). Em estradas de montanha o acostamento às vezes desmorona com facilidade, por isso, ao cruzar com outro veículo, tome cuidado para não se aproximar demais dele (Kyosoku, Capítulo 6, Seção 2, item 1(9))."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K6-2-929",
+  "category": "坂道・カーブ",
+  "kp": "6-2-1",
+  "group": "U",
+  "source": "教則 第6章第2節1(4)",
+  "question_type": "text",
+  "qf": "QF-6-2-A-N-03",
+  "question_ja": "長い下り坂を走るときは、オートマチック車ならチェンジレバーを2かL（または1）に入れるなどして低速のギアを選び、エンジンブレーキを効かせながら下るのがよい。",
+  "answer": true,
+  "explanation_ja": "教則第6章第2節1(4)のとおりです。長い下り坂でブレーキペダルを頻繁に使い過ぎると、急にブレーキが効かなくなることがあり危険です。",
+  "i18n": {
+   "zh": {
+    "question": "行驶在长下坡路上时，自动挡车（AT车）可把转换杆放到2或L（或1）等，选择低速挡，一边让发动机制动起作用一边下坡为好。",
+    "explanation": "符合教则第6章第2节1(4)的规定。在长下坡上过于频繁地使用刹车踏板，刹车有可能突然失灵，很危险。"
+   },
+   "en": {
+    "question": "When you drive down a long downgrade, it is best to select a low gear — in an automatic transmission vehicle (AT) by moving the change lever to 2 or L (or 1) — and to descend with the engine brake working.",
+    "explanation": "This is Kyosoku Chapter 6 Section 2 item 1(4). On a long downgrade, using the brake pedal too often can make the brakes suddenly stop working, which is dangerous."
+   },
+   "vi": {
+    "question": "Khi đổ một con dốc dài, tốt nhất là chọn số thấp — với xe số tự động (AT) thì đưa cần số về 2 hoặc L (hoặc 1) — và xuống dốc trong khi để phanh động cơ phát huy tác dụng.",
+    "explanation": "Đúng theo Kyosoku Chương 6 Mục 2 điểm 1(4). Trên dốc xuống dài, nếu dùng bàn đạp phanh quá thường xuyên thì phanh có thể đột ngột mất tác dụng, rất nguy hiểm."
+   },
+   "pt": {
+    "question": "Ao descer um declive longo, o melhor é escolher uma marcha baixa — no veículo de transmissão automática (AT), levando a alavanca de câmbio para 2 ou L (ou 1) — e descer com o freio motor atuando.",
+    "explanation": "É o Kyosoku, Capítulo 6, Seção 2, item 1(4). Num declive longo, usar o pedal do freio com frequência demais pode fazer os freios pararem de funcionar de repente, o que é perigoso."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-6-930",
+  "category": "行き違い",
+  "kp": "5-6-5",
+  "group": "U",
+  "source": "教則 第5章第6節5(1)、5(2)",
+  "question_type": "text",
+  "qf": "QF-6-2-A-N-04",
+  "question_ja": "狭い道路で対向車と行き違うときは安全な間隔を保つようにし、進路の前方に障害物があるときは、あらかじめ一時停止か減速をして、反対方向から来る車に道を譲る。",
+  "answer": true,
+  "explanation_ja": "教則第5章第6節5(1)、5(2)のとおりです。障害物のない場所で行き違えるように、自分の進路の前方に障害物があるときは対向車に先に通ってもらいます。",
+  "i18n": {
+   "zh": {
+    "question": "在窄路上与对向车会车时要保持安全的间隔；自己前方有障碍物时，要事先暂停（一時停止）或减速，把道路让给从对面来的车。",
+    "explanation": "符合教则第5章第6节5(1)、5(2)的规定。为了能在没有障碍物的地方会车，自己前方有障碍物时要让对向车先通过。"
+   },
+   "en": {
+    "question": "When passing an oncoming vehicle on a narrow road, keep a safe interval, and when there is an obstacle ahead in your path, come to a complete stop (一時停止) or slow down beforehand and give way to the vehicle coming the other way.",
+    "explanation": "This is Kyosoku Chapter 5 Section 6 items 5(1) and 5(2). So that the two vehicles pass each other where there is no obstacle, let the oncoming vehicle through first when the obstacle is ahead in your own path."
+   },
+   "vi": {
+    "question": "Khi tránh xe ngược chiều trên đường hẹp, hãy giữ khoảng cách an toàn, và khi phía trước làn đi của mình có chướng ngại vật thì phải tạm dừng (一時停止) hoặc giảm tốc từ trước và nhường đường cho xe đi ngược chiều.",
+    "explanation": "Đúng theo Kyosoku Chương 5 Mục 6 điểm 5(1) và 5(2). Để hai xe tránh nhau ở nơi không có chướng ngại vật, khi chướng ngại vật nằm phía trước làn đi của mình thì hãy để xe ngược chiều đi qua trước."
+   },
+   "pt": {
+    "question": "Ao cruzar com um veículo em sentido contrário numa via estreita, mantenha um intervalo seguro e, quando houver um obstáculo à frente na sua trajetória, faça parada obrigatória (一時停止) ou reduza a velocidade com antecedência e dê passagem ao veículo que vem no sentido contrário.",
+    "explanation": "É o Kyosoku, Capítulo 5, Seção 6, itens 5(1) e 5(2). Para que os dois veículos se cruzem onde não há obstáculo, deixe o veículo em sentido contrário passar primeiro quando o obstáculo estiver à frente na sua própria trajetória."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K6-2-931",
+  "category": "坂道・カーブ",
+  "kp": "6-2-1",
+  "group": "U",
+  "source": "教則 第6章第2節1(6)",
+  "question_type": "text",
+  "qf": "QF-6-2-D-SW-01",
+  "question_ja": "坂道で行き違うときは、上りの車が下りの車に道を譲らなければならない。",
+  "answer": false,
+  "explanation_ja": "逆です。上り坂での発進が難しいため、下りの車が上りの車に道を譲ります。ただし、近くに待避所があるときは、上りの車でもその待避所に入って待ちます（教則第6章第2節1(6)）。",
+  "i18n": {
+   "zh": {
+    "question": "在坡道上会车时，上坡的车必须给下坡的车让出道路。",
+    "explanation": "正好相反。由于上坡起步困难，是下坡的车给上坡的车让出道路。不过，附近有避车处时，上坡的车也可以驶入该避车处等待（教则第6章第2节1(6)）。"
+   },
+   "en": {
+    "question": "When passing an oncoming vehicle on a hill, the vehicle coming up must give way to the vehicle going down.",
+    "explanation": "It is the other way round. Because moving off on an upgrade is hard, the vehicle going down gives way to the vehicle coming up. Where there is a turnout nearby, however, the vehicle coming up may pull into it and wait (Kyosoku Chapter 6 Section 2 item 1(6))."
+   },
+   "vi": {
+    "question": "Khi tránh xe ngược chiều trên đường dốc, xe đang lên dốc phải nhường đường cho xe đang xuống dốc.",
+    "explanation": "Ngược lại mới đúng. Vì khởi hành ở dốc lên rất khó, xe đang xuống dốc phải nhường đường cho xe đang lên dốc. Tuy nhiên, khi gần đó có điểm tránh xe, xe đang lên dốc cũng có thể vào điểm tránh xe đó để chờ (Kyosoku Chương 6 Mục 2 điểm 1(6))."
+   },
+   "pt": {
+    "question": "Ao cruzar com um veículo em sentido contrário numa ladeira, o veículo que sobe deve dar passagem ao que desce.",
+    "explanation": "É o contrário. Como arrancar em aclive é difícil, o veículo que desce é que dá passagem ao que sobe. Quando há um refúgio por perto, porém, o veículo que sobe também pode entrar nele e esperar (Kyosoku, Capítulo 6, Seção 2, item 1(6))."
+   }
+  },
+  "trap_type": "SW",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ }
+]

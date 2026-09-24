@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1200" height="560" viewBox="0 0 1200 560">
+  <title>警察官の手信号：腕を横に水平に上げているときと、腕を垂直に上げているとき</title>
+  <desc>Two schematic figures of a police officer directing traffic, seen from the front: left, both arms raised horizontally; right, one arm raised vertically. No lettering, so the drawing is the same in every language. Drawn for menkyo-quiz; not a reproduction of any catalogue artwork.</desc>
+
+  <rect x="0" y="0" width="1200" height="560" rx="28" fill="#ffffff"/>
+  <rect x="8" y="8" width="1184" height="544" rx="22" fill="none" stroke="#9aa3ab" stroke-width="6"/>
+  <line x1="600" y1="46" x2="600" y2="514" stroke="#c7ced4" stroke-width="5" stroke-dasharray="18 14"/>
+
+  <!-- panel 1: both arms raised horizontally -->
+  <g stroke="#1b1f23" stroke-width="18" stroke-linecap="round" fill="none">
+    <circle cx="300" cy="150" r="52" fill="#1b1f23" stroke="none"/>
+    <line x1="300" y1="202" x2="300" y2="370"/>
+    <line x1="140" y1="262" x2="460" y2="262"/>
+    <line x1="300" y1="370" x2="242" y2="490"/>
+    <line x1="300" y1="370" x2="358" y2="490"/>
+  </g>
+  <rect x="222" y="222" width="156" height="34" rx="10" fill="#1b1f23"/>
+  <circle cx="132" cy="262" r="16" fill="#1b1f23"/>
+  <circle cx="468" cy="262" r="16" fill="#1b1f23"/>
+
+  <!-- panel 2: one arm raised vertically -->
+  <g stroke="#1b1f23" stroke-width="18" stroke-linecap="round" fill="none">
+    <circle cx="900" cy="150" r="52" fill="#1b1f23" stroke="none"/>
+    <line x1="900" y1="202" x2="900" y2="370"/>
+    <line x1="900" y1="242" x2="1002" y2="242"/>
+    <line x1="1002" y1="242" x2="1002" y2="72"/>
+    <line x1="900" y1="242" x2="822" y2="352"/>
+    <line x1="900" y1="370" x2="842" y2="490"/>
+    <line x1="900" y1="370" x2="958" y2="490"/>
+  </g>
+  <rect x="822" y="222" width="156" height="34" rx="10" fill="#1b1f23"/>
+  <circle cx="1002" cy="64" r="16" fill="#1b1f23"/>
+  <circle cx="814" cy="362" r="16" fill="#1b1f23"/>
+</svg>

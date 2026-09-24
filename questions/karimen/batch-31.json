@@ -1,782 +1,662 @@
 [
-  {
-    "id": "KS-041",
-    "category": "標識",
-    "kp": "付3-1-10",
-    "group": "D",
-    "source": "教則 付表3（1）10",
-    "question_type": "sign",
-    "qf": "QF-付3-1-10-A-N-01",
-    "image": {
-      "sign_no": "310-自動車・自転車",
-      "file": "310-自動車・自転車.svg",
-      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
-      "file_verified": true
-    },
-    "question_ja": "この標識は、標示板に表示されている車の通行止めを示している。",
-    "answer": true,
-    "explanation_ja": "教則付表3（1）10のとおりです。表示されていない車は通行できます。",
-    "i18n": {
-      "zh": {
-        "question": "这个标识（立牌）表示标示牌上所示车辆禁止通行。",
-        "explanation": "符合教则附表3（1）10的规定。未被标示的车辆可以通行。"
-      },
-      "en": {
-        "question": "This sign closes the road to the vehicles shown on the plate.",
-        "explanation": "This is Kyosoku Appendix 3(1) item 10. Vehicles not shown may pass."
-      },
-      "vi": {
-        "question": "Biển báo giao thông này cấm những loại xe được thể hiện trên bảng.",
-        "explanation": "Đúng theo Kyosoku Phụ lục 3(1) mục 10. Những xe không được thể hiện vẫn được qua."
-      },
-      "pt": {
-        "question": "Esta sinalização veda a passagem dos veículos mostrados na placa.",
-        "explanation": "É o Kyosoku, Anexo 3(1), item 10. Os veículos não mostrados podem passar."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免"
+ {
+  "id": "K5-6-301",
+  "category": "歩行者の保護",
+  "kp": "5-6-5",
+  "group": "K",
+  "source": "教則 第5章第6節5(1) / 第5章第3節1(1)、7(2)",
+  "question_type": "text",
+  "qf": "QF-5-2-A-N-09",
+  "question_ja": "対向車と行き違うときは、対向車との間に安全な間隔を保つだけでなく、道路の左側を通行している歩行者や自転車にも気を配らなければならない。",
+  "answer": true,
+  "explanation_ja": "教則第5章第6節5(1)のとおりです。歩行者のそばを通るときも自転車のそばを通るときも、安全な間隔を空けるか徐行しなければなりません（教則第5章第3節1(1)、7(2)）。",
+  "i18n": {
+   "zh": {
+    "question": "与对向车会车时，不仅要与对向车之间保持安全间隔，还必须留意在道路左侧通行的步行者和自行车。",
+    "explanation": "符合教则第5章第6节5(1)的规定。无论是从步行者旁边通过还是从自行车旁边通过，都必须留出安全间隔或缓行（徐行）（教则第5章第3节1(1)、7(2)）。"
+   },
+   "en": {
+    "question": "When passing an oncoming vehicle, the driver must not only keep a safe gap from that vehicle but also pay attention to pedestrians and bicycles travelling on the left-hand side of the road.",
+    "explanation": "This is Kyosoku Chapter 5 Section 6 item 5(1). Whether you are passing close to a pedestrian or close to a bicycle, you must leave a safe gap or proceed slowly (徐行) (Kyosoku Chapter 5 Section 3 items 1(1) and 7(2))."
+   },
+   "vi": {
+    "question": "Khi tránh xe ngược chiều, người lái xe không chỉ phải giữ khoảng cách an toàn với xe đi ngược chiều mà còn phải chú ý đến người đi bộ và xe đạp đang đi ở phía bên trái đường.",
+    "explanation": "Đúng theo Kyosoku Chương 5 Mục 6 điểm 5(1). Dù là đi sát người đi bộ hay đi sát xe đạp, bạn đều phải chừa khoảng cách an toàn hoặc lưu thông chậm (徐行) (Kyosoku Chương 5 Mục 3 điểm 1(1) và 7(2))."
+   },
+   "pt": {
+    "question": "Ao cruzar com um veículo em sentido contrário, o condutor deve não apenas manter uma distância segura desse veículo, como também prestar atenção aos pedestres e às bicicletas que circulam do lado esquerdo da via.",
+    "explanation": "É o Kyosoku, Capítulo 5, Seção 6, item 5(1). Tanto ao passar perto de um pedestre quanto ao passar perto de uma bicicleta, é preciso deixar uma distância segura ou prosseguir lentamente (徐行) (Kyosoku, Capítulo 5, Seção 3, itens 1(1) e 7(2))."
+   }
   },
-  {
-    "id": "KS-042",
-    "category": "標識",
-    "kp": "付3-1-12",
-    "group": "D",
-    "source": "教則 付表3（1）12",
-    "question_type": "sign",
-    "qf": "QF-付3-1-12-A-N-01",
-    "image": {
-      "sign_no": "311-A-右",
-      "file": "311-A-右.svg",
-      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
-      "file_verified": true
-    },
-    "question_ja": "この標識は、矢印の方向以外への車の進行禁止を示している。",
-    "answer": true,
-    "explanation_ja": "教則付表3（1）12のとおりです。矢印の方向には進むことができます。",
-    "i18n": {
-      "zh": {
-        "question": "这个标识（立牌）表示禁止车辆朝箭头所示以外的方向行驶。",
-        "explanation": "符合教则附表3（1）12的规定。朝箭头方向可以行驶。"
-      },
-      "en": {
-        "question": "This sign prohibits vehicles from going in any direction other than the arrow.",
-        "explanation": "This is Kyosoku Appendix 3(1) item 12. You may go in the direction of the arrow."
-      },
-      "vi": {
-        "question": "Biển báo giao thông này cấm xe đi theo hướng khác ngoài hướng mũi tên.",
-        "explanation": "Đúng theo Kyosoku Phụ lục 3(1) mục 12. Bạn được đi theo hướng mũi tên."
-      },
-      "pt": {
-        "question": "Esta sinalização proíbe os veículos de seguir em qualquer direção que não a da seta.",
-        "explanation": "É o Kyosoku, Anexo 3(1), item 12. Você pode seguir no sentido da seta."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免"
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-3-302",
+  "category": "歩行者の保護",
+  "kp": "5-3-1",
+  "group": "K",
+  "source": "教則 第5章第3節1(1) / 道交法第18条第2項",
+  "question_type": "text",
+  "qf": "QF-5-3-A-N-14",
+  "question_ja": "車は、歩行者のそばを通るときは、歩行者との間に安全な間隔を空けるか、徐行しなければならない。",
+  "answer": true,
+  "explanation_ja": "教則第5章第3節1(1)のとおりです。安全な間隔を空けるか徐行するかのどちらかをすればよく、両方が求められるわけではありません（道交法第18条第2項）。",
+  "i18n": {
+   "zh": {
+    "question": "车辆从步行者旁边通过时，必须与步行者之间留出安全间隔，或者缓行（徐行）。",
+    "explanation": "符合教则第5章第3节1(1)的规定。留出安全间隔和缓行二者做其一即可，并不要求同时做到（道交法第18条第2项）。"
+   },
+   "en": {
+    "question": "When a vehicle passes close to a pedestrian, it must leave a safe gap between itself and the pedestrian, or else proceed slowly (徐行).",
+    "explanation": "This is Kyosoku Chapter 5 Section 3 item 1(1). Either leaving a safe gap or proceeding slowly is enough, and both together are not required (Road Traffic Act Article 18 paragraph 2)."
+   },
+   "vi": {
+    "question": "Khi xe đi sát người đi bộ, xe phải chừa khoảng cách an toàn với người đi bộ, hoặc lưu thông chậm (徐行).",
+    "explanation": "Đúng theo Kyosoku Chương 5 Mục 3 điểm 1(1). Chỉ cần làm một trong hai việc — chừa khoảng cách an toàn hoặc lưu thông chậm — chứ không bắt buộc cả hai (Luật Giao thông đường bộ Điều 18 khoản 2)."
+   },
+   "pt": {
+    "question": "Quando um veículo passa perto de um pedestre, deve deixar uma distância segura em relação a ele ou então prosseguir lentamente (徐行).",
+    "explanation": "É o Kyosoku, Capítulo 5, Seção 3, item 1(1). Basta uma das duas coisas — deixar distância segura ou prosseguir lentamente — e não se exigem as duas (Lei de Trânsito, Artigo 18, parágrafo 2)."
+   }
   },
-  {
-    "id": "KS-043",
-    "category": "標識",
-    "kp": "付3-1-20",
-    "group": "D",
-    "source": "教則 付表3（1）20",
-    "question_type": "sign",
-    "qf": "QF-付3-1-20-A-N-01",
-    "image": {
-      "sign_no": "318",
-      "file": "318.svg",
-      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
-      "file_verified": true
-    },
-    "question_ja": "この標識は、時間を限って同一の車両が引き続き駐車することができる道路の区間であることの指定と、その駐車することができる時間の表示を示している。",
-    "answer": true,
-    "explanation_ja": "教則付表3（1）20のとおりです。駐車できる時間は、標識に表示されます。",
-    "i18n": {
-      "zh": {
-        "question": "这个标识（立牌）表示限定时间内同一车辆可以连续驻车的道路区间的指定，以及可以驻车的时间的显示。",
-        "explanation": "符合教则附表3（1）20的规定。可以驻车的时间显示在标识上。"
-      },
-      "en": {
-        "question": "This sign designates a stretch of road where one vehicle may park continuously for a limited time, and shows how long that is.",
-        "explanation": "This is Kyosoku Appendix 3(1) item 20. The permitted time appears on the sign."
-      },
-      "vi": {
-        "question": "Biển báo giao thông này chỉ định đoạn đường mà một xe được đỗ liên tục trong thời gian giới hạn, và thể hiện thời gian đó.",
-        "explanation": "Đúng theo Kyosoku Phụ lục 3(1) mục 20. Thời gian được phép hiện trên biển."
-      },
-      "pt": {
-        "question": "Esta sinalização designa um trecho em que um mesmo veículo pode estacionar por tempo limitado e indica qual é esse tempo.",
-        "explanation": "É o Kyosoku, Anexo 3(1), item 20. O tempo permitido aparece na placa."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 3,
-    "exam_scope": "仮免|本免"
+  "trap_type": "N",
+  "difficulty": 1,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-3-303",
+  "category": "歩行者の保護",
+  "kp": "5-3-1",
+  "group": "K",
+  "source": "教則 第5章第3節1(1) / 道交法第18条第2項",
+  "question_type": "text",
+  "qf": "QF-5-3-D-SW-02",
+  "question_ja": "車は、歩行者のそばを通るときは、歩行者との間に安全な間隔を空け、そのうえで徐行しなければならない。",
+  "answer": false,
+  "explanation_ja": "安全な間隔を空けるか、徐行するかのどちらかをすればよく、両方が義務づけられているわけではありません（教則第5章第3節1(1)、道交法第18条第2項）。",
+  "i18n": {
+   "zh": {
+    "question": "车辆从步行者旁边通过时，必须与步行者之间留出安全间隔，并在此基础上缓行（徐行）。",
+    "explanation": "留出安全间隔或缓行，二者做其一即可，并非两者都是义务（教则第5章第3节1(1)、道交法第18条第2项）。"
+   },
+   "en": {
+    "question": "When a vehicle passes close to a pedestrian, it must leave a safe gap between itself and the pedestrian and, on top of that, proceed slowly (徐行).",
+    "explanation": "Leaving a safe gap or proceeding slowly — either one is enough, and both are not imposed as duties (Kyosoku Chapter 5 Section 3 item 1(1); Road Traffic Act Article 18 paragraph 2)."
+   },
+   "vi": {
+    "question": "Khi xe đi sát người đi bộ, xe phải chừa khoảng cách an toàn với người đi bộ và ngoài ra còn phải lưu thông chậm (徐行).",
+    "explanation": "Chừa khoảng cách an toàn hoặc lưu thông chậm — chỉ cần một trong hai, chứ không phải cả hai đều là nghĩa vụ (Kyosoku Chương 5 Mục 3 điểm 1(1); Luật Giao thông đường bộ Điều 18 khoản 2)."
+   },
+   "pt": {
+    "question": "Quando um veículo passa perto de um pedestre, deve deixar uma distância segura em relação a ele e, além disso, prosseguir lentamente (徐行).",
+    "explanation": "Deixar distância segura ou prosseguir lentamente — basta uma das duas, e não são ambas obrigatórias (Kyosoku, Capítulo 5, Seção 3, item 1(1); Lei de Trânsito, Artigo 18, parágrafo 2)."
+   }
   },
-  {
-    "id": "KS-044",
-    "category": "標識",
-    "kp": "付3-1-28",
-    "group": "D",
-    "source": "教則 付表3（1）28",
-    "question_type": "sign",
-    "qf": "QF-付3-1-28-A-N-01",
-    "image": {
-      "sign_no": "325-2",
-      "file": "325-2.svg",
-      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
-      "file_verified": true
-    },
-    "question_ja": "この標識は、自転車道や自転車専用道路の指定と、特定小型原動機付自転車及び自転車以外の車や歩行者の通行禁止を示している。",
-    "answer": true,
-    "explanation_ja": "教則付表3（1）28のとおりです。歩行者も通行できない点に注意が必要です。",
-    "i18n": {
-      "zh": {
-        "question": "这个标识（立牌）表示自行车道或自行车专用道路的指定，以及除特定小型轻型摩托车和自行车以外的车辆和步行者禁止通行。",
-        "explanation": "符合教则附表3（1）28的规定。需要注意的是步行者也不能通行。"
-      },
-      "en": {
-        "question": "This sign designates a bicycle path or bicycle-only road and bars vehicles other than specified small motorized bicycles and bicycles, as well as pedestrians.",
-        "explanation": "This is Kyosoku Appendix 3(1) item 28. Note that pedestrians are barred too."
-      },
-      "vi": {
-        "question": "Biển báo giao thông này chỉ định đường dành cho xe đạp hoặc đường chỉ dành cho xe đạp, và cấm các xe khác ngoài xe gắn máy cỡ nhỏ đặc định và xe đạp, cùng người đi bộ.",
-        "explanation": "Đúng theo Kyosoku Phụ lục 3(1) mục 28. Lưu ý rằng người đi bộ cũng bị cấm."
-      },
-      "pt": {
-        "question": "Esta sinalização designa ciclovia ou via exclusiva de bicicletas e veda os demais veículos, além dos pedestres.",
-        "explanation": "É o Kyosoku, Anexo 3(1), item 28. Note que os pedestres também ficam vedados."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 3,
-    "exam_scope": "仮免|本免"
+  "trap_type": "SW",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-3-304",
+  "category": "歩行者の保護",
+  "kp": "5-3-1",
+  "group": "K",
+  "source": "教則 第5章第3節1(1) / 道交法第18条第2項",
+  "question_type": "text",
+  "qf": "QF-5-3-D-SC-02",
+  "question_ja": "歩道と車道の区別のない道路で、前方を歩いている歩行者との間に安全な間隔を空けられなかったが、そのままの速度で歩行者のそばを通過した。",
+  "answer": false,
+  "explanation_ja": "安全な間隔を空けられないときは、徐行しなければなりません（教則第5章第3節1(1)、道交法第18条第2項）。",
+  "i18n": {
+   "zh": {
+    "question": "在人行道与车道没有区分的道路上，无法与前方行走的步行者之间留出安全间隔，却仍以原速度从步行者旁边通过。",
+    "explanation": "无法留出安全间隔时，必须缓行（徐行）（教则第5章第3节1(1)、道交法第18条第2项）。"
+   },
+   "en": {
+    "question": "On a road where there is no division between sidewalk and roadway, the driver could not leave a safe gap from a pedestrian walking ahead, but passed the pedestrian at the same speed as before.",
+    "explanation": "When a safe gap cannot be left, the driver must proceed slowly (徐行) (Kyosoku Chapter 5 Section 3 item 1(1); Road Traffic Act Article 18 paragraph 2)."
+   },
+   "vi": {
+    "question": "Trên con đường không có phân chia giữa vỉa hè và lòng đường, người lái xe không thể chừa khoảng cách an toàn với người đi bộ đang đi phía trước nhưng vẫn đi qua người đó với nguyên tốc độ cũ.",
+    "explanation": "Khi không thể chừa khoảng cách an toàn, người lái xe phải lưu thông chậm (徐行) (Kyosoku Chương 5 Mục 3 điểm 1(1); Luật Giao thông đường bộ Điều 18 khoản 2)."
+   },
+   "pt": {
+    "question": "Numa via sem separação entre calçada e pista, o condutor não conseguiu deixar uma distância segura do pedestre que caminhava à frente, mas passou por ele mantendo a mesma velocidade.",
+    "explanation": "Quando não é possível deixar uma distância segura, o condutor deve prosseguir lentamente (徐行) (Kyosoku, Capítulo 5, Seção 3, item 1(1); Lei de Trânsito, Artigo 18, parágrafo 2)."
+   }
   },
-  {
-    "id": "KS-045",
-    "category": "標識",
-    "kp": "付3-1-31-2",
-    "group": "D",
-    "source": "教則 付表3（1）31の2",
-    "question_type": "sign",
-    "qf": "QF-付3-1-31-2-A-N-01",
-    "image": {
-      "sign_no": "326-2-B",
-      "file": "326-2-B.svg",
-      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
-      "file_verified": true
-    },
-    "question_ja": "この標識は、矢印の示す方向の反対方向に特定小型原動機付自転車及び自転車が進行することの禁止を示している。",
-    "answer": true,
-    "explanation_ja": "教則付表3（1）31の2のとおりです。対象はこの二種類の車に限られます。",
-    "i18n": {
-      "zh": {
-        "question": "这个标识（立牌）表示禁止特定小型轻型摩托车和自行车朝箭头所示方向的相反方向行驶。",
-        "explanation": "符合教则附表3（1）31之2的规定。对象仅限于这两类车。"
-      },
-      "en": {
-        "question": "This sign prohibits specified small motorized bicycles and bicycles from travelling in the direction opposite to the arrow.",
-        "explanation": "This is Kyosoku Appendix 3(1) item 31-2. It applies to those two kinds of vehicle only."
-      },
-      "vi": {
-        "question": "Biển báo giao thông này cấm xe gắn máy cỡ nhỏ đặc định và xe đạp đi theo hướng ngược với mũi tên.",
-        "explanation": "Đúng theo Kyosoku Phụ lục 3(1) mục 31-2. Biển chỉ áp dụng cho hai loại xe đó."
-      },
-      "pt": {
-        "question": "Esta sinalização proíbe ciclomotores pequenos especificados e bicicletas de circular no sentido oposto ao da seta.",
-        "explanation": "É o Kyosoku, Anexo 3(1), item 31-2. Aplica-se somente a esses dois tipos."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 3,
-    "exam_scope": "仮免|本免"
+  "trap_type": "SC",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-3-305",
+  "category": "歩行者の保護",
+  "kp": "5-3-1",
+  "group": "K",
+  "source": "教則 第5章第3節1(1) / 道交法第18条第2項",
+  "question_type": "text",
+  "qf": "QF-5-3-D-EI-05",
+  "question_ja": "歩行者が路側帯の中を歩いているときは、車はその歩行者との間に安全な間隔を空ける必要も、徐行する必要もない。",
+  "answer": false,
+  "explanation_ja": "路側帯の中を歩いている歩行者にも、この決まりは当てはまります。歩行者のそばを通るときは、安全な間隔を空けるか徐行しなければなりません（教則第5章第3節1(1)）。",
+  "i18n": {
+   "zh": {
+    "question": "步行者走在路侧带（路側帯）里面时，车辆既不需要与该步行者留出安全间隔，也不需要缓行（徐行）。",
+    "explanation": "对走在路侧带里面的步行者，这条规定同样适用。从步行者旁边通过时，必须留出安全间隔或缓行（教则第5章第3节1(1)）。"
+   },
+   "en": {
+    "question": "When a pedestrian is walking inside a side strip (路側帯), the vehicle need neither leave a safe gap from that pedestrian nor proceed slowly (徐行).",
+    "explanation": "The rule applies to a pedestrian walking inside a side strip as well. When passing close to a pedestrian you must leave a safe gap or proceed slowly (Kyosoku Chapter 5 Section 3 item 1(1))."
+   },
+   "vi": {
+    "question": "Khi người đi bộ đang đi bên trong lề đường (路側帯), xe không cần chừa khoảng cách an toàn với người đó, cũng không cần lưu thông chậm (徐行).",
+    "explanation": "Quy định này cũng áp dụng cho người đi bộ đang đi bên trong lề đường. Khi đi sát người đi bộ, bạn phải chừa khoảng cách an toàn hoặc lưu thông chậm (Kyosoku Chương 5 Mục 3 điểm 1(1))."
+   },
+   "pt": {
+    "question": "Quando um pedestre caminha dentro da faixa lateral (路側帯), o veículo não precisa deixar distância segura dele nem prosseguir lentamente (徐行).",
+    "explanation": "A regra vale também para o pedestre que caminha dentro da faixa lateral. Ao passar perto de um pedestre é preciso deixar uma distância segura ou prosseguir lentamente (Kyosoku, Capítulo 5, Seção 3, item 1(1))."
+   }
   },
-  {
-    "id": "KS-046",
-    "category": "標識",
-    "kp": "付3-1-32",
-    "group": "D",
-    "source": "教則 付表3（1）32",
-    "question_type": "sign",
-    "qf": "QF-付3-1-32-A-N-01",
-    "image": {
-      "sign_no": "327",
-      "file": "327.svg",
-      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
-      "file_verified": true
-    },
-    "question_ja": "この標識は、車の通行区分の指定を示している。",
-    "answer": true,
-    "explanation_ja": "教則付表3（1）32のとおりです。指定された区分に従って通行しなければなりません。",
-    "i18n": {
-      "zh": {
-        "question": "这个标识（立牌）表示车辆通行区分的指定。",
-        "explanation": "符合教则附表3（1）32的规定。必须按指定的区分通行。"
-      },
-      "en": {
-        "question": "This sign specifies how vehicles are to be divided between the lanes.",
-        "explanation": "This is Kyosoku Appendix 3(1) item 32. You must travel in the lane assigned."
-      },
-      "vi": {
-        "question": "Biển báo giao thông này chỉ định cách phân làn cho các loại xe.",
-        "explanation": "Đúng theo Kyosoku Phụ lục 3(1) mục 32. Bạn phải đi đúng làn được chỉ định."
-      },
-      "pt": {
-        "question": "Esta sinalização especifica a divisão dos veículos entre as faixas.",
-        "explanation": "É o Kyosoku, Anexo 3(1), item 32. Você deve seguir pela faixa designada."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免"
+  "trap_type": "EI",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-3-306",
+  "category": "歩行者の保護",
+  "kp": "5-3-1",
+  "group": "K",
+  "source": "教則 第5章第3節1(1) / 道交法第18条第2項",
+  "question_type": "text",
+  "qf": "QF-5-3-A-N-08",
+  "question_ja": "歩道も路側帯もない狭い道路で歩行者のそばを通るときは、安全な間隔を空けられないことが多いので、歩行者に注意しながら徐行しなければならない。",
+  "answer": true,
+  "explanation_ja": "教則第5章第3節1(1)のとおりです。歩行者との間に安全な間隔を空けるか、徐行するかのどちらかが義務で、間隔を取れない狭い道路では徐行することになります（道交法第18条第2項）。",
+  "i18n": {
+   "zh": {
+    "question": "在既没有人行道也没有路侧带（路側帯）的狭窄道路上从步行者旁边通过时，往往无法留出安全间隔，因此必须一边注意步行者一边缓行（徐行）。",
+    "explanation": "符合教则第5章第3节1(1)的规定。留出安全间隔或缓行二者之一是义务，在无法留出间隔的狭窄道路上就要缓行（道交法第18条第2项）。"
+   },
+   "en": {
+    "question": "On a narrow road with neither a sidewalk nor a side strip (路側帯), a safe gap from a pedestrian often cannot be left, so the driver must proceed slowly (徐行) while watching the pedestrian.",
+    "explanation": "This is Kyosoku Chapter 5 Section 3 item 1(1). The duty is either to leave a safe gap from the pedestrian or to proceed slowly, and on a narrow road where no gap can be left it becomes proceeding slowly (Road Traffic Act Article 18 paragraph 2)."
+   },
+   "vi": {
+    "question": "Trên con đường hẹp không có vỉa hè cũng không có lề đường (路側帯), thường không thể chừa khoảng cách an toàn với người đi bộ, nên người lái xe phải lưu thông chậm (徐行) trong khi chú ý đến người đi bộ.",
+    "explanation": "Đúng theo Kyosoku Chương 5 Mục 3 điểm 1(1). Nghĩa vụ là chừa khoảng cách an toàn với người đi bộ hoặc lưu thông chậm, và trên đường hẹp không thể chừa khoảng cách thì phải lưu thông chậm (Luật Giao thông đường bộ Điều 18 khoản 2)."
+   },
+   "pt": {
+    "question": "Numa via estreita sem calçada e sem faixa lateral (路側帯), muitas vezes não é possível deixar distância segura do pedestre, por isso o condutor deve prosseguir lentamente (徐行) enquanto observa o pedestre.",
+    "explanation": "É o Kyosoku, Capítulo 5, Seção 3, item 1(1). O dever é deixar uma distância segura do pedestre ou prosseguir lentamente, e numa via estreita onde não há como deixar distância resta prosseguir lentamente (Lei de Trânsito, Artigo 18, parágrafo 2)."
+   }
   },
-  {
-    "id": "KS-047",
-    "category": "標識",
-    "kp": "付3-1-35",
-    "group": "D",
-    "source": "教則 付表3（1）35",
-    "question_type": "sign",
-    "qf": "QF-付3-1-35-A-N-01",
-    "image": {
-      "sign_no": "327-7-A",
-      "file": "327-7-A.svg",
-      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
-      "file_verified": true
-    },
-    "question_ja": "この標識は、交差点で進行する方向別の車の通行区分の指定を示している。",
-    "answer": true,
-    "explanation_ja": "教則付表3（1）35のとおりです。緊急自動車が近づいた場合や道路工事などでやむを得ない場合のほかは、指定に従います。",
-    "i18n": {
-      "zh": {
-        "question": "这个标识（立牌）表示交叉路口按行驶方向划分的车辆通行区分的指定。",
-        "explanation": "符合教则附表3（1）35的规定。除紧急车辆驶近和道路施工等不得已的情况外，要按指定通行。"
-      },
-      "en": {
-        "question": "This sign assigns lanes according to the direction you will take at the intersection.",
-        "explanation": "This is Kyosoku Appendix 3(1) item 35. You follow it except when an emergency vehicle approaches or road works leave no alternative."
-      },
-      "vi": {
-        "question": "Biển báo giao thông này phân làn theo hướng đi tại nút giao thông.",
-        "explanation": "Đúng theo Kyosoku Phụ lục 3(1) mục 35. Bạn tuân theo trừ khi có xe ưu tiên đến gần hoặc thi công đường không cho lựa chọn khác."
-      },
-      "pt": {
-        "question": "Esta sinalização designa faixas conforme a direção a tomar no cruzamento.",
-        "explanation": "É o Kyosoku, Anexo 3(1), item 35. Segue-se a indicação, salvo aproximação de veículo de emergência ou obras sem alternativa."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免"
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-3-307",
+  "category": "歩行者の保護",
+  "kp": "5-3-1",
+  "group": "K",
+  "source": "教則 第5章第3節1(2)",
+  "question_type": "text",
+  "qf": "QF-5-3-A-N-21",
+  "question_ja": "安全地帯に歩行者がいるときは、その横を通ろうとする車は徐行して通らなければならない。",
+  "answer": true,
+  "explanation_ja": "教則第5章第3節1(2)のとおりです。歩行者がいない安全地帯のそばでは、徐行の義務はありません。",
+  "i18n": {
+   "zh": {
+    "question": "安全地带内有步行者时，打算从其旁边通过的车辆必须缓行（徐行）通过。",
+    "explanation": "符合教则第5章第3节1(2)的规定。安全地带内没有步行者时，没有缓行的义务。"
+   },
+   "en": {
+    "question": "When there are pedestrians in a safety zone, a vehicle about to pass alongside it must proceed slowly (徐行) as it goes by.",
+    "explanation": "This is Kyosoku Chapter 5 Section 3 item 1(2). Beside a safety zone with no pedestrians in it there is no duty to proceed slowly."
+   },
+   "vi": {
+    "question": "Khi trong khu vực an toàn có người đi bộ, xe định đi qua bên cạnh phải lưu thông chậm (徐行) khi đi ngang.",
+    "explanation": "Đúng theo Kyosoku Chương 5 Mục 3 điểm 1(2). Khi khu vực an toàn không có người đi bộ thì không có nghĩa vụ lưu thông chậm."
+   },
+   "pt": {
+    "question": "Quando há pedestres numa zona de segurança, o veículo que vai passar ao lado dela deve prosseguir lentamente (徐行) ao passar.",
+    "explanation": "É o Kyosoku, Capítulo 5, Seção 3, item 1(2). Ao lado de uma zona de segurança sem pedestres não há dever de prosseguir lentamente."
+   }
   },
-  {
-    "id": "KS-048",
-    "category": "標識",
-    "kp": "付3-1-35-2",
-    "group": "D",
-    "source": "教則 付表3（1）35の2",
-    "question_type": "sign",
-    "qf": "QF-付3-1-35-2-A-N-01",
-    "image": {
-      "sign_no": "327-8",
-      "file": "327-8.svg",
-      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
-      "file_verified": true
-    },
-    "question_ja": "この標識は、一般原動機付自転車の二段階の右折方法の指定を示している。",
-    "answer": true,
-    "explanation_ja": "教則付表3（1）35の2のとおりです。この標識のある交差点では、青の矢印の信号によって右折することはできません。",
-    "i18n": {
-      "zh": {
-        "question": "这个标识（立牌）表示一般轻型摩托车二阶段右拐弯方法的指定。",
-        "explanation": "符合教则附表3（1）35之2的规定。在设有该标识的交叉路口，不能依据绿色灯光箭头右拐弯。"
-      },
-      "en": {
-        "question": "This sign specifies the two-step right turn method for general motorized bicycles (mopeds).",
-        "explanation": "This is Kyosoku Appendix 3(1) item 35-2. At such an intersection you cannot turn right on a green arrow."
-      },
-      "vi": {
-        "question": "Biển báo giao thông này chỉ định cách rẽ phải hai bước cho xe gắn máy (原付).",
-        "explanation": "Đúng theo Kyosoku Phụ lục 3(1) mục 35-2. Tại nút giao có biển này, bạn không được rẽ phải theo đèn mũi tên xanh."
-      },
-      "pt": {
-        "question": "Esta sinalização determina a conversão à direita em duas etapas para ciclomotores.",
-        "explanation": "É o Kyosoku, Anexo 3(1), item 35-2. Nesse cruzamento não se converte à direita pela seta verde."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 3,
-    "exam_scope": "仮免|本免"
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-3-308",
+  "category": "歩行者の保護",
+  "kp": "5-3-1",
+  "group": "K",
+  "source": "教則 第5章第3節1(4)",
+  "question_type": "text",
+  "qf": "QF-5-3-A-N-19",
+  "question_ja": "ぬかるみや水たまりのあるところを通るときは、泥や水をはねて歩行者に迷惑を掛けないように、徐行するなど注意して通らなければならない。",
+  "answer": true,
+  "explanation_ja": "教則第5章第3節1(4)のとおりです。歩行者から離れていても、泥や水がかかる範囲では同じように注意が必要です。",
+  "i18n": {
+   "zh": {
+    "question": "通过有泥泞或水洼的地方时，必须缓行（徐行）等加以注意，以免溅起泥水给步行者带来麻烦。",
+    "explanation": "符合教则第5章第3节1(4)的规定。即使离步行者较远，只要在泥水可能溅到的范围内，同样需要注意。"
+   },
+   "en": {
+    "question": "When driving through a muddy place or a puddle, the driver must take care, for example by proceeding slowly (徐行), not to splash mud or water and trouble pedestrians.",
+    "explanation": "This is Kyosoku Chapter 5 Section 3 item 1(4). The same care is needed even at a distance from the pedestrian, as long as the mud or water can reach them."
+   },
+   "vi": {
+    "question": "Khi đi qua chỗ lầy lội hoặc vũng nước, người lái xe phải chú ý, chẳng hạn bằng cách lưu thông chậm (徐行), để không bắn bùn nước làm phiền người đi bộ.",
+    "explanation": "Đúng theo Kyosoku Chương 5 Mục 3 điểm 1(4). Ngay cả khi ở xa người đi bộ, vẫn phải chú ý như vậy nếu bùn nước có thể bắn tới họ."
+   },
+   "pt": {
+    "question": "Ao passar por um lamaçal ou uma poça, o condutor deve tomar cuidado, por exemplo prosseguindo lentamente (徐行), para não espirrar lama ou água e incomodar os pedestres.",
+    "explanation": "É o Kyosoku, Capítulo 5, Seção 3, item 1(4). O mesmo cuidado é necessário mesmo a certa distância do pedestre, desde que a lama ou a água possa alcançá-lo."
+   }
   },
-  {
-    "id": "KS-049",
-    "category": "標識",
-    "kp": "付3-1-41",
-    "group": "D",
-    "source": "教則 付表3（1）41",
-    "question_type": "sign",
-    "qf": "QF-付3-1-41-A-N-01",
-    "image": {
-      "sign_no": "331",
-      "file": "331.svg",
-      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
-      "file_verified": true
-    },
-    "question_ja": "この標識は、歩行者及び遠隔操作型小型車の通行の禁止を示している。",
-    "answer": true,
-    "explanation_ja": "教則付表3（1）41のとおりです。車の通行止めとは別の標識です。",
-    "i18n": {
-      "zh": {
-        "question": "这个标识（立牌）表示禁止步行者及远程操作型小型车通行。",
-        "explanation": "符合教则附表3（1）41的规定。它与车辆禁止通行是不同的标识。"
-      },
-      "en": {
-        "question": "This sign prohibits pedestrians and remotely operated small vehicles from passing.",
-        "explanation": "This is Kyosoku Appendix 3(1) item 41. It is a different sign from the one closing the road to vehicles."
-      },
-      "vi": {
-        "question": "Biển báo giao thông này cấm người đi bộ và xe cỡ nhỏ điều khiển từ xa đi qua.",
-        "explanation": "Đúng theo Kyosoku Phụ lục 3(1) mục 41. Đây là biển khác với biển cấm xe cộ."
-      },
-      "pt": {
-        "question": "Esta sinalização proíbe a passagem de pedestres e de veículos pequenos de operação remota.",
-        "explanation": "É o Kyosoku, Anexo 3(1), item 41. É uma placa diferente da que fecha a via a veículos."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免"
+  "trap_type": "N",
+  "difficulty": 1,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-3-309",
+  "category": "歩行者の保護",
+  "kp": "5-3-1",
+  "group": "K",
+  "source": "教則 第5章第3節1(5) / 1(1)",
+  "question_type": "text",
+  "qf": "QF-5-3-A-N-16",
+  "question_ja": "止まっている車のすぐ近くを通るときは、急にドアが開いたり人が飛び出したりすることを予測して、安全な間隔を空けるか徐行しなければならない。",
+  "answer": true,
+  "explanation_ja": "教則第5章第3節1(5)のとおり、止まっている車のそばでは急なドアの開閉や人の飛び出しに注意します。降りてきた人は歩行者ですから、そのそばを通るときは安全な間隔を空けるか徐行しなければなりません（教則第5章第3節1(1)）。",
+  "i18n": {
+   "zh": {
+    "question": "从停着的车辆近旁通过时，必须预想车门突然打开或有人突然窜出，留出安全间隔或缓行（徐行）。",
+    "explanation": "按照教则第5章第3节1(5)，在停着的车辆旁边要注意车门突然开闭和人的突然窜出。下车的人就是步行者，从其旁边通过时必须留出安全间隔或缓行（教则第5章第3节1(1)）。"
+   },
+   "en": {
+    "question": "When passing very close to a stopped vehicle, the driver must expect a door to open suddenly or a person to step out, and must leave a safe gap or proceed slowly (徐行).",
+    "explanation": "Under Kyosoku Chapter 5 Section 3 item 1(5), beside a stopped vehicle you watch for doors opening suddenly and for people stepping out. Someone who has got out is a pedestrian, so when passing close to them you must leave a safe gap or proceed slowly (Kyosoku Chapter 5 Section 3 item 1(1))."
+   },
+   "vi": {
+    "question": "Khi đi sát ngay bên cạnh một chiếc xe đang đỗ, người lái phải lường trước việc cửa xe bất ngờ mở hoặc có người bất ngờ bước ra, và phải chừa khoảng cách an toàn hoặc lưu thông chậm (徐行).",
+    "explanation": "Theo Kyosoku Chương 5 Mục 3 điểm 1(5), bên cạnh xe đang đỗ phải chú ý cửa xe đột ngột mở và người đột ngột bước ra. Người vừa xuống xe là người đi bộ, nên khi đi sát họ bạn phải chừa khoảng cách an toàn hoặc lưu thông chậm (Kyosoku Chương 5 Mục 3 điểm 1(1))."
+   },
+   "pt": {
+    "question": "Ao passar bem perto de um veículo parado, o condutor deve prever que uma porta se abra de repente ou que alguém saia, e deve deixar uma distância segura ou prosseguir lentamente (徐行).",
+    "explanation": "Conforme o Kyosoku, Capítulo 5, Seção 3, item 1(5), ao lado de um veículo parado observa-se a abertura repentina de portas e a saída repentina de pessoas. Quem acabou de descer é um pedestre, portanto, ao passar perto dessa pessoa, é preciso deixar uma distância segura ou prosseguir lentamente (Kyosoku, Capítulo 5, Seção 3, item 1(1))."
+   }
   },
-  {
-    "id": "KS-050",
-    "category": "標識",
-    "kp": "付3-1-42",
-    "group": "D",
-    "source": "教則 付表3（1）42",
-    "question_type": "sign",
-    "qf": "QF-付3-1-42-A-N-01",
-    "image": {
-      "sign_no": "332-横断禁止",
-      "file": "332-横断禁止.svg",
-      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
-      "file_verified": true
-    },
-    "question_ja": "この標識は、歩行者及び遠隔操作型小型車の横断の禁止を示している。",
-    "answer": true,
-    "explanation_ja": "教則付表3（1）42のとおりです。通行そのものを禁止するものではありません。",
-    "i18n": {
-      "zh": {
-        "question": "这个标识（立牌）表示禁止步行者及远程操作型小型车横穿。",
-        "explanation": "符合教则附表3（1）42的规定。它并非禁止通行本身。"
-      },
-      "en": {
-        "question": "This sign prohibits pedestrians and remotely operated small vehicles from crossing.",
-        "explanation": "This is Kyosoku Appendix 3(1) item 42. It does not prohibit passing along the road itself."
-      },
-      "vi": {
-        "question": "Biển báo giao thông này cấm người đi bộ và xe cỡ nhỏ điều khiển từ xa băng qua đường.",
-        "explanation": "Đúng theo Kyosoku Phụ lục 3(1) mục 42. Biển không cấm việc đi dọc theo đường."
-      },
-      "pt": {
-        "question": "Esta sinalização proíbe pedestres e veículos pequenos de operação remota de atravessar.",
-        "explanation": "É o Kyosoku, Anexo 3(1), item 42. Ela não proíbe caminhar ao longo da via."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免"
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-3-310",
+  "category": "歩行者の保護",
+  "kp": "5-3-1",
+  "group": "K",
+  "source": "教則 第5章第3節1(5) / 2(5)",
+  "question_type": "text",
+  "qf": "QF-5-3-A-N-10",
+  "question_ja": "停留所で止まっているバスのそばを通るときは、バスに隠れた側から歩行者が横断してくることを予測して運転しなければならない。",
+  "answer": true,
+  "explanation_ja": "教則第5章第3節1(5)のとおり、止まっている車のそばでは車の陰からの人の飛び出しに注意します。横断歩道のない場所でも歩行者が横断することはあります（教則第5章第3節2(5)）。",
+  "i18n": {
+   "zh": {
+    "question": "从停靠在公交站的公共汽车旁边通过时，必须预想会有步行者从被公共汽车挡住的一侧横穿出来，并据此驾驶。",
+    "explanation": "按照教则第5章第3节1(5)，在停着的车辆旁边要注意有人从车后方窜出。即使在没有人行横道的地方，步行者也可能横穿（教则第5章第3节2(5)）。"
+   },
+   "en": {
+    "question": "When passing a bus stopped at a bus stop, the driver must drive expecting a pedestrian to come out from the side hidden by the bus and cross the road.",
+    "explanation": "Under Kyosoku Chapter 5 Section 3 item 1(5), beside a stopped vehicle you watch for people stepping out from behind it. Pedestrians do cross even where there is no pedestrian crossing (Kyosoku Chapter 5 Section 3 item 2(5))."
+   },
+   "vi": {
+    "question": "Khi đi qua một chiếc xe buýt đang dừng ở trạm dừng, người lái phải lái xe với dự liệu rằng có người đi bộ băng ngang đường từ phía bị xe buýt che khuất.",
+    "explanation": "Theo Kyosoku Chương 5 Mục 3 điểm 1(5), bên cạnh xe đang dừng phải chú ý người bất ngờ bước ra từ phía khuất của xe. Người đi bộ vẫn băng ngang cả ở nơi không có vạch sang đường cho người đi bộ (Kyosoku Chương 5 Mục 3 điểm 2(5))."
+   },
+   "pt": {
+    "question": "Ao passar por um ônibus parado no ponto de parada, o condutor deve dirigir prevendo que um pedestre saia do lado encoberto pelo ônibus para atravessar a via.",
+    "explanation": "Conforme o Kyosoku, Capítulo 5, Seção 3, item 1(5), ao lado de um veículo parado observa-se a saída de pessoas por trás dele. Pedestres atravessam mesmo onde não há faixa de pedestres (Kyosoku, Capítulo 5, Seção 3, item 2(5))."
+   }
   },
-  {
-    "id": "KS-051",
-    "category": "標識",
-    "kp": "付3-1-12",
-    "group": "D",
-    "source": "教則 付表3（1）12",
-    "question_type": "sign",
-    "qf": "QF-付3-1-12-D-SS-01",
-    "image": {
-      "sign_no": "311-C",
-      "file": "311-C.svg",
-      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
-      "file_verified": true
-    },
-    "question_ja": "この標識は、一方通行を示している。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則付表3（1）12のこの標識は指定方向外進行禁止で、矢印の方向以外への車の進行を禁止するものです。",
-    "i18n": {
-      "zh": {
-        "question": "这个标识（立牌）表示单向通行。",
-        "explanation": "错误。教则附表3（1）12的这个标识是指定方向外禁止行驶，禁止车辆朝箭头所示以外的方向行驶。"
-      },
-      "en": {
-        "question": "This sign means one way.",
-        "explanation": "This is wrong. This sign, Kyosoku Appendix 3(1) item 12, prohibits vehicles from going in any direction other than the arrow."
-      },
-      "vi": {
-        "question": "Biển báo giao thông này có nghĩa là đường một chiều.",
-        "explanation": "Sai. Biển này, Kyosoku Phụ lục 3(1) mục 12, cấm xe đi theo hướng khác ngoài hướng mũi tên."
-      },
-      "pt": {
-        "question": "Esta sinalização significa mão única.",
-        "explanation": "Está errado. Esta placa, Kyosoku Anexo 3(1) item 12, proíbe seguir em qualquer direção que não a da seta."
-      }
-    },
-    "trap_type": "SS",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免"
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-3-311",
+  "category": "歩行者の保護",
+  "kp": "5-3-2",
+  "group": "K",
+  "source": "教則 第5章第3節2(2) / 道交法第38条第1項",
+  "question_type": "text",
+  "qf": "QF-5-3-A-N-01",
+  "question_ja": "横断歩道に近づくとき、横断しようとする人がいるかどうかが明らかでない場合は、運転者はその手前で停止できる速度まで落として進まなければならない。",
+  "answer": true,
+  "explanation_ja": "教則第5章第3節2(2)のとおりです。停止線があるときは、その手前で停止できる速度です（道交法第38条第1項）。",
+  "i18n": {
+   "zh": {
+    "question": "接近人行横道时，如果是否有人打算横穿并不明确，驾驶员就必须把速度降到能在其近前停住的程度再前进。",
+    "explanation": "符合教则第5章第3节2(2)的规定。设有停止线时，是能在停止线近前停住的速度（道交法第38条第1项）。"
+   },
+   "en": {
+    "question": "When approaching a pedestrian crossing, if it is not clear whether anyone is about to cross, the driver must bring the speed down to one from which the vehicle can stop just before it.",
+    "explanation": "This is Kyosoku Chapter 5 Section 3 item 2(2). Where there is a stop line, it is a speed from which the vehicle can stop just before that line (Road Traffic Act Article 38 paragraph 1)."
+   },
+   "vi": {
+    "question": "Khi đến gần vạch sang đường cho người đi bộ, nếu không rõ có ai định băng ngang hay không, người lái xe phải giảm tốc độ xuống mức có thể dừng ngay trước vạch rồi mới đi tiếp.",
+    "explanation": "Đúng theo Kyosoku Chương 5 Mục 3 điểm 2(2). Nếu có vạch dừng thì đó là tốc độ có thể dừng ngay trước vạch dừng (Luật Giao thông đường bộ Điều 38 khoản 1)."
+   },
+   "pt": {
+    "question": "Ao se aproximar de uma faixa de pedestres, se não estiver claro se alguém vai atravessar, o condutor deve reduzir a velocidade a um ponto que permita parar logo antes dela.",
+    "explanation": "É o Kyosoku, Capítulo 5, Seção 3, item 2(2). Havendo linha de parada, trata-se de uma velocidade que permita parar logo antes dessa linha (Lei de Trânsito, Artigo 38, parágrafo 1)."
+   }
   },
-  {
-    "id": "KS-052",
-    "category": "標識",
-    "kp": "付3-1-32-2",
-    "group": "D",
-    "source": "教則 付表3（1）32の2",
-    "question_type": "sign",
-    "qf": "QF-付3-1-32-2-D-EX-01",
-    "image": {
-      "sign_no": "327-2",
-      "file": "327-2.svg",
-      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
-      "file_verified": true
-    },
-    "question_ja": "この標識は、すべての車について通行区分を指定するものである。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則付表3（1）32の2のこの標識は、標示板に表示された車の通行区分の指定を示すものです。",
-    "i18n": {
-      "zh": {
-        "question": "这个标识（立牌）是对所有车辆指定通行区分的。",
-        "explanation": "错误。教则附表3（1）32之2的这个标识表示对标示牌上所示车辆的通行区分的指定。"
-      },
-      "en": {
-        "question": "This sign assigns lanes for every kind of vehicle.",
-        "explanation": "This is wrong. This sign, Kyosoku Appendix 3(1) item 32-2, assigns lanes for the vehicles shown on the plate."
-      },
-      "vi": {
-        "question": "Biển báo giao thông này phân làn cho mọi loại xe.",
-        "explanation": "Sai. Biển này, Kyosoku Phụ lục 3(1) mục 32-2, phân làn cho những loại xe được thể hiện trên bảng."
-      },
-      "pt": {
-        "question": "Esta sinalização designa faixas para todo tipo de veículo.",
-        "explanation": "Está errado. Esta placa, Kyosoku Anexo 3(1) item 32-2, designa faixas para os veículos mostrados nela."
-      }
-    },
-    "trap_type": "EX",
-    "difficulty": 3,
-    "exam_scope": "仮免|本免"
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-3-312",
+  "category": "歩行者の保護",
+  "kp": "5-3-2",
+  "group": "K",
+  "source": "教則 第5章第3節2(2) / 道交法第38条第1項",
+  "question_type": "text",
+  "qf": "QF-5-3-D-SC-03",
+  "question_ja": "見通しの悪い横断歩道に近づいたが、横断する人がいるかどうかはっきりしなかったので、そのままの速度で横断歩道を通過した。",
+  "answer": false,
+  "explanation_ja": "横断する人がいないことが明らかな場合を除き、横断歩道の手前で停止できるように速度を落とさなければなりません（教則第5章第3節2(2)、道交法第38条第1項）。",
+  "i18n": {
+   "zh": {
+    "question": "接近视野不好的人行横道时，不清楚是否有横穿的人，却仍以原速度通过了人行横道。",
+    "explanation": "除了明显没有横穿的人的情况以外，必须减速到能在人行横道近前停住（教则第5章第3节2(2)、道交法第38条第1项）。"
+   },
+   "en": {
+    "question": "Approaching a pedestrian crossing with poor visibility, the driver was not sure whether anyone was crossing, but went over the crossing at the same speed as before.",
+    "explanation": "Except where it is clear that no one is crossing, the driver must slow down enough to stop just before the pedestrian crossing (Kyosoku Chapter 5 Section 3 item 2(2); Road Traffic Act Article 38 paragraph 1)."
+   },
+   "vi": {
+    "question": "Khi đến gần vạch sang đường cho người đi bộ có tầm nhìn hạn chế, người lái không rõ có ai băng ngang hay không nhưng vẫn đi qua vạch với nguyên tốc độ cũ.",
+    "explanation": "Trừ khi rõ ràng là không có ai băng ngang, người lái phải giảm tốc độ đến mức có thể dừng ngay trước vạch sang đường (Kyosoku Chương 5 Mục 3 điểm 2(2); Luật Giao thông đường bộ Điều 38 khoản 1)."
+   },
+   "pt": {
+    "question": "Ao se aproximar de uma faixa de pedestres com pouca visibilidade, o condutor não tinha certeza se alguém a atravessava, mas passou por ela mantendo a mesma velocidade.",
+    "explanation": "Salvo quando esteja claro que ninguém atravessa, o condutor deve reduzir a velocidade o bastante para parar logo antes da faixa de pedestres (Kyosoku, Capítulo 5, Seção 3, item 2(2); Lei de Trânsito, Artigo 38, parágrafo 1)."
+   }
   },
-  {
-    "id": "KS-053",
-    "category": "標識",
-    "kp": "付3-1-33-2",
-    "group": "D",
-    "source": "教則 付表3（1）33の2",
-    "question_type": "sign",
-    "qf": "QF-付3-1-33-2-D-SS-01",
-    "image": {
-      "sign_no": "327-4-2",
-      "file": "327-4-2.svg",
-      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
-      "file_verified": true
-    },
-    "question_ja": "この標識は、路線バスなどの専用通行帯の指定を示している。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則付表3（1）33の2のこの標識は、普通自転車の専用の通行帯の指定を示すものです。",
-    "i18n": {
-      "zh": {
-        "question": "这个标识（立牌）表示公交车等专用通行带的指定。",
-        "explanation": "错误。教则附表3（1）33之2的这个标识表示普通自行车专用通行带的指定。"
-      },
-      "en": {
-        "question": "This sign designates a lane reserved for route buses.",
-        "explanation": "This is wrong. This sign, Kyosoku Appendix 3(1) item 33-2, designates a lane reserved for ordinary bicycles."
-      },
-      "vi": {
-        "question": "Biển báo giao thông này chỉ định làn dành riêng cho xe buýt tuyến.",
-        "explanation": "Sai. Biển này, Kyosoku Phụ lục 3(1) mục 33-2, chỉ định làn dành riêng cho xe đạp thường."
-      },
-      "pt": {
-        "question": "Esta sinalização designa faixa exclusiva para ônibus de linha.",
-        "explanation": "Está errado. Esta placa, Kyosoku Anexo 3(1) item 33-2, designa faixa exclusiva para bicicletas comuns."
-      }
-    },
-    "trap_type": "SS",
-    "difficulty": 3,
-    "exam_scope": "仮免|本免"
+  "trap_type": "SC",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-3-313",
+  "category": "歩行者の保護",
+  "kp": "5-3-2",
+  "group": "K",
+  "source": "教則 第5章第3節2(2) / 道交法第38条第1項",
+  "question_type": "text",
+  "qf": "QF-5-3-D-EX-03",
+  "question_ja": "横断歩道に近づいたときは、横断する人がいないことが明らかな場合であっても、手前で停止できる速度まで落とさなければならない。",
+  "answer": false,
+  "explanation_ja": "横断する人や自転車がいないことが明らかなときは、速度を落とさずに進むことができます（教則第5章第3節2(2)、道交法第38条第1項）。",
+  "i18n": {
+   "zh": {
+    "question": "接近人行横道时，即使明显没有横穿的人，也必须把速度降到能在近前停住的程度。",
+    "explanation": "明显没有横穿的人或自行车时，可以不减速直接前进（教则第5章第3节2(2)、道交法第38条第1项）。"
+   },
+   "en": {
+    "question": "When approaching a pedestrian crossing, the driver must slow to a speed from which the vehicle can stop just before it, even where it is clear that no one is crossing.",
+    "explanation": "Where it is clear that no pedestrian or bicycle is crossing, the driver may go on without slowing down (Kyosoku Chapter 5 Section 3 item 2(2); Road Traffic Act Article 38 paragraph 1)."
+   },
+   "vi": {
+    "question": "Khi đến gần vạch sang đường cho người đi bộ, người lái phải giảm xuống tốc độ có thể dừng ngay trước vạch, ngay cả khi rõ ràng là không có ai băng ngang.",
+    "explanation": "Khi rõ ràng là không có người đi bộ hay xe đạp nào băng ngang, người lái có thể đi tiếp mà không cần giảm tốc độ (Kyosoku Chương 5 Mục 3 điểm 2(2); Luật Giao thông đường bộ Điều 38 khoản 1)."
+   },
+   "pt": {
+    "question": "Ao se aproximar de uma faixa de pedestres, o condutor deve reduzir para uma velocidade que lhe permita parar logo antes dela, mesmo quando esteja claro que ninguém a atravessa.",
+    "explanation": "Quando está claro que nenhum pedestre ou bicicleta atravessa, o condutor pode seguir sem reduzir a velocidade (Kyosoku, Capítulo 5, Seção 3, item 2(2); Lei de Trânsito, Artigo 38, parágrafo 1)."
+   }
   },
-  {
-    "id": "KS-054",
-    "category": "標識",
-    "kp": "付3-1-35-3",
-    "group": "D",
-    "source": "教則 付表3（1）35の3",
-    "question_type": "sign",
-    "qf": "QF-付3-1-35-3-D-SS-01",
-    "image": {
-      "sign_no": "327-9",
-      "file": "327-9.svg",
-      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
-      "file_verified": true
-    },
-    "question_ja": "この標識は、一般原動機付自転車の二段階の右折方法の指定を示している。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則付表3（1）35の3のこの標識は、一般原動機付自転車の小回りの右折方法の指定を示すものです。",
-    "i18n": {
-      "zh": {
-        "question": "这个标识（立牌）表示一般轻型摩托车二阶段右拐弯方法的指定。",
-        "explanation": "错误。教则附表3（1）35之3的这个标识表示一般轻型摩托车小转弯右拐弯方法的指定。"
-      },
-      "en": {
-        "question": "This sign specifies the two-step right turn method for general motorized bicycles (mopeds).",
-        "explanation": "This is wrong. This sign, Kyosoku Appendix 3(1) item 35-3, specifies the small-turn right turn method."
-      },
-      "vi": {
-        "question": "Biển báo giao thông này chỉ định cách rẽ phải hai bước cho xe gắn máy (原付).",
-        "explanation": "Sai. Biển này, Kyosoku Phụ lục 3(1) mục 35-3, chỉ định cách rẽ phải theo kiểu rẽ nhỏ."
-      },
-      "pt": {
-        "question": "Esta sinalização determina a conversão à direita em duas etapas para ciclomotores.",
-        "explanation": "Está errado. Esta placa, Kyosoku Anexo 3(1) item 35-3, determina a conversão em giro curto."
-      }
-    },
-    "trap_type": "SS",
-    "difficulty": 3,
-    "exam_scope": "仮免|本免"
+  "trap_type": "EX",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-3-314",
+  "category": "歩行者の保護",
+  "kp": "5-3-2",
+  "group": "K",
+  "source": "教則 第5章第3節2(2) / 道交法第38条第1項",
+  "question_type": "text",
+  "qf": "QF-5-3-A-N-06",
+  "question_ja": "横断歩道に近づいたとき、横断する人や自転車がいないことが明らかであれば、車はそのままの速度で進むことができる。",
+  "answer": true,
+  "explanation_ja": "教則第5章第3節2(2)のとおりです。いないことが明らかとはいえないときは、手前で停止できるように速度を落とさなければなりません（道交法第38条第1項）。",
+  "i18n": {
+   "zh": {
+    "question": "接近人行横道时，如果明显没有横穿的人或自行车，车辆可以按原速度前进。",
+    "explanation": "符合教则第5章第3节2(2)的规定。不能说明显没有人时，必须减速到能在近前停住（道交法第38条第1项）。"
+   },
+   "en": {
+    "question": "When a vehicle approaches a pedestrian crossing and it is clear that no pedestrian or bicycle is crossing, it may go on at the same speed.",
+    "explanation": "This is Kyosoku Chapter 5 Section 3 item 2(2). Where it cannot be said to be clear that no one is there, the driver must slow down enough to stop just before the crossing (Road Traffic Act Article 38 paragraph 1)."
+   },
+   "vi": {
+    "question": "Khi xe đến gần vạch sang đường cho người đi bộ mà rõ ràng là không có người đi bộ hay xe đạp nào băng ngang, xe có thể đi tiếp với nguyên tốc độ.",
+    "explanation": "Đúng theo Kyosoku Chương 5 Mục 3 điểm 2(2). Khi không thể nói là rõ ràng không có ai, người lái phải giảm tốc độ đến mức có thể dừng ngay trước vạch (Luật Giao thông đường bộ Điều 38 khoản 1)."
+   },
+   "pt": {
+    "question": "Quando um veículo se aproxima de uma faixa de pedestres e está claro que nenhum pedestre ou bicicleta a atravessa, ele pode seguir na mesma velocidade.",
+    "explanation": "É o Kyosoku, Capítulo 5, Seção 3, item 2(2). Quando não se pode dizer que esteja claro que não há ninguém, o condutor deve reduzir o bastante para parar logo antes da faixa (Lei de Trânsito, Artigo 38, parágrafo 1)."
+   }
   },
-  {
-    "id": "KS-055",
-    "category": "標識",
-    "kp": "付3-1-35-5",
-    "group": "D",
-    "source": "教則 付表3（1）35の5",
-    "question_type": "sign",
-    "qf": "QF-付3-1-35-5-D-SS-01",
-    "image": {
-      "sign_no": "327-11",
-      "file": "327-11.svg",
-      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
-      "file_verified": true
-    },
-    "question_ja": "この標識は、車が駐車するとき道路の端に直角に止めなければならないことの指定を示している。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則付表3（1）35の5のこの標識は、道路の端に平行に止めなければならないことの指定を示すものです。",
-    "i18n": {
-      "zh": {
-        "question": "这个标识（立牌）表示车辆驻车时必须与道路边缘成直角停放的指定。",
-        "explanation": "错误。教则附表3（1）35之5的这个标识表示必须与道路边缘平行停放的指定。"
-      },
-      "en": {
-        "question": "This sign requires a vehicle to park at right angles to the edge of the road.",
-        "explanation": "This is wrong. This sign, Kyosoku Appendix 3(1) item 35-5, requires parking parallel to the edge of the road."
-      },
-      "vi": {
-        "question": "Biển báo giao thông này yêu cầu xe đỗ vuông góc với mép đường.",
-        "explanation": "Sai. Biển này, Kyosoku Phụ lục 3(1) mục 35-5, yêu cầu đỗ song song với mép đường."
-      },
-      "pt": {
-        "question": "Esta sinalização exige que o veículo estacione perpendicular à borda da via.",
-        "explanation": "Está errado. Esta placa, Kyosoku Anexo 3(1) item 35-5, exige estacionar paralelo à borda."
-      }
-    },
-    "trap_type": "SS",
-    "difficulty": 3,
-    "exam_scope": "仮免|本免"
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-3-315",
+  "category": "歩行者の保護",
+  "kp": "5-3-2",
+  "group": "K",
+  "source": "教則 第5章第3節2(2) / 道交法第38条第1項",
+  "question_type": "text",
+  "qf": "QF-5-3-D-SW-01",
+  "question_ja": "横断歩道を横断しようとしている歩行者がいるときは、車は徐行して通過すればよい。",
+  "answer": false,
+  "explanation_ja": "徐行では足りません。横断歩道の手前（停止線があるときはその手前）で一時停止をして、歩行者に道を譲らなければなりません（教則第5章第3節2(2)、道交法第38条第1項）。",
+  "i18n": {
+   "zh": {
+    "question": "有步行者正要横穿人行横道时，车辆缓行（徐行）通过即可。",
+    "explanation": "仅缓行是不够的。必须在人行横道近前（设有停止线时在停止线近前）暂停（一時停止），把道路让给步行者（教则第5章第3节2(2)、道交法第38条第1项）。"
+   },
+   "en": {
+    "question": "Where there is a pedestrian about to cross at a pedestrian crossing, the vehicle may simply proceed slowly (徐行) past it.",
+    "explanation": "Proceeding slowly is not enough. The driver must come to a complete stop (一時停止) just before the pedestrian crossing, or before the stop line where there is one, and give way to the pedestrian (Kyosoku Chapter 5 Section 3 item 2(2); Road Traffic Act Article 38 paragraph 1)."
+   },
+   "vi": {
+    "question": "Khi có người đi bộ đang định băng ngang tại vạch sang đường, xe chỉ cần lưu thông chậm (徐行) đi qua là đủ.",
+    "explanation": "Lưu thông chậm là chưa đủ. Người lái phải tạm dừng (一時停止) ngay trước vạch sang đường, hoặc trước vạch dừng nếu có, và nhường đường cho người đi bộ (Kyosoku Chương 5 Mục 3 điểm 2(2); Luật Giao thông đường bộ Điều 38 khoản 1)."
+   },
+   "pt": {
+    "question": "Havendo um pedestre prestes a atravessar numa faixa de pedestres, basta que o veículo prossiga lentamente (徐行) ao passar por ela.",
+    "explanation": "Prosseguir lentamente não basta. O condutor deve fazer parada obrigatória (一時停止) logo antes da faixa de pedestres, ou antes da linha de parada quando houver, e dar passagem ao pedestre (Kyosoku, Capítulo 5, Seção 3, item 2(2); Lei de Trânsito, Artigo 38, parágrafo 1)."
+   }
   },
-  {
-    "id": "KS-056",
-    "category": "標識",
-    "kp": "付3-1-35-6",
-    "group": "D",
-    "source": "教則 付表3（1）35の6",
-    "question_type": "sign",
-    "qf": "QF-付3-1-35-6-D-SS-01",
-    "image": {
-      "sign_no": "327-12",
-      "file": "327-12.svg",
-      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
-      "file_verified": true
-    },
-    "question_ja": "この標識は、車が駐車するとき道路の端に斜めに止めなければならないことの指定を示している。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則付表3（1）35の6のこの標識は、道路の端に直角に止めなければならないことの指定を示すものです。",
-    "i18n": {
-      "zh": {
-        "question": "这个标识（立牌）表示车辆驻车时必须与道路边缘成斜角停放的指定。",
-        "explanation": "错误。教则附表3（1）35之6的这个标识表示必须与道路边缘成直角停放的指定。"
-      },
-      "en": {
-        "question": "This sign requires a vehicle to park at an angle to the edge of the road.",
-        "explanation": "This is wrong. This sign, Kyosoku Appendix 3(1) item 35-6, requires parking at right angles to the edge of the road."
-      },
-      "vi": {
-        "question": "Biển báo giao thông này yêu cầu xe đỗ chếch so với mép đường.",
-        "explanation": "Sai. Biển này, Kyosoku Phụ lục 3(1) mục 35-6, yêu cầu đỗ vuông góc với mép đường."
-      },
-      "pt": {
-        "question": "Esta sinalização exige que o veículo estacione na diagonal em relação à borda da via.",
-        "explanation": "Está errado. Esta placa, Kyosoku Anexo 3(1) item 35-6, exige estacionar perpendicular à borda."
-      }
-    },
-    "trap_type": "SS",
-    "difficulty": 3,
-    "exam_scope": "仮免|本免"
+  "trap_type": "SW",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-3-316",
+  "category": "歩行者の保護",
+  "kp": "5-3-2",
+  "group": "K",
+  "source": "教則 第5章第3節2(2) / 道交法第38条第1項",
+  "question_type": "text",
+  "qf": "QF-5-3-D-SC-05",
+  "question_ja": "横断歩道の端で立ち止まってこちらを見ている歩行者がいたが、渡り始めていなかったので、徐行してその前を通過した。",
+  "answer": false,
+  "explanation_ja": "立ち止まって待っている歩行者は、横断しようとしている歩行者です。横断歩道の手前で一時停止をして道を譲らなければなりません（教則第5章第3節2(2)、道交法第38条第1項）。",
+  "i18n": {
+   "zh": {
+    "question": "有步行者站在人行横道的一端停下来看着这边，但还没有开始横穿，于是缓行（徐行）从其前面通过了。",
+    "explanation": "停下来等待的步行者，就是正要横穿的步行者。必须在人行横道近前暂停（一時停止），把道路让给他（教则第5章第3节2(2)、道交法第38条第1项）。"
+   },
+   "en": {
+    "question": "A pedestrian was standing still at the edge of a pedestrian crossing looking this way but had not started to cross, so the driver proceeded slowly (徐行) past in front of them.",
+    "explanation": "A pedestrian standing and waiting is a pedestrian about to cross. The driver must come to a complete stop (一時停止) before the pedestrian crossing and give way (Kyosoku Chapter 5 Section 3 item 2(2); Road Traffic Act Article 38 paragraph 1)."
+   },
+   "vi": {
+    "question": "Có người đi bộ đứng ở mép vạch sang đường nhìn về phía này nhưng chưa bắt đầu băng ngang, nên người lái đã lưu thông chậm (徐行) đi qua trước mặt người đó.",
+    "explanation": "Người đi bộ đang đứng chờ chính là người đang định băng ngang. Người lái phải tạm dừng (一時停止) trước vạch sang đường và nhường đường (Kyosoku Chương 5 Mục 3 điểm 2(2); Luật Giao thông đường bộ Điều 38 khoản 1)."
+   },
+   "pt": {
+    "question": "Um pedestre estava parado na borda da faixa de pedestres olhando para este lado, mas ainda não tinha começado a atravessar, então o condutor prosseguiu lentamente (徐行) e passou à frente dele.",
+    "explanation": "O pedestre que está parado esperando é um pedestre prestes a atravessar. O condutor deve fazer parada obrigatória (一時停止) antes da faixa de pedestres e dar passagem (Kyosoku, Capítulo 5, Seção 3, item 2(2); Lei de Trânsito, Artigo 38, parágrafo 1)."
+   }
   },
-  {
-    "id": "KS-057",
-    "category": "標識",
-    "kp": "付3-1-38",
-    "group": "D",
-    "source": "教則 付表3（1）38",
-    "question_type": "sign",
-    "qf": "QF-付3-1-38-D-SS-01",
-    "image": {
-      "sign_no": "329-B",
-      "file": "329-B.svg",
-      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
-      "file_verified": true
-    },
-    "question_ja": "この標識は、車と路面電車の一時停止の指定を示している。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則付表3（1）38のこの標識は、車と路面電車の徐行の指定を示すものです。",
-    "i18n": {
-      "zh": {
-        "question": "这个标识（立牌）表示车辆和路面电车暂停（一時停止）的指定。",
-        "explanation": "错误。教则附表3（1）38的这个标识表示车辆和路面电车缓行（徐行）的指定。"
-      },
-      "en": {
-        "question": "This sign requires vehicles and streetcars (trams) to come to a complete stop (一時停止).",
-        "explanation": "This is wrong. This sign, Kyosoku Appendix 3(1) item 38, requires them to proceed slowly (徐行)."
-      },
-      "vi": {
-        "question": "Biển báo giao thông này yêu cầu xe và tàu điện mặt đất tạm dừng (一時停止).",
-        "explanation": "Sai. Biển này, Kyosoku Phụ lục 3(1) mục 38, yêu cầu lưu thông chậm (徐行)."
-      },
-      "pt": {
-        "question": "Esta sinalização exige que veículos e bondes façam parada obrigatória (一時停止).",
-        "explanation": "Está errado. Esta placa, Kyosoku Anexo 3(1) item 38, exige prosseguir lentamente (徐行)."
-      }
-    },
-    "trap_type": "SS",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免"
+  "trap_type": "SC",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-3-317",
+  "category": "歩行者の保護",
+  "kp": "5-3-2",
+  "group": "K",
+  "source": "教則 第5章第3節2(3) / 道交法第38条第2項",
+  "question_type": "text",
+  "qf": "QF-5-3-A-N-09",
+  "question_ja": "横断歩道やその手前で止まっている車があるときは、そのそばを通って前方に出る前に、一時停止をしなければならない。",
+  "answer": true,
+  "explanation_ja": "教則第5章第3節2(3)のとおりです。止まっている車の陰に横断中の歩行者がいることがあるからです（道交法第38条第2項）。",
+  "i18n": {
+   "zh": {
+    "question": "在人行横道上或其近前有停着的车辆时，从其旁边通过驶到前方之前，必须暂停（一時停止）。",
+    "explanation": "符合教则第5章第3节2(3)的规定。因为被停着的车辆挡住的一侧可能有正在横穿的步行者（道交法第38条第2项）。"
+   },
+   "en": {
+    "question": "Where a vehicle is stopped on or just before a pedestrian crossing, the driver must come to a complete stop (一時停止) before passing it and moving out in front of it.",
+    "explanation": "This is Kyosoku Chapter 5 Section 3 item 2(3). The reason is that a pedestrian may be crossing hidden behind the stopped vehicle (Road Traffic Act Article 38 paragraph 2)."
+   },
+   "vi": {
+    "question": "Khi có xe đang dừng trên hoặc ngay trước vạch sang đường cho người đi bộ, người lái phải tạm dừng (一時停止) trước khi đi qua xe đó và tiến ra phía trước nó.",
+    "explanation": "Đúng theo Kyosoku Chương 5 Mục 3 điểm 2(3). Lý do là có thể có người đi bộ đang băng ngang bị chiếc xe đang dừng che khuất (Luật Giao thông đường bộ Điều 38 khoản 2)."
+   },
+   "pt": {
+    "question": "Quando há um veículo parado sobre a faixa de pedestres ou logo antes dela, o condutor deve fazer parada obrigatória (一時停止) antes de passar por ele e avançar à sua frente.",
+    "explanation": "É o Kyosoku, Capítulo 5, Seção 3, item 2(3). A razão é que pode haver um pedestre atravessando, escondido atrás do veículo parado (Lei de Trânsito, Artigo 38, parágrafo 2)."
+   }
   },
-  {
-    "id": "KS-058",
-    "category": "標識",
-    "kp": "付3-1-40",
-    "group": "D",
-    "source": "教則 付表3（1）40",
-    "question_type": "sign",
-    "qf": "QF-付3-1-40-D-SS-01",
-    "image": {
-      "sign_no": "330-B",
-      "file": "330-B.svg",
-      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
-      "file_verified": true
-    },
-    "question_ja": "この標識は、車と路面電車の徐行の指定を示している。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則付表3（1）40のこの標識は、交通整理の行われていない交差点のすぐ手前での一時停止の指定を示すものです。",
-    "i18n": {
-      "zh": {
-        "question": "这个标识（立牌）表示车辆和路面电车缓行（徐行）的指定。",
-        "explanation": "错误。教则附表3（1）40的这个标识表示在未进行交通整理的交叉路口紧前方暂停（一時停止）的指定。"
-      },
-      "en": {
-        "question": "This sign requires vehicles and streetcars (trams) to proceed slowly (徐行).",
-        "explanation": "This is wrong. This sign, Kyosoku Appendix 3(1) item 40, requires a complete stop (一時停止) just before an intersection without traffic control."
-      },
-      "vi": {
-        "question": "Biển báo giao thông này yêu cầu xe và tàu điện mặt đất lưu thông chậm (徐行).",
-        "explanation": "Sai. Biển này, Kyosoku Phụ lục 3(1) mục 40, yêu cầu tạm dừng (一時停止) ngay trước nút giao không có điều khiển giao thông."
-      },
-      "pt": {
-        "question": "Esta sinalização exige que veículos e bondes prossigam lentamente (徐行).",
-        "explanation": "Está errado. Esta placa, Kyosoku Anexo 3(1) item 40, exige parada obrigatória (一時停止) logo antes de cruzamento sem controle."
-      }
-    },
-    "trap_type": "SS",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免"
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-3-318",
+  "category": "歩行者の保護",
+  "kp": "5-3-2",
+  "group": "K",
+  "source": "教則 第5章第3節2(3) / 道交法第38条第2項",
+  "question_type": "text",
+  "qf": "QF-5-3-D-EI-02",
+  "question_ja": "横断歩道の手前で止まっている車があるときは、そのそばを徐行して通過すれば、前方に出ることができる。",
+  "answer": false,
+  "explanation_ja": "徐行では足りません。そのそばを通って前方に出る前に、一時停止をしなければなりません（教則第5章第3節2(3)、道交法第38条第2項）。",
+  "i18n": {
+   "zh": {
+    "question": "人行横道近前有停着的车辆时，只要缓行（徐行）从其旁边通过，就可以驶到前方。",
+    "explanation": "仅缓行是不够的。从其旁边通过驶到前方之前，必须暂停（一時停止）（教则第5章第3节2(3)、道交法第38条第2项）。"
+   },
+   "en": {
+    "question": "Where a vehicle is stopped just before a pedestrian crossing, a driver may move out in front of it as long as they pass it proceeding slowly (徐行).",
+    "explanation": "Proceeding slowly is not enough. The driver must come to a complete stop (一時停止) before passing it and moving out in front (Kyosoku Chapter 5 Section 3 item 2(3); Road Traffic Act Article 38 paragraph 2)."
+   },
+   "vi": {
+    "question": "Khi có xe đang dừng ngay trước vạch sang đường cho người đi bộ, người lái có thể tiến ra phía trước xe đó miễn là đi qua nó với tốc độ lưu thông chậm (徐行).",
+    "explanation": "Lưu thông chậm là chưa đủ. Người lái phải tạm dừng (一時停止) trước khi đi qua xe đó và tiến ra phía trước (Kyosoku Chương 5 Mục 3 điểm 2(3); Luật Giao thông đường bộ Điều 38 khoản 2)."
+   },
+   "pt": {
+    "question": "Quando há um veículo parado logo antes de uma faixa de pedestres, o condutor pode avançar à frente dele desde que passe ao seu lado prosseguindo lentamente (徐行).",
+    "explanation": "Prosseguir lentamente não basta. O condutor deve fazer parada obrigatória (一時停止) antes de passar por ele e avançar à frente (Kyosoku, Capítulo 5, Seção 3, item 2(3); Lei de Trânsito, Artigo 38, parágrafo 2)."
+   }
   },
-  {
-    "id": "KS-059",
-    "category": "標識",
-    "kp": "付3-1-42",
-    "group": "D",
-    "source": "教則 付表3（1）42",
-    "question_type": "sign",
-    "qf": "QF-付3-1-42-D-EI-01",
-    "image": {
-      "sign_no": "332-わたるな",
-      "file": "332-わたるな.svg",
-      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
-      "file_verified": true
-    },
-    "question_ja": "この標識のあるところでも、近くに横断歩道がなければ歩行者は横断してよい。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則付表3（1）42のこの標識は歩行者及び遠隔操作型小型車の横断の禁止で、横断歩道の有無は関係ありません。",
-    "i18n": {
-      "zh": {
-        "question": "即使在设有这个标识（立牌）的地方，只要附近没有人行横道，步行者也可以横穿。",
-        "explanation": "错误。教则附表3（1）42的这个标识是禁止步行者及远程操作型小型车横穿，与有无人行横道无关。"
-      },
-      "en": {
-        "question": "Even where this sign stands, a pedestrian may cross if there is no pedestrian crossing nearby.",
-        "explanation": "This is wrong. This sign, Kyosoku Appendix 3(1) item 42, prohibits pedestrians and remotely operated small vehicles from crossing, whether or not a crossing is nearby."
-      },
-      "vi": {
-        "question": "Ngay ở nơi có biển này, người đi bộ vẫn được băng qua nếu gần đó không có vạch sang đường.",
-        "explanation": "Sai. Biển này, Kyosoku Phụ lục 3(1) mục 42, cấm người đi bộ và xe cỡ nhỏ điều khiển từ xa băng qua, bất kể gần đó có vạch sang đường hay không."
-      },
-      "pt": {
-        "question": "Mesmo onde está esta placa, o pedestre pode atravessar se não houver faixa por perto.",
-        "explanation": "Está errado. Esta placa, Kyosoku Anexo 3(1) item 42, proíbe pedestres e veículos pequenos de operação remota de atravessar, haja ou não faixa por perto."
-      }
-    },
-    "trap_type": "EI",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免"
+  "trap_type": "EI",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-3-319",
+  "category": "歩行者の保護",
+  "kp": "5-3-2",
+  "group": "K",
+  "source": "教則 第5章第3節2(3) / 道交法第38条第2項",
+  "question_type": "text",
+  "qf": "QF-5-3-D-SC-06",
+  "question_ja": "横断歩道の直前で止まっている車があったが、歩行者の姿が見えなかったので、一時停止をしないでそのそばを通り前方に出た。",
+  "answer": false,
+  "explanation_ja": "歩行者が見えるかどうかにかかわらず、前方に出る前に一時停止をしなければなりません（教則第5章第3節2(3)、道交法第38条第2項）。",
+  "i18n": {
+   "zh": {
+    "question": "人行横道正前方有停着的车辆，但看不到步行者的身影，于是没有暂停（一時停止）就从其旁边通过驶到了前方。",
+    "explanation": "无论是否看得到步行者，驶到前方之前都必须暂停（教则第5章第3节2(3)、道交法第38条第2项）。"
+   },
+   "en": {
+    "question": "A vehicle was stopped immediately before a pedestrian crossing, but no pedestrian could be seen, so the driver passed it and moved out in front without coming to a complete stop (一時停止).",
+    "explanation": "Whether or not a pedestrian can be seen, the driver must come to a complete stop before moving out in front (Kyosoku Chapter 5 Section 3 item 2(3); Road Traffic Act Article 38 paragraph 2)."
+   },
+   "vi": {
+    "question": "Có một chiếc xe đang dừng ngay trước vạch sang đường cho người đi bộ, nhưng không thấy bóng người đi bộ nào nên người lái đã đi qua và tiến ra phía trước mà không tạm dừng (一時停止).",
+    "explanation": "Dù có nhìn thấy người đi bộ hay không, người lái vẫn phải tạm dừng trước khi tiến ra phía trước (Kyosoku Chương 5 Mục 3 điểm 2(3); Luật Giao thông đường bộ Điều 38 khoản 2)."
+   },
+   "pt": {
+    "question": "Havia um veículo parado imediatamente antes de uma faixa de pedestres, mas nenhum pedestre estava à vista, então o condutor passou por ele e avançou à frente sem fazer parada obrigatória (一時停止).",
+    "explanation": "Vendo-se ou não um pedestre, o condutor deve fazer parada obrigatória antes de avançar à frente (Kyosoku, Capítulo 5, Seção 3, item 2(3); Lei de Trânsito, Artigo 38, parágrafo 2)."
+   }
   },
-  {
-    "id": "KS-060",
-    "category": "標識",
-    "kp": "付3-1-31-2",
-    "group": "D",
-    "source": "教則 付表3（1）31の2",
-    "question_type": "sign",
-    "qf": "QF-付3-1-31-2-D-EX-01",
-    "image": {
-      "sign_no": "326-2-A-左",
-      "file": "326-2-A-左.svg",
-      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
-      "file_verified": true
-    },
-    "question_ja": "この標識は、自動車にも適用される一方通行の標識である。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則付表3（1）31の2のこの標識の対象は、特定小型原動機付自転車及び自転車です。",
-    "i18n": {
-      "zh": {
-        "question": "这个标识（立牌）是也适用于汽车的单向通行标识。",
-        "explanation": "错误。教则附表3（1）31之2的这个标识的对象是特定小型轻型摩托车和自行车。"
-      },
-      "en": {
-        "question": "This sign is a one-way sign that applies to cars as well.",
-        "explanation": "This is wrong. This sign, Kyosoku Appendix 3(1) item 31-2, is addressed to specified small motorized bicycles and bicycles."
-      },
-      "vi": {
-        "question": "Biển báo giao thông này là biển đường một chiều áp dụng cho cả ô tô.",
-        "explanation": "Sai. Biển này, Kyosoku Phụ lục 3(1) mục 31-2, dành cho xe gắn máy cỡ nhỏ đặc định và xe đạp."
-      },
-      "pt": {
-        "question": "Esta placa é de mão única e vale também para automóveis.",
-        "explanation": "Está errado. Esta placa, Kyosoku Anexo 3(1) item 31-2, dirige-se a ciclomotores pequenos especificados e bicicletas."
-      }
-    },
-    "trap_type": "EX",
-    "difficulty": 3,
-    "exam_scope": "仮免|本免"
-  }
+  "trap_type": "SC",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-3-320",
+  "category": "歩行者の保護",
+  "kp": "5-3-2",
+  "group": "K",
+  "source": "教則 第5章第3節2(1) / 道交法第38条の2",
+  "question_type": "text",
+  "qf": "QF-5-3-D-SW-03",
+  "question_ja": "横断歩道のない交差点やその近くでは、歩行者よりも車のほうが優先するので、歩行者は車が通り過ぎるのを待たなければならない。",
+  "answer": false,
+  "explanation_ja": "優先するのは歩行者のほうです。横断歩道のない交差点やその近くを歩行者が横断しているときは、その通行を妨げてはいけません（教則第5章第3節2(1)、道交法第38条の2）。",
+  "i18n": {
+   "zh": {
+    "question": "在没有人行横道的交叉路口及其附近，车辆比步行者优先，所以步行者必须等车辆通过。",
+    "explanation": "优先的是步行者一方。在没有人行横道的交叉路口及其附近有步行者正在横穿时，不得妨碍其通行（教则第5章第3节2(1)、道交法第38条之2）。"
+   },
+   "en": {
+    "question": "At or near an intersection without a pedestrian crossing, vehicles have priority over pedestrians, so a pedestrian must wait for vehicles to go past.",
+    "explanation": "It is the pedestrian who has priority. Where a pedestrian is crossing at or near an intersection without a pedestrian crossing, the driver must not obstruct their progress (Kyosoku Chapter 5 Section 3 item 2(1); Road Traffic Act Article 38-2)."
+   },
+   "vi": {
+    "question": "Tại nút giao thông không có vạch sang đường cho người đi bộ và khu vực gần đó, xe được ưu tiên hơn người đi bộ, nên người đi bộ phải chờ xe đi qua.",
+    "explanation": "Bên được ưu tiên là người đi bộ. Khi người đi bộ đang băng ngang tại nút giao thông không có vạch sang đường hoặc gần đó, người lái không được cản trở họ lưu thông (Kyosoku Chương 5 Mục 3 điểm 2(1); Luật Giao thông đường bộ Điều 38-2)."
+   },
+   "pt": {
+    "question": "Num cruzamento sem faixa de pedestres e nas suas imediações, os veículos têm prioridade sobre os pedestres, de modo que o pedestre deve esperar os veículos passarem.",
+    "explanation": "Quem tem prioridade é o pedestre. Quando um pedestre atravessa num cruzamento sem faixa de pedestres ou nas suas imediações, o condutor não deve obstruir a sua passagem (Kyosoku, Capítulo 5, Seção 3, item 2(1); Lei de Trânsito, Artigo 38-2)."
+   }
+  },
+  "trap_type": "SW",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ }
 ]

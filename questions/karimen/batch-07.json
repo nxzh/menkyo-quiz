@@ -1,662 +1,302 @@
 [
-  {
-    "id": "K5-2-021",
-    "category": "緊急自動車などの優先",
-    "kp": "5-2-5",
-    "group": "I",
-    "source": "教則 第5章第2節5",
-    "question_type": "text",
-    "qf": "QF-5-2-5-A-N-01",
-    "question_ja": "緊急自動車が近づいてきたときは、交差点の付近では、交差点を避けて道路の左側に寄り、一時停止しなければならない。",
-    "answer": true,
-    "explanation_ja": "教則第5章第2節5のとおりです。交差点の中で止まると、緊急自動車の進路をふさぐことになります。",
-    "i18n": {
-      "zh": {
-        "question": "紧急车辆驶近时，在交叉路口附近必须避开交叉路口、靠道路左侧暂停（一時停止）。",
-        "explanation": "符合教则第5章第2节5的规定。在交叉路口中停车会挡住紧急车辆的行驶路线。"
-      },
-      "en": {
-        "question": "When an emergency vehicle approaches, near an intersection you must keep clear of the intersection, pull over to the left of the road and come to a complete stop (一時停止).",
-        "explanation": "This is Kyosoku Chapter 5 Section 2 item 5. Stopping inside the intersection would block the emergency vehicle's path."
-      },
-      "vi": {
-        "question": "Khi xe ưu tiên đến gần, ở khu vực gần nút giao thông bạn phải tránh nút giao, tấp vào bên trái đường và tạm dừng (一時停止).",
-        "explanation": "Đúng theo Kyosoku Chương 5 Mục 2 điểm 5. Dừng trong nút giao sẽ chắn đường xe ưu tiên."
-      },
-      "pt": {
-        "question": "Quando um veículo de emergência se aproxima, perto de um cruzamento você deve evitar o cruzamento, encostar à esquerda da via e fazer parada obrigatória (一時停止).",
-        "explanation": "É o Kyosoku, Capítulo 5, Seção 2, item 5. Parar dentro do cruzamento bloquearia o caminho do veículo de emergência."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免|外免"
+ {
+  "id": "KS-021", "category": "標識", "kp": "付3-1-13", "group": "D",
+  "source": "教則 付表3（1）13", "question_type": "sign", "qf": "QF-付3-D-EX-06",
+  "image": {"sign_no": "312", "file": "312.svg", "license": "PD-Japan-exempt (標識令 catalogue reproduction)", "file_verified": true},
+  "question_ja": "この標識のあるところでは、車は横断のほか、転回や後退も禁止されている。",
+  "answer": false,
+  "explanation_ja": "禁止されているのは横断だけです。転回や後退は、この標識では禁止されていません（教則付表3（1）13）。",
+  "i18n": {
+   "zh": {"question": "在有这个标识（立牌）的地方，车辆除横穿以外，掉头和后退也被禁止。", "explanation": "被禁止的只有横穿。掉头和后退不在这个标识的禁止范围内（教则附表3（1）13）。"},
+   "en": {"question": "Where this sign stands, U-turns and reversing are forbidden as well as crossing the road.", "explanation": "Only crossing the road is forbidden. U-turns and reversing are not forbidden by this sign (Kyosoku Appendix 3(1) item 13)."},
+   "vi": {"question": "Ở nơi có biển báo giao thông này, ngoài việc băng ngang đường, quay đầu và lùi xe cũng bị cấm.", "explanation": "Chỉ việc băng ngang đường bị cấm. Quay đầu và lùi xe không bị biển này cấm (Kyosoku Phụ lục 3(1) mục 13)."},
+   "pt": {"question": "Onde está esta placa, além de atravessar a via, o retorno e a marcha à ré também são proibidos.", "explanation": "Só a travessia da via é proibida. O retorno e a marcha à ré não são proibidos por esta placa (Kyosoku, Anexo 3(1), item 13)."}
   },
-  {
-    "id": "K5-2-022",
-    "category": "緊急自動車などの優先",
-    "kp": "5-2-5",
-    "group": "I",
-    "source": "教則 第5章第2節5",
-    "question_type": "text",
-    "qf": "QF-5-2-5-A-N-02",
-    "question_ja": "緊急自動車が近づいてきたとき、交差点の付近以外のところでは、道路の左側に寄って進路を譲らなければならない。",
-    "answer": true,
-    "explanation_ja": "教則第5章第2節5のとおりです。一時停止までは求められませんが、進路は譲らなければなりません。",
-    "i18n": {
-      "zh": {
-        "question": "紧急车辆驶近时，在交叉路口附近以外的地方，必须靠道路左侧让出行驶路线。",
-        "explanation": "符合教则第5章第2节5的规定。虽然不要求暂停（一時停止），但必须让路。"
-      },
-      "en": {
-        "question": "When an emergency vehicle approaches, at places other than near an intersection you must pull over to the left of the road and give way.",
-        "explanation": "This is Kyosoku Chapter 5 Section 2 item 5. A complete stop is not required there, but you must still give way."
-      },
-      "vi": {
-        "question": "Khi xe ưu tiên đến gần, ở những nơi không phải gần nút giao thông bạn phải tấp vào bên trái đường và nhường đường.",
-        "explanation": "Đúng theo Kyosoku Chương 5 Mục 2 điểm 5. Ở đó không bắt buộc tạm dừng, nhưng vẫn phải nhường đường."
-      },
-      "pt": {
-        "question": "Quando um veículo de emergência se aproxima, em locais que não sejam perto de cruzamento você deve encostar à esquerda da via e dar passagem.",
-        "explanation": "É o Kyosoku, Capítulo 5, Seção 2, item 5. Ali não se exige parada completa, mas ainda assim é preciso dar passagem."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "EX", "difficulty": 3, "exam_scope": "仮免|本免"
+ },
+ {
+  "id": "KS-022", "category": "標識", "kp": "付3-1-13", "group": "D",
+  "source": "教則 付表3（1）13", "question_type": "sign", "qf": "QF-付3-D-SS-14",
+  "image": {"sign_no": "312", "file": "312.svg", "license": "PD-Japan-exempt (標識令 catalogue reproduction)", "file_verified": true},
+  "question_ja": "この標識は、右折が禁止されていることを示している。",
+  "answer": false,
+  "explanation_ja": "これは「車両横断禁止」で、禁止されるのは道路の横断です。交差点での右折は禁止されていません（教則付表3（1）13）。",
+  "i18n": {
+   "zh": {"question": "这个标识（立牌）表示禁止右拐弯。", "explanation": "这是「禁止车辆横穿」，被禁止的是横穿道路。交叉路口的右拐弯没有被禁止（教则附表3（1）13）。"},
+   "en": {"question": "This sign shows that right turns are forbidden.", "explanation": "This is No crossing by vehicles, and what is forbidden is crossing the road. A right turn at an intersection is not forbidden (Kyosoku Appendix 3(1) item 13)."},
+   "vi": {"question": "Biển báo giao thông này cho biết cấm rẽ phải.", "explanation": "Đây là biển «Cấm xe băng ngang», và điều bị cấm là băng ngang đường. Rẽ phải tại nút giao thông không bị cấm (Kyosoku Phụ lục 3(1) mục 13)."},
+   "pt": {"question": "Esta placa indica que a conversão à direita é proibida.", "explanation": "Esta é Proibido atravessar a via, e o que se proíbe é a travessia da via. A conversão à direita no cruzamento não é proibida (Kyosoku, Anexo 3(1), item 13)."}
   },
-  {
-    "id": "K5-2-023",
-    "category": "緊急自動車などの優先",
-    "kp": "5-2-5",
-    "group": "I",
-    "source": "教則 第5章第2節5",
-    "question_type": "text",
-    "qf": "QF-5-2-5-A-N-03",
-    "question_ja": "一方通行の道路で左側に寄るとかえって緊急自動車の妨げとなるようなときは、右側に寄らなければならない。",
-    "answer": true,
-    "explanation_ja": "教則第5章第2節5のとおりです。譲り方は、緊急自動車の通行を妨げないかどうかで決まります。",
-    "i18n": {
-      "zh": {
-        "question": "在单向通行的道路上靠左反而会妨碍紧急车辆时，必须靠右侧。",
-        "explanation": "符合教则第5章第2节5的规定。如何让路取决于是否会妨碍紧急车辆通行。"
-      },
-      "en": {
-        "question": "On a one-way road, where pulling over to the left would get in the emergency vehicle's way instead, you must pull over to the right.",
-        "explanation": "This is Kyosoku Chapter 5 Section 2 item 5. How you give way is decided by what does not obstruct the emergency vehicle."
-      },
-      "vi": {
-        "question": "Trên đường một chiều, nếu tấp vào bên trái lại cản trở xe ưu tiên thì bạn phải tấp vào bên phải.",
-        "explanation": "Đúng theo Kyosoku Chương 5 Mục 2 điểm 5. Cách nhường đường được quyết định bởi điều gì không cản trở xe ưu tiên."
-      },
-      "pt": {
-        "question": "Em via de mão única, se encostar à esquerda for atrapalhar o veículo de emergência, você deve encostar à direita.",
-        "explanation": "É o Kyosoku, Capítulo 5, Seção 2, item 5. A forma de dar passagem é definida pelo que não obstrui o veículo de emergência."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "SS", "difficulty": 3, "exam_scope": "仮免|本免"
+ },
+ {
+  "id": "KS-023", "category": "標識", "kp": "付3-1-14", "group": "D",
+  "source": "教則 付表3（1）14", "question_type": "sign", "qf": "QF-付3-A-N-27",
+  "image": {"sign_no": "313", "file": "313.svg", "license": "PD-Japan-exempt (標識令 catalogue reproduction)", "file_verified": true},
+  "question_ja": "この標識は、車が転回することを禁止していることを示している。",
+  "answer": true,
+  "explanation_ja": "教則付表3（1）14のとおりです。「転回禁止」で、方向を変えて元の道を戻ることができません。",
+  "i18n": {
+   "zh": {"question": "这个标识（立牌）表示禁止车辆掉头。", "explanation": "符合教则附表3（1）14的规定。这是「禁止掉头」，不能改变方向返回原路。"},
+   "en": {"question": "This sign shows that vehicles are forbidden to make a U-turn.", "explanation": "This is Kyosoku Appendix 3(1) item 14. It is No U-turns: you may not turn round and go back the way you came."},
+   "vi": {"question": "Biển báo giao thông này cho biết cấm xe quay đầu.", "explanation": "Đúng theo Kyosoku Phụ lục 3(1) mục 14. Đây là biển «Cấm quay đầu»: không được đổi hướng để đi ngược lại đường cũ."},
+   "pt": {"question": "Esta placa indica que os veículos estão proibidos de fazer retorno.", "explanation": "É o Kyosoku, Anexo 3(1), item 14. É Proibido retornar: não se pode dar meia-volta e voltar pelo caminho de onde veio."}
   },
-  {
-    "id": "K5-2-024",
-    "category": "緊急自動車などの優先",
-    "kp": "5-2-6",
-    "group": "I",
-    "source": "教則 第5章第2節6(1)",
-    "question_type": "text",
-    "qf": "QF-5-2-6-A-N-01",
-    "question_ja": "停留所で止まっている路線バスなどが方向指示器などで発進の合図をしたときは後方の車はその発進を妨げてはいけないが、急ブレーキや急ハンドルで避けなければならないような場合は別である。",
-    "answer": true,
-    "explanation_ja": "教則第5章第2節6(1)のとおりです。譲る義務は、危険を生じさせてまで負うものではありません。",
-    "i18n": {
-      "zh": {
-        "question": "停靠在公交站的公交车等用方向指示器等发出起步信号时，后方车辆不得妨碍其起步，但必须以急刹车或急打方向盘才能避让的情况除外。",
-        "explanation": "符合教则第5章第2节6(1)的规定。让行的义务并不要求以制造危险为代价。"
-      },
-      "en": {
-        "question": "When a route bus stopped at a stop signals that it is moving off, a vehicle behind must not obstruct it, except where avoiding it would take sudden braking or sudden steering.",
-        "explanation": "This is Kyosoku Chapter 5 Section 2 item 6(1). The duty to give way is not owed at the cost of creating danger."
-      },
-      "vi": {
-        "question": "Khi xe buýt tuyến đang dừng ở trạm báo hiệu chuyển bánh, xe phía sau không được cản trở, trừ khi việc tránh nó đòi hỏi phanh gấp hoặc đánh lái gấp.",
-        "explanation": "Đúng theo Kyosoku Chương 5 Mục 2 điểm 6(1). Nghĩa vụ nhường đường không đến mức phải tạo ra nguy hiểm."
-      },
-      "pt": {
-        "question": "Quando um ônibus de linha parado no ponto sinaliza que vai sair, o veículo de trás não deve obstruí-lo, salvo se desviar exigisse frenagem brusca ou esterçada brusca.",
-        "explanation": "É o Kyosoku, Capítulo 5, Seção 2, item 6(1). O dever de dar passagem não se impõe ao custo de criar perigo."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "N", "difficulty": 1, "exam_scope": "仮免|本免"
+ },
+ {
+  "id": "KS-024", "category": "標識", "kp": "付3-1-14", "group": "D",
+  "source": "教則 付表3（1）14", "question_type": "sign", "qf": "QF-付3-D-EX-08",
+  "image": {"sign_no": "313", "file": "313.svg", "license": "PD-Japan-exempt (標識令 catalogue reproduction)", "file_verified": true},
+  "question_ja": "この標識が立っている区間では、車は転回だけでなく交差点での右折もしてはならない。",
+  "answer": false,
+  "explanation_ja": "禁止されているのは転回だけで、右折は禁止されていません（教則付表3（1）14）。",
+  "i18n": {
+   "zh": {"question": "在立有这个标识（立牌）的区间内，车辆不仅不能掉头，在交叉路口也不能右拐弯。", "explanation": "被禁止的只有掉头，右拐弯没有被禁止（教则附表3（1）14）。"},
+   "en": {"question": "In the stretch where this sign stands, a vehicle may not make a U-turn and may not make a right turn at an intersection either.", "explanation": "Only U-turns are forbidden; a right turn is not (Kyosoku Appendix 3(1) item 14)."},
+   "vi": {"question": "Trong đoạn đường có biển báo giao thông này, xe không những không được quay đầu mà tại nút giao thông cũng không được rẽ phải.", "explanation": "Chỉ việc quay đầu bị cấm; rẽ phải thì không (Kyosoku Phụ lục 3(1) mục 14)."},
+   "pt": {"question": "No trecho onde está esta placa, o veículo não pode fazer retorno e também não pode fazer a conversão à direita no cruzamento.", "explanation": "Só o retorno é proibido; a conversão à direita não (Kyosoku, Anexo 3(1), item 14)."}
   },
-  {
-    "id": "K5-2-025",
-    "category": "緊急自動車などの優先",
-    "kp": "5-2-6",
-    "group": "I",
-    "source": "教則 第5章第2節6(2)",
-    "question_type": "text",
-    "qf": "QF-5-2-6-A-N-02",
-    "question_ja": "路線バスなどの専用通行帯が指定されている道路でも、小型特殊自動車、原動機付自転車、軽車両はその通行帯を通行することができる。",
-    "answer": true,
-    "explanation_ja": "教則第5章第2節6(2)のとおりです。専用通行帯から除かれているのは、この三種類の車です。",
-    "i18n": {
-      "zh": {
-        "question": "即使是指定了公交车等专用通行带的道路，小型特殊汽车、轻型摩托车、轻车辆也可以通行该通行带。",
-        "explanation": "符合教则第5章第2节6(2)的规定。被排除在专用通行带之外的就是这三类车。"
-      },
-      "en": {
-        "question": "Even on a road with a lane designated for route buses, small special vehicles, motorized bicycles and light road vehicles may use that lane.",
-        "explanation": "This is Kyosoku Chapter 5 Section 2 item 6(2). Those three kinds of vehicle are the ones excluded from the restriction."
-      },
-      "vi": {
-        "question": "Ngay trên đường đã chỉ định làn dành riêng cho xe buýt tuyến, xe chuyên dùng cỡ nhỏ, xe gắn máy và xe thô sơ vẫn được đi ở làn đó.",
-        "explanation": "Đúng theo Kyosoku Chương 5 Mục 2 điểm 6(2). Ba loại xe đó là những loại được loại trừ khỏi hạn chế này."
-      },
-      "pt": {
-        "question": "Mesmo em via com faixa designada para ônibus de linha, veículos especiais pequenos, ciclomotores e veículos leves podem usar essa faixa.",
-        "explanation": "É o Kyosoku, Capítulo 5, Seção 2, item 6(2). Esses três tipos de veículo são os excluídos da restrição."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 3,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "EX", "difficulty": 2, "exam_scope": "仮免|本免"
+ },
+ {
+  "id": "KS-025", "category": "標識", "kp": "付3-1-15", "group": "D",
+  "source": "教則 付表3（1）15", "question_type": "sign", "qf": "QF-付3-A-N-35",
+  "image": {"sign_no": "314", "file": "314.svg", "license": "PD-Japan-exempt (標識令 catalogue reproduction)", "file_verified": true},
+  "question_ja": "この標識のある道路では、車は追越しのために道路の右側部分にはみ出して通行してはならない。",
+  "answer": true,
+  "explanation_ja": "教則付表3（1）15のとおりです。右側部分にはみ出さない追越しは、この標識だけでは禁止されていません。",
+  "i18n": {
+   "zh": {"question": "设有这个标识（立牌）的道路上，车辆不得为超车而越到道路右侧部分通行。", "explanation": "符合教则附表3（1）15的规定。不越到右侧部分的超车，仅凭这个标识并未被禁止。"},
+   "en": {"question": "On a road with this sign, a vehicle must not cross into the right-hand part of the road to overtake.", "explanation": "This is Kyosoku Appendix 3(1) item 15. Overtaking without crossing into the right-hand part is not forbidden by this sign alone."},
+   "vi": {"question": "Trên đường có biển báo giao thông này, xe không được lấn sang phần đường bên phải để vượt.", "explanation": "Đúng theo Kyosoku Phụ lục 3(1) mục 15. Việc vượt mà không lấn sang phần bên phải thì chỉ riêng biển này không cấm."},
+   "pt": {"question": "Na via com esta placa, o veículo não pode invadir a parte direita da via para ultrapassar.", "explanation": "É o Kyosoku, Anexo 3(1), item 15. Ultrapassar sem invadir a parte direita não é proibido apenas por esta placa."}
   },
-  {
-    "id": "K5-2-026",
-    "category": "緊急自動車などの優先",
-    "kp": "5-2-6",
-    "group": "I",
-    "source": "教則 第5章第2節6(2)",
-    "question_type": "text",
-    "qf": "QF-5-2-6-A-N-03",
-    "question_ja": "路線バスなどの専用通行帯でも、右左折をするため道路の右端、中央や左端に寄る場合や、工事などでやむを得ない場合は通行することができる。",
-    "answer": true,
-    "explanation_ja": "教則第5章第2節6(2)のとおりです。専用通行帯の規制は、通行帯をそのまま走り続けることを禁じるものです。",
-    "i18n": {
-      "zh": {
-        "question": "即使是公交车等专用通行带，为右拐弯或左拐弯而靠道路右端、中央或左端时，以及因施工等不得已时，也可以通行。",
-        "explanation": "符合教则第5章第2节6(2)的规定。专用通行带的限制针对的是一直沿该通行带行驶。"
-      },
-      "en": {
-        "question": "Even in a lane designated for route buses you may use it when pulling to the right edge, the centre or the left edge of the road in order to turn, and where road works or the like leave no alternative.",
-        "explanation": "This is Kyosoku Chapter 5 Section 2 item 6(2). The restriction is aimed at travelling along the lane, not at crossing it."
-      },
-      "vi": {
-        "question": "Ngay ở làn dành riêng cho xe buýt tuyến, bạn vẫn được đi vào khi tấp sang mép phải, tim đường hay mép trái để rẽ, và khi thi công đường hoặc lý do tương tự không cho lựa chọn khác.",
-        "explanation": "Đúng theo Kyosoku Chương 5 Mục 2 điểm 6(2). Hạn chế này nhắm vào việc chạy dọc theo làn, không phải việc cắt qua."
-      },
-      "pt": {
-        "question": "Mesmo na faixa designada para ônibus de linha você pode usá-la ao encostar na borda direita, no centro ou na borda esquerda da via para converter, e quando obras ou situação semelhante não deixarem alternativa.",
-        "explanation": "É o Kyosoku, Capítulo 5, Seção 2, item 6(2). A restrição visa percorrer a faixa, não atravessá-la."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "N", "difficulty": 2, "exam_scope": "仮免|本免"
+ },
+ {
+  "id": "KS-026", "category": "標識", "kp": "付3-1-15", "group": "D",
+  "source": "教則 付表3（1）15、16", "question_type": "sign", "qf": "QF-付3-D-SS-01",
+  "image": {"sign_no": "314", "file": "314.svg", "license": "PD-Japan-exempt (標識令 catalogue reproduction)", "file_verified": true},
+  "question_ja": "この標識は、追越しそのものが禁止されていることを示している。",
+  "answer": false,
+  "explanation_ja": "これは「追越しのための右側部分はみ出し通行禁止」です。追越しそのものを禁止するには「追越し禁止」の補助標識が付きます（教則付表3（1）15、16）。",
+  "i18n": {
+   "zh": {"question": "这个标识（立牌）表示超车本身被禁止。", "explanation": "这是「禁止为超车越到右侧部分通行」。要禁止超车本身，会附加「禁止超车」的辅助标识（教则附表3（1）15、16）。"},
+   "en": {"question": "This sign shows that overtaking itself is forbidden.", "explanation": "This is No crossing into the right-hand part of the road to overtake. To forbid overtaking itself, a \"No overtaking\" auxiliary sign is added (Kyosoku Appendix 3(1) items 15 and 16)."},
+   "vi": {"question": "Biển báo giao thông này cho biết bản thân việc vượt bị cấm.", "explanation": "Đây là biển «Cấm lấn sang phần đường bên phải để vượt». Để cấm chính việc vượt thì phải có thêm biển phụ «Cấm vượt» (Kyosoku Phụ lục 3(1) mục 15 và 16)."},
+   "pt": {"question": "Esta placa indica que a própria ultrapassagem é proibida.", "explanation": "Esta é Proibido invadir a parte direita da via para ultrapassar. Para proibir a própria ultrapassagem acrescenta-se a placa auxiliar \"Proibido ultrapassar\" (Kyosoku, Anexo 3(1), itens 15 e 16)."}
   },
-  {
-    "id": "K5-2-027",
-    "category": "緊急自動車などの優先",
-    "kp": "5-2-6",
-    "group": "I",
-    "source": "教則 第5章第2節6(3)",
-    "question_type": "text",
-    "qf": "QF-5-2-6-A-N-04",
-    "question_ja": "路線バスなどの優先通行帯を通行している自動車は、路線バスなどが近づいてきたときは、速やかにそこから出なければならない。",
-    "answer": true,
-    "explanation_ja": "教則第5章第2節6(3)のとおりです。優先通行帯は、専用通行帯とは違い、ほかの自動車も通行することができます。",
-    "i18n": {
-      "zh": {
-        "question": "在公交车等优先通行带上通行的汽车，在公交车等驶近时必须迅速驶离该通行带。",
-        "explanation": "符合教则第5章第2节6(3)的规定。优先通行带与专用通行带不同，其他汽车也可以通行。"
-      },
-      "en": {
-        "question": "A car travelling in a lane where route buses have priority must leave that lane promptly when a route bus approaches.",
-        "explanation": "This is Kyosoku Chapter 5 Section 2 item 6(3). Unlike a designated lane, a priority lane may be used by other cars as well."
-      },
-      "vi": {
-        "question": "Ô tô đang đi ở làn ưu tiên cho xe buýt tuyến phải nhanh chóng ra khỏi làn đó khi có xe buýt tuyến đến gần.",
-        "explanation": "Đúng theo Kyosoku Chương 5 Mục 2 điểm 6(3). Khác với làn dành riêng, làn ưu tiên vẫn cho phép ô tô khác đi vào."
-      },
-      "pt": {
-        "question": "O automóvel que trafega em faixa de preferência para ônibus de linha deve sair dela sem demora quando um ônibus se aproximar.",
-        "explanation": "É o Kyosoku, Capítulo 5, Seção 2, item 6(3). Ao contrário da faixa exclusiva, a de preferência pode ser usada também por outros automóveis."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "SS", "difficulty": 3, "exam_scope": "仮免|本免"
+ },
+ {
+  "id": "KS-027", "category": "標識", "kp": "付3-1-16", "group": "D",
+  "source": "教則 付表3（1）15、16、80", "question_type": "sign", "qf": "QF-付3-D-SS-22",
+  "image": {"sign_no": "314+508-2", "file": "314+508-2.svg", "license": "PD-Japan-exempt (標識令 catalogue reproduction)", "file_verified": true},
+  "question_ja": "この標識と補助標識のあるところでは、道路の右側部分にはみ出さなければ追越しをしてもよい。",
+  "answer": false,
+  "explanation_ja": "「追越し禁止」の補助標識が付いているので、はみ出すかどうかに関係なく追越しそのものが禁止されます（教則付表3（1）16、80）。",
+  "i18n": {
+   "zh": {"question": "在设有这个标识（立牌）和辅助标识的地方，只要不越到道路右侧部分就可以超车。", "explanation": "由于附有「禁止超车」的辅助标识，无论是否越到右侧，超车本身都被禁止（教则附表3（1）16、80）。"},
+   "en": {"question": "Where this sign and its auxiliary plate stand, you may overtake as long as you do not cross into the right-hand part of the road.", "explanation": "Because the \"No overtaking\" auxiliary plate is fitted, overtaking itself is forbidden, whether or not you cross over (Kyosoku Appendix 3(1) items 16 and 80)."},
+   "vi": {"question": "Ở nơi có biển báo giao thông này cùng biển phụ, chỉ cần không lấn sang phần đường bên phải là được vượt.", "explanation": "Vì có biển phụ «Cấm vượt», bản thân việc vượt bị cấm, bất kể có lấn sang hay không (Kyosoku Phụ lục 3(1) mục 16 và 80)."},
+   "pt": {"question": "Onde estão esta placa e sua placa auxiliar, pode-se ultrapassar desde que não se invada a parte direita da via.", "explanation": "Como há a placa auxiliar \"Proibido ultrapassar\", a própria ultrapassagem é proibida, com ou sem invasão (Kyosoku, Anexo 3(1), itens 16 e 80)."}
   },
-  {
-    "id": "K5-2-028",
-    "category": "緊急自動車などの優先",
-    "kp": "5-2-6",
-    "group": "I",
-    "source": "教則 第5章第2節6(3)",
-    "question_type": "text",
-    "qf": "QF-5-2-6-A-N-05",
-    "question_ja": "交通が混雑していて、路線バスなどが近づいてきても優先通行帯から出られなくなるおそれがあるときは、はじめからその通行帯を通行してはいけない。",
-    "answer": true,
-    "explanation_ja": "教則第5章第2節6(3)のとおりです。出られなくなってからでは、路線バスの通行を妨げてしまいます。",
-    "i18n": {
-      "zh": {
-        "question": "交通拥堵、公交车等驶近时有可能无法驶离优先通行带的情况下，一开始就不得通行该通行带。",
-        "explanation": "符合教则第5章第2节6(3)的规定。等到无法驶离时，就已经妨碍了公交车通行。"
-      },
-      "en": {
-        "question": "Where traffic is congested and you might be unable to leave the priority lane once a route bus approaches, you must not enter that lane in the first place.",
-        "explanation": "This is Kyosoku Chapter 5 Section 2 item 6(3). By the time you cannot get out, you are already obstructing the bus."
-      },
-      "vi": {
-        "question": "Khi giao thông đông đúc và có nguy cơ bạn không ra được khỏi làn ưu tiên lúc xe buýt tuyến đến gần, thì ngay từ đầu bạn không được đi vào làn đó.",
-        "explanation": "Đúng theo Kyosoku Chương 5 Mục 2 điểm 6(3). Đến lúc không ra được thì bạn đã cản trở xe buýt rồi."
-      },
-      "pt": {
-        "question": "Quando o trânsito está congestionado e você pode não conseguir sair da faixa de preferência ao se aproximar um ônibus de linha, não deve entrar nessa faixa desde o início.",
-        "explanation": "É o Kyosoku, Capítulo 5, Seção 2, item 6(3). Quando já não dá para sair, você está obstruindo o ônibus."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "SS", "difficulty": 3, "exam_scope": "仮免|本免"
+ },
+ {
+  "id": "KS-028", "category": "標識", "kp": "付3-1-17", "group": "D",
+  "source": "教則 付表3（1）17", "question_type": "sign", "qf": "QF-付3-A-N-59",
+  "image": {"sign_no": "315", "file": "315.svg", "license": "PD-Japan-exempt (標識令 catalogue reproduction)", "file_verified": true},
+  "question_ja": "この標識は、車の駐車と停車がどちらも禁止されていることを示している。",
+  "answer": true,
+  "explanation_ja": "教則付表3（1）17のとおりです。人の乗り降りのための停車もできません。",
+  "i18n": {
+   "zh": {"question": "这个标识（立牌）表示车辆的驻车和停车都被禁止。", "explanation": "符合教则附表3（1）17的规定。为上下人的停车也不允许。"},
+   "en": {"question": "This sign shows that both parking and stopping are forbidden.", "explanation": "This is Kyosoku Appendix 3(1) item 17. Even stopping to let someone in or out is not allowed."},
+   "vi": {"question": "Biển báo giao thông này cho biết cả đỗ xe lẫn dừng xe đều bị cấm.", "explanation": "Đúng theo Kyosoku Phụ lục 3(1) mục 17. Dừng xe để cho người lên xuống cũng không được phép."},
+   "pt": {"question": "Esta placa indica que tanto o estacionamento quanto a parada são proibidos.", "explanation": "É o Kyosoku, Anexo 3(1), item 17. Nem a parada para embarque ou desembarque é permitida."}
   },
-  {
-    "id": "K5-2-029",
-    "category": "緊急自動車などの優先",
-    "kp": "5-2-6",
-    "group": "I",
-    "source": "教則 第5章第2節6(2)",
-    "question_type": "text",
-    "qf": "QF-5-2-6-A-N-06",
-    "question_ja": "普通自転車の専用通行帯が指定されている道路では、特定小型原動機付自転車と軽車両を除くほかの車は、その通行帯を通行してはいけない。",
-    "answer": true,
-    "explanation_ja": "教則第5章第2節6(2)のとおりです。路線バスなどの専用通行帯とは、除かれる車の範囲が違います。",
-    "i18n": {
-      "zh": {
-        "question": "在指定了普通自行车专用通行带的道路上，除特定小型轻型摩托车和轻车辆以外的其他车辆不得通行该通行带。",
-        "explanation": "符合教则第5章第2节6(2)的规定。它与公交车等专用通行带被排除的车辆范围不同。"
-      },
-      "en": {
-        "question": "On a road with a lane designated for ordinary bicycles, every vehicle other than a specified small motorized bicycle or a light road vehicle must stay out of that lane.",
-        "explanation": "This is Kyosoku Chapter 5 Section 2 item 6(2). The set of vehicles excluded differs from that for a route bus lane."
-      },
-      "vi": {
-        "question": "Trên đường có làn dành riêng cho xe đạp thường, mọi xe khác ngoài xe gắn máy cỡ nhỏ đặc định và xe thô sơ đều không được đi vào làn đó.",
-        "explanation": "Đúng theo Kyosoku Chương 5 Mục 2 điểm 6(2). Nhóm xe được loại trừ khác với nhóm ở làn xe buýt tuyến."
-      },
-      "pt": {
-        "question": "Em via com faixa designada para bicicletas comuns, todo veículo que não seja ciclomotor pequeno especificado ou veículo leve deve ficar fora dessa faixa.",
-        "explanation": "É o Kyosoku, Capítulo 5, Seção 2, item 6(2). O conjunto de veículos excluídos é diferente do da faixa de ônibus de linha."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 3,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "N", "difficulty": 1, "exam_scope": "仮免|本免"
+ },
+ {
+  "id": "KS-029", "category": "標識", "kp": "付3-1-17", "group": "D",
+  "source": "教則 付表3（1）17、18", "question_type": "sign", "qf": "QF-付3-D-SS-24",
+  "image": {"sign_no": "315", "file": "315.svg", "license": "PD-Japan-exempt (標識令 catalogue reproduction)", "file_verified": true},
+  "question_ja": "この標識のあるところでは、人の乗り降りのための停車ならすることができる。",
+  "answer": false,
+  "explanation_ja": "これは「駐停車禁止」で、停車もできません。駐車だけを禁止するのは「駐車禁止」の標識です（教則付表3（1）17、18）。",
+  "i18n": {
+   "zh": {"question": "在有这个标识（立牌）的地方，为上下人的停车是可以的。", "explanation": "这是「禁止驻停车」，停车也不允许。只禁止驻车的是「禁止驻车」标识（教则附表3（1）17、18）。"},
+   "en": {"question": "Where this sign stands, stopping to let someone in or out is allowed.", "explanation": "This is No stopping or parking, and stopping is not allowed either. The sign that forbids only parking is No parking (Kyosoku Appendix 3(1) items 17 and 18)."},
+   "vi": {"question": "Ở nơi có biển báo giao thông này, dừng xe để cho người lên xuống thì được phép.", "explanation": "Đây là biển «Cấm dừng và đỗ», nên dừng xe cũng không được. Biển chỉ cấm đỗ là «Cấm đỗ xe» (Kyosoku Phụ lục 3(1) mục 17 và 18)."},
+   "pt": {"question": "Onde está esta placa, é permitido parar para embarque ou desembarque.", "explanation": "Esta é Proibido parar e estacionar, e a parada também não é permitida. A placa que proíbe apenas o estacionamento é Proibido estacionar (Kyosoku, Anexo 3(1), itens 17 e 18)."}
   },
-  {
-    "id": "K5-2-030",
-    "category": "緊急自動車などの優先",
-    "kp": "5-2-5",
-    "group": "I",
-    "source": "教則 第5章第2節5",
-    "question_type": "text",
-    "qf": "QF-5-2-5-A-N-04",
-    "question_ja": "緊急自動車に進路を譲るときは、交差点の付近かそれ以外かによって、一時停止するか進路を譲るだけでよいかが分かれる。",
-    "answer": true,
-    "explanation_ja": "教則第5章第2節5のとおりです。交差点の付近では交差点を避けて一時停止し、それ以外では左側に寄って進路を譲ります。",
-    "i18n": {
-      "zh": {
-        "question": "给紧急车辆让路时，根据是在交叉路口附近还是其他地方，分为需要暂停（一時停止）和只需让路两种情况。",
-        "explanation": "符合教则第5章第2节5的规定。在交叉路口附近要避开交叉路口暂停，其他地方靠左让路即可。"
-      },
-      "en": {
-        "question": "Whether you must come to a complete stop (一時停止) or need only give way when making room for an emergency vehicle depends on whether you are near an intersection.",
-        "explanation": "This is Kyosoku Chapter 5 Section 2 item 5. Near an intersection you keep clear of it and stop; elsewhere you pull to the left and give way."
-      },
-      "vi": {
-        "question": "Việc bạn phải tạm dừng (一時停止) hay chỉ cần nhường đường cho xe ưu tiên tùy thuộc vào việc bạn có đang ở gần nút giao thông hay không.",
-        "explanation": "Đúng theo Kyosoku Chương 5 Mục 2 điểm 5. Gần nút giao thì tránh nút giao và dừng lại; nơi khác thì tấp vào trái và nhường đường."
-      },
-      "pt": {
-        "question": "Se você deve fazer parada obrigatória (一時停止) ou apenas dar passagem a um veículo de emergência depende de estar ou não perto de um cruzamento.",
-        "explanation": "É o Kyosoku, Capítulo 5, Seção 2, item 5. Perto do cruzamento você o evita e para; nos demais locais encosta à esquerda e dá passagem."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "SS", "difficulty": 2, "exam_scope": "仮免|本免"
+ },
+ {
+  "id": "KS-030", "category": "標識", "kp": "付3-1-18", "group": "D",
+  "source": "教則 付表3（1）2、18", "question_type": "sign", "qf": "QF-付3-D-SS-37",
+  "image": {"sign_no": "316", "file": "316.svg", "license": "PD-Japan-exempt (標識令 catalogue reproduction)", "file_verified": true},
+  "question_ja": "この標識のあるところでは、車はその道路を通り抜けること自体ができない。",
+  "answer": false,
+  "explanation_ja": "これは「駐車禁止」です。通行が禁止されるわけではなく、駐車が禁止されます（教則付表3（1）2、18）。",
+  "i18n": {
+   "zh": {"question": "在有这个标识（立牌）的地方，车辆本身就不能从该道路通过。", "explanation": "这是「禁止驻车」。并不是禁止通行，而是禁止驻车（教则附表3（1）2、18）。"},
+   "en": {"question": "Where this sign stands, a vehicle may not even drive through that road at all.", "explanation": "This is No parking. Passing is not forbidden; parking is (Kyosoku Appendix 3(1) items 2 and 18)."},
+   "vi": {"question": "Ở nơi có biển báo giao thông này, xe không thể đi xuyên qua con đường đó.", "explanation": "Đây là biển «Cấm đỗ xe». Việc đi lại không bị cấm; việc đỗ xe mới bị cấm (Kyosoku Phụ lục 3(1) mục 2 và 18)."},
+   "pt": {"question": "Onde está esta placa, o veículo não pode sequer atravessar essa via.", "explanation": "Esta é Proibido estacionar. A circulação não é proibida; o estacionamento é (Kyosoku, Anexo 3(1), itens 2 e 18)."}
   },
-  {
-    "id": "K5-2-031",
-    "category": "緊急自動車などの優先",
-    "kp": "5-2-5",
-    "group": "I",
-    "source": "教則 第5章第2節5",
-    "question_type": "text",
-    "qf": "QF-5-2-5-D-SW-01",
-    "question_ja": "緊急自動車が近づいてきたときは、交差点の付近では交差点の中に入ってから道路の左側に寄り、一時停止しなければならない。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第5章第2節5により、交差点の付近では交差点を避けて道路の左側に寄り、一時停止します。",
-    "i18n": {
-      "zh": {
-        "question": "紧急车辆驶近时，在交叉路口附近必须先进入交叉路口内再靠道路左侧暂停（一時停止）。",
-        "explanation": "错误。根据教则第5章第2节5，在交叉路口附近要避开交叉路口、靠道路左侧暂停。"
-      },
-      "en": {
-        "question": "When an emergency vehicle approaches, near an intersection you must move into the intersection first and then pull to the left and come to a complete stop (一時停止).",
-        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 2 item 5 you keep clear of the intersection, pull to the left of the road and stop."
-      },
-      "vi": {
-        "question": "Khi xe ưu tiên đến gần, ở gần nút giao thông bạn phải tiến vào trong nút giao rồi mới tấp vào bên trái và tạm dừng (一時停止).",
-        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 2 điểm 5, bạn tránh nút giao, tấp vào bên trái đường rồi dừng lại."
-      },
-      "pt": {
-        "question": "Quando um veículo de emergência se aproxima, perto de um cruzamento você deve entrar no cruzamento e só então encostar à esquerda e fazer parada obrigatória (一時停止).",
-        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 2, item 5, você evita o cruzamento, encosta à esquerda da via e para."
-      }
-    },
-    "trap_type": "SW",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "SS", "difficulty": 2, "exam_scope": "仮免|本免"
+ },
+ {
+  "id": "KS-031", "category": "標識", "kp": "付3-1-75", "group": "D",
+  "source": "教則 付表3（1）75", "question_type": "sign", "qf": "QF-付3-A-N-36",
+  "image": {"sign_no": "505-A", "file": "505-A.svg", "license": "PD-Japan-exempt (標識令 catalogue reproduction)", "file_verified": true},
+  "question_ja": "この補助標識は、本標識が示す規制の区間の始まりであることを示している。",
+  "answer": true,
+  "explanation_ja": "教則付表3（1）75のとおりです。「駐車禁止」などの本標識の下に付けられ、その規制がここから始まることを示します。",
+  "i18n": {
+   "zh": {"question": "这块辅助标识表示主标识所示限制区间的起点。", "explanation": "符合教则附表3（1）75的规定。它安装在「禁止驻车」等主标识下方，表示该限制从此处开始。"},
+   "en": {"question": "This auxiliary sign shows the start of the section in which the main sign's restriction applies.", "explanation": "This is Kyosoku Appendix 3(1) item 75. It is fitted below a main sign such as No parking and shows that the restriction begins here."},
+   "vi": {"question": "Biển phụ này cho biết điểm bắt đầu của đoạn áp dụng quy định của biển chính.", "explanation": "Đúng theo Kyosoku Phụ lục 3(1) mục 75. Biển được gắn dưới biển chính như «Cấm đỗ xe» và cho biết quy định bắt đầu từ đây."},
+   "pt": {"question": "Esta placa auxiliar indica o início do trecho em que vale a restrição da placa principal.", "explanation": "É o Kyosoku, Anexo 3(1), item 75. Ela é fixada abaixo de uma placa principal, como Proibido estacionar, e mostra que a restrição começa ali."}
   },
-  {
-    "id": "K5-2-032",
-    "category": "緊急自動車などの優先",
-    "kp": "5-2-5",
-    "group": "I",
-    "source": "教則 第5章第2節5",
-    "question_type": "text",
-    "qf": "QF-5-2-5-D-SW-02",
-    "question_ja": "緊急自動車が近づいてきたとき、交差点の付近以外のところでは、道路の左側に寄って一時停止しなければならない。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第5章第2節5により、交差点の付近以外では道路の左側に寄って進路を譲れば足り、一時停止までは求められていません。",
-    "i18n": {
-      "zh": {
-        "question": "紧急车辆驶近时，在交叉路口附近以外的地方，必须靠道路左侧暂停（一時停止）。",
-        "explanation": "错误。根据教则第5章第2节5，在交叉路口附近以外靠道路左侧让路即可，并不要求暂停。"
-      },
-      "en": {
-        "question": "When an emergency vehicle approaches, at places other than near an intersection you must pull to the left of the road and come to a complete stop (一時停止).",
-        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 2 item 5 it is enough to pull to the left and give way there; a complete stop is not required."
-      },
-      "vi": {
-        "question": "Khi xe ưu tiên đến gần, ở những nơi không phải gần nút giao thông bạn phải tấp vào bên trái đường và tạm dừng (一時停止).",
-        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 2 điểm 5, ở đó chỉ cần tấp vào bên trái và nhường đường, không bắt buộc tạm dừng."
-      },
-      "pt": {
-        "question": "Quando um veículo de emergência se aproxima, em locais que não sejam perto de cruzamento você deve encostar à esquerda e fazer parada obrigatória (一時停止).",
-        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 2, item 5, ali basta encostar à esquerda e dar passagem; não se exige parada completa."
-      }
-    },
-    "trap_type": "SW",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "N", "difficulty": 2, "exam_scope": "仮免|本免"
+ },
+ {
+  "id": "KS-032", "category": "標識", "kp": "付3-1-75", "group": "D",
+  "source": "教則 付表3（1）75、77", "question_type": "sign", "qf": "QF-付3-D-SS-19",
+  "image": {"sign_no": "505-A", "file": "505-A.svg", "license": "PD-Japan-exempt (標識令 catalogue reproduction)", "file_verified": true},
+  "question_ja": "この補助標識は、本標識が示す規制の区間の終わりであることを示している。",
+  "answer": false,
+  "explanation_ja": "これは区間の始まりを示す補助標識です。終わりを示すものは矢印の向きが違います（教則付表3（1）75、77）。",
+  "i18n": {
+   "zh": {"question": "这块辅助标识表示主标识所示限制区间的终点。", "explanation": "这是表示区间起点的辅助标识。表示终点的那种箭头方向不同（教则附表3（1）75、77）。"},
+   "en": {"question": "This auxiliary sign shows the end of the section in which the main sign's restriction applies.", "explanation": "This is the auxiliary sign for the start of the section. The one for the end has its arrow the other way (Kyosoku Appendix 3(1) items 75 and 77)."},
+   "vi": {"question": "Biển phụ này cho biết điểm kết thúc của đoạn áp dụng quy định của biển chính.", "explanation": "Đây là biển phụ cho biết điểm bắt đầu của đoạn. Biển cho biết điểm kết thúc có mũi tên hướng khác (Kyosoku Phụ lục 3(1) mục 75 và 77)."},
+   "pt": {"question": "Esta placa auxiliar indica o fim do trecho em que vale a restrição da placa principal.", "explanation": "Esta é a placa auxiliar do início do trecho. A do fim tem a seta no sentido oposto (Kyosoku, Anexo 3(1), itens 75 e 77)."}
   },
-  {
-    "id": "K5-2-033",
-    "category": "緊急自動車などの優先",
-    "kp": "5-2-5",
-    "group": "I",
-    "source": "教則 第5章第2節5",
-    "question_type": "text",
-    "qf": "QF-5-2-5-D-EO-01",
-    "question_ja": "一方通行の道路で緊急自動車が近づいてきたときも、道路の左側に寄って進路を譲れば足りる。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第5章第2節5により、左側に寄るとかえって緊急自動車の妨げとなるようなときは、右側に寄らなければなりません。",
-    "i18n": {
-      "zh": {
-        "question": "在单向通行的道路上紧急车辆驶近时，也只要靠道路左侧让路就可以。",
-        "explanation": "错误。根据教则第5章第2节5，靠左反而会妨碍紧急车辆时，必须靠右侧。"
-      },
-      "en": {
-        "question": "On a one-way road too, it is enough to pull over to the left of the road and give way when an emergency vehicle approaches.",
-        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 2 item 5, where pulling to the left would get in the emergency vehicle's way instead, you must pull to the right."
-      },
-      "vi": {
-        "question": "Trên đường một chiều cũng vậy, khi xe ưu tiên đến gần chỉ cần tấp vào bên trái đường và nhường đường là đủ.",
-        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 2 điểm 5, nếu tấp vào bên trái lại cản trở xe ưu tiên thì bạn phải tấp vào bên phải."
-      },
-      "pt": {
-        "question": "Em via de mão única também basta encostar à esquerda e dar passagem quando um veículo de emergência se aproxima.",
-        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 2, item 5, se encostar à esquerda for atrapalhar o veículo de emergência, você deve encostar à direita."
-      }
-    },
-    "trap_type": "EO",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "SS", "difficulty": 2, "exam_scope": "仮免|本免"
+ },
+ {
+  "id": "KS-033", "category": "標識", "kp": "付3-1-77", "group": "D",
+  "source": "教則 付表3（1）77", "question_type": "sign", "qf": "QF-付3-A-N-32",
+  "image": {"sign_no": "507-A", "file": "507-A.svg", "license": "PD-Japan-exempt (標識令 catalogue reproduction)", "file_verified": true},
+  "question_ja": "この補助標識は、本標識が示す規制の区間の終わりであることを示している。",
+  "answer": true,
+  "explanation_ja": "教則付表3（1）77のとおりです。この先では、その本標識による規制は掛かりません。",
+  "i18n": {
+   "zh": {"question": "这块辅助标识表示主标识所示限制区间的终点。", "explanation": "符合教则附表3（1）77的规定。在此以后，该主标识的限制不再适用。"},
+   "en": {"question": "This auxiliary sign shows the end of the section in which the main sign's restriction applies.", "explanation": "This is Kyosoku Appendix 3(1) item 77. Beyond it, the main sign's restriction no longer applies."},
+   "vi": {"question": "Biển phụ này cho biết điểm kết thúc của đoạn áp dụng quy định của biển chính.", "explanation": "Đúng theo Kyosoku Phụ lục 3(1) mục 77. Từ đó trở đi, quy định của biển chính không còn áp dụng."},
+   "pt": {"question": "Esta placa auxiliar indica o fim do trecho em que vale a restrição da placa principal.", "explanation": "É o Kyosoku, Anexo 3(1), item 77. A partir dali, a restrição da placa principal deixa de valer."}
   },
-  {
-    "id": "K5-2-034",
-    "category": "緊急自動車などの優先",
-    "kp": "5-2-6",
-    "group": "I",
-    "source": "教則 第5章第2節6(1)",
-    "question_type": "text",
-    "qf": "QF-5-2-6-D-EI-01",
-    "question_ja": "停留所で発進の合図をした路線バスがあっても、自分の車が先に通過できるときは、その発進を妨げてもよい。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第5章第2節6(1)により、例外となるのは急ブレーキや急ハンドルで避けなければならないような場合だけです。",
-    "i18n": {
-      "zh": {
-        "question": "即使有公交车在公交站发出了起步信号，只要自己的车能先通过，也可以妨碍其起步。",
-        "explanation": "错误。根据教则第5章第2节6(1)，例外只有必须以急刹车或急打方向盘才能避让的情况。"
-      },
-      "en": {
-        "question": "Even when a route bus at a stop has signalled that it is moving off, you may obstruct it as long as your own vehicle can get past first.",
-        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 2 item 6(1) the only exception is where avoiding it would take sudden braking or sudden steering."
-      },
-      "vi": {
-        "question": "Dù xe buýt tuyến ở trạm đã báo hiệu chuyển bánh, bạn vẫn được cản trở nó miễn là xe bạn qua trước được.",
-        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 2 điểm 6(1), ngoại lệ duy nhất là khi việc tránh nó đòi hỏi phanh gấp hoặc đánh lái gấp."
-      },
-      "pt": {
-        "question": "Mesmo que o ônibus de linha no ponto tenha sinalizado que vai sair, você pode obstruí-lo desde que o seu veículo consiga passar antes.",
-        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 2, item 6(1), a única exceção é quando desviar exigiria frenagem brusca ou esterçada brusca."
-      }
-    },
-    "trap_type": "EI",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "N", "difficulty": 2, "exam_scope": "仮免|本免"
+ },
+ {
+  "id": "KS-034", "category": "標識", "kp": "付3-1-24", "group": "D",
+  "source": "教則 付表3（1）24", "question_type": "sign", "qf": "QF-付3-A-N-50",
+  "image": {"sign_no": "322", "file": "322.svg", "license": "PD-Japan-exempt (標識令 catalogue reproduction)", "file_verified": true},
+  "question_ja": "この標識のある道路は、荷物を含めた車の幅が示された値を超える車は通行できないことを示している。",
+  "answer": true,
+  "explanation_ja": "教則付表3（1）24のとおりです。「最大幅」は荷物を含めた幅で判断します。",
+  "i18n": {
+   "zh": {"question": "设有这个标识（立牌）的道路，表示包含货物在内的车辆宽度超过所示数值的车辆不能通行。", "explanation": "符合教则附表3（1）24的规定。「最大宽度」以包含货物的宽度来判断。"},
+   "en": {"question": "This sign shows that a vehicle whose width, load included, exceeds the figure shown may not pass.", "explanation": "This is Kyosoku Appendix 3(1) item 24. Maximum width is judged on the width including the load."},
+   "vi": {"question": "Biển báo giao thông này cho biết xe có bề rộng, tính cả hàng hóa, vượt quá con số ghi trên biển thì không được đi.", "explanation": "Đúng theo Kyosoku Phụ lục 3(1) mục 24. «Bề rộng tối đa» được xét theo bề rộng tính cả hàng hóa."},
+   "pt": {"question": "Esta placa indica que o veículo cuja largura, incluída a carga, excede o valor indicado não pode circular.", "explanation": "É o Kyosoku, Anexo 3(1), item 24. A largura máxima é avaliada com a carga incluída."}
   },
-  {
-    "id": "K5-2-035",
-    "category": "緊急自動車などの優先",
-    "kp": "5-2-6",
-    "group": "I",
-    "source": "教則 第5章第2節6(2)",
-    "question_type": "text",
-    "qf": "QF-5-2-6-D-EX-01",
-    "question_ja": "路線バスなどの専用通行帯が指定されている道路では、すべての車がその通行帯を通行してはいけない。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第5章第2節6(2)により、小型特殊自動車、原動機付自転車、軽車両は除かれます。",
-    "i18n": {
-      "zh": {
-        "question": "在指定了公交车等专用通行带的道路上，所有车辆都不得通行该通行带。",
-        "explanation": "错误。根据教则第5章第2节6(2)，小型特殊汽车、轻型摩托车、轻车辆除外。"
-      },
-      "en": {
-        "question": "On a road with a lane designated for route buses, no vehicle at all may use that lane.",
-        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 2 item 6(2), small special vehicles, motorized bicycles and light road vehicles are excluded."
-      },
-      "vi": {
-        "question": "Trên đường có làn dành riêng cho xe buýt tuyến, không một xe nào được đi ở làn đó.",
-        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 2 điểm 6(2), xe chuyên dùng cỡ nhỏ, xe gắn máy và xe thô sơ được loại trừ."
-      },
-      "pt": {
-        "question": "Em via com faixa designada para ônibus de linha, nenhum veículo pode usar essa faixa.",
-        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 2, item 6(2), veículos especiais pequenos, ciclomotores e veículos leves estão excluídos."
-      }
-    },
-    "trap_type": "EX",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "N", "difficulty": 2, "exam_scope": "仮免|本免"
+ },
+ {
+  "id": "KS-035", "category": "標識", "kp": "付3-1-25", "group": "D",
+  "source": "教則 付表3（1）25", "question_type": "sign", "qf": "QF-付3-A-N-12",
+  "image": {"sign_no": "323", "file": "323-50.svg", "license": "PD-Japan-exempt (標識令 catalogue reproduction)", "file_verified": true},
+  "question_ja": "この標識のある道路では、自動車も路面電車も、示された速度を超えて運転してはならない。",
+  "answer": true,
+  "explanation_ja": "教則付表3（1）25のとおりです。一般原動機付自転車は、これより低い時速30キロメートルの制限を超えることもできません。",
+  "i18n": {
+   "zh": {"question": "设有这个标识（立牌）的道路上，汽车和路面电车都不得超过所示速度行驶。", "explanation": "符合教则附表3（1）25的规定。一般轻型摩托车还不得超过更低的每小时30公里的限制。"},
+   "en": {"question": "On a road with this sign, neither motor vehicles nor streetcars (trams) may be driven faster than the speed shown.", "explanation": "This is Kyosoku Appendix 3(1) item 25. A general motorized bicycle (moped) may not exceed its own lower limit of 30 km/h either."},
+   "vi": {"question": "Trên đường có biển báo giao thông này, cả xe ô tô và tàu điện mặt đất đều không được chạy quá tốc độ ghi trên biển.", "explanation": "Đúng theo Kyosoku Phụ lục 3(1) mục 25. Xe gắn máy (原付) còn không được vượt giới hạn thấp hơn là 30 km/h."},
+   "pt": {"question": "Na via com esta placa, nem os automóveis nem os bondes podem trafegar acima da velocidade indicada.", "explanation": "É o Kyosoku, Anexo 3(1), item 25. O ciclomotor também não pode exceder seu próprio limite, mais baixo, de 30 km/h."}
   },
-  {
-    "id": "K5-2-036",
-    "category": "緊急自動車などの優先",
-    "kp": "5-2-6",
-    "group": "I",
-    "source": "教則 第5章第2節6(2)",
-    "question_type": "text",
-    "qf": "QF-5-2-6-D-EO-01",
-    "question_ja": "路線バスなどの専用通行帯が指定されている道路では、右左折をするためであっても、その通行帯に入ってはいけない。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第5章第2節6(2)により、右左折をするため道路の右端、中央や左端に寄る場合や、工事などでやむを得ない場合は別です。",
-    "i18n": {
-      "zh": {
-        "question": "在指定了公交车等专用通行带的道路上，即使是为了右拐弯或左拐弯，也不得进入该通行带。",
-        "explanation": "错误。根据教则第5章第2节6(2)，为右拐弯或左拐弯而靠道路右端、中央或左端时，以及因施工等不得已时除外。"
-      },
-      "en": {
-        "question": "On a road with a lane designated for route buses you must not enter that lane even in order to turn right or left.",
-        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 2 item 6(2) pulling to the right edge, the centre or the left edge of the road in order to turn is an exception, as are road works and the like."
-      },
-      "vi": {
-        "question": "Trên đường có làn dành riêng cho xe buýt tuyến, bạn không được đi vào làn đó ngay cả để rẽ phải hay rẽ trái.",
-        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 2 điểm 6(2), việc tấp sang mép phải, tim đường hay mép trái để rẽ là ngoại lệ, cũng như thi công đường và tình huống tương tự."
-      },
-      "pt": {
-        "question": "Em via com faixa designada para ônibus de linha você não pode entrar nessa faixa nem mesmo para converter à direita ou à esquerda.",
-        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 2, item 6(2), encostar na borda direita, no centro ou na borda esquerda para converter é exceção, assim como obras e situações semelhantes."
-      }
-    },
-    "trap_type": "EO",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "N", "difficulty": 1, "exam_scope": "仮免|本免"
+ },
+ {
+  "id": "KS-036", "category": "標識", "kp": "付3-1-26", "group": "D",
+  "source": "教則 付表3（1）26", "question_type": "sign", "qf": "QF-付3-A-N-40",
+  "image": {"sign_no": "324", "file": "324-30.svg", "license": "PD-Japan-exempt (標識令 catalogue reproduction)", "file_verified": true},
+  "question_ja": "この標識は、自動車の最低速度が指定されていることを示している。",
+  "answer": true,
+  "explanation_ja": "教則付表3（1）26のとおりです。示された速度に達しない速度で運転してはいけません。",
+  "i18n": {
+   "zh": {"question": "这个标识（立牌）表示指定了汽车的最低速度。", "explanation": "符合教则附表3（1）26的规定。不得以低于所示速度的速度行驶。"},
+   "en": {"question": "This sign shows that a minimum speed is set for motor vehicles.", "explanation": "This is Kyosoku Appendix 3(1) item 26. You must not drive slower than the speed shown."},
+   "vi": {"question": "Biển báo giao thông này cho biết đã quy định tốc độ tối thiểu cho xe ô tô.", "explanation": "Đúng theo Kyosoku Phụ lục 3(1) mục 26. Không được chạy chậm hơn tốc độ ghi trên biển."},
+   "pt": {"question": "Esta placa indica que há uma velocidade mínima fixada para os automóveis.", "explanation": "É o Kyosoku, Anexo 3(1), item 26. Não se deve trafegar abaixo da velocidade indicada."}
   },
-  {
-    "id": "K5-2-037",
-    "category": "緊急自動車などの優先",
-    "kp": "5-2-6",
-    "group": "I",
-    "source": "教則 第5章第2節6(3)",
-    "question_type": "text",
-    "qf": "QF-5-2-6-D-EI-02",
-    "question_ja": "路線バスなどの優先通行帯を通行している自動車は、路線バスなどが近づいてきても、交通が混雑していればそこから出なくてよい。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第5章第2節6(3)により、混雑していて出られなくなるおそれがあるときは、はじめからその通行帯を通行してはいけません。",
-    "i18n": {
-      "zh": {
-        "question": "在公交车等优先通行带上通行的汽车，即使公交车等驶近，只要交通拥堵就可以不驶离。",
-        "explanation": "错误。根据教则第5章第2节6(3)，拥堵而有可能无法驶离时，一开始就不得通行该通行带。"
-      },
-      "en": {
-        "question": "A car in a lane where route buses have priority need not leave it when a bus approaches, as long as the traffic is congested.",
-        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 2 item 6(3), if congestion might leave you unable to get out, you must not enter the lane in the first place."
-      },
-      "vi": {
-        "question": "Ô tô đang ở làn ưu tiên cho xe buýt tuyến không cần ra khỏi làn khi xe buýt đến gần, miễn là giao thông đang đông đúc.",
-        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 2 điểm 6(3), nếu tình trạng đông đúc có thể khiến bạn không ra được thì ngay từ đầu bạn không được đi vào làn đó."
-      },
-      "pt": {
-        "question": "O automóvel na faixa de preferência para ônibus de linha não precisa sair dela quando um ônibus se aproxima, desde que o trânsito esteja congestionado.",
-        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 2, item 6(3), se o congestionamento puder impedir você de sair, não deve entrar na faixa desde o início."
-      }
-    },
-    "trap_type": "EI",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "N", "difficulty": 2, "exam_scope": "仮免|本免"
+ },
+ {
+  "id": "KS-037", "category": "標識", "kp": "付3-1-30", "group": "D",
+  "source": "教則 付表3（1）30", "question_type": "sign", "qf": "QF-付3-A-N-54",
+  "image": {"sign_no": "325-4", "file": "325-4.svg", "license": "PD-Japan-exempt (標識令 catalogue reproduction)", "file_verified": true},
+  "question_ja": "この標識が立っている道路は歩行者等が専用で使うところなので、特に通行を認められた車のほかは入ることができない。",
+  "answer": true,
+  "explanation_ja": "教則付表3（1）30のとおりです。沿道に車庫を持つ車など特に通行を認められた車を除き、車は通行できません。",
+  "i18n": {
+   "zh": {"question": "立有这个标识（立牌）的道路是步行者等专用使用的地方，因此除特别获准通行的车辆外不能进入。", "explanation": "符合教则附表3（1）30的规定。除沿路有车库的车辆等特别获准通行的车辆外，车辆不能通行。"},
+   "en": {"question": "The road where this sign stands is for the exclusive use of pedestrians and the like, so no vehicle may enter it except one specially permitted to pass.", "explanation": "This is Kyosoku Appendix 3(1) item 30. Vehicles may not pass, except those specially permitted, such as a vehicle with a garage along the road."},
+   "vi": {"question": "Con đường có biển báo giao thông này là nơi dành riêng cho người đi bộ và tương tự, nên ngoài những xe được phép đặc biệt thì không xe nào được đi vào.", "explanation": "Đúng theo Kyosoku Phụ lục 3(1) mục 30. Xe không được đi, trừ những xe được phép đặc biệt như xe có nhà để xe dọc tuyến."},
+   "pt": {"question": "A via onde está esta placa é de uso exclusivo de pedestres e afins, por isso nenhum veículo pode entrar nela, exceto os especialmente autorizados a circular.", "explanation": "É o Kyosoku, Anexo 3(1), item 30. Os veículos não podem circular, exceto os especialmente autorizados, como o que tem garagem ao longo da via."}
   },
-  {
-    "id": "K5-2-038",
-    "category": "緊急自動車などの優先",
-    "kp": "5-2-5",
-    "group": "I",
-    "source": "教則 第5章第2節5",
-    "question_type": "text",
-    "qf": "QF-5-2-5-D-SC-01",
-    "question_ja": "交差点の手前で後方から緊急自動車が近づいてきたが、もう少しで交差点だったので、交差点の中まで進んでから左に寄って停止した。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第5章第2節5により、交差点の付近では交差点を避けて道路の左側に寄り、一時停止しなければなりません。",
-    "i18n": {
-      "zh": {
-        "question": "在交叉路口跟前后方有紧急车辆驶近，但因为马上就到交叉路口了，就先驶入交叉路口内再靠左停住。",
-        "explanation": "错误。根据教则第5章第2节5，在交叉路口附近必须避开交叉路口、靠道路左侧暂停（一時停止）。"
-      },
-      "en": {
-        "question": "An emergency vehicle came up behind you just before an intersection, and because the intersection was close you drove into it before pulling left and stopping.",
-        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 2 item 5 you must keep clear of the intersection, pull to the left of the road and come to a complete stop (一時停止)."
-      },
-      "vi": {
-        "question": "Xe ưu tiên đến từ phía sau ngay trước nút giao thông, và vì nút giao đã gần nên bạn tiến vào trong nút giao rồi mới tấp trái và dừng lại.",
-        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 2 điểm 5, bạn phải tránh nút giao, tấp vào bên trái đường và tạm dừng (一時停止)."
-      },
-      "pt": {
-        "question": "Um veículo de emergência surgiu atrás de você pouco antes de um cruzamento e, como ele estava perto, você entrou nele antes de encostar à esquerda e parar.",
-        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 2, item 5, você deve evitar o cruzamento, encostar à esquerda da via e fazer parada obrigatória (一時停止)."
-      }
-    },
-    "trap_type": "SC",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "N", "difficulty": 2, "exam_scope": "仮免|本免"
+ },
+ {
+  "id": "KS-038", "category": "標識", "kp": "付3-1-30", "group": "D",
+  "source": "教則 付表3（1）30", "question_type": "sign", "qf": "QF-付3-D-SS-16",
+  "image": {"sign_no": "325-4", "file": "325-4.svg", "license": "PD-Japan-exempt (標識令 catalogue reproduction)", "file_verified": true},
+  "question_ja": "この標識は歩行者が多い道路であることを示しているので、車は注意して通行すればよい。",
+  "answer": false,
+  "explanation_ja": "これは歩行者等専用の道路を示す標識で、特に認められた車を除き、車は通行できません（教則付表3（1）30）。",
+  "i18n": {
+   "zh": {"question": "这个标识（立牌）表示步行者较多的道路，因此车辆注意通行即可。", "explanation": "这是表示步行者等专用道路的标识，除特别获准的车辆外，车辆不能通行（教则附表3（1）30）。"},
+   "en": {"question": "This sign shows that many pedestrians use the road, so a vehicle need only pass with care.", "explanation": "This sign marks a road for pedestrians and the like; apart from specially permitted vehicles, vehicles may not pass at all (Kyosoku Appendix 3(1) item 30)."},
+   "vi": {"question": "Biển báo giao thông này cho biết đường có nhiều người đi bộ, nên xe chỉ cần đi cẩn thận là được.", "explanation": "Đây là biển chỉ đường dành riêng cho người đi bộ và tương tự; ngoài những xe được phép đặc biệt, xe không được đi (Kyosoku Phụ lục 3(1) mục 30)."},
+   "pt": {"question": "Esta placa indica que a via tem muitos pedestres, por isso basta que o veículo passe com atenção.", "explanation": "Esta placa marca uma via exclusiva para pedestres e afins; salvo os veículos especialmente autorizados, os veículos não podem circular (Kyosoku, Anexo 3(1), item 30)."}
   },
-  {
-    "id": "K5-2-039",
-    "category": "緊急自動車などの優先",
-    "kp": "5-2-6",
-    "group": "I",
-    "source": "教則 第5章第2節6(2)",
-    "question_type": "text",
-    "qf": "QF-5-2-6-D-EX-02",
-    "question_ja": "普通自転車の専用通行帯が指定されている道路では、自転車以外のすべての車がその通行帯を通行してはいけない。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第5章第2節6(2)により、特定小型原動機付自転車と軽車両は、その通行帯を通行することができます。",
-    "i18n": {
-      "zh": {
-        "question": "在指定了普通自行车专用通行带的道路上，自行车以外的所有车辆都不得通行该通行带。",
-        "explanation": "错误。根据教则第5章第2节6(2)，特定小型轻型摩托车和轻车辆可以通行该通行带。"
-      },
-      "en": {
-        "question": "On a road with a lane designated for ordinary bicycles, every vehicle other than a bicycle must stay out of that lane.",
-        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 2 item 6(2), specified small motorized bicycles and light road vehicles may use that lane."
-      },
-      "vi": {
-        "question": "Trên đường có làn dành riêng cho xe đạp thường, mọi xe ngoài xe đạp đều không được đi vào làn đó.",
-        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 2 điểm 6(2), xe gắn máy cỡ nhỏ đặc định và xe thô sơ vẫn được đi ở làn đó."
-      },
-      "pt": {
-        "question": "Em via com faixa designada para bicicletas comuns, todo veículo que não seja bicicleta deve ficar fora dessa faixa.",
-        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 2, item 6(2), ciclomotores pequenos especificados e veículos leves podem usar essa faixa."
-      }
-    },
-    "trap_type": "EX",
-    "difficulty": 3,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "SS", "difficulty": 2, "exam_scope": "仮免|本免"
+ },
+ {
+  "id": "KS-039", "category": "標識", "kp": "付3-1-31", "group": "D",
+  "source": "教則 付表3（1）31", "question_type": "sign", "qf": "QF-付3-A-N-25",
+  "image": {"sign_no": "326-A", "file": "326-A-左.svg", "license": "PD-Japan-exempt (標識令 catalogue reproduction)", "file_verified": true},
+  "question_ja": "この標識を見つけた運転者は、矢印が向いているのと逆の方向へ車を進めてはならない。",
+  "answer": true,
+  "explanation_ja": "教則付表3（1）31のとおりです。「一方通行」で、矢印の方向にだけ通行できます。",
+  "i18n": {
+   "zh": {"question": "发现这个标识（立牌）的驾驶人，不得让车辆朝与箭头所指相反的方向行进。", "explanation": "符合教则附表3（1）31的规定。这是「单向通行」，只能朝箭头方向通行。"},
+   "en": {"question": "A driver who spots this sign must not move the vehicle in the direction opposite to the one the arrow points.", "explanation": "This is Kyosoku Appendix 3(1) item 31. It is One way: you may travel only in the direction of the arrow."},
+   "vi": {"question": "Người lái khi nhìn thấy biển báo giao thông này không được cho xe đi theo hướng ngược với hướng mũi tên chỉ.", "explanation": "Đúng theo Kyosoku Phụ lục 3(1) mục 31. Đây là biển «Đường một chiều»: chỉ được đi theo hướng mũi tên."},
+   "pt": {"question": "O condutor que avistar esta placa não deve seguir com o veículo no sentido contrário àquele para onde a seta aponta.", "explanation": "É o Kyosoku, Anexo 3(1), item 31. É Sentido único: só se pode trafegar no sentido da seta."}
   },
-  {
-    "id": "K5-2-040",
-    "category": "緊急自動車などの優先",
-    "kp": "5-2-6",
-    "group": "I",
-    "source": "教則 第5章第2節6(3)",
-    "question_type": "text",
-    "qf": "QF-5-2-6-D-EI-03",
-    "question_ja": "路線バスなどの優先通行帯は、路線バスなどが近づいてこない限り、混雑していても通行し続けてよい。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第5章第2節6(3)により、混雑していて出られなくなるおそれがあるときは、はじめからその通行帯を通行してはいけません。",
-    "i18n": {
-      "zh": {
-        "question": "公交车等优先通行带，只要公交车等没有驶近，即使拥堵也可以继续通行。",
-        "explanation": "错误。根据教则第5章第2节6(3)，拥堵而有可能无法驶离时，一开始就不得通行该通行带。"
-      },
-      "en": {
-        "question": "You may keep travelling in a lane where route buses have priority even in congestion, as long as no bus is approaching.",
-        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 2 item 6(3), if congestion might leave you unable to get out, you must not enter the lane in the first place."
-      },
-      "vi": {
-        "question": "Bạn được tiếp tục đi ở làn ưu tiên cho xe buýt tuyến ngay cả khi đông đúc, miễn là chưa có xe buýt nào đến gần.",
-        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 2 điểm 6(3), nếu tình trạng đông đúc có thể khiến bạn không ra được thì ngay từ đầu bạn không được đi vào làn đó."
-      },
-      "pt": {
-        "question": "Você pode continuar trafegando na faixa de preferência para ônibus de linha mesmo no congestionamento, desde que nenhum ônibus se aproxime.",
-        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 2, item 6(3), se o congestionamento puder impedir você de sair, não deve entrar na faixa desde o início."
-      }
-    },
-    "trap_type": "EI",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
-  }
+  "trap_type": "N", "difficulty": 1, "exam_scope": "仮免|本免"
+ },
+ {
+  "id": "KS-040", "category": "標識", "kp": "付3-1-31", "group": "D",
+  "source": "教則 第1章第2節1(4) / 付表3（1）31", "question_type": "sign", "qf": "QF-付3-D-SS-25",
+  "image": {"sign_no": "326-A", "file": "326-A-左.svg", "license": "PD-Japan-exempt (標識令 catalogue reproduction)", "file_verified": true},
+  "question_ja": "この標識は「左折可」の標示板と同じ意味である。",
+  "answer": false,
+  "explanation_ja": "これは「一方通行」の標識です。「左折可」の標示板は、前方の信号が赤や黄でも左折できることを示すもので、意味が違います（教則第1章第2節1(4)）。",
+  "i18n": {
+   "zh": {"question": "这个标识（立牌）与「可以左拐弯」标示牌意思相同。", "explanation": "这是「单向通行」标识。「可以左拐弯」标示牌表示即使前方信号灯为红灯或黄灯也可以左拐弯，含义不同（教则第1章第2节1(4)）。"},
+   "en": {"question": "This sign means the same as the \"Left turn permitted\" plate.", "explanation": "This is the One way sign. The \"Left turn permitted\" plate shows that you may turn left even when the light ahead is red or yellow, which is a different meaning (Kyosoku Chapter 1 Section 2 item 1(4))."},
+   "vi": {"question": "Biển báo giao thông này có cùng ý nghĩa với bảng «Được phép rẽ trái».", "explanation": "Đây là biển «Đường một chiều». Bảng «Được phép rẽ trái» cho biết được rẽ trái dù đèn phía trước là đèn đỏ hay vàng, ý nghĩa khác (Kyosoku Chương 1 Mục 2 điểm 1(4))."},
+   "pt": {"question": "Esta placa tem o mesmo significado da placa \"Conversão à esquerda permitida\".", "explanation": "Esta é a placa de Sentido único. A placa \"Conversão à esquerda permitida\" mostra que se pode virar à esquerda mesmo com a luz vermelha ou amarela à frente, o que é outro significado (Kyosoku, Capítulo 1, Seção 2, item 1(4))."}
+  },
+  "trap_type": "SS", "difficulty": 2, "exam_scope": "仮免|本免"
+ }
 ]

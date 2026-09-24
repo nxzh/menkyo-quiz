@@ -1,0 +1,230 @@
+[
+ {
+  "id": "K4-4-701",
+  "category": "乗車と積載",
+  "kp": "4-4-1",
+  "group": "G",
+  "source": "教則 第4章第4節1",
+  "question_type": "text",
+  "qf": "QF-4-4-A-N-02",
+  "question_ja": "乗車定員を計算するときは、12歳未満の子供3人を大人2人として数える。",
+  "answer": true,
+  "explanation_ja": "教則第4章第4節1の表の備考のとおりです。12歳未満の子供は、3人を2人として計算します。",
+  "i18n": {
+   "zh": {"question": "计算乘车定员时，未满12岁的儿童3人按大人2人计算。", "explanation": "符合教则第4章第4节1表格备注的规定。未满12岁的儿童，3人按2人计算。"},
+   "en": {"question": "When working out the seating capacity, three children under 12 are counted as two adults.", "explanation": "This is the note to the table in Kyosoku Chapter 4 Section 4 item 1. Children under 12 are counted three for two."},
+   "vi": {"question": "Khi tính số người tối đa, ba trẻ em dưới 12 tuổi được tính bằng hai người lớn.", "explanation": "Đúng theo ghi chú của bảng trong Kyosoku Chương 4 Mục 4 điểm 1. Trẻ em dưới 12 tuổi được tính ba em bằng hai người."},
+   "pt": {"question": "Ao calcular a capacidade de passageiros, três crianças menores de 12 anos contam como dois adultos.", "explanation": "É a observação da tabela do Kyosoku, Capítulo 4, Seção 4, item 1. Crianças menores de 12 anos são contadas três por dois."}
+  },
+  "trap_type": "N", "difficulty": 2, "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-1-702",
+  "category": "チャイルドシート",
+  "kp": "5-1-4",
+  "group": "G",
+  "source": "教則 第5章第1節4(1) / 道交法第71条の3第3項",
+  "question_type": "text",
+  "qf": "QF-4-4-A-N-01",
+  "question_ja": "幼児を自動車に乗せるときは、その幼児の発育の程度に応じた形状のチャイルドシートを使用させなければならないが、病気などやむを得ない理由があるときは別である。",
+  "answer": true,
+  "explanation_ja": "教則第5章第1節4(1)のとおりです。例外となるのは、病気などやむを得ない理由がある場合だけです（道交法第71条の3第3項）。",
+  "i18n": {
+   "zh": {"question": "让幼儿乘坐汽车时，必须使用与该幼儿发育程度相适应的儿童安全座椅，但因疾病等不得已的理由时另当别论。", "explanation": "符合教则第5章第1节4(1)的规定。成为例外的，只有因疾病等不得已的理由的情况（道交法第71条之3第3项）。"},
+   "en": {"question": "When you carry an infant in a motor vehicle, you must use a child seat shaped to match that infant's stage of development, but it is different when there is an unavoidable reason such as illness.", "explanation": "This is Kyosoku Chapter 5 Section 1 item 4(1). The only exception is an unavoidable reason such as illness (Road Traffic Act Article 71-3 paragraph 3)."},
+   "vi": {"question": "Khi chở trẻ nhỏ trên xe ô tô, bạn phải cho trẻ dùng ghế trẻ em có hình dạng phù hợp với mức độ phát triển của trẻ, nhưng sẽ khác nếu có lý do bất khả kháng như bệnh tật.", "explanation": "Đúng theo Kyosoku Chương 5 Mục 1 điểm 4(1). Ngoại lệ duy nhất là khi có lý do bất khả kháng như bệnh tật (Luật Giao thông Đường bộ Điều 71-3 khoản 3)."},
+   "pt": {"question": "Ao transportar uma criança pequena em um automóvel, é obrigatório usar uma cadeirinha infantil com formato adequado ao grau de desenvolvimento dela, mas é diferente quando há um motivo inevitável, como doença.", "explanation": "É o Kyosoku, Capítulo 5, Seção 1, item 4(1). A única exceção é um motivo inevitável, como doença (Lei de Trânsito, Artigo 71-3, parágrafo 3)."}
+  },
+  "trap_type": "N", "difficulty": 2, "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-1-703",
+  "category": "チャイルドシート",
+  "kp": "5-1-4",
+  "group": "G",
+  "source": "教則 第5章第1節4(1) / 道交法第71条の3第3項",
+  "question_type": "text",
+  "qf": "QF-4-4-D-EI-01",
+  "question_ja": "幼児を2人乗せるときは、そのうちの1人にチャイルドシートを使用させていれば、もう1人はシートベルトだけでよい。",
+  "answer": false,
+  "explanation_ja": "1人だけでは足りません。乗せる幼児のそれぞれにチャイルドシートを使用させなければなりません（教則第5章第1節4(1)、道交法第71条の3第3項）。",
+  "i18n": {
+   "zh": {"question": "搭载2名幼儿时，只要让其中1人使用儿童安全座椅，另1人只系安全带即可。", "explanation": "只让1人使用是不够的。必须让搭载的每一名幼儿都使用儿童安全座椅（教则第5章第1节4(1)、道交法第71条之3第3项）。"},
+   "en": {"question": "When you carry two infants, it is enough to put one of them in a child seat and let the other wear only a seat belt.", "explanation": "One child seat is not enough. Every infant you carry must be in a child seat (Kyosoku Chapter 5 Section 1 item 4(1), Road Traffic Act Article 71-3 paragraph 3)."},
+   "vi": {"question": "Khi chở hai trẻ nhỏ, chỉ cần cho một trẻ dùng ghế trẻ em, trẻ còn lại chỉ thắt dây an toàn là đủ.", "explanation": "Chỉ một ghế trẻ em là chưa đủ. Mỗi trẻ nhỏ được chở đều phải dùng ghế trẻ em (Kyosoku Chương 5 Mục 1 điểm 4(1), Luật Giao thông Đường bộ Điều 71-3 khoản 3)."},
+   "pt": {"question": "Ao transportar duas crianças pequenas, basta colocar uma delas na cadeirinha infantil e deixar a outra apenas com o cinto de segurança.", "explanation": "Uma cadeirinha só não basta. Cada criança pequena transportada deve usar uma cadeirinha infantil (Kyosoku, Capítulo 5, Seção 1, item 4(1), Lei de Trânsito, Artigo 71-3, parágrafo 3)."}
+  },
+  "trap_type": "EI", "difficulty": 2, "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-1-704",
+  "category": "チャイルドシート",
+  "kp": "5-1-4",
+  "group": "G",
+  "source": "教則 第5章第1節4(1)",
+  "question_type": "text",
+  "qf": "QF-4-4-D-EI-02",
+  "question_ja": "チャイルドシートがないときでも、幼児を後部座席に座らせてシートベルトをさせておけば、チャイルドシートを使用させたことになる。",
+  "answer": false,
+  "explanation_ja": "後部座席に座らせても代わりにはなりません。幼児には発育の程度に応じたチャイルドシートを使用させなければならず、例外は病気などやむを得ない理由がある場合だけです（教則第5章第1節4(1)）。",
+  "i18n": {
+   "zh": {"question": "即使没有儿童安全座椅，只要让幼儿坐在后排座位并系上安全带，就等于使用了儿童安全座椅。", "explanation": "让其坐在后排座位不能代替。必须让幼儿使用与发育程度相适应的儿童安全座椅，例外只有因疾病等不得已的理由的情况（教则第5章第1节4(1)）。"},
+   "en": {"question": "Even without a child seat, putting the infant on the rear seat with a seat belt on counts as using a child seat.", "explanation": "The rear seat is not a substitute. An infant must be put in a child seat suited to its stage of development, and the only exception is an unavoidable reason such as illness (Kyosoku Chapter 5 Section 1 item 4(1))."},
+   "vi": {"question": "Ngay cả khi không có ghế trẻ em, chỉ cần cho trẻ nhỏ ngồi ở ghế sau và thắt dây an toàn thì coi như đã dùng ghế trẻ em.", "explanation": "Ghế sau không thay thế được. Trẻ nhỏ phải được dùng ghế trẻ em phù hợp với mức độ phát triển, và ngoại lệ duy nhất là lý do bất khả kháng như bệnh tật (Kyosoku Chương 5 Mục 1 điểm 4(1))."},
+   "pt": {"question": "Mesmo sem cadeirinha infantil, colocar a criança pequena no banco traseiro com o cinto de segurança já equivale a usar a cadeirinha.", "explanation": "O banco traseiro não substitui a cadeirinha. A criança pequena deve usar uma cadeirinha infantil adequada ao seu grau de desenvolvimento, e a única exceção é um motivo inevitável, como doença (Kyosoku, Capítulo 5, Seção 1, item 4(1))."}
+  },
+  "trap_type": "EI", "difficulty": 2, "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-1-705",
+  "category": "チャイルドシート",
+  "kp": "5-1-4",
+  "group": "G",
+  "source": "教則 第5章第1節4(2)",
+  "question_type": "text",
+  "qf": "QF-4-4-D-SW-01",
+  "question_ja": "助手席にチャイルドシートを取り付けるときは、座席をできるだけ前に出してから固定するとよい。",
+  "answer": false,
+  "explanation_ja": "座席を前に出すという決まりはありません。チャイルドシートは子供の体格に合い座席に確実に固定できるものを選び、取扱説明書などに従って確実に固定して正しく使用させます（教則第5章第1節4(2)）。",
+  "i18n": {
+   "zh": {"question": "在副驾驶座安装儿童安全座椅时，应先把座位尽量向前移动再固定。", "explanation": "并没有把座位向前移动这样的规定。儿童安全座椅要选择与孩子体格相合、能确实固定在座位上的产品，并按照使用说明书等确实固定、正确使用（教则第5章第1节4(2)）。"},
+   "en": {"question": "When fitting a child seat on the front passenger seat, you should first slide the seat as far forward as it goes and then secure it.", "explanation": "There is no rule about sliding the seat forward. Choose a child seat that fits the child's build and can be firmly fixed to the seat, then fix it securely and use it correctly according to the instruction manual (Kyosoku Chapter 5 Section 1 item 4(2))."},
+   "vi": {"question": "Khi lắp ghế trẻ em ở ghế phụ phía trước, nên đẩy ghế lên trước hết mức rồi mới cố định.", "explanation": "Không có quy định nào về việc đẩy ghế lên trước. Hãy chọn ghế trẻ em vừa với vóc dáng của trẻ và có thể cố định chắc chắn vào ghế, rồi cố định và sử dụng đúng cách theo hướng dẫn sử dụng (Kyosoku Chương 5 Mục 1 điểm 4(2))."},
+   "pt": {"question": "Ao instalar a cadeirinha infantil no banco do passageiro dianteiro, convém deslizar o banco o máximo para a frente e só então fixá-la.", "explanation": "Não existe regra que mande deslizar o banco para a frente. Escolha uma cadeirinha que sirva ao porte da criança e possa ser bem fixada ao banco, e depois fixe-a com firmeza e use-a corretamente conforme o manual de instruções (Kyosoku, Capítulo 5, Seção 1, item 4(2))."}
+  },
+  "trap_type": "SW", "difficulty": 3, "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-1-706",
+  "category": "チャイルドシート",
+  "kp": "5-1-4",
+  "group": "G",
+  "source": "教則 第5章第1節4(2)",
+  "question_type": "text",
+  "qf": "QF-5-1-A-N-09",
+  "question_ja": "助手席にエアバッグを備えた自動車では、チャイルドシートは後部座席に取り付けるのがよい。",
+  "answer": true,
+  "explanation_ja": "エアバッグが作動したときに子供が強い衝撃を受けるおそれがあるためです。チャイルドシートは、取扱説明書などに従って座席に確実に固定し、正しく使用させましょう（教則第5章第1節4(2)）。",
+  "i18n": {
+   "zh": {"question": "在副驾驶座配备安全气囊的汽车上，儿童安全座椅宜安装在后排座位。", "explanation": "这是因为安全气囊展开时孩子有可能受到强烈冲击。儿童安全座椅应按照使用说明书等确实固定在座位上，并正确使用（教则第5章第1节4(2)）。"},
+   "en": {"question": "In a car with an airbag in the front passenger seat, the child seat is best fitted on a rear seat.", "explanation": "The reason is that the child could take a heavy blow if the airbag goes off. Fix the child seat firmly to the seat according to the instruction manual and use it correctly (Kyosoku Chapter 5 Section 1 item 4(2))."},
+   "vi": {"question": "Trên xe có túi khí ở ghế phụ phía trước, ghế trẻ em nên được lắp ở ghế sau.", "explanation": "Lý do là khi túi khí bung ra, trẻ có thể chịu một cú va đập mạnh. Hãy cố định ghế trẻ em chắc chắn vào ghế theo hướng dẫn sử dụng và dùng đúng cách (Kyosoku Chương 5 Mục 1 điểm 4(2))."},
+   "pt": {"question": "Em um carro com airbag no banco do passageiro dianteiro, a cadeirinha infantil deve preferencialmente ser instalada no banco traseiro.", "explanation": "O motivo é que a criança pode sofrer um impacto forte se o airbag disparar. Fixe a cadeirinha com firmeza ao banco conforme o manual de instruções e use-a corretamente (Kyosoku, Capítulo 5, Seção 1, item 4(2))."}
+  },
+  "trap_type": "N", "difficulty": 2, "verify": true, "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-1-707",
+  "category": "チャイルドシート",
+  "kp": "5-1-4",
+  "group": "G",
+  "source": "教則 第5章第1節4(1)",
+  "question_type": "text",
+  "qf": "QF-5-1-A-N-10",
+  "question_ja": "病気などやむを得ない理由があるときは、幼児にチャイルドシートを使用させないで自動車を運転することができる。",
+  "answer": true,
+  "explanation_ja": "教則第5章第1節4(1)のとおりです。幼児にチャイルドシートを使用させる義務には、病気などやむを得ない理由がある場合の例外があります。",
+  "i18n": {
+   "zh": {"question": "因疾病等不得已的理由时，可以不让幼儿使用儿童安全座椅而驾驶汽车。", "explanation": "符合教则第5章第1节4(1)的规定。让幼儿使用儿童安全座椅的义务，存在因疾病等不得已的理由时的例外。"},
+   "en": {"question": "When there is an unavoidable reason such as illness, you may drive with an infant who is not in a child seat.", "explanation": "This is Kyosoku Chapter 5 Section 1 item 4(1). The duty to put an infant in a child seat has an exception for an unavoidable reason such as illness."},
+   "vi": {"question": "Khi có lý do bất khả kháng như bệnh tật, bạn có thể lái xe chở trẻ nhỏ mà không cho trẻ dùng ghế trẻ em.", "explanation": "Đúng theo Kyosoku Chương 5 Mục 1 điểm 4(1). Nghĩa vụ cho trẻ nhỏ dùng ghế trẻ em có ngoại lệ khi có lý do bất khả kháng như bệnh tật."},
+   "pt": {"question": "Quando há um motivo inevitável, como doença, é permitido dirigir com uma criança pequena que não está na cadeirinha infantil.", "explanation": "É o Kyosoku, Capítulo 5, Seção 1, item 4(1). O dever de colocar a criança pequena na cadeirinha tem exceção quando há um motivo inevitável, como doença."}
+  },
+  "trap_type": "N", "difficulty": 2, "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-1-708",
+  "category": "チャイルドシート",
+  "kp": "5-1-4",
+  "group": "G",
+  "source": "教則 第5章第1節4(2)",
+  "question_type": "text",
+  "qf": "QF-5-1-A-N-14",
+  "question_ja": "チャイルドシートは、選び方や使用の方法を誤ると効果がなくなるので、子供の体格に合い座席に確実に固定できるものを選んで正しく使用させる。",
+  "answer": true,
+  "explanation_ja": "教則第5章第1節4(2)のとおりです。取扱説明書などに従って座席に確実に固定することが大切です。",
+  "i18n": {
+   "zh": {"question": "儿童安全座椅如果选择方式或使用方法有误就会失去效果，因此要选择与孩子体格相合、能确实固定在座位上的产品并正确使用。", "explanation": "符合教则第5章第1节4(2)的规定。按照使用说明书等确实固定在座位上很重要。"},
+   "en": {"question": "A child seat loses its effect if it is chosen or used wrongly, so choose one that fits the child's build and can be firmly fixed to the seat, and use it correctly.", "explanation": "This is Kyosoku Chapter 5 Section 1 item 4(2). Fixing it firmly to the seat according to the instruction manual is what matters."},
+   "vi": {"question": "Ghế trẻ em sẽ mất tác dụng nếu chọn sai hoặc dùng sai cách, vì vậy hãy chọn loại vừa với vóc dáng của trẻ, có thể cố định chắc chắn vào ghế, và sử dụng đúng cách.", "explanation": "Đúng theo Kyosoku Chương 5 Mục 1 điểm 4(2). Điều quan trọng là cố định chắc chắn vào ghế theo hướng dẫn sử dụng."},
+   "pt": {"question": "A cadeirinha infantil perde o efeito se for escolhida ou usada de forma errada, por isso escolha uma que sirva ao porte da criança e possa ser bem fixada ao banco, e use-a corretamente.", "explanation": "É o Kyosoku, Capítulo 5, Seção 1, item 4(2). O que importa é fixá-la com firmeza ao banco conforme o manual de instruções."}
+  },
+  "trap_type": "N", "difficulty": 2, "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-1-709",
+  "category": "安全な発進",
+  "kp": "5-1-1",
+  "group": "G",
+  "source": "教則 第5章第1節1(1)",
+  "question_type": "text",
+  "qf": "QF-5-1-A-N-02",
+  "question_ja": "車に乗り込んだあと、ドアはいきなり勢いよく閉めるのではなく、閉まりきる少し手前でいったん止めてから力を入れて閉めるとよい。",
+  "answer": true,
+  "explanation_ja": "教則第5章第1節1(1)のとおりです。乗り降りするときは、周囲の状況、特に後方から来る車の有無も確かめましょう。",
+  "i18n": {
+   "zh": {"question": "上车后关车门时，不要一下子猛地关上，最好在快要关严的稍前处先停一下，然后再用力关上。", "explanation": "符合教则第5章第1节1(1)的规定。上下车时，还要确认周围的状况，特别是后方是否有来车。"},
+   "en": {"question": "After getting into the car, rather than slamming the door shut in one go, it is better to stop it once just before it closes and then push it firmly shut.", "explanation": "This is Kyosoku Chapter 5 Section 1 item 1(1). When getting in or out, also check the situation around you, especially whether a vehicle is coming from behind."},
+   "vi": {"question": "Sau khi lên xe, thay vì đóng sầm cửa một mạch, tốt hơn là dừng lại một nhịp ngay trước khi cửa đóng hẳn rồi mới đóng mạnh.", "explanation": "Đúng theo Kyosoku Chương 5 Mục 1 điểm 1(1). Khi lên hoặc xuống xe, cũng hãy kiểm tra tình hình xung quanh, nhất là có xe đến từ phía sau hay không."},
+   "pt": {"question": "Depois de entrar no carro, em vez de bater a porta de uma vez, é melhor pará-la um instante pouco antes de fechar e então fechá-la com firmeza.", "explanation": "É o Kyosoku, Capítulo 5, Seção 1, item 1(1). Ao entrar ou sair, verifique também a situação ao redor, sobretudo se vem algum veículo por trás."}
+  },
+  "trap_type": "N", "difficulty": 2, "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-1-710",
+  "category": "安全な発進",
+  "kp": "5-1-1",
+  "group": "G",
+  "source": "教則 第5章第1節1(1)",
+  "question_type": "text",
+  "qf": "QF-5-1-A-N-07",
+  "question_ja": "車を止めて乗り降りするとき、交通量の多い道路では、右側のドアではなく左側のドアを使うようにするとよい。",
+  "answer": true,
+  "explanation_ja": "教則第5章第1節1(1)のとおりです。乗り降りするときは、周囲の状況、特に後方から来る車の有無を確かめましょう。",
+  "i18n": {
+   "zh": {"question": "停车上下车时，在交通量大的道路上，最好不用右侧车门而用左侧车门。", "explanation": "符合教则第5章第1节1(1)的规定。上下车时，要确认周围的状况，特别是后方是否有来车。"},
+   "en": {"question": "When you stop the car to get in or out, on a road with a lot of traffic it is better to use the left-hand door rather than the right-hand one.", "explanation": "This is Kyosoku Chapter 5 Section 1 item 1(1). When getting in or out, check the situation around you, especially whether a vehicle is coming from behind."},
+   "vi": {"question": "Khi dừng xe để lên xuống, trên đường có nhiều xe cộ thì nên dùng cửa bên trái thay vì cửa bên phải.", "explanation": "Đúng theo Kyosoku Chương 5 Mục 1 điểm 1(1). Khi lên hoặc xuống xe, hãy kiểm tra tình hình xung quanh, nhất là có xe đến từ phía sau hay không."},
+   "pt": {"question": "Ao parar o carro para entrar ou sair, em uma via com trânsito intenso convém usar a porta do lado esquerdo em vez da do lado direito.", "explanation": "É o Kyosoku, Capítulo 5, Seção 1, item 1(1). Ao entrar ou sair, verifique a situação ao redor, sobretudo se vem algum veículo por trás."}
+  },
+  "trap_type": "N", "difficulty": 1, "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-1-711",
+  "category": "安全な発進",
+  "kp": "5-1-1",
+  "group": "G",
+  "source": "教則 第5章第1節1(1)、1(2)",
+  "question_type": "text",
+  "qf": "QF-5-1-A-N-08",
+  "question_ja": "車から降りるためにドアを開けるときは、まず少し開けて一度止め、安全を確かめてから降りる。",
+  "answer": true,
+  "explanation_ja": "教則第5章第1節1(1)のとおりです。ドアを開けるときや車から降りるときは、運転者が後方の安全を確認しなければなりません。",
+  "i18n": {
+   "zh": {"question": "为下车而开门时，先稍微打开停一下，确认安全后再下车。", "explanation": "符合教则第5章第1节1(1)的规定。开门时和下车时，驾驶员必须确认后方的安全。"},
+   "en": {"question": "When you open the door to get out of the car, open it a little first, stop, check that it is safe and then get out.", "explanation": "This is Kyosoku Chapter 5 Section 1 item 1(1). When opening the door or getting out, the driver must check that it is safe behind."},
+   "vi": {"question": "Khi mở cửa để xuống xe, hãy mở hé ra một chút, dừng lại, xác nhận an toàn rồi mới xuống.", "explanation": "Đúng theo Kyosoku Chương 5 Mục 1 điểm 1(1). Khi mở cửa hoặc khi xuống xe, người lái xe phải xác nhận an toàn phía sau."},
+   "pt": {"question": "Ao abrir a porta para sair do carro, abra-a um pouco primeiro, pare, verifique se é seguro e só então desça.", "explanation": "É o Kyosoku, Capítulo 5, Seção 1, item 1(1). Ao abrir a porta ou ao sair do carro, o condutor deve verificar a segurança atrás."}
+  },
+  "trap_type": "N", "difficulty": 2, "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-1-712",
+  "category": "シートベルト",
+  "kp": "5-1-3",
+  "group": "G",
+  "source": "教則 第5章第1節3(2)イ",
+  "question_type": "text",
+  "qf": "QF-5-1-D-SW-01",
+  "question_ja": "シートベルトの腰ベルトは、腹部を巻くようにしっかり締める。",
+  "answer": false,
+  "explanation_ja": "腹部ではありません。腰ベルトは骨盤を巻くようにしっかり締めます（教則第5章第1節3(2)イ）。",
+  "i18n": {
+   "zh": {"question": "安全带的腰部皮带，要像缠绕腹部那样系紧。", "explanation": "不是腹部。腰部皮带要像缠绕髋部那样系紧（教则第5章第1节3(2)イ）。"},
+   "en": {"question": "The lap belt of the seat belt is fastened firmly so that it goes around the abdomen.", "explanation": "Not the abdomen. The lap belt is fastened firmly so that it goes around the pelvis (Kyosoku Chapter 5 Section 1 item 3(2)(i))."},
+   "vi": {"question": "Dây đai hông của dây an toàn được thắt chặt sao cho vòng qua bụng.", "explanation": "Không phải bụng. Dây đai hông phải được thắt chặt sao cho vòng qua xương chậu (Kyosoku Chương 5 Mục 1 điểm 3(2)(i))."},
+   "pt": {"question": "O cinto abdominal do cinto de segurança é apertado de modo a passar pela barriga.", "explanation": "Não é a barriga. O cinto abdominal deve ser apertado de modo a passar pela pelve (Kyosoku, Capítulo 5, Seção 1, item 3(2)(i))."}
+  },
+  "trap_type": "SW", "difficulty": 2, "exam_scope": "仮免|本免|外免"
+ }
+]

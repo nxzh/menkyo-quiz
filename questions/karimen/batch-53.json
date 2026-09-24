@@ -1,0 +1,635 @@
+[
+ {
+  "id": "K5-1-525",
+  "category": "安全な発進",
+  "kp": "5-1-5",
+  "group": "O",
+  "source": "教則 第5章第1節5(1)(2)",
+  "question_type": "text",
+  "qf": "QF-5-1-A-N-03",
+  "question_ja": "運転者が普通自動車を発進させるときは、乗り込む前に車の前後や車の下に人がいないかを見ておき、発進の合図を出したうえで、バックミラーなどでもう一度前後左右の安全を確かめてから動き出すのがよい。",
+  "answer": true,
+  "explanation_ja": "教則第5章第1節5(1)(2)のとおりです。合図のあとにもう一度安全を確かめるのは、合図をしている間に周りの状況が変わることがあるからです。",
+  "i18n": {
+   "zh": {
+    "question": "驾驶员起步普通汽车时，应先在上车前查看车辆前后和车下有没有人，打信号（转向灯或手势）表示要起步，然后用后视镜等再确认一次前后左右的安全，之后才动车。",
+    "explanation": "符合教则第5章第1节5(1)(2)的规定。在打信号之后再确认一次安全，是因为打信号期间周围的状况可能发生变化。"
+   },
+   "en": {
+    "question": "When a driver moves an ordinary motor vehicle off, the right order is to check before getting in that nobody is in front of, behind or under the vehicle, give the signal (by indicator or hand) for moving off, and then look once more in the rear-view mirror to be sure it is safe on all sides before the car starts to move.",
+    "explanation": "This is Kyosoku Chapter 5 Section 1 items 5(1) and 5(2). The second check after the signal is there because the situation around you can change while you are signalling."
+   },
+   "vi": {
+    "question": "Khi người lái xe cho xe ô tô thường bắt đầu chạy, thứ tự đúng là trước khi lên xe kiểm tra xem có ai ở phía trước, phía sau hay bên dưới xe không, báo hiệu (bằng xi nhan hoặc tay) rằng mình sắp khởi hành, rồi nhìn lại gương chiếu hậu một lần nữa để chắc chắn an toàn bốn phía trước khi xe lăn bánh.",
+    "explanation": "Đúng theo Kyosoku Chương 5 Mục 1 điểm 5(1) và 5(2). Lần kiểm tra thứ hai sau khi báo hiệu là vì tình hình xung quanh có thể thay đổi trong lúc đang báo hiệu."
+   },
+   "pt": {
+    "question": "Quando o condutor vai iniciar a marcha de um veículo comum, a ordem correta é verificar, antes de entrar, que não há ninguém à frente, atrás ou embaixo do veículo, sinalizar (com seta ou mão) a saída e, só depois de olhar mais uma vez pelo retrovisor para ter certeza de que está seguro por todos os lados, pôr o carro em movimento.",
+    "explanation": "É o Kyosoku, Capítulo 5, Seção 1, itens 5(1) e 5(2). A segunda verificação depois do sinal existe porque a situação ao redor pode mudar enquanto se sinaliza."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-5-526",
+  "category": "進路変更など",
+  "kp": "5-5-3",
+  "group": "O",
+  "source": "教則 第5章第5節3(1)",
+  "question_type": "text",
+  "qf": "QF-5-5-A-N-04",
+  "question_ja": "標識や標示による禁止がないところでも、歩行者の通行やほかの車などの正常な通行を妨げるおそれがあるときは、車は横断や転回をしてはいけない。",
+  "answer": true,
+  "explanation_ja": "教則第5章第5節3(1)のとおりです。後退したり、道路に面した場所に出入りするために右左折や横断をしたりする場合も同じです。",
+  "i18n": {
+   "zh": {
+    "question": "即使在没有标识（立牌）或标示（路面）禁止的地方，只要有妨碍步行者通行或其他车辆正常通行之虞，车辆也不得横穿或掉头。",
+    "explanation": "符合教则第5章第5节3(1)的规定。后退，以及为出入面向道路的场所而右拐弯、左拐弯或横穿时也一样。"
+   },
+   "en": {
+    "question": "Even where no road sign or road marking forbids it, a vehicle may not cross the road or make a U-turn when doing so might obstruct pedestrians or the normal passage of other vehicles.",
+    "explanation": "This is Kyosoku Chapter 5 Section 5 item 3(1). The same goes for reversing and for turning or crossing in order to enter or leave a roadside facility."
+   },
+   "vi": {
+    "question": "Ngay cả ở nơi không có biển báo giao thông hay vạch kẻ đường (kí hiệu trên mặt đường) cấm, xe cũng không được băng ngang (đường) hay quay đầu khi việc đó có thể cản trở người đi bộ hoặc việc lưu thông bình thường của xe khác.",
+    "explanation": "Đúng theo Kyosoku Chương 5 Mục 5 điểm 3(1). Việc lùi xe, hoặc rẽ và băng ngang để ra vào nơi ven đường, cũng như vậy."
+   },
+   "pt": {
+    "question": "Mesmo onde nenhuma sinalização vertical (placa) ou horizontal proíbe, o veículo não pode fazer a travessia (da via) nem o retorno quando isso puder obstruir pedestres ou a circulação normal de outros veículos.",
+    "explanation": "É o Kyosoku, Capítulo 5, Seção 5, item 3(1). O mesmo vale para a marcha à ré e para converter ou atravessar a fim de entrar ou sair de um estabelecimento à beira da via."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-1-527",
+  "category": "安全な発進",
+  "kp": "5-1-5",
+  "group": "O",
+  "source": "教則 第5章第1節5(3)",
+  "question_type": "text",
+  "qf": "QF-5-5-A-N-07",
+  "question_ja": "やむを得ずバックで発進する場合で、後方の見通しがよくないときや狭い道路から広い道路に出るときは、同乗者などに後方の確認を手伝ってもらうとよい。",
+  "answer": true,
+  "explanation_ja": "教則第5章第1節5(3)のとおりです。バックでの発進は危険ですから、車庫などに入れるときは、あらかじめ前向きで出られるように入れておきましょう。",
+  "i18n": {
+   "zh": {
+    "question": "在不得已要倒车起步的情况下，当后方视野不好或要从狭窄道路驶入宽阔道路时，最好请搭乘者等帮忙确认后方。",
+    "explanation": "符合教则第5章第1节5(3)的规定。倒车起步很危险，所以停进车库等处时，应预先停成便于向前驶出的状态。"
+   },
+   "en": {
+    "question": "When you have no choice but to move off in reverse, and the view behind is poor or you are coming out of a narrow road onto a wide one, it is a good idea to have a passenger help you check behind.",
+    "explanation": "This is Kyosoku Chapter 5 Section 1 item 5(3). Moving off in reverse is dangerous, so when you put the car into a garage, back it in beforehand so that you can drive out forwards."
+   },
+   "vi": {
+    "question": "Khi buộc phải khởi hành bằng cách lùi, mà tầm nhìn phía sau không tốt hoặc bạn đi từ đường hẹp ra đường rộng, nên nhờ người ngồi cùng xe giúp quan sát phía sau.",
+    "explanation": "Đúng theo Kyosoku Chương 5 Mục 1 điểm 5(3). Khởi hành bằng cách lùi rất nguy hiểm, nên khi cho xe vào nhà xe, hãy lùi vào từ trước để sau này đi ra theo hướng tiến."
+   },
+   "pt": {
+    "question": "Quando não há alternativa senão sair de ré, e a visão para trás é ruim ou você sai de uma via estreita para uma larga, convém pedir a um passageiro que ajude a verificar atrás.",
+    "explanation": "É o Kyosoku, Capítulo 5, Seção 1, item 5(3). Sair de ré é perigoso, por isso, ao guardar o carro na garagem, entre de ré antes para poder sair de frente."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-5-528",
+  "category": "進路変更など",
+  "kp": "5-5-1",
+  "group": "O",
+  "source": "教則 第5章第5節1(1)",
+  "question_type": "text",
+  "qf": "QF-5-5-A-N-08",
+  "question_ja": "進路変更や転回をしようとするときは、あらかじめバックミラーなどで安全を確かめてから合図をしなければならない。",
+  "answer": true,
+  "explanation_ja": "教則第5章第5節1(1)のとおりです。後退をしようとするときも同じで、安全の確認が先、合図があとです。",
+  "i18n": {
+   "zh": {
+    "question": "想要变更路线或掉头时，必须预先用后视镜等确认安全之后再打信号（转向灯或手势）。",
+    "explanation": "符合教则第5章第5节1(1)的规定。想要后退时也一样，先确认安全，后打信号。"
+   },
+   "en": {
+    "question": "Before changing lanes or making a U-turn, you must first check that it is safe in the rear-view mirror and the like, and only then signal (by indicator or hand).",
+    "explanation": "This is Kyosoku Chapter 5 Section 5 item 1(1). The same applies to reversing: the safety check comes first and the signal second."
+   },
+   "vi": {
+    "question": "Khi định chuyển làn hoặc quay đầu, phải dùng gương chiếu hậu và các cách khác xác nhận an toàn trước rồi mới báo hiệu (bằng xi nhan hoặc tay).",
+    "explanation": "Đúng theo Kyosoku Chương 5 Mục 5 điểm 1(1). Khi định lùi xe cũng vậy: xác nhận an toàn trước, báo hiệu sau."
+   },
+   "pt": {
+    "question": "Antes de mudar de faixa ou fazer retorno, é preciso primeiro verificar a segurança pelo retrovisor e meios semelhantes e só então sinalizar (com seta ou mão).",
+    "explanation": "É o Kyosoku, Capítulo 5, Seção 5, item 1(1). O mesmo vale para a marcha à ré: primeiro a verificação de segurança, depois o sinal."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 1,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-7-529",
+  "category": "進路変更など",
+  "kp": "5-7-2",
+  "group": "O",
+  "source": "教則 第5章第7節2(8)",
+  "question_type": "text",
+  "qf": "QF-5-5-A-N-10",
+  "question_ja": "前の車が右折するために進路を変えようとして合図をしたときは、急ブレーキや急ハンドルで避けなければならないような場合を除き、その車の進路の変更を妨げてはいけない。",
+  "answer": true,
+  "explanation_ja": "教則第5章第7節2(8)のとおりです。標識や標示で指定された車両通行帯に移るために合図をした車についても同じです。",
+  "i18n": {
+   "zh": {
+    "question": "前车为了右拐弯而想要变更路线并打了信号（转向灯或手势）时，除非是必须急刹车或急打方向才能避开的情况，否则不得妨碍该车变更路线。",
+    "explanation": "符合教则第5章第7节2(8)的规定。对于为驶入由标识（立牌）或标示（路面）指定的车辆通行带而打信号的车辆也一样。"
+   },
+   "en": {
+    "question": "When the vehicle in front signals (by indicator or hand) that it is changing course in order to turn right, you must not obstruct its change of course, unless you would have to brake hard or swerve to avoid it.",
+    "explanation": "This is Kyosoku Chapter 5 Section 7 item 2(8). The same applies to a vehicle signalling in order to move into the vehicle lane designated by a road sign or road marking."
+   },
+   "vi": {
+    "question": "Khi xe phía trước báo hiệu (bằng xi nhan hoặc tay) rằng sẽ chuyển hướng để rẽ phải, bạn không được cản trở việc chuyển hướng đó, trừ trường hợp bạn phải phanh gấp hoặc đánh lái gấp mới tránh được.",
+    "explanation": "Đúng theo Kyosoku Chương 5 Mục 7 điểm 2(8). Điều này cũng áp dụng cho xe báo hiệu để chuyển vào làn đường được chỉ định bằng biển báo giao thông hoặc vạch kẻ đường (kí hiệu trên mặt đường)."
+   },
+   "pt": {
+    "question": "Quando o veículo da frente sinaliza (com seta ou mão) que vai mudar de direção para fazer a conversão à direita, não se deve obstruir essa mudança, salvo se você tivesse de frear bruscamente ou dar uma guinada para evitá-lo.",
+    "explanation": "É o Kyosoku, Capítulo 5, Seção 7, item 2(8). O mesmo vale para o veículo que sinaliza a fim de entrar na faixa de rolamento indicada por sinalização vertical (placa) ou horizontal."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-5-530",
+  "category": "進路変更など",
+  "kp": "5-5-2",
+  "group": "O",
+  "source": "教則 第5章第5節2(1)",
+  "question_type": "text",
+  "qf": "QF-5-5-A-N-11",
+  "question_ja": "進路を変えるときは、変えようとする方向と後方の安全をバックミラーや目視で確かめ、後ろから来る車が急ブレーキや急ハンドルで避けなければならないようなときは、進路を変えてはいけない。",
+  "answer": true,
+  "explanation_ja": "教則第5章第5節2(1)のとおりです。みだりに進路を変更してはいけません。",
+  "i18n": {
+   "zh": {
+    "question": "变更路线时，要用后视镜和目视确认想要变更的方向和后方的安全；当后方驶来的车辆必须急刹车或急打方向才能避开时，不得变更路线。",
+    "explanation": "符合教则第5章第5节2(1)的规定。不得随意变更路线。"
+   },
+   "en": {
+    "question": "When changing course you must check the direction you are moving into and the road behind, in the rear-view mirror and with your own eyes, and you must not change course when a vehicle coming up behind would have to brake hard or swerve to avoid you.",
+    "explanation": "This is Kyosoku Chapter 5 Section 5 item 2(1). You must not change course without good reason."
+   },
+   "vi": {
+    "question": "Khi chuyển hướng, phải dùng gương chiếu hậu và mắt nhìn trực tiếp để xác nhận an toàn ở hướng định chuyển và ở phía sau, và không được chuyển hướng khi xe đi tới từ phía sau phải phanh gấp hoặc đánh lái gấp mới tránh được.",
+    "explanation": "Đúng theo Kyosoku Chương 5 Mục 5 điểm 2(1). Không được tùy tiện chuyển hướng."
+   },
+   "pt": {
+    "question": "Ao mudar de direção é preciso verificar, pelo retrovisor e com os próprios olhos, o lado para onde vai e a via atrás, e não se deve mudar quando o veículo que vem atrás tiver de frear bruscamente ou dar uma guinada para desviar.",
+    "explanation": "É o Kyosoku, Capítulo 5, Seção 5, item 2(1). Não se deve mudar de direção sem necessidade."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-5-531",
+  "category": "進路変更など",
+  "kp": "5-5-3",
+  "group": "O",
+  "source": "教則 第5章第5節3(4)",
+  "question_type": "text",
+  "qf": "QF-5-5-A-N-14",
+  "question_ja": "前の車が道路外に出るため道路の左端や中央や右端に寄ろうとして合図をしているときは、急ブレーキや急ハンドルで避けなければならないような場合を除き、その進路の変更を妨げてはいけない。",
+  "answer": true,
+  "explanation_ja": "教則第5章第5節3(4)のとおりです。道路外に出るために左折する車は左端に、右折する車は中央（一方通行の道路では右端）にあらかじめ寄って徐行します。",
+  "i18n": {
+   "zh": {
+    "question": "前车为驶出道路外而想要靠向道路左端、中央或右端并打了信号（转向灯或手势）时，除非是必须急刹车或急打方向才能避开的情况，否则不得妨碍其变更路线。",
+    "explanation": "符合教则第5章第5节3(4)的规定。为驶出道路外而左拐弯的车辆要预先靠向左端、右拐弯的车辆要预先靠向中央（单行道上为右端），并缓行（徐行）。"
+   },
+   "en": {
+    "question": "When the vehicle in front is signalling (by indicator or hand) that it is moving over to the left edge, the centre or the right edge of the road in order to leave the road, you must not obstruct its change of course, unless you would have to brake hard or swerve to avoid it.",
+    "explanation": "This is Kyosoku Chapter 5 Section 5 item 3(4). A vehicle turning left to leave the road moves over to the left edge in advance and one turning right moves to the centre, or to the right edge on a one-way road, and both proceed slowly (徐行)."
+   },
+   "vi": {
+    "question": "Khi xe phía trước đang báo hiệu (bằng xi nhan hoặc tay) rằng sẽ áp vào mép trái, vào giữa hoặc vào mép phải của đường để ra khỏi đường, bạn không được cản trở việc chuyển hướng đó, trừ trường hợp phải phanh gấp hoặc đánh lái gấp mới tránh được.",
+    "explanation": "Đúng theo Kyosoku Chương 5 Mục 5 điểm 3(4). Xe rẽ trái để ra khỏi đường thì áp vào mép trái từ trước, xe rẽ phải thì áp vào giữa đường, hoặc mép phải trên đường một chiều, và cả hai đều lưu thông chậm (徐行)."
+   },
+   "pt": {
+    "question": "Quando o veículo da frente está sinalizando (com seta ou mão) que se aproxima da extremidade esquerda, do centro ou da extremidade direita da via para sair dela, não se deve obstruir essa mudança de direção, salvo se você tivesse de frear bruscamente ou dar uma guinada para evitá-lo.",
+    "explanation": "É o Kyosoku, Capítulo 5, Seção 5, item 3(4). O veículo que converte à esquerda para sair da via encosta antes na extremidade esquerda e o que converte à direita vai ao centro, ou à extremidade direita na via de mão única, ambos prosseguindo lentamente (徐行)."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 3,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-5-532",
+  "category": "進路変更など",
+  "kp": "5-5-2",
+  "group": "O",
+  "source": "教則 第5章第5節2(2) / 道交法第26条の2第3項",
+  "question_type": "text",
+  "qf": "QF-5-5-D-EI-01",
+  "question_ja": "車両通行帯が黄の線で区画されているところでも、右折や左折をするためであれば、その黄の線を越えて進路を変更することができる。",
+  "answer": false,
+  "explanation_ja": "右左折はその例外に含まれていません。黄の線を越えて進路を変更できるのは、緊急自動車に進路を譲るときや、道路の損壊・道路工事などの障害でその通行帯を通行できないときです（教則第5章第5節2(2)、道交法第26条の2第3項）。",
+  "i18n": {
+   "zh": {
+    "question": "即使在车辆通行带由黄线划分的地方，只要是为了右拐弯或左拐弯，就可以越过该黄线变更路线。",
+    "explanation": "右拐弯、左拐弯不属于这些例外。可以越过黄线变更路线的，是为紧急车辆让出道路时，以及因道路损坏、道路施工等障碍而无法在该通行带通行时（教则第5章第5节2(2)、道交法第26条之2第3项）。"
+   },
+   "en": {
+    "question": "Even where vehicle lanes are divided by a yellow line, you may cross that line to change lanes if you are doing so in order to turn right or left.",
+    "explanation": "Turning is not one of the exceptions. You may cross the yellow line to change lanes when you are giving way to an emergency vehicle, or when damage to the road, road works or another obstruction stops you using that lane (Kyosoku Chapter 5 Section 5 item 2(2); Road Traffic Act Article 26-2 paragraph 3)."
+   },
+   "vi": {
+    "question": "Ngay cả ở nơi các làn đường được phân chia bằng vạch vàng, nếu là để rẽ phải hoặc rẽ trái thì vẫn được vượt qua vạch vàng đó để chuyển làn.",
+    "explanation": "Việc rẽ không nằm trong các ngoại lệ. Chỉ được vượt vạch vàng để chuyển làn khi nhường đường cho xe ưu tiên (xe khẩn cấp), hoặc khi đường hỏng, thi công đường hay chướng ngại khác khiến không thể đi trên làn đó (Kyosoku Chương 5 Mục 5 điểm 2(2); Luật Giao thông đường bộ Điều 26-2 khoản 3)."
+   },
+   "pt": {
+    "question": "Mesmo onde as faixas de rolamento são separadas por uma linha amarela, é permitido cruzá-la para mudar de faixa quando se vai fazer uma conversão à direita ou à esquerda.",
+    "explanation": "A conversão não é uma das exceções. Só se pode cruzar a linha amarela para mudar de faixa ao dar passagem a um veículo de emergência ou quando um dano na via, uma obra ou outro obstáculo impede o uso daquela faixa (Kyosoku, Capítulo 5, Seção 5, item 2(2); Lei de Trânsito, artigo 26-2, parágrafo 3)."
+   }
+  },
+  "trap_type": "EI",
+  "difficulty": 3,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-5-533",
+  "category": "進路変更など",
+  "kp": "5-5-3",
+  "group": "O",
+  "source": "教則 第5章第5節3(1)(2) / 付表3（1）14",
+  "question_type": "text",
+  "qf": "QF-5-5-D-EI-03",
+  "question_ja": "「転回禁止」の標識があるところでも、ほかの交通を妨げるおそれがないときは転回することができる。",
+  "answer": false,
+  "explanation_ja": "この標識があるところでは、ほかの交通の有無に関係なく転回できません。ほかの交通を妨げるおそれがあるときに禁止されるのは、標識や標示による禁止がない場所での横断や転回です（教則第5章第5節3(1)(2)）。",
+  "i18n": {
+   "zh": {
+    "question": "即使在设有「禁止掉头」标识（立牌）的地方，只要没有妨碍其他交通之虞，也可以掉头。",
+    "explanation": "在设有该标识的地方，与有无其他交通无关，都不能掉头。在有妨碍其他交通之虞时被禁止的，是在没有标识或标示（路面）禁止的场所的横穿和掉头（教则第5章第5节3(1)(2)）。"
+   },
+   "en": {
+    "question": "Even where there is a \"No U-turn\" road sign, you may make a U-turn when there is no risk of obstructing other traffic.",
+    "explanation": "Where that sign stands you may not make a U-turn, whatever the other traffic is doing. What the risk of obstructing other traffic forbids is crossing and turning where no sign or marking forbids it (Kyosoku Chapter 5 Section 5 items 3(1) and 3(2))."
+   },
+   "vi": {
+    "question": "Ngay cả ở nơi có biển báo giao thông «Cấm quay đầu», nếu không có nguy cơ cản trở giao thông khác thì vẫn được quay đầu.",
+    "explanation": "Ở nơi có biển đó, không được quay đầu bất kể giao thông khác thế nào. Điều bị cấm khi có nguy cơ cản trở giao thông khác là việc băng ngang (đường) và quay đầu ở nơi không có biển báo hay vạch kẻ đường (kí hiệu trên mặt đường) cấm (Kyosoku Chương 5 Mục 5 điểm 3(1) và 3(2))."
+   },
+   "pt": {
+    "question": "Mesmo onde há a placa \"Proibido retorno\", é permitido fazer o retorno quando não há risco de obstruir o restante do trânsito.",
+    "explanation": "Onde essa placa está, não se pode fazer retorno, seja qual for o trânsito. O que o risco de obstruir o trânsito proíbe é a travessia (da via) e o retorno em locais onde nenhuma sinalização vertical (placa) ou horizontal proíbe (Kyosoku, Capítulo 5, Seção 5, itens 3(1) e 3(2))."
+   }
+  },
+  "trap_type": "EI",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-5-534",
+  "category": "進路変更など",
+  "kp": "5-5-2",
+  "group": "O",
+  "source": "教則 第5章第5節2(2) / 道交法第26条の2第3項",
+  "question_type": "text",
+  "qf": "QF-5-5-D-EI-04",
+  "question_ja": "車両通行帯が黄の線で区画されていても、後ろから来る車がいないときは、その黄の線を越えて進路を変更してよい。",
+  "answer": false,
+  "explanation_ja": "後ろから来る車がいないことは、この禁止の例外ではありません。越えられるのは、緊急自動車に進路を譲るときと、道路の損壊・道路工事などの障害でその通行帯を通行できないときだけです（教則第5章第5節2(2)、道交法第26条の2第3項）。",
+  "i18n": {
+   "zh": {
+    "question": "即使车辆通行带由黄线划分，只要后方没有驶来的车辆，就可以越过该黄线变更路线。",
+    "explanation": "后方没有驶来的车辆并不是这项禁止的例外。可以越过的只有为紧急车辆让出道路时，以及因道路损坏、道路施工等障碍而无法在该通行带通行时（教则第5章第5节2(2)、道交法第26条之2第3项）。"
+   },
+   "en": {
+    "question": "Even where vehicle lanes are divided by a yellow line, you may cross it to change lanes when there is no vehicle coming up behind.",
+    "explanation": "The absence of a vehicle behind is not an exception to this prohibition. You may cross only when you are giving way to an emergency vehicle, or when damage to the road, road works or another obstruction stops you using that lane (Kyosoku Chapter 5 Section 5 item 2(2); Road Traffic Act Article 26-2 paragraph 3)."
+   },
+   "vi": {
+    "question": "Ngay cả khi các làn đường được phân chia bằng vạch vàng, nếu không có xe đi tới từ phía sau thì vẫn được vượt vạch vàng đó để chuyển làn.",
+    "explanation": "Việc không có xe phía sau không phải là ngoại lệ của lệnh cấm này. Chỉ được vượt khi nhường đường cho xe ưu tiên (xe khẩn cấp), hoặc khi đường hỏng, thi công đường hay chướng ngại khác khiến không thể đi trên làn đó (Kyosoku Chương 5 Mục 5 điểm 2(2); Luật Giao thông đường bộ Điều 26-2 khoản 3)."
+   },
+   "pt": {
+    "question": "Mesmo onde as faixas de rolamento são separadas por uma linha amarela, é permitido cruzá-la para mudar de faixa quando não há veículo vindo atrás.",
+    "explanation": "A ausência de veículo atrás não é exceção a essa proibição. Só se pode cruzar ao dar passagem a um veículo de emergência ou quando um dano na via, uma obra ou outro obstáculo impede o uso daquela faixa (Kyosoku, Capítulo 5, Seção 5, item 2(2); Lei de Trânsito, artigo 26-2, parágrafo 3)."
+   }
+  },
+  "trap_type": "EI",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "KM-501",
+  "category": "標示",
+  "kp": "5-5-2",
+  "group": "O",
+  "source": "教則 第5章第5節2(2) / 付表3（2）3",
+  "question_type": "marking",
+  "qf": "QF-5-5-D-EI-06",
+  "image": {
+   "sign_no": "102-2",
+   "file": "M102-2-A_黄実線.svg",
+   "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+   "file_verified": true
+  },
+  "question_ja": "この標示で区画された車両通行帯では、Aの通行帯を通る車はBへ進路を変えることができる。",
+  "answer": false,
+  "explanation_ja": "この標示は進路変更の禁止を表し、黄の実線どうしで区画されているときは、どちらの通行帯を通る車も進路を変えられません。AからBへも、BからAへも進路を変えることはできません（教則付表3（2）3、第5章第5節2(2)）。",
+  "i18n": {
+   "zh": {
+    "question": "在由这个标示（路面）划分的车辆通行带中，行驶在A通行带的车辆可以向B变更路线。",
+    "explanation": "这个标示表示禁止路线变更，由黄色实线相互划分时，无论行驶在哪条通行带的车辆都不能变更路线。从A到B、从B到A都不能变更路线（教则附表3（2）3、第5章第5节2(2)）。"
+   },
+   "en": {
+    "question": "In the vehicle lanes divided by this road marking, a vehicle in lane A may change into lane B.",
+    "explanation": "This marking forbids changing lanes, and where the lanes are divided by solid yellow lines on both sides a vehicle in either lane may not change lanes. Neither A to B nor B to A is allowed (Kyosoku Appendix 3(2) item 3 and Chapter 5 Section 5 item 2(2))."
+   },
+   "vi": {
+    "question": "Ở các làn đường được phân chia bởi vạch kẻ đường (kí hiệu trên mặt đường) này, xe đi ở làn A được chuyển sang làn B.",
+    "explanation": "Vạch này cấm chuyển làn, và khi hai làn được phân chia bằng vạch vàng liền ở cả hai phía thì xe ở làn nào cũng không được chuyển làn. Không được chuyển từ A sang B, cũng không được từ B sang A (Kyosoku Phụ lục 3(2) mục 3 và Chương 5 Mục 5 điểm 2(2))."
+   },
+   "pt": {
+    "question": "Nas faixas de rolamento separadas por esta sinalização horizontal, o veículo da faixa A pode mudar para a faixa B.",
+    "explanation": "Esta marcação proíbe a mudança de faixa e, quando a separação é feita por linhas amarelas contínuas dos dois lados, o veículo de qualquer das faixas não pode mudar. Nem de A para B nem de B para A (Kyosoku, Anexo 3(2), item 3, e Capítulo 5, Seção 5, item 2(2))."
+   }
+  },
+  "trap_type": "EI",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免"
+ },
+ {
+  "id": "K5-5-535",
+  "category": "進路変更など",
+  "kp": "5-5-2",
+  "group": "O",
+  "source": "道交法第26条の2第3項 / 教則 第5章第5節2(2)",
+  "question_type": "text",
+  "qf": "QF-5-5-D-EO-01",
+  "question_ja": "車両通行帯が黄の線で区画されているところでは、道路工事などの障害でその通行帯を通行できないときでも、黄の線を越えて進路を変更してはいけない。",
+  "answer": false,
+  "explanation_ja": "道路の損壊や道路工事などの障害でその車両通行帯を通行できないときは、黄の線を越えて進路を変更することができます。緊急自動車に進路を譲るときも同じです（道交法第26条の2第3項、教則第5章第5節2(2)）。",
+  "i18n": {
+   "zh": {
+    "question": "在车辆通行带由黄线划分的地方，即使因道路施工等障碍而无法在该通行带通行，也不得越过黄线变更路线。",
+    "explanation": "因道路损坏、道路施工等障碍而无法在该车辆通行带通行时，可以越过黄线变更路线。为紧急车辆让出道路时也一样（道交法第26条之2第3项、教则第5章第5节2(2)）。"
+   },
+   "en": {
+    "question": "Where vehicle lanes are divided by a yellow line, you may not cross the yellow line to change lanes even when an obstruction such as road works stops you using that lane.",
+    "explanation": "When damage to the road, road works or another obstruction stops you using that vehicle lane, you may cross the yellow line to change lanes. The same goes for giving way to an emergency vehicle (Road Traffic Act Article 26-2 paragraph 3; Kyosoku Chapter 5 Section 5 item 2(2))."
+   },
+   "vi": {
+    "question": "Ở nơi các làn đường được phân chia bằng vạch vàng, không được vượt vạch vàng để chuyển làn ngay cả khi có chướng ngại như thi công đường khiến không thể đi trên làn đó.",
+    "explanation": "Khi đường hỏng, thi công đường hay chướng ngại khác khiến không thể đi trên làn đó, thì được vượt vạch vàng để chuyển làn. Khi nhường đường cho xe ưu tiên (xe khẩn cấp) cũng vậy (Luật Giao thông đường bộ Điều 26-2 khoản 3; Kyosoku Chương 5 Mục 5 điểm 2(2))."
+   },
+   "pt": {
+    "question": "Onde as faixas de rolamento são separadas por uma linha amarela, não se pode cruzá-la para mudar de faixa nem mesmo quando um obstáculo, como uma obra na via, impede o uso daquela faixa.",
+    "explanation": "Quando um dano na via, uma obra ou outro obstáculo impede o uso daquela faixa de rolamento, é permitido cruzar a linha amarela para mudar de faixa. O mesmo vale ao dar passagem a um veículo de emergência (Lei de Trânsito, artigo 26-2, parágrafo 3; Kyosoku, Capítulo 5, Seção 5, item 2(2))."
+   }
+  },
+  "trap_type": "EO",
+  "difficulty": 3,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-5-536",
+  "category": "進路変更など",
+  "kp": "5-5-3",
+  "group": "O",
+  "source": "教則 第5章第5節3(2) / 付表3（1）13、14",
+  "question_type": "text",
+  "qf": "QF-5-5-D-EX-01",
+  "question_ja": "「車両横断禁止」や「転回禁止」の標識があるところでは、横断や転回のほかに後退も禁止されている。",
+  "answer": false,
+  "explanation_ja": "これらの標識が禁止しているのは車の横断と転回で、後退は含まれません（教則付表3（1）13、14）。標識や標示によって禁止されているところでしてはいけないのは、その禁止された行為です（教則第5章第5節3(2)）。",
+  "i18n": {
+   "zh": {
+    "question": "在设有「禁止车辆横穿」或「禁止掉头」标识（立牌）的地方，除横穿和掉头外，后退也被禁止。",
+    "explanation": "这些标识禁止的是车辆的横穿和掉头，不包括后退（教则附表3（1）13、14）。在由标识或标示（路面）禁止的地方，不得做的是被禁止的那个行为（教则第5章第5节3(2)）。"
+   },
+   "en": {
+    "question": "Where there is a \"No crossing for vehicles\" or \"No U-turn\" road sign, reversing is forbidden as well as crossing and U-turns.",
+    "explanation": "Those signs forbid a vehicle from crossing the road and from making a U-turn, and reversing is not included (Kyosoku Appendix 3(1) items 13 and 14). What you may not do where a sign or marking forbids something is the act it forbids (Kyosoku Chapter 5 Section 5 item 3(2))."
+   },
+   "vi": {
+    "question": "Ở nơi có biển báo giao thông «Cấm phương tiện băng ngang» hoặc «Cấm quay đầu», ngoài việc băng ngang và quay đầu thì lùi xe cũng bị cấm.",
+    "explanation": "Các biển đó cấm xe băng ngang (đường) và quay đầu, không bao gồm lùi xe (Kyosoku Phụ lục 3(1) mục 13 và 14). Ở nơi bị biển báo hay vạch kẻ đường (kí hiệu trên mặt đường) cấm, điều không được làm chính là hành vi bị cấm đó (Kyosoku Chương 5 Mục 5 điểm 3(2))."
+   },
+   "pt": {
+    "question": "Onde há a placa \"Proibida a travessia de veículos\" ou \"Proibido retorno\", a marcha à ré também é proibida, além da travessia e do retorno.",
+    "explanation": "Essas placas proíbem o veículo de atravessar a via e de fazer retorno, e a marcha à ré não está incluída (Kyosoku, Anexo 3(1), itens 13 e 14). Onde uma sinalização vertical (placa) ou horizontal proíbe algo, o que não se pode fazer é justamente o ato proibido (Kyosoku, Capítulo 5, Seção 5, item 3(2))."
+   }
+  },
+  "trap_type": "EX",
+  "difficulty": 3,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-5-537",
+  "category": "進路変更など",
+  "kp": "5-5-2",
+  "group": "O",
+  "source": "道交法第26条の2第3項第1号 / 教則 第5章第5節2(2)",
+  "question_type": "text",
+  "qf": "QF-5-5-D-EX-03",
+  "question_ja": "サイレンを鳴らした緊急自動車が後ろから近づいてきたとき、道路の左側に寄ろうとする車は、車両通行帯を区画する黄の線を越えて進路を変えることまでは認められていない。",
+  "answer": false,
+  "explanation_ja": "緊急自動車に進路を譲るために道路の左側や右側に寄るときは、黄の線を越えて進路を変更することができます（道交法第26条の2第3項第1号）。この場合は、進路変更の禁止の例外として定められています（教則第5章第5節2(2)）。",
+  "i18n": {
+   "zh": {
+    "question": "鸣着警笛的紧急车辆从后方接近时，要靠向道路左侧的车辆，并不被允许越过划分车辆通行带的黄线变更路线。",
+    "explanation": "为给紧急车辆让出道路而靠向道路左侧或右侧时，可以越过黄线变更路线（道交法第26条之2第3项第1号）。这种情况被规定为路线变更禁止的例外（教则第5章第5节2(2)）。"
+   },
+   "en": {
+    "question": "When an emergency vehicle comes up from behind with its siren on, a vehicle moving to the left of the road is not allowed to go so far as to cross the yellow line dividing the vehicle lanes and change lanes.",
+    "explanation": "When you move to the left or the right of the road to give way to an emergency vehicle, you may cross the yellow line to change lanes (Road Traffic Act Article 26-2 paragraph 3 item 1). That case is laid down as an exception to the ban on changing lanes (Kyosoku Chapter 5 Section 5 item 2(2))."
+   },
+   "vi": {
+    "question": "Khi xe ưu tiên (xe khẩn cấp) bật còi hú tiến đến từ phía sau, xe đang áp sang bên trái đường không được phép vượt qua vạch vàng phân chia các làn đường để chuyển làn.",
+    "explanation": "Khi áp sang bên trái hoặc bên phải đường để nhường đường cho xe ưu tiên, được phép vượt vạch vàng để chuyển làn (Luật Giao thông đường bộ Điều 26-2 khoản 3 mục 1). Trường hợp này được quy định là ngoại lệ của lệnh cấm chuyển làn (Kyosoku Chương 5 Mục 5 điểm 2(2))."
+   },
+   "pt": {
+    "question": "Quando um veículo de emergência se aproxima por trás com a sirene ligada, o veículo que encosta à esquerda da via não pode chegar a cruzar a linha amarela que separa as faixas de rolamento para mudar de faixa.",
+    "explanation": "Ao encostar à esquerda ou à direita da via para dar passagem a um veículo de emergência, é permitido cruzar a linha amarela para mudar de faixa (Lei de Trânsito, artigo 26-2, parágrafo 3, item 1). Esse caso está previsto como exceção à proibição de mudar de faixa (Kyosoku, Capítulo 5, Seção 5, item 2(2))."
+   }
+  },
+  "trap_type": "EX",
+  "difficulty": 3,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-5-538",
+  "category": "進路変更など",
+  "kp": "5-5-1",
+  "group": "O",
+  "source": "教則 第5章第5節1(1)",
+  "question_type": "text",
+  "qf": "QF-5-5-D-NR-01",
+  "question_ja": "進路を変えるときは、バックミラーや目視で後方の安全を確かめさえすれば、合図をする必要はない。",
+  "answer": false,
+  "explanation_ja": "安全の確認をしたうえで、合図もしなければなりません。進路変更の合図は、進路を変えようとする約3秒前に行います（教則第5章第5節1(1)）。",
+  "i18n": {
+   "zh": {
+    "question": "变更路线时，只要用后视镜和目视确认了后方的安全，就没有必要打信号（转向灯或手势）。",
+    "explanation": "在确认安全之后，还必须打信号。路线变更的打信号，在想要变更路线的大约3秒前进行（教则第5章第5节1(1)）。"
+   },
+   "en": {
+    "question": "When changing course, as long as you have checked behind you in the rear-view mirror and with your own eyes, there is no need to signal (by indicator or hand).",
+    "explanation": "You must check that it is safe and signal as well. The signal for changing lanes is given about 3 seconds before the change (Kyosoku Chapter 5 Section 5 item 1(1))."
+   },
+   "vi": {
+    "question": "Khi chuyển hướng, chỉ cần dùng gương chiếu hậu và mắt nhìn trực tiếp xác nhận an toàn phía sau là đủ, không cần báo hiệu (bằng xi nhan hoặc tay).",
+    "explanation": "Sau khi xác nhận an toàn thì vẫn phải báo hiệu. Báo hiệu chuyển làn được thực hiện khoảng 3 giây trước khi chuyển (Kyosoku Chương 5 Mục 5 điểm 1(1))."
+   },
+   "pt": {
+    "question": "Ao mudar de direção, basta ter verificado a segurança atrás pelo retrovisor e com os próprios olhos, não sendo necessário sinalizar (com seta ou mão).",
+    "explanation": "Depois de verificar a segurança, ainda é preciso sinalizar. O sinal de mudança de faixa é dado cerca de 3 segundos antes da mudança (Kyosoku, Capítulo 5, Seção 5, item 1(1))."
+   }
+  },
+  "trap_type": "NR",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-5-539",
+  "category": "進路変更など",
+  "kp": "5-5-1",
+  "group": "O",
+  "source": "教則 第5章第5節1(1)",
+  "question_type": "text",
+  "qf": "QF-5-5-D-OR-01",
+  "question_ja": "進路変更や転回をしようとするときは、まず合図をしてから、バックミラーなどで後方の安全を確かめる。",
+  "answer": false,
+  "explanation_ja": "順序が逆です。あらかじめバックミラーなどで安全を確かめてから合図をしなければなりません（教則第5章第5節1(1)）。",
+  "i18n": {
+   "zh": {
+    "question": "想要变更路线或掉头时，先打信号（转向灯或手势），然后再用后视镜等确认后方的安全。",
+    "explanation": "顺序相反了。必须预先用后视镜等确认安全之后再打信号（教则第5章第5节1(1)）。"
+   },
+   "en": {
+    "question": "When you are about to change lanes or make a U-turn, you signal (by indicator or hand) first and then check behind you in the rear-view mirror and the like.",
+    "explanation": "The order is the wrong way round. You must first check that it is safe in the rear-view mirror and the like, and only then signal (Kyosoku Chapter 5 Section 5 item 1(1))."
+   },
+   "vi": {
+    "question": "Khi định chuyển làn hoặc quay đầu, trước tiên báo hiệu (bằng xi nhan hoặc tay), rồi sau đó mới dùng gương chiếu hậu xác nhận an toàn phía sau.",
+    "explanation": "Thứ tự bị đảo ngược. Phải dùng gương chiếu hậu và các cách khác xác nhận an toàn trước rồi mới báo hiệu (Kyosoku Chương 5 Mục 5 điểm 1(1))."
+   },
+   "pt": {
+    "question": "Quando se vai mudar de faixa ou fazer retorno, sinaliza-se (com seta ou mão) primeiro e só depois se verifica a segurança atrás pelo retrovisor e meios semelhantes.",
+    "explanation": "A ordem está invertida. É preciso primeiro verificar a segurança pelo retrovisor e meios semelhantes, e só então sinalizar (Kyosoku, Capítulo 5, Seção 5, item 1(1))."
+   }
+  },
+  "trap_type": "OR",
+  "difficulty": 1,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-5-540",
+  "category": "進路変更など",
+  "kp": "5-5-2",
+  "group": "O",
+  "source": "教則 第5章第5節2(2)",
+  "question_type": "text",
+  "qf": "QF-5-5-D-SC-01",
+  "question_ja": "片側二車線の道路を走行中、前の車が遅かったので、黄の線で区画された車両通行帯の線を越えて隣の通行帯に移った。",
+  "answer": false,
+  "explanation_ja": "黄の線で区画されているときは、この線を越えて進路を変更してはいけません。前の車が遅いことは、この禁止の例外ではありません（教則第5章第5節2(2)）。",
+  "i18n": {
+   "zh": {
+    "question": "在单向两车道的道路上行驶时，因为前车速度慢，就越过由黄线划分的车辆通行带的线移到了旁边的通行带。",
+    "explanation": "由黄线划分时，不得越过这条线变更路线。前车速度慢并不是这项禁止的例外（教则第5章第5节2(2)）。"
+   },
+   "en": {
+    "question": "Driving on a road with two lanes in your direction, the vehicle in front was slow, so you crossed the yellow line dividing the vehicle lanes and moved into the next lane.",
+    "explanation": "Where the lanes are divided by a yellow line, you may not cross it to change lanes. A slow vehicle in front is not an exception to that prohibition (Kyosoku Chapter 5 Section 5 item 2(2))."
+   },
+   "vi": {
+    "question": "Đang chạy trên đường có hai làn cùng chiều, thấy xe phía trước đi chậm nên bạn đã vượt qua vạch vàng phân chia các làn đường để sang làn bên cạnh.",
+    "explanation": "Khi các làn được phân chia bằng vạch vàng thì không được vượt qua vạch đó để chuyển làn. Xe phía trước đi chậm không phải là ngoại lệ của lệnh cấm này (Kyosoku Chương 5 Mục 5 điểm 2(2))."
+   },
+   "pt": {
+    "question": "Dirigindo numa via com duas faixas no seu sentido, o veículo da frente estava devagar, por isso você cruzou a linha amarela que separa as faixas de rolamento e passou para a faixa ao lado.",
+    "explanation": "Onde as faixas são separadas por linha amarela, não se pode cruzá-la para mudar de faixa. Um veículo lento à frente não é exceção a essa proibição (Kyosoku, Capítulo 5, Seção 5, item 2(2))."
+   }
+  },
+  "trap_type": "SC",
+  "difficulty": 1,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-5-541",
+  "category": "進路変更など",
+  "kp": "5-5-2",
+  "group": "O",
+  "source": "教則 第5章第5節2(1)",
+  "question_type": "text",
+  "qf": "QF-5-5-D-SC-05",
+  "question_ja": "後ろから来る車がすぐ近くまで迫っていたが、素早くハンドルを切れば間に合うと考えて、そのまま隣の車両通行帯へ進路を変えた。",
+  "answer": false,
+  "explanation_ja": "後ろから来る車が急ブレーキや急ハンドルで避けなければならないような場合には、進路を変えてはいけません。後ろの車との距離が十分に空くまで待ちます（教則第5章第5節2(1)）。",
+  "i18n": {
+   "zh": {
+    "question": "后方驶来的车辆已经逼近到很近的位置，但觉得只要迅速打方向把就来得及，于是照原样向旁边的车辆通行带变更了路线。",
+    "explanation": "当后方驶来的车辆必须急刹车或急打方向才能避开时，不得变更路线。要等到与后车之间有足够的距离（教则第5章第5节2(1)）。"
+   },
+   "en": {
+    "question": "A vehicle coming up behind was already very close, but you judged that a quick turn of the wheel would get you across in time, so you changed into the next vehicle lane.",
+    "explanation": "You may not change course where the vehicle coming up behind would have to brake hard or swerve to avoid you. Wait until there is enough distance between you and the vehicle behind (Kyosoku Chapter 5 Section 5 item 2(1))."
+   },
+   "vi": {
+    "question": "Xe đi tới từ phía sau đã ở rất gần, nhưng bạn cho rằng chỉ cần đánh lái nhanh là kịp, nên vẫn chuyển sang làn đường bên cạnh.",
+    "explanation": "Không được chuyển hướng khi xe đi tới từ phía sau phải phanh gấp hoặc đánh lái gấp mới tránh được. Hãy đợi đến khi khoảng cách với xe phía sau đủ rộng (Kyosoku Chương 5 Mục 5 điểm 2(1))."
+   },
+   "pt": {
+    "question": "O veículo que vinha atrás já estava bem próximo, mas você achou que um giro rápido do volante bastaria e mudou para a faixa de rolamento ao lado.",
+    "explanation": "Não se pode mudar de direção quando o veículo que vem atrás tiver de frear bruscamente ou dar uma guinada para desviar. Espere até haver distância suficiente entre você e o veículo de trás (Kyosoku, Capítulo 5, Seção 5, item 2(1))."
+   }
+  },
+  "trap_type": "SC",
+  "difficulty": 1,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-5-542",
+  "category": "進路変更など",
+  "kp": "5-5-2",
+  "group": "O",
+  "source": "教則 第5章第5節2(2)",
+  "question_type": "text",
+  "qf": "QF-5-5-D-SW-05",
+  "question_ja": "車両通行帯が白の線で区画されているところでは、車は進路を変更してはいけない。",
+  "answer": false,
+  "explanation_ja": "白の線で区画されているところでは、進路を変更することができます。変更できないのは黄の線で区画されているときと、自分が通行している車両通行帯の側に平行して黄の線が引かれているときです（教則第5章第5節2(2)）。",
+  "i18n": {
+   "zh": {
+    "question": "在车辆通行带由白线划分的地方，车辆不得变更路线。",
+    "explanation": "由白线划分的地方可以变更路线。不能变更的是由黄线划分时，以及在自己所行驶的车辆通行带一侧平行画有黄线时（教则第5章第5节2(2)）。"
+   },
+   "en": {
+    "question": "Where vehicle lanes are divided by a white line, a vehicle may not change lanes.",
+    "explanation": "Where the lanes are divided by a white line you may change lanes. What you may not do is change lanes where they are divided by a yellow line, or where a yellow line runs alongside on the side of the lane you are in (Kyosoku Chapter 5 Section 5 item 2(2))."
+   },
+   "vi": {
+    "question": "Ở nơi các làn đường được phân chia bằng vạch trắng, xe không được chuyển làn.",
+    "explanation": "Ở nơi phân chia bằng vạch trắng thì được chuyển làn. Không được chuyển khi các làn được phân chia bằng vạch vàng, hoặc khi có vạch vàng song song ở phía làn mà bạn đang đi (Kyosoku Chương 5 Mục 5 điểm 2(2))."
+   },
+   "pt": {
+    "question": "Onde as faixas de rolamento são separadas por uma linha branca, o veículo não pode mudar de faixa.",
+    "explanation": "Onde a separação é por linha branca, é permitido mudar de faixa. O que não se pode é mudar onde a separação é por linha amarela, ou onde há uma linha amarela paralela do lado da faixa em que você está (Kyosoku, Capítulo 5, Seção 5, item 2(2))."
+   }
+  },
+  "trap_type": "SW",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ }
+]

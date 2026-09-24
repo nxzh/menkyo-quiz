@@ -62,7 +62,7 @@
 | 指定方向外進行禁止 | 指定方向外禁止行驶 | Proceed only in designated directions | Cấm đi ngoài hướng được chỉ định | Proibido seguir em direção diferente da especificada |
 | 進行方向別通行区分 | 不同行驶方向通行区分 | Lane designation by direction | Phân làn theo hướng đi | Faixas designadas por direção |
 | 追越し禁止 | 禁止超车 | No overtaking | Cấm vượt | Proibido ultrapassar |
-| 追越しのための右側部分はみ出し通行禁止 | 禁止为超车超越到道路右侧部分 | No overtaking on the right-hand side of the road | Cấm lấn sang phần đường bên phải để vượt | Proibido transpor para o lado direito da via para ultrapassar |
+| 追越しのための右側部分はみ出し通行禁止 | 禁止为超车驶入道路右侧部分 | No overtaking on the right-hand side of the road | Cấm lấn sang phần đường bên phải để vượt | Proibido transpor para o lado direito da via para ultrapassar |
 | 転回禁止 | 禁止掉头 | No U-turn | Cấm quay đầu | Proibido retorno |
 | 車両横断禁止 | 禁止车辆横穿 | No crossing for vehicles | Cấm phương tiện băng ngang | Proibida a travessia de veículos |
 | 一方通行 | 单向通行 | One way | Đường một chiều | mão única |
@@ -73,7 +73,7 @@
 | 立入り禁止部分 | 禁止入内部分 | No entry zone | Khu vực cấm đi vào | Área de entrada proibida |
 | 停止禁止部分 | 禁止停留部分 | No stopping zone | Khu vực cấm dừng lại | Área de proibição de parada |
 | 終わり | （规制）区间终点 | End (of restriction) | Hết (đoạn đường quy định) | Fim (da regulamentação) |
-| 横断歩道又は自転車横断帯あり | 前方有人行横道或自行车横道 | Pedestrian crossing or bicycle crossing ahead | Phía trước có vạch sang đường cho người đi bộ hoặc xe đạp | Faixa de pedestres ou faixa para ciclistas à frente |
+| 横断歩道又は自転車横断帯あり | 前方有人行横道或自行车横穿带 | Pedestrian crossing or bicycle crossing ahead | Phía trước có vạch sang đường cho người đi bộ hoặc xe đạp | Faixa de pedestres ou faixa para ciclistas à frente |
 | 学校、幼稚園、保育所などあり | 附近有学校、幼儿园、保育所等 | School, kindergarten, nursery, etc. | Gần trường học, mẫu giáo, nhà trẻ | Escola, jardim de infância, creche etc. |
 | 踏切あり | 前方有铁路道口 | Railway crossing ahead | Phía trước có đường ngang đường sắt | Passagem de nível à frente |
 | 二輪の自動車・一般原動機付自転車通行止め | 禁止摩托车及一般轻型摩托车通行 | Closed to motorcycles and general motorized bicycles | Cấm xe mô tô và xe gắn máy | Trânsito proibido para motocicletas e bicicletas motorizadas |
@@ -398,6 +398,13 @@ ZH 列自 v3 起锚定驾校教材，与 NPA 官方中文版存在以下分歧�
 - v6：删除备注列。中文专用规则并入表头规则 6；法律定义不再放在术语表，出题时以教則原文为准。
 - v5：新增 EN / VI / PT 三列（各 202 条）；备注中仅对中文有效的内容加「ZH:」前缀；新增规则 7、8。
 - v4：删除「备选译法」列；禁用词移入备注。
+- v7 修订（2026-09-24）：「横断歩道又は自転車横断帯あり」（警戒標識）的 ZH 原作「前方有人行横道或自行车**横道**」，
+  与本表「自転車横断帯 = 自行车横穿带」一条不一致，同一个东西在标志名里和单独出现时写法不同。按规则 2
+  「一词一译」，标志名改从单独条目，作「前方有人行横道或自行车横穿带」。EN / VI / PT 不受影响（该行三语与
+  官方资料一致，且 ZH 不在规则 7 的官方译法范围内）。
+- v7 修订（2026-09-24）：「追越しのための右側部分はみ出し通行禁止」的 ZH 原作「禁止为超车**超越**到道路右侧部分」，
+  与本表规则 5「「超越」禁用」自相矛盾，且被题库的 `tools/validate.py` 直接判错。改为「禁止为超车驶入道路右侧部分」。
+  另：「Xを追い越す」没有可带宾语的 ZH 形（超车为动宾结构，超越禁用），题库统一写「对X超车」。
 - v3：中文以驾校教材通行译法为基准。未跟教材的 4 处：停車/駐車、追越し/追抜き（禁用「超越」）、停止禁止部分、合図。
 - v2：修正停車/駐車矛盾、取消「同左」、对照教則核实并新增约 45 条术语。
 

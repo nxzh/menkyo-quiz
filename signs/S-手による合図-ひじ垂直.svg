@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="900" height="700" viewBox="0 0 900 700">
+  <title>手による合図：運転者が腕を車の外に出してひじを垂直に上に曲げているところ（車の後方から見た図）</title>
+  <desc>A car seen from behind, with the driver's arm out of the window and the elbow bent vertically upwards. No lettering, so the drawing is the same in every language. Which arm it is, is stated in the question text. Drawn for menkyo-quiz; not a reproduction of any catalogue artwork.</desc>
+
+  <rect x="0" y="0" width="900" height="700" rx="26" fill="#ffffff"/>
+  <rect x="8" y="8" width="884" height="684" rx="20" fill="none" stroke="#9aa3ab" stroke-width="6"/>
+
+  <!-- road -->
+  <rect x="40" y="560" width="820" height="96" rx="10" fill="#e6e9ec"/>
+  <line x1="120" y1="608" x2="240" y2="608" stroke="#ffffff" stroke-width="10"/>
+  <line x1="330" y1="608" x2="450" y2="608" stroke="#ffffff" stroke-width="10"/>
+  <line x1="540" y1="608" x2="660" y2="608" stroke="#ffffff" stroke-width="10"/>
+
+  <!-- car body, rear view -->
+  <path d="M250 560 v-190 q0-54 46-70 l40-14 q114-26 228 0 l40 14 q46 16 46 70 v190 z" fill="#c9403a"/>
+  <path d="M296 300 q114-30 308 0 l-26-58 q-6-14-22-18 q-106-22-212 0 q-16 4-22 18 z" fill="#3c4349"/>
+  <!-- rear window -->
+  <rect x="318" y="316" width="264" height="104" rx="16" fill="#8fa3b0"/>
+  <rect x="330" y="328" width="240" height="80" rx="12" fill="#b9cad4"/>
+  <!-- lights and plate -->
+  <rect x="262" y="452" width="86" height="44" rx="12" fill="#f2a6a1"/>
+  <rect x="552" y="452" width="86" height="44" rx="12" fill="#f2a6a1"/>
+  <rect x="392" y="470" width="116" height="42" rx="8" fill="#ffffff" stroke="#3c4349" stroke-width="5"/>
+  <rect x="250" y="540" width="400" height="20" rx="8" fill="#a5332e"/>
+
+  <!-- driver's side window, open, arm out with the elbow bent vertically up -->
+  <rect x="598" y="330" width="78" height="96" rx="12" fill="#3c4349"/>
+  <g stroke="#e8b48f" stroke-width="34" stroke-linecap="round" fill="none">
+    <path d="M640 392 H736"/>
+    <path d="M736 392 V236"/>
+  </g>
+  <circle cx="736" cy="222" r="26" fill="#e8b48f"/>
+  <rect x="612" y="372" width="58" height="42" rx="12" fill="#2f353a"/>
+</svg>

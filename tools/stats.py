@@ -51,7 +51,7 @@ def main(argv):
           f"× {len(wrong)}")
     print(f"  image questions {sum(1 for q in items if q['question_type'] != 'text')} "
           f"({sum(1 for q in items if q['question_type'] != 'text') / n:.0%}) "
-          "— spec target 12–20%")
+          "— what the fingerprint set gives; no quota — spec v8 §9.3")
     print(f"  verify:true {sum(1 for q in items if q.get('verify'))}")
 
     table("知识点组", Counter(q["group"] for q in items), n, GROUP_NAMES)
@@ -60,12 +60,13 @@ def main(argv):
     table("题型", Counter(q["question_type"] for q in items), n)
     table("难度", Counter(str(q["difficulty"]) for q in items), n)
 
-    print("\n## 陷阱配比 vs 规范 §8")
-    targets = {"EI": (0.35, 0.45), "SW": (0.15, 0.25), "NU": (0.0, 0.05)}
-    for code, (lo, hi) in targets.items():
+    # 规范 v8 §9.3：陷阱分布不设配额，按指纹集合的实测分布出题。
+    # 下表把实测值与 §4.3 在 507 个指纹上量到的比例并列，作为对照，不作合格判定。
+    print("\n## 陷阱配比 vs 规范 §4.3 实测")
+    measured = {"EI": 0.30, "SW": 0.18, "SS": 0.15, "NU": 0.03}
+    for code, ref in measured.items():
         got = sum(1 for q in wrong if q["trap_type"] == code) / max(len(wrong), 1)
-        flag = "ok" if lo <= got <= hi else "OFF"
-        print(f"  {code} {got:.1%} (target {lo:.0%}–{hi:.0%}) {flag}")
+        print(f"  {code} {got:.1%} (§4.3 实测 {ref:.0%})")
     return 0
 
 

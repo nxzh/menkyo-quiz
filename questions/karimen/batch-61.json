@@ -1,0 +1,497 @@
+[
+ {
+  "id": "K11-1-601",
+  "category": "運転前の心得",
+  "kp": "11-1-5",
+  "group": "E",
+  "source": "教則 第11章第1節5 / 道交法第65条第2項",
+  "question_type": "text",
+  "qf": "QF-4-1-A-N-02",
+  "question_ja": "これから車を運転するかもしれない人が酒を飲んでいるときは、その人に自分の車を貸してはならない。",
+  "answer": true,
+  "explanation_ja": "教則第11章第1節5のとおりです。酒を飲んだ人に車を貸すことは、酒気を帯びて運転するおそれのある人に車両を提供する行為として禁じられています（道交法第65条第2項）。",
+  "i18n": {
+   "zh": {
+    "question": "当某人喝了酒、并且接下来有可能开车时，不得把自己的车借给他。",
+    "explanation": "符合教则第11章第1节5的规定。把车借给喝了酒的人，属于向可能酒后驾驶的人提供车辆的行为，是被禁止的（道交法第65条第2款）。"
+   },
+   "en": {
+    "question": "If a person who has been drinking may be about to drive, you must not lend that person your car.",
+    "explanation": "This is Kyosoku Chapter 11 Section 1 item 5. Lending a car to someone who has been drinking counts as supplying a vehicle to a person likely to drive under the influence of alcohol, and it is prohibited (Road Traffic Act Article 65(2))."
+   },
+   "vi": {
+    "question": "Khi một người đã uống rượu bia và có thể sắp lái xe, bạn không được cho người đó mượn xe của mình.",
+    "explanation": "Đúng theo Kyosoku Chương 11 Mục 1 điểm 5. Cho người đã uống rượu bia mượn xe bị coi là hành vi cung cấp phương tiện cho người có khả năng lái xe khi trong người có cồn, và bị cấm (Luật Giao thông Đường bộ Điều 65 khoản 2)."
+   },
+   "pt": {
+    "question": "Quando alguém bebeu e pode estar prestes a dirigir, não se deve emprestar o próprio carro a essa pessoa.",
+    "explanation": "É o Kyosoku, Capítulo 11, Seção 1, item 5. Emprestar o carro a quem bebeu equivale a fornecer veículo a alguém que provavelmente dirigirá sob efeito de álcool, o que é proibido (Lei de Trânsito Rodoviário, Artigo 65(2))."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-1-602",
+  "category": "運転前の心得",
+  "kp": "5-1-2",
+  "group": "E",
+  "source": "教則 第5章第1節2(4)",
+  "question_type": "text",
+  "qf": "QF-4-1-A-N-03",
+  "question_ja": "スマートフォンなどの携帯電話は、運転する前に電源を切ったりドライブモードに設定したりして、運転中に呼出音が鳴らないようにしておくとよい。",
+  "answer": true,
+  "explanation_ja": "教則第5章第1節2(4)のとおりです。走行中に携帯電話を使うと周囲の交通への注意が不十分になるので、鳴らさない工夫を運転前にしておきます。",
+  "i18n": {
+   "zh": {
+    "question": "手机等应在开车前关闭电源或设置为驾驶模式，使行驶中不会响起来电铃声。",
+    "explanation": "符合教则第5章第1节2(4)的规定。行驶中使用手机会使对周围交通的注意力不足，所以要在开车前就做好不让它响的准备。"
+   },
+   "en": {
+    "question": "Before you drive, it is a good idea to switch your mobile phone off or set it to drive mode so that it does not ring while you are driving.",
+    "explanation": "This is Kyosoku Chapter 5 Section 1 item 2(4). Using a phone while the vehicle is moving leaves too little attention for the traffic around you, so you prepare the phone beforehand so that it stays silent."
+   },
+   "vi": {
+    "question": "Trước khi lái xe, nên tắt nguồn điện thoại di động hoặc đặt sang chế độ lái xe để chuông không reo trong lúc đang chạy.",
+    "explanation": "Đúng theo Kyosoku Chương 5 Mục 1 điểm 2(4). Dùng điện thoại khi xe đang chạy khiến bạn không đủ chú ý đến giao thông xung quanh, nên hãy chuẩn bị trước khi lái để máy không reo."
+   },
+   "pt": {
+    "question": "Antes de dirigir, convém desligar o celular ou colocá-lo em modo de condução para que ele não toque enquanto o veículo estiver em movimento.",
+    "explanation": "É o Kyosoku, Capítulo 5, Seção 1, item 2(4). Usar o celular com o veículo em movimento deixa pouca atenção para o trânsito ao redor, por isso prepare o aparelho antes de dirigir para que fique silencioso."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 1,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K4-1-603",
+  "category": "運転前の心得",
+  "kp": "4-1-1",
+  "group": "E",
+  "source": "教則 第4章第1節1(1)イ",
+  "question_type": "text",
+  "qf": "QF-4-1-A-N-04",
+  "question_ja": "自動車を運転する前には、有効な自動車検査証と自動車損害賠償責任保険証明書（責任共済証明書でもよい）をその自動車に備えていることを確かめる必要がある。",
+  "answer": true,
+  "explanation_ja": "教則第4章第1節1(1)イのとおりです。これらの書類は自宅ではなく、運転する自動車に備えておきます。",
+  "i18n": {
+   "zh": {
+    "question": "开车前，需要确认所驾驶的汽车上备有有效的车检证和交通事故责任强制保险证明书（责任共济证明书亦可）。",
+    "explanation": "符合教则第4章第1节1(1)イ的规定。这些证件不是放在家里，而是备在所驾驶的汽车上。"
+   },
+   "en": {
+    "question": "Before driving, you need to check that the vehicle carries a valid vehicle inspection certificate and a valid compulsory liability insurance certificate (or mutual-aid certificate).",
+    "explanation": "This is Kyosoku Chapter 4 Section 1 item 1(1)(b). These papers are kept in the vehicle you drive, not at home."
+   },
+   "vi": {
+    "question": "Trước khi lái xe, cần xác nhận rằng trên xe có giấy chứng nhận kiểm định xe còn hiệu lực và giấy chứng nhận bảo hiểm trách nhiệm bồi thường bắt buộc (hoặc giấy chứng nhận tương trợ trách nhiệm).",
+    "explanation": "Đúng theo Kyosoku Chương 4 Mục 1 điểm 1(1)(b). Những giấy tờ này được để trên xe đang lái, không phải ở nhà."
+   },
+   "pt": {
+    "question": "Antes de dirigir, é preciso verificar se o veículo leva o certificado de inspeção válido e o certificado do seguro obrigatório de responsabilidade civil (ou o certificado de mutualidade).",
+    "explanation": "É o Kyosoku, Capítulo 4, Seção 1, item 1(1)(b). Esses documentos ficam no veículo que se dirige, e não em casa."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K4-2-604",
+  "category": "運転前の心得",
+  "kp": "4-2",
+  "group": "E",
+  "source": "教則 第4章第2節前文 / 道交法第95条第1項",
+  "question_type": "text",
+  "qf": "QF-4-1-A-N-05",
+  "question_ja": "道路で自動車を運転するときは、その車種に応じた免許を受け、その免許証を携帯していなければならない。",
+  "answer": true,
+  "explanation_ja": "教則第4章第2節の前文のとおりです。免許を受けた人が自動車等を運転するときは、その自動車等に係る免許証を携帯していなければなりません（道交法第95条第1項）。",
+  "i18n": {
+   "zh": {
+    "question": "在道路上驾驶汽车时，必须取得与该车种相应的驾照，并随身携带驾照。",
+    "explanation": "符合教则第4章第2节前言的规定。取得驾照的人驾驶汽车等时，必须随身携带与该车相应的驾照（道交法第95条第1款）。"
+   },
+   "en": {
+    "question": "When you drive a motor vehicle on the road, you must hold the licence that matches that type of vehicle and carry that licence with you.",
+    "explanation": "This is the opening passage of Kyosoku Chapter 4 Section 2. A person who holds a licence must carry the licence for that vehicle while driving it (Road Traffic Act Article 95(1))."
+   },
+   "vi": {
+    "question": "Khi lái xe ô tô trên đường, bạn phải có bằng lái phù hợp với loại xe đó và mang theo bằng lái bên mình.",
+    "explanation": "Đúng theo phần mở đầu Kyosoku Chương 4 Mục 2. Người đã có bằng lái phải mang theo bằng lái tương ứng với xe đó khi lái (Luật Giao thông Đường bộ Điều 95 khoản 1)."
+   },
+   "pt": {
+    "question": "Ao dirigir um automóvel na via, é preciso ter a habilitação correspondente ao tipo de veículo e portar essa carteira.",
+    "explanation": "É o texto de abertura do Kyosoku, Capítulo 4, Seção 2. Quem tem habilitação deve portar a carteira correspondente ao veículo enquanto o dirige (Lei de Trânsito Rodoviário, Artigo 95(1))."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 1,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K4-1-605",
+  "category": "運転前の心得",
+  "kp": "4-1-3",
+  "group": "E",
+  "source": "教則 第4章第1節3、4",
+  "question_type": "text",
+  "qf": "QF-4-1-A-N-06",
+  "question_ja": "飲んだ酒がごく少量であっても酒気を帯びているときや、疲れがひどく過労の状態にあるときは、車を運転してはならない。",
+  "answer": true,
+  "explanation_ja": "教則第4章第1節3、4のとおりです。酒気を帯びているときは運転してはならず、過労のときも運転してはいけません。",
+  "i18n": {
+   "zh": {
+    "question": "即使喝的酒量很少，只要身上带着酒气，或者疲劳严重处于过劳状态时，都不得驾驶车辆。",
+    "explanation": "符合教则第4章第1节3、4的规定。身上带着酒气时不得驾驶，处于过劳状态时也不得驾驶。"
+   },
+   "en": {
+    "question": "Even if you drank only a very small amount, you must not drive while alcohol is in your system, nor when you are so worn out that you are in a state of extreme fatigue.",
+    "explanation": "This is Kyosoku Chapter 4 Section 1 items 3 and 4. You must not drive under the influence of alcohol, and you must not drive in a state of extreme fatigue either."
+   },
+   "vi": {
+    "question": "Dù chỉ uống một lượng rất nhỏ, khi trong người có cồn, hoặc khi mệt mỏi nặng đến mức quá sức, bạn không được lái xe.",
+    "explanation": "Đúng theo Kyosoku Chương 4 Mục 1 điểm 3 và 4. Không được lái xe khi trong người có cồn, và cũng không được lái xe khi đang quá mệt mỏi."
+   },
+   "pt": {
+    "question": "Mesmo que a quantidade bebida tenha sido muito pequena, não se deve dirigir sob efeito de álcool, nem quando se está em estado de fadiga excessiva.",
+    "explanation": "É o Kyosoku, Capítulo 4, Seção 1, itens 3 e 4. Não se deve dirigir sob efeito de álcool, e também não se deve dirigir em estado de fadiga excessiva."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 1,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-1-606",
+  "category": "運転前の心得",
+  "kp": "5-1-2",
+  "group": "E",
+  "source": "教則 第5章第1節2(4) / 道交法第71条第5号の5",
+  "question_type": "text",
+  "qf": "QF-4-1-A-N-07",
+  "question_ja": "車を運転しているときは、車が停止しているときを除き、携帯電話を手に持って通話に使ったり、カーナビゲーション装置などに表示された画像を注視したりしてはならない。",
+  "answer": true,
+  "explanation_ja": "教則第5章第1節2(4)のとおりです。手に持たなければ通話できない無線通話装置の使用は、車が停止しているときを除いて禁じられています（道交法第71条第5号の5）。",
+  "i18n": {
+   "zh": {
+    "question": "驾驶车辆时，除车辆停止的情况外，不得手持手机通话，也不得注视车载导航装置等显示的图像。",
+    "explanation": "符合教则第5章第1节2(4)的规定。必须用手拿着才能通话的无线通话装置，除车辆停止时外禁止使用（道交法第71条第5号之5）。"
+   },
+   "en": {
+    "question": "While you are driving, except when the vehicle is stopped, you must not hold a mobile phone in your hand to talk on it, nor gaze at the screen of a car navigation device.",
+    "explanation": "This is Kyosoku Chapter 5 Section 1 item 2(4). Using a radio-telephone device that has to be held in the hand is prohibited except while the vehicle is stopped (Road Traffic Act Article 71 item 5-5)."
+   },
+   "vi": {
+    "question": "Khi đang lái xe, trừ lúc xe dừng hẳn, bạn không được cầm điện thoại di động trên tay để nói chuyện, cũng không được nhìn chăm chú vào màn hình của thiết bị dẫn đường trên xe.",
+    "explanation": "Đúng theo Kyosoku Chương 5 Mục 1 điểm 2(4). Việc dùng thiết bị đàm thoại vô tuyến phải cầm trên tay bị cấm, trừ khi xe đang dừng (Luật Giao thông Đường bộ Điều 71 điểm 5-5)."
+   },
+   "pt": {
+    "question": "Enquanto dirige, salvo quando o veículo está parado, não se deve segurar o celular na mão para falar nem fixar o olhar na tela do dispositivo de navegação do veículo.",
+    "explanation": "É o Kyosoku, Capítulo 5, Seção 1, item 2(4). Usar um aparelho de comunicação sem fio que precisa ser segurado na mão é proibido, exceto com o veículo parado (Lei de Trânsito Rodoviário, Artigo 71, item 5-5)."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K4-1-607",
+  "category": "運転前の心得",
+  "kp": "4-1-4",
+  "group": "E",
+  "source": "教則 第4章第1節4",
+  "question_type": "text",
+  "qf": "QF-4-1-A-N-08",
+  "question_ja": "酒を飲んでから何時間か経っていても、まだ酒の影響が残っていて酒気帯び運転になるおそれがある。",
+  "answer": true,
+  "explanation_ja": "教則第4章第1節4のとおりです。酒を飲んだのが前の晩であっても、翌朝の運転時まで酒の影響を受けていることがあります。",
+  "i18n": {
+   "zh": {
+    "question": "即使喝酒后已经过了几个小时，体内仍可能残留酒精的影响，从而构成酒后驾驶。",
+    "explanation": "符合教则第4章第1节4的规定。即使是前一天晚上喝的酒，也可能到第二天早上开车时还受着酒的影响。"
+   },
+   "en": {
+    "question": "Even several hours after drinking, alcohol may still be affecting you, so driving can still count as driving under the influence of alcohol.",
+    "explanation": "This is Kyosoku Chapter 4 Section 1 item 4. Even if you drank the night before, you may still be under the influence of alcohol when you drive the next morning."
+   },
+   "vi": {
+    "question": "Dù đã qua vài giờ sau khi uống rượu bia, cồn vẫn có thể còn tác động, nên việc lái xe vẫn có thể bị coi là lái xe khi trong người có cồn.",
+    "explanation": "Đúng theo Kyosoku Chương 4 Mục 1 điểm 4. Dù uống từ tối hôm trước, bạn vẫn có thể còn chịu tác động của rượu bia khi lái xe vào sáng hôm sau."
+   },
+   "pt": {
+    "question": "Mesmo várias horas depois de beber, o álcool ainda pode estar fazendo efeito, de modo que dirigir pode configurar condução sob efeito de álcool.",
+    "explanation": "É o Kyosoku, Capítulo 4, Seção 1, item 4. Mesmo tendo bebido na noite anterior, é possível ainda estar sob efeito do álcool ao dirigir na manhã seguinte."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K4-1-608",
+  "category": "運転前の心得",
+  "kp": "4-1-2",
+  "group": "E",
+  "source": "教則 第4章第1節2",
+  "question_type": "text",
+  "qf": "QF-4-1-A-N-09",
+  "question_ja": "運転が長時間に及びそうなときは、あらかじめ休息場所を決めておき、2時間に1回は車を止めて休息をとるようにするとよい。",
+  "answer": true,
+  "explanation_ja": "教則第4章第1節2のとおりです。また、眠気を感じたら速やかに休息をとり、眠気を覚ましてから運転します。",
+  "i18n": {
+   "zh": {
+    "question": "预计驾驶时间会很长时，最好事先定好休息场所，每2小时停车休息1次。",
+    "explanation": "符合教则第4章第1节2的规定。此外，感到困倦时应尽快休息，等困意消除后再驾驶。"
+   },
+   "en": {
+    "question": "When your drive looks like it will be a long one, it is good to decide on your rest stops in advance and to stop the car for a break once every two hours.",
+    "explanation": "This is Kyosoku Chapter 4 Section 1 item 2. If you feel drowsy you should also rest promptly and drive on only once the drowsiness has gone."
+   },
+   "vi": {
+    "question": "Khi dự kiến sẽ lái xe trong thời gian dài, nên quyết định trước nơi nghỉ và cứ hai giờ lại dừng xe nghỉ một lần.",
+    "explanation": "Đúng theo Kyosoku Chương 4 Mục 1 điểm 2. Ngoài ra, khi thấy buồn ngủ hãy nghỉ ngay và chỉ lái tiếp sau khi đã hết buồn ngủ."
+   },
+   "pt": {
+    "question": "Quando a viagem parecer que vai ser longa, convém decidir de antemão os locais de descanso e parar o carro para um intervalo a cada duas horas.",
+    "explanation": "É o Kyosoku, Capítulo 4, Seção 1, item 2. Além disso, ao sentir sono, descanse logo e só volte a dirigir depois que o sono passar."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 1,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-1-609",
+  "category": "運転前の心得",
+  "kp": "5-1-2",
+  "group": "E",
+  "source": "教則 第5章第1節2(1)",
+  "question_type": "text",
+  "qf": "QF-4-1-A-N-10",
+  "question_ja": "シートの前後の位置は、クラッチペダルを踏み込んだときにひざがわずかに曲がる状態に合わせるとよい。",
+  "answer": true,
+  "explanation_ja": "教則第5章第1節2(1)のとおりです。シートの背は、ハンドルに両手を掛けたときにひじがわずかに曲がる状態に合わせます。",
+  "i18n": {
+   "zh": {
+    "question": "座椅的前后位置，应调整到踩下离合器踏板时膝盖略微弯曲的状态。",
+    "explanation": "符合教则第5章第1节2(1)的规定。椅背则调整到双手搭在方向把上时手肘略微弯曲的状态。"
+   },
+   "en": {
+    "question": "The fore-and-aft position of the seat should be set so that your knee is slightly bent when the clutch pedal is pressed right down.",
+    "explanation": "This is Kyosoku Chapter 5 Section 1 item 2(1). The seat back is set so that your elbows are slightly bent when both hands are on the steering wheel."
+   },
+   "vi": {
+    "question": "Vị trí trước sau của ghế nên được chỉnh sao cho khi đạp hết bàn đạp ly hợp thì đầu gối hơi cong.",
+    "explanation": "Đúng theo Kyosoku Chương 5 Mục 1 điểm 2(1). Lưng ghế thì chỉnh sao cho khi đặt hai tay lên vô lăng thì khuỷu tay hơi cong."
+   },
+   "pt": {
+    "question": "A posição do banco para frente e para trás deve ser ajustada de modo que o joelho fique levemente dobrado ao pisar fundo no pedal da embreagem.",
+    "explanation": "É o Kyosoku, Capítulo 5, Seção 1, item 2(1). O encosto é ajustado de modo que os cotovelos fiquem levemente dobrados com as duas mãos no volante."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K4-1-610",
+  "category": "運転前の心得",
+  "kp": "4-1-1",
+  "group": "E",
+  "source": "教則 第4章第1節1(1)イ",
+  "question_type": "text",
+  "qf": "QF-4-1-D-EI-01",
+  "question_ja": "自動車損害賠償責任保険証明書は、有効期間内であれば自動車に備えておかなくても運転してよい。",
+  "answer": false,
+  "explanation_ja": "有効期間内であっても備付けが免除されることはありません。有効な自動車検査証と自動車損害賠償責任保険証明書（責任共済証明書でもよい）は、運転する自動車に備えていなければなりません（教則第4章第1節1(1)イ）。",
+  "i18n": {
+   "zh": {
+    "question": "只要交通事故责任强制保险证明书还在有效期内，即使不备在汽车上也可以开车。",
+    "explanation": "即使在有效期内，也不会免除备置义务。有效的车检证和交通事故责任强制保险证明书（责任共济证明书亦可），必须备在所驾驶的汽车上（教则第4章第1节1(1)イ）。"
+   },
+   "en": {
+    "question": "As long as the compulsory liability insurance certificate is still within its period of validity, you may drive without keeping it in the vehicle.",
+    "explanation": "Being within its period of validity does not excuse you from keeping it in the vehicle. A valid vehicle inspection certificate and a valid compulsory liability insurance certificate (or mutual-aid certificate) must be kept in the vehicle you drive (Kyosoku Chapter 4 Section 1 item 1(1)(b))."
+   },
+   "vi": {
+    "question": "Chỉ cần giấy chứng nhận bảo hiểm trách nhiệm bồi thường bắt buộc còn trong thời hạn hiệu lực thì dù không để trên xe vẫn có thể lái.",
+    "explanation": "Dù còn trong thời hạn hiệu lực, nghĩa vụ để giấy trên xe cũng không được miễn. Giấy chứng nhận kiểm định xe và giấy chứng nhận bảo hiểm trách nhiệm bồi thường bắt buộc (hoặc giấy chứng nhận tương trợ trách nhiệm) còn hiệu lực phải được để trên xe đang lái (Kyosoku Chương 4 Mục 1 điểm 1(1)(b))."
+   },
+   "pt": {
+    "question": "Desde que o certificado do seguro obrigatório de responsabilidade civil esteja dentro da validade, pode-se dirigir sem mantê-lo no veículo.",
+    "explanation": "Estar dentro da validade não dispensa a obrigação de mantê-lo no veículo. O certificado de inspeção e o certificado do seguro obrigatório de responsabilidade civil (ou o certificado de mutualidade) válidos devem ficar no veículo que se dirige (Kyosoku, Capítulo 4, Seção 1, item 1(1)(b))."
+   }
+  },
+  "trap_type": "EI",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K4-1-611",
+  "category": "運転前の心得",
+  "kp": "4-1-3",
+  "group": "E",
+  "source": "教則 第4章第1節3",
+  "question_type": "text",
+  "qf": "QF-4-1-D-EI-02",
+  "question_ja": "疲れているときでも、速度を控えめにして運転すれば差し支えない。",
+  "answer": false,
+  "explanation_ja": "速度を落としても、散漫になった注意力や衰えた判断力が元に戻るわけではありません。疲れているときは運転を控えるか体の調子を整えてから運転することとされ、過労のときは運転してはいけません（教則第4章第1節3）。",
+  "i18n": {
+   "zh": {
+    "question": "即使在疲劳的时候，只要把速度放慢一些驾驶也没有关系。",
+    "explanation": "即使降低速度，涣散的注意力和衰退的判断力也不会因此恢复。疲劳时应避免驾驶，或调整好身体状态后再驾驶，处于过劳状态时则不得驾驶（教则第4章第1节3）。"
+   },
+   "en": {
+    "question": "Even when you are tired, there is no problem in driving as long as you keep your speed down.",
+    "explanation": "Lowering your speed does not restore scattered attention or weakened judgement. When you are tired you should refrain from driving or drive only after your condition has improved, and in a state of extreme fatigue you must not drive at all (Kyosoku Chapter 4 Section 1 item 3)."
+   },
+   "vi": {
+    "question": "Ngay cả khi mệt mỏi, chỉ cần chạy với tốc độ chậm hơn thì lái xe cũng không sao.",
+    "explanation": "Giảm tốc độ không làm sự chú ý bị phân tán và khả năng phán đoán suy giảm trở lại như cũ. Khi mệt mỏi thì nên tránh lái xe hoặc chỉ lái sau khi đã điều chỉnh lại sức khỏe, còn khi quá mệt mỏi thì không được lái (Kyosoku Chương 4 Mục 1 điểm 3)."
+   },
+   "pt": {
+    "question": "Mesmo cansado, não há problema em dirigir desde que se mantenha uma velocidade reduzida.",
+    "explanation": "Reduzir a velocidade não devolve a atenção dispersa nem o discernimento enfraquecido. Quando se está cansado, deve-se evitar dirigir ou dirigir apenas depois de se recuperar, e em estado de fadiga excessiva não se pode dirigir (Kyosoku, Capítulo 4, Seção 1, item 3)."
+   }
+  },
+  "trap_type": "EI",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K4-1-612",
+  "category": "運転前の心得",
+  "kp": "4-1-3",
+  "group": "E",
+  "source": "教則 第4章第1節3",
+  "question_type": "text",
+  "qf": "QF-4-1-D-SC-01",
+  "question_ja": "かぜ薬を飲んだあとに眠気が出てきたが、急ぎの用事があったので、そのまま車を運転した。",
+  "answer": false,
+  "explanation_ja": "眠気が出ている以上、運転してはいけません。睡眠作用のある風邪薬や頭痛薬などを服用したときは運転をしないこととされています（教則第4章第1節3）。",
+  "i18n": {
+   "zh": {
+    "question": "服用感冒药后出现了困意，但因为有急事，就那样驾车上路了。",
+    "explanation": "既然已经出现困意，就不能驾驶。服用了有催眠作用的感冒药或头痛药等药物时，规定不要驾驶（教则第4章第1节3）。"
+   },
+   "en": {
+    "question": "Drowsiness set in after taking cold medicine, but because the errand was urgent, the driver drove anyway.",
+    "explanation": "Once drowsiness has set in, you must not drive. When you have taken cold or headache medicine that causes drowsiness, the rule is not to drive (Kyosoku Chapter 4 Section 1 item 3)."
+   },
+   "vi": {
+    "question": "Sau khi uống thuốc cảm thì thấy buồn ngủ, nhưng vì có việc gấp nên người lái vẫn cứ lái xe đi.",
+    "explanation": "Một khi đã buồn ngủ thì không được lái xe. Khi đã uống thuốc cảm hay thuốc đau đầu gây buồn ngủ, quy định là không lái xe (Kyosoku Chương 4 Mục 1 điểm 3)."
+   },
+   "pt": {
+    "question": "Depois de tomar remédio para gripe veio o sono, mas como o compromisso era urgente, o condutor dirigiu assim mesmo.",
+    "explanation": "Uma vez instalado o sono, não se pode dirigir. Quem tomou remédio para gripe ou dor de cabeça que causa sonolência não deve dirigir (Kyosoku, Capítulo 4, Seção 1, item 3)."
+   }
+  },
+  "trap_type": "SC",
+  "difficulty": 1,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-1-613",
+  "category": "運転前の心得",
+  "kp": "5-1-2",
+  "group": "E",
+  "source": "教則 第5章第1節2(4)",
+  "question_type": "text",
+  "qf": "QF-4-1-D-SC-02",
+  "question_ja": "道に迷ったので、走行しながらカーナビゲーション装置の画面を見続けて道順を確かめた。",
+  "answer": false,
+  "explanation_ja": "走行中に画像を注視してはいけません。道順を確かめるときは、安全な場所に停止してから見ます（教則第5章第1節2(4)）。",
+  "i18n": {
+   "zh": {
+    "question": "因为迷了路，就一边行驶一边一直盯着车载导航装置的画面确认路线。",
+    "explanation": "行驶中不得注视图像。确认路线时，应先停在安全的地方再看（教则第5章第1节2(4)）。"
+   },
+   "en": {
+    "question": "Having lost the way, the driver kept looking at the car navigation screen to check the route while still driving.",
+    "explanation": "You must not gaze at the screen while the vehicle is moving. To check the route, stop in a safe place first and look then (Kyosoku Chapter 5 Section 1 item 2(4))."
+   },
+   "vi": {
+    "question": "Vì bị lạc đường, người lái vừa chạy xe vừa nhìn chăm chú vào màn hình thiết bị dẫn đường để xác nhận lộ trình.",
+    "explanation": "Không được nhìn chăm chú vào màn hình khi xe đang chạy. Khi cần xác nhận lộ trình, hãy dừng ở nơi an toàn rồi mới xem (Kyosoku Chương 5 Mục 1 điểm 2(4))."
+   },
+   "pt": {
+    "question": "Como se perdeu no caminho, o condutor ficou olhando a tela do dispositivo de navegação para conferir o trajeto enquanto dirigia.",
+    "explanation": "Não se deve fixar o olhar na tela com o veículo em movimento. Para conferir o trajeto, pare antes em local seguro e só então olhe (Kyosoku, Capítulo 5, Seção 1, item 2(4))."
+   }
+  },
+  "trap_type": "SC",
+  "difficulty": 1,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K4-1-614",
+  "category": "運転前の心得",
+  "kp": "4-1-1",
+  "group": "E",
+  "source": "教則 第4章第1節1(1)イ",
+  "question_type": "text",
+  "qf": "QF-4-1-D-SW-01",
+  "question_ja": "自動車検査証と自動車損害賠償責任保険証明書は、大切な書類なので、車には備えず自宅で保管しておけばよい。",
+  "answer": false,
+  "explanation_ja": "保管する場所が違います。これらの書類は、運転する自動車に備えておかなければなりません（教則第4章第1節1(1)イ）。",
+  "i18n": {
+   "zh": {
+    "question": "车检证和交通事故责任强制保险证明书是重要证件，所以不备在车上、保管在家里就可以。",
+    "explanation": "保管的地方错了。这些证件必须备在所驾驶的汽车上（教则第4章第1节1(1)イ）。"
+   },
+   "en": {
+    "question": "The vehicle inspection certificate and the compulsory liability insurance certificate are important papers, so it is enough to keep them at home rather than in the vehicle.",
+    "explanation": "That is the wrong place to keep them. These papers must be kept in the vehicle you drive (Kyosoku Chapter 4 Section 1 item 1(1)(b))."
+   },
+   "vi": {
+    "question": "Giấy chứng nhận kiểm định xe và giấy chứng nhận bảo hiểm trách nhiệm bồi thường bắt buộc là giấy tờ quan trọng, nên chỉ cần cất ở nhà chứ không để trên xe.",
+    "explanation": "Nơi cất giữ như vậy là sai. Những giấy tờ này phải được để trên xe đang lái (Kyosoku Chương 4 Mục 1 điểm 1(1)(b))."
+   },
+   "pt": {
+    "question": "O certificado de inspeção e o certificado do seguro obrigatório de responsabilidade civil são documentos importantes, então basta guardá-los em casa em vez de deixá-los no veículo.",
+    "explanation": "O lugar de guarda está errado. Esses documentos devem ficar no veículo que se dirige (Kyosoku, Capítulo 4, Seção 1, item 1(1)(b))."
+   }
+  },
+  "trap_type": "SW",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-8-615",
+  "category": "駐車と停車",
+  "kp": "5-8-10",
+  "group": "E",
+  "source": "教則 第5章第8節10 / 道交法第71条第5号の2",
+  "question_type": "text",
+  "qf": "QF-5-8-D-EI-01",
+  "question_ja": "短い時間で戻るのであれば、エンジンをかけたまま車から離れてもよい。",
+  "answer": false,
+  "explanation_ja": "短い時間でも同じです。車から離れるときは、エンジンを止めてハンドブレーキを掛け、エンジンキーを携帯しなければなりません（教則第5章第8節10）。",
+  "i18n": {
+   "zh": {
+    "question": "只要很快就回来，可以让发动机开着就离开车辆。",
+    "explanation": "时间短也一样。离开车辆时，必须熄灭发动机、拉上手刹，并随身带走车钥匙（教则第5章第8节10）。"
+   },
+   "en": {
+    "question": "If you will be back in a short time, you may leave the vehicle with the engine still running.",
+    "explanation": "A short time is no different. When you leave the vehicle you must stop the engine, apply the hand brake and take the key with you (Kyosoku Chapter 5 Section 8 item 10)."
+   },
+   "vi": {
+    "question": "Nếu chỉ rời đi một lát rồi quay lại thì có thể để nguyên động cơ đang nổ mà rời khỏi xe.",
+    "explanation": "Thời gian ngắn cũng vậy. Khi rời khỏi xe, bạn phải tắt máy, kéo phanh tay và mang theo chìa khóa xe (Kyosoku Chương 5 Mục 8 điểm 10)."
+   },
+   "pt": {
+    "question": "Se for voltar em pouco tempo, pode-se deixar o veículo com o motor ligado.",
+    "explanation": "Pouco tempo não faz diferença. Ao deixar o veículo, é preciso desligar o motor, puxar o freio de mão e levar a chave consigo (Kyosoku, Capítulo 5, Seção 8, item 10)."
+   }
+  },
+  "trap_type": "EI",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ }
+]

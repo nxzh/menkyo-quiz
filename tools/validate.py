@@ -12,6 +12,12 @@ things a human has to look at (absolute wording, sentence-count drift).
 The sign index (signs/index.csv) is checked too: every artwork file has a row,
 every row a file, every row a licence and a source URL, and every question's
 declared image licence is the one its file's row carries.
+
+The fingerprint ledger (data/fingerprints.json) is checked both ways: every
+`covered` row names a question that exists and carries that qf, every question
+appears in exactly one row, and every `dropped` row states its code and reason.
+`--complete` additionally fails on any row still `pending`, which is what the
+cutover commit runs.
 """
 import csv
 import json
@@ -56,6 +62,88 @@ SENT_END = re.compile(r"[。．！？]|[.!?](?=[\s\u00a0]|$)")
 
 SIGN_INDEX = ROOT / "signs" / "index.csv"
 SIGN_FIELDS = ("license", "source_url")
+
+LEDGER = ROOT / "data" / "fingerprints.json"
+LEDGER_FIELDS = ("qf", "kp", "group", "direction", "trap", "condition",
+                 "attested_by", "status")
+DROP_CODES = {"C1", "C2", "C3", "C6"}
+
+
+def check_ledger(items, errors, warns, complete=False):
+    """The bank and the fingerprint ledger must agree in both directions."""
+    if not LEDGER.exists():
+        errors.append("data/fingerprints.json is missing")
+        return
+    try:
+        doc = json.loads(LEDGER.read_text(encoding="utf-8"))
+    except json.JSONDecodeError as e:
+        errors.append(f"data/fingerprints.json: not valid JSON — {e}")
+        return
+    rows = doc.get("fingerprints")
+    if not isinstance(rows, list):
+        errors.append("data/fingerprints.json: no fingerprints array")
+        return
+
+    by_qf, pending = {}, 0
+    for n, r in enumerate(rows, 1):
+        tag = r.get("qf") or f"row #{n}"
+        missing = [k for k in LEDGER_FIELDS if k not in r]
+        if missing:
+            errors.append(f"ledger {tag}: missing {', '.join(missing)}")
+            continue
+        if not QF_RE.match(r["qf"]):
+            errors.append(f"ledger {tag}: malformed qf")
+        if r["qf"] in by_qf:
+            errors.append(f"ledger {tag}: duplicate row")
+        by_qf[r["qf"]] = r
+        if not r["attested_by"]:
+            errors.append(f"ledger {tag}: no source set attests it")
+        status = r["status"]
+        if status == "dropped":
+            if r.get("drop_code") not in DROP_CODES:
+                errors.append(f"ledger {tag}: dropped without a valid drop_code")
+            if not r.get("reason"):
+                errors.append(f"ledger {tag}: dropped without a reason")
+        elif status == "covered":
+            if not r.get("question_id"):
+                errors.append(f"ledger {tag}: covered without a question_id")
+        elif status == "pending":
+            pending += 1
+        else:
+            errors.append(f"ledger {tag}: unknown status {status!r}")
+
+    by_id = {q["id"]: q for q in items if "id" in q}
+    for r in rows:
+        if r.get("status") != "covered":
+            continue
+        qid = r.get("question_id")
+        q = by_id.get(qid)
+        if q is None:
+            errors.append(f"ledger {r['qf']}: names question {qid}, which does not exist")
+        elif q.get("qf") != r["qf"]:
+            errors.append(f"ledger {r['qf']}: {qid} carries qf {q.get('qf')}")
+
+    claimed = Counter(r.get("question_id") for r in rows
+                      if r.get("status") == "covered" and r.get("question_id"))
+    for qid, n in claimed.items():
+        if n > 1:
+            errors.append(f"ledger: question {qid} is claimed by {n} rows")
+    for q in items:
+        row = by_qf.get(q.get("qf"))
+        if row is None:
+            errors.append(f"{q.get('id')}: qf {q.get('qf')} is not in the ledger")
+        elif row.get("question_id") != q.get("id"):
+            errors.append(f"{q.get('id')}: the ledger row for {q.get('qf')} "
+                          f"names {row.get('question_id')!r}")
+
+    line = (f"ledger: {len(rows)} fingerprints, "
+            f"{sum(1 for r in rows if r.get('status') == 'covered')} covered, "
+            f"{pending} pending, "
+            f"{sum(1 for r in rows if r.get('status') == 'dropped')} dropped")
+    if pending and complete:
+        errors.append(f"{line} — --complete requires every fingerprint to be covered")
+    elif pending:
+        warns.append(line)
 
 
 def sign_index(errors):
@@ -219,12 +307,31 @@ def check_batch(path, seen_ids, seen_qf, signs, errors, warns):
 
 
 def main(argv):
+    argv = list(argv)
+    complete = "--complete" in argv
+    if complete:
+        argv.remove("--complete")
+    # --no-ledger checks a batch on its own, for work in progress on a batch
+    # whose questions the ledger does not point at yet. CI never passes it.
+    no_ledger = "--no-ledger" in argv
+    if no_ledger:
+        argv.remove("--no-ledger")
     paths = [pathlib.Path(p) for p in argv[1:]]
     if not paths:
         paths = sorted((ROOT / "questions").rglob("batch-*.json"))
     if not paths:
-        print("no batches found")
-        return 0
+        # an empty bank is a valid state between the clear and the rebuild;
+        # the ledger is still checked, and every row is expected to be pending
+        errors, warns = [], []
+        if not no_ledger:
+            check_ledger([], errors, warns, complete)
+        for w in warns:
+            print(f"WARN  {w}")
+        for e in errors:
+            print(f"ERROR {e}")
+        print("no batches found — the bank is empty")
+        print(f"{len(errors)} error(s), {len(warns)} warning(s)")
+        return 1 if errors else 0
 
     errors, warns, all_items = [], [], []
     seen_ids, seen_qf = {}, {}
@@ -232,6 +339,8 @@ def main(argv):
     check_signs(signs, errors)
     for p in paths:
         all_items += check_batch(p, seen_ids, seen_qf, signs, errors, warns)
+    if not no_ledger:
+        check_ledger(all_items, errors, warns, complete)
 
     for w in warns:
         print(f"WARN  {w}")

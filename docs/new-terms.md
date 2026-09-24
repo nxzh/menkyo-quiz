@@ -1,126 +1,178 @@
 # New terms to add
 
-Terms used in a batch that the glossary (v7, 203 entries) does not carry. Each is
-translated here and folded into the glossary at its next version bump.
+Terms a question needed that the glossary (`docs/glossary-v7.md`) does not list, with
+the rendering used here. Each is a candidate for the next glossary version; until it is
+in the glossary, the rendering recorded here is the one every question uses.
 
-| 日文 | ZH | EN | VI | PT | first used |
-|---|---|---|---|---|---|
-| 環状交差点の側端 | 环形交叉路口的外侧边缘 | the outer edge of the roundabout | mép ngoài của giao lộ vòng xuyến | a borda externa da rotatória | batch-01 |
-| バックミラー | 后视镜 | rear-view mirror | gương chiếu hậu | espelho retrovisor | batch-01 |
-| 安全を確かめる | 确认安全 | check that it is safe | kiểm tra an toàn | verificar a segurança | batch-01 |
-| 進行妨害をしてはならない | 不得妨碍…通行 | must not obstruct the progress of … | không được cản trở … lưu thông | não deve obstruir a passagem de … | batch-01 |
-| 車間距離 | 车距 | following distance | khoảng cách với xe phía trước | distância do veículo à frente | batch-02 |
-| 急ブレーキ | 急刹车 | sudden braking | phanh gấp | frenagem brusca | batch-02 |
-| ブレーキ灯 | 刹车灯 | brake light | đèn phanh | luz de freio | batch-02 |
-| アンチロックブレーキシステム | 防抱死制动系统（ABS） | anti-lock braking system (ABS) | hệ thống chống bó cứng phanh (ABS) | sistema de freios antitravamento (ABS) | batch-02 |
-| 中央分離帯 | 中央分隔带 | median strip | dải phân cách giữa | canteiro central | batch-02 |
-| 生活道路 | 生活道路（居民区道路） | residential street (生活道路) | đường dân sinh | via residencial | batch-02 |
-| 大型自動車／中型自動車／準中型自動車 | 大型汽车／中型汽车／准中型汽车 | large / medium / semi-medium vehicle | xe cỡ lớn / cỡ trung / cỡ bán trung | veículo grande / médio / semimédio | batch-02 |
+Collected from the nine authors who wrote the rebuilt 仮免 bank. Where two authors
+needed the same term they agreed, except where noted.
 
-## Notes
+## Vehicles, licences and documents
 
-- `車間距離`: the 警察庁 English material uses "safe following distance" in running text;
-  "following distance" is taken as the term and "safe" left to the sentence.
-- `生活道路` has no official EN / VI / PT rendering in the multilingual police material,
-  which predates the 2026-09-01 revision. The Japanese is kept in brackets on first use
-  in English per glossary rule 8.
-
-## batch-03 — pedestrians, specified small mopeds, bicycles
-
-| 日文 | ZH | EN | VI | PT |
+| JA | ZH | EN | VI | PT |
 |---|---|---|---|---|
-| 車道 | 车行道 | roadway | lòng đường | pista |
-| 自転車道 | 自行车道 | bicycle path | đường dành cho xe đạp | ciclovia |
-| 乗車用ヘルメット | 骑乘用头盔 | safety helmet | mũ bảo hiểm | capacete |
-| 盲導犬 | 导盲犬 | guide dog | chó dẫn đường | cão-guia |
-| 白や黄のつえ | 白色或黄色的手杖 | a white or yellow cane | gậy trắng hoặc vàng | bengala branca ou amarela |
-| 通学通園バス | 校车（含幼儿园车） | school or kindergarten bus | xe đưa đón học sinh | ônibus escolar |
-| 安全な間隔を空ける | 留出安全间隔 | leave a safe clearance | chừa khoảng cách an toàn | deixar um espaço seguro |
-| 歩行者用道路 | 步行者专用道路 | pedestrian-only road | đường dành riêng cho người đi bộ | via exclusiva de pedestres |
-| 最高速度表示灯 | 最高速度显示灯 | maximum-speed indicator lamp | đèn hiển thị tốc độ tối đa | luz indicadora de velocidade máxima |
-| 特例特定小型原動機付自転車 | 特例特定小型轻型摩托车 | exceptional specified small motorized bicycle | xe gắn máy cỡ nhỏ đặc định theo ngoại lệ | ciclomotor pequeno especificado sob exceção |
+| 自動車検査証 | 车检证 | vehicle inspection certificate | giấy chứng nhận kiểm định xe | certificado de inspeção do veículo |
+| 自動車損害賠償責任保険証明書 | 交通事故责任强制保险证明书 | compulsory liability insurance certificate | giấy chứng nhận bảo hiểm trách nhiệm bồi thường bắt buộc | certificado do seguro obrigatório de responsabilidade civil |
+| 責任共済証明書 | 责任共济证明书 | mutual-aid certificate | giấy chứng nhận tương trợ trách nhiệm | certificado de mutualidade |
+| 任意保険 | 任意保险 | voluntary insurance | bảo hiểm tự nguyện | seguro facultativo |
+| 普通貨物自動車 | 普通货车 | ordinary truck | xe tải thường | caminhão comum |
+| 乗用自動車 | 乘用汽车 | passenger vehicle | xe chở khách | veículo de passageiros |
+| 自動三輪車 | 三轮汽车 | three-wheeled motor vehicle | xe ô tô ba bánh | veículo de três rodas |
+| マイクロバス | 微型巴士 | microbus | xe buýt nhỏ | micro-ônibus |
+| マニュアル車（MT） | 手动挡车（MT车） | manual transmission vehicle (MT) | xe số sàn (MT) | veículo de transmissão manual (MT) |
+| AT限定（条件） | 仅限自动挡车 | automatic-transmission-only condition | điều kiện chỉ lái xe số tự động | condição de somente transmissão automática |
+| 公安委員会 | 公安委员会 | Public Safety Commission | Ủy ban An toàn Công cộng | Comissão de Segurança Pública |
+| 指定自動車教習所の技能検定 | 指定驾校的技能检定 | skills test at a designated driving school | kiểm tra kỹ năng tại trường dạy lái được chỉ định | exame de habilidade em autoescola credenciada |
+| 高速道路 | 高速公路 | expressway | đường cao tốc | rodovia expressa |
 
-## batch-04 — basic conduct, prohibited acts, hills and curves
+## Inside the car
 
-| 日文 | ZH | EN | VI | PT |
+| JA | ZH | EN | VI | PT |
 |---|---|---|---|---|
+| 助手席 | 副驾驶座 | front passenger seat | ghế phụ phía trước | banco do passageiro dianteiro |
+| 後部座席 | 后排座位 | rear seat | ghế sau | banco traseiro |
+| 運転者席の横の乗車装置 | 驾驶席旁边 | the seat next to the driver's seat | ghế bên cạnh ghế lái | assento ao lado do condutor |
+| エアバッグ | 安全气囊 | airbag | túi khí | airbag |
+| 肩ベルト | 肩部皮带 | shoulder belt | dây vai | cinto diagonal |
+| 発育の程度 | 发育程度 | stage of development | mức độ phát triển | grau de desenvolvimento |
+| 運転姿勢 / 乗車姿勢 | 驾驶姿势 / 乘车姿势 | driving posture / riding posture | tư thế lái / tư thế ngồi | postura de direção / postura de pilotagem |
+| クラッチペダル | 离合器踏板 | clutch pedal | bàn đạp ly hợp | pedal da embreagem |
 | フットブレーキ | 脚刹车 | foot brake | phanh chân | freio de pé |
-| 待避所 | 避车处 | pull-in bay | chỗ tránh xe | refúgio |
-| 過積載 | 超载 | overloading | chở quá tải | excesso de carga |
-| 応急救護処置 | 急救处置 | emergency first aid | sơ cứu | primeiros socorros |
-| がけ | 悬崖 | cliff | vách núi | precipício |
-| 横転・横滑り | 侧翻・侧滑 | rolling over / sliding sideways | lật xe / trượt ngang | capotamento / derrapagem lateral |
+| バックミラー | 后视镜 | rear-view mirror | gương chiếu hậu | retrovisor |
+| ルームミラー | 车内后视镜 | interior rear-view mirror | gương chiếu hậu trong xe | retrovisor interno |
+| 前照灯 | 前照灯 | headlight | đèn pha | farol |
+| 前照灯を上向きにする | 调成远光 | switch to full beam | bật đèn pha chiếu xa | pôr o farol alto |
+| 変速（する） | 换挡 | change gear | sang số | trocar de marcha |
+| 前後輪のブレーキ | 前后轮刹车 | front and rear brakes | phanh bánh trước và bánh sau | freios dianteiro e traseiro |
+| ハンズフリー装置 | 免提装置 | hands-free device | thiết bị rảnh tay | dispositivo viva-voz |
+| 無線通話装置 | 无线通话装置 | wireless call device | thiết bị đàm thoại vô tuyến | aparelho de comunicação sem fio |
+| カーナビゲーション装置 | 车载导航装置 | car navigation device | thiết bị dẫn đường trên xe | dispositivo de navegação do veículo |
+| 画像を注視する | 注视图像 | gaze at the screen | nhìn chăm chú vào màn hình | fixar o olhar na tela |
+| ドライブモード | 驾驶模式 | drive mode | chế độ lái xe | modo de condução |
 
-## batch-05 — signs
+## Driving, speed and distance
 
-| 日文 | ZH | EN | VI | PT |
+| JA | ZH | EN | VI | PT |
 |---|---|---|---|---|
-| 警戒標識（前方に〜あり） | 警戒标识（前方有〜） | warning sign (… ahead) | biển báo cảnh báo (phía trước có …) | sinalização de advertência (… à frente) |
-| 合流交通あり | 前方有汇入交通 | Merging traffic ahead | Phía trước có luồng xe nhập vào | Trânsito convergindo à frente |
-| 幅員減少 | 道路变窄 | Road narrows | Đường hẹp lại | Estreitamento da via |
-| 車線数減少 | 车道数减少 | Lane reduction | Giảm số làn | Redução de faixas |
-| すべりやすい | 路面易滑 | Slippery road | Đường trơn trượt | Piso escorregadio |
-| 信号機あり | 前方有信号灯 | Traffic light ahead | Phía trước có đèn tín hiệu | Semáforo à frente |
-| 踏切あり | 前方有铁路道口 | Railway crossing ahead | Phía trước có đường ngang đường sắt | Passagem de nível à frente |
+| 車間距離 | 车距 | following distance | khoảng cách với xe phía trước | distância de seguimento |
+| 急ブレーキ | 急刹车 | brake hard | phanh gấp | frear bruscamente |
+| 急ハンドル | 急打方向 | swerve | đánh lái gấp | dar uma guinada |
+| 急発進 / 急加速 | 急起步 / 急加速 | start off / accelerate suddenly | khởi hành / tăng tốc đột ngột | arrancar / acelerar bruscamente |
+| 空ぶかし | 空轰油门 | rev the engine | rú ga | acelerar o motor em ponto morto |
+| 摩擦抵抗 | 摩擦阻力 | friction | ma sát | atrito |
+| 発進 | 起步 | moving off | khởi hành | iniciar a marcha |
+| こう配の急な上り坂 | 陡上坡 | steep upgrade | dốc lên gấp | aclive íngreme |
 
-## batches 06–50
+## Where a vehicle goes
 
-| 日文 | ZH | EN | VI | PT |
+| JA | ZH | EN | VI | PT |
 |---|---|---|---|---|
-| 路肩 | 路肩 | shoulder (of the road) | lề cứng | acostamento |
-| 軌道敷 | 轨道区域 | tram tracks | phần đường ray tàu điện | trilhos |
-| 専用通行帯 | 专用通行带 | designated lane | làn dành riêng | faixa exclusiva |
-| 優先通行帯 | 优先通行带 | priority lane | làn ưu tiên | faixa de preferência |
-| 緊急自動車 | 紧急车辆 | emergency vehicle | xe ưu tiên | veículo de emergência |
-| 路線バス | 公交车（路线巴士） | route bus | xe buýt tuyến | ônibus de linha |
-| 立入り禁止部分 | 禁止入内部分 | no entry zone | khu vực cấm đi vào | área de entrada proibida |
-| 停止禁止部分 | 禁止停留部分 | no stopping zone | khu vực cấm dừng lại | área de proibição de parada |
-| チャイルドシート | 儿童座椅 | child seat | ghế trẻ em | cadeirinha |
-| 運転姿勢 | 驾驶姿势 | driving posture | tư thế lái | postura de condução |
-| カーナビゲーション装置 | 导航装置 | car navigation system | thiết bị dẫn đường | navegador |
-| 自動車検査証 | 机动车检验证 | vehicle inspection certificate | giấy kiểm định xe | certificado de inspeção veicular |
-| 自動車損害賠償責任保険 | 机动车损害赔偿责任保险 | compulsory liability insurance | bảo hiểm trách nhiệm bắt buộc | seguro obrigatório de responsabilidade |
-| 初心者マーク | 新手标志 | beginner's mark | phù hiệu người mới | selo de iniciante |
-| 高齢者マーク | 高龄者标志 | older driver's mark | phù hiệu người cao tuổi | selo de condutor idoso |
-| 聴覚障害者マーク | 听觉障碍者标志 | hearing-impaired mark | phù hiệu khiếm thính | selo de deficiência auditiva |
-| 身体障害者マーク | 身体障碍者标志 | disabled-driver mark | phù hiệu người khuyết tật | selo de condutor com deficiência |
-| 停止表示器材 | 停车示警器材 | warning device | thiết bị cảnh báo dừng xe | dispositivo de advertência |
-| 非常信号用具 | 紧急信号用具 | emergency signalling equipment | dụng cụ báo hiệu khẩn cấp | equipamento de sinalização de emergência |
-| 応急救護処置 | 急救处置 | emergency first aid | sơ cứu | primeiros socorros |
-| けん引免許 | 牵引驾照 | towing licence | bằng kéo xe | habilitação de reboque |
-| 代行運転自動車 | 代驾用车 | substitute-driving vehicle | xe lái thay | veículo de condução por terceiros |
-| 仮免許練習標識 | 临时驾照练习标志 | provisional-licence practice sign | biển tập lái bằng tạm | placa de treinamento |
-| 時差式信号機 | 时差式信号机 | staggered-phase signal | đèn lệch pha | semáforo de fase defasada |
-| スクランブル交差点 | 全向十字路口 | scramble crossing | giao lộ toàn hướng | cruzamento em diagonal |
-| 二段階の右折方法 | 二阶段右拐弯方法 | two-step right turn | cách rẽ phải hai bước | conversão à direita em duas etapas |
-| 小回りの右折方法 | 小转弯右拐弯方法 | small-turn right turn | cách rẽ phải rẽ nhỏ | conversão em giro curto |
-| 二重追越し | 二重超车 | double overtaking | vượt kép | ultrapassagem dupla |
-| 割込み | 插队 | cutting in | chen ngang | entrar à frente |
-| 幅寄せ | 逼近挤压 | squeezing in alongside | ép sát | espremer ao lado |
-| クリープ現象 | 蠕行现象 | creep phenomenon | hiện tượng trườn xe | fenômeno de creep |
-| チェンジレバー | 换挡杆 | selector lever | cần số | alavanca seletora |
-| ハンドブレーキ | 手刹 | handbrake | phanh tay | freio de mão |
-| 先進安全自動車（ASV） | 先进安全汽车（ASV） | advanced safety vehicle (ASV) | xe an toàn tiên tiến (ASV) | veículo de segurança avançada (ASV) |
-| 自動運行装置 | 自动运行装置 | automated driving device | thiết bị lái tự động | dispositivo de condução automatizada |
-| 遠隔操作型小型車 | 远程操作型小型车 | remotely operated small vehicle | xe cỡ nhỏ điều khiển từ xa | veículo pequeno de operação remota |
-| 踏切支障報知装置 | 道口故障报警装置 | push-button emergency alarm (at a crossing) | nút bấm báo sự cố đường ngang | botão de aviso de emergência |
-| 発炎筒 | 信号燃烧筒 | flare | pháo sáng | sinalizador |
-| センタースタンド | 中撑 | centre stand | chân chống giữa | cavalete central |
-| プロテクター | 护具 | protectors | giáp bảo hộ | protetores |
-| スロットル | 油门（二轮车） | throttle | tay ga | acelerador (moto) |
-| 二段停止線 | 二段停止线 | two-stage stop line | vạch dừng hai bậc | linha de parada em dois níveis |
-| 車線境界線 | 车道分界线 | lane boundary line | vạch phân làn | linha de divisão de faixas |
-| 導流帯 | 导流带 | channelising marking | vạch dẫn hướng | marcação de canalização |
-| 規制予告 | 规制预告 | advance notice of restriction | báo trước quy định | aviso prévio de restrição |
-| 歩行者用路側帯 | 步行者用路侧带 | pedestrian side strip | lề đường dành cho người đi bộ | faixa lateral de pedestres |
-| 駐停車禁止路側帯 | 禁止停车驻车路侧带 | no-stopping side strip | lề đường cấm dừng đỗ | faixa lateral de parada proibida |
+| 通行区分 | 通行区分 | lane designation | cách phân làn | designação de faixas |
+| 自転車道 | 自行车道 | bicycle path | đường dành cho xe đạp | ciclovia |
+| はみ出して通行する | 越到…部分通行 | move out onto … | lấn sang … | transpor para … |
+| 道路の左端 | 道路左端 | the left edge of the road | mép trái của đường | a extremidade esquerda da via |
+| 黄の線 / 白の線 | 黄线 / 白线 | yellow line / white line | vạch vàng / vạch trắng | linha amarela / linha branca |
+| 道路工事 / 工事の車 | 道路施工 / 施工车辆 | road works / works vehicle | thi công đường / xe công trình | obras na via / veículo de obras |
+| 沿道に車庫を持つ車 | 在沿路拥有车库的车辆 | vehicles with a garage on that road | xe có gara ven chính con đường đó | os que têm garagem ao longo dessa via |
+| 車庫 | 车库 | garage | gara | garagem |
+| 待避所 | 避车处 | turnout | điểm tránh xe | refúgio |
+| がけ（転落のおそれのある） | 陡坡 | cliff | vách dốc | despenhadeiro |
+| 狭いところで行き違う | 在狭窄处会车 | pass an oncoming vehicle in a narrow place | tránh xe ngược chiều ở nơi hẹp | cruzar com veículo em local estreito |
 
-## Notes
+## Overtaking and intersections
 
-- `路肩` and `車道` are both rendered in Chinese in a way that keeps them apart from
-  `路側帯` (路侧带) and `車両通行帯` (车辆通行带), which the glossary already fixes.
-- 「超越」 is banned by glossary rule 5, so a Chinese sentence that needs an object for
-  追越し is written 「对〜超车」, never 「超越〜」. `tools/validate.py` enforces this.
-- The glossary's own entry for 追越しのための右側部分はみ出し通行禁止 uses 「超越」 in its
-  Chinese column, which contradicts its rule 5. The questions follow the rule, not that
-  entry; the glossary should be corrected at its next version bump.
+| JA | ZH | EN | VI | PT |
+|---|---|---|---|---|
+| 追越しに十分な余地 | 足够的超车空间 | enough room to overtake | đủ chỗ để vượt | espaço suficiente para a ultrapassagem |
+| 巻き込む（内輪差による） | 卷入 | catch (a pedestrian or bicycle) | cuốn vào | prender |
+| 交差点の側端 | 交叉路口的侧边 | the edge of the intersection | mép của nút giao thông | a borda do cruzamento |
+| 道幅が同じような道路 | 宽度大致相同的道路 | roads of roughly the same width | những con đường có chiều rộng gần như nhau | vias de largura semelhante |
+| 見通しのよい | 视野良好的 | with good visibility | có tầm nhìn tốt | com boa visibilidade |
+| 後ろから来る車 | 后车 | the vehicle coming up behind | xe đi tới từ phía sau | o veículo que vem atrás |
+
+## Pedestrians and people needing protection
+
+| JA | ZH | EN | VI | PT |
+|---|---|---|---|---|
+| 安全な間隔 | 安全间隔 | a safe gap | khoảng cách an toàn | distância segura |
+| 盲導犬 | 导盲犬 | guide dog | chó dẫn đường | cão-guia |
+| 白や黄のつえ | 白色或黄色手杖 | a white or yellow cane | gậy trắng hoặc gậy vàng | bengala branca ou amarela |
+| 身体障害者用の車 | 身体残障者用车 | a vehicle for people with physical disabilities | xe dành cho người khuyết tật vận động | veículo para pessoas com deficiência física |
+| 独りで歩いている子供 | 独自行走的儿童 | a child walking alone | trẻ em đi một mình | criança que anda sozinha |
+| 横断しようとしている歩行者 | 正要横穿的步行者 | a pedestrian about to cross | người đi bộ đang định băng ngang | pedestre prestes a atravessar |
+| 歩道と車道の区別のない道路 | 人行道与车道没有区分的道路 | a road with no division between sidewalk and roadway | đường không có phân chia giữa vỉa hè và lòng đường | via sem separação entre calçada e pista |
+| ぬかるみ / 水たまり | 泥泞 / 水洼 | a muddy place / a puddle | chỗ lầy lội / vũng nước | lamaçal / poça |
+
+## Signals and the horn
+
+| JA | ZH | EN | VI | PT |
+|---|---|---|---|---|
+| 手による合図 | 用手臂打信号 | arm signal | báo hiệu bằng cánh tay | sinal com o braço |
+| 肘を垂直に上に曲げる | 将肘部垂直向上弯曲 | bend the elbow vertically upwards | gập khuỷu tay thẳng đứng lên trên | dobrar o cotovelo verticalmente para cima |
+| サイレン | 警笛 | siren | còi hú | sirene |
+
+## Places, weather and the world outside the car
+
+| JA | ZH | EN | VI | PT |
+|---|---|---|---|---|
+| 警察署 | 警察署 | police station | đồn cảnh sát | delegacia |
+| 消防署 | 消防署 | fire station | trạm cứu hỏa | quartel de bombeiros |
+| 住宅地 | 住宅区 | residential area | khu dân cư | bairro residencial |
+| 霧 | 雾 | fog | sương mù | neblina |
+| 夕日の反射 | 夕阳反射 | reflection of the setting sun | ánh nắng chiều phản chiếu | reflexo do sol poente |
+
+## Level crossings
+
+| JA | ZH | EN | VI | PT |
+|---|---|---|---|---|
+| 警報機（踏切） | 警报器 | crossing alarm | chuông cảnh báo | alarme sonoro |
+| しゃ断機 | 遮断杆 | barrier | thanh chắn | cancela |
+| 踏切支障報知装置 | 道口故障报警装置 | crossing emergency alarm button | nút báo sự cố nút giao | botão de aviso de obstrução |
+| 落輪（する） | 车轮掉落 | drop a wheel off the edge | bánh xe sụt ra mép | roda cair na borda |
+| 列車の運転士 | 列车司机 | train driver | lái tàu | maquinista |
+| 輪止め | 挡车块 | wheel chock | chèn bánh xe | calço de roda |
+
+## Two-wheelers
+
+| JA | ZH | EN | VI | PT |
+|---|---|---|---|---|
+| 押して歩く | 推着…步行 | push on foot | dắt bộ | empurrar a pé |
+| 側車 | 侧座 | sidecar | thùng bên | sidecar |
+
+## Conduct and attitude
+
+| JA | ZH | EN | VI | PT |
+|---|---|---|---|---|
+| 過労 | 过劳 | extreme fatigue | quá mệt mỏi | fadiga excessiva |
+| 睡眠作用のある薬 | 有催眠作用的药 | medicine that causes drowsiness | thuốc gây buồn ngủ | remédio que causa sonolência |
+| 休息 | 休息 | rest break | nghỉ ngơi | pausa de descanso |
+| キャッチボール | 投接球 | play catch | ném bắt bóng | jogar bola |
+| ローラースケート | 轮滑 | roller skating | trượt patin | andar de patins |
+| 陳列（商品を） | 陈列 | display goods | bày hàng hóa | expor mercadorias |
+| 思いやり | 体谅 | consideration | sự thông cảm | consideração |
+| 動きが取れなくなる | 无法动弹 | become stuck | bị kẹt lại | ficar preso |
+| 進路を譲る / 妨げとなる | 让路 / 妨碍 | give way / obstruct | nhường đường / cản trở | dar passagem / atrapalhar |
+
+## Citing the law
+
+The bank had no house form for a 道交法 citation before this rebuild. The renderings
+below are the one now used throughout; they are a proposal for the glossary.
+
+| JA | ZH | EN | VI | PT |
+|---|---|---|---|---|
+| 道路交通法第X条第Y項 | 道交法第X条第Y款 | Road Traffic Act Article X(Y) | Luật Giao thông Đường bộ Điều X khoản Y | Lei de Trânsito, artigo X, parágrafo Y |
+| 道路交通法第X条の3 | 道交法第X条之3 | Road Traffic Act Article X-3 | Luật Giao thông Đường bộ Điều X-3 | Lei de Trânsito, Artigo X-3 |
+
+## Two corrections made to the glossary itself
+
+`assets/术语表_v7_JA-ZH-EN-VI-PT.md` gave the ZH for 追越しのための右側部分はみ出し通行禁止
+as 「禁止为超车**超越**到道路右侧部分」, which contains the very word its own rule 5 bans
+and which `tools/validate.py` rejects outright. It now reads 「禁止为超车驶入道路右侧部分」,
+with the reason recorded in the glossary. The glossary also offers no transitive ZH form
+for 「Xを追い越す」, so the bank writes 「对X超车」 throughout.
+
+The second: the 警戒標識 name 横断歩道又は自転車横断帯あり carried the ZH 「前方有人行横道或
+自行车**横道**」 while the standalone 自転車横断帯 row says 自行车横穿带 — one thing with two
+names, against the glossary's own rule 2. The sign name now follows the standalone row.
+EN / VI / PT were already consistent and are unchanged; ZH is not covered by rule 7, so
+no official translation was displaced. The reason is recorded in the glossary.

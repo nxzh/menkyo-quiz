@@ -1,0 +1,663 @@
+[
+ {
+  "id": "K4-2-616",
+  "category": "運転免許",
+  "kp": "4-2-1",
+  "group": "F",
+  "source": "教則 第4章第2節1(3) / 道交法第87条第1項",
+  "question_type": "text",
+  "qf": "QF-4-2-A-N-01",
+  "question_ja": "仮免許を受けた人は、練習のためか、運転免許試験や指定自動車教習所の技能検定を受けるためでなければ、自動車を運転することはできない。",
+  "answer": true,
+  "explanation_ja": "教則第4章第2節1(3)のとおりです。仮免許は、第一種免許を受けようとする人が練習などのために自動車を運転する場合の免許です（道交法第87条第1項）。",
+  "i18n": {
+   "zh": {
+    "question": "取得临时驾照（仮免）的人，除了为练习，或者为参加驾照考试和指定驾校的技能检定之外，不能驾驶汽车。",
+    "explanation": "符合教则第4章第2节1(3)的规定。临时驾照是准备取得第一种驾照的人为练习等目的驾驶汽车时所需的驾照（道交法第87条第1款）。"
+   },
+   "en": {
+    "question": "A person who holds a learner's permit (仮免) may drive a motor vehicle only for practice or in order to take the driving test or the skills test at a designated driving school.",
+    "explanation": "This is Kyosoku Chapter 4 Section 2 item 1(3). A learner's permit is the licence for someone who intends to obtain a Class 1 driver's license and who drives for practice and similar purposes (Road Traffic Act Article 87(1))."
+   },
+   "vi": {
+    "question": "Người có bằng lái tạm thời (仮免) chỉ được lái xe ô tô để tập lái, hoặc để dự kỳ thi sát hạch lái xe hay kiểm tra kỹ năng tại trường dạy lái được chỉ định.",
+    "explanation": "Đúng theo Kyosoku Chương 4 Mục 2 điểm 1(3). Bằng lái tạm thời là bằng dành cho người sắp lấy bằng lái hạng 1 khi lái xe để tập lái và các mục đích tương tự (Luật Giao thông Đường bộ Điều 87 khoản 1)."
+   },
+   "pt": {
+    "question": "Quem tem habilitação provisória (仮免) só pode dirigir um automóvel para treinar ou para prestar o exame de habilitação ou o exame de habilidade em autoescola credenciada.",
+    "explanation": "É o Kyosoku, Capítulo 4, Seção 2, item 1(3). A habilitação provisória é a licença de quem pretende obter a habilitação de Classe 1 e dirige para treinar e para fins semelhantes (Lei de Trânsito Rodoviário, Artigo 87(1))."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 1,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K4-2-617",
+  "category": "運転免許",
+  "kp": "4-2-2",
+  "group": "F",
+  "source": "教則 第4章第2節2",
+  "question_type": "text",
+  "qf": "QF-4-2-A-N-02",
+  "question_ja": "普通免許だけを受けている人が、普通自動車のほかに小型特殊自動車や一般原動機付自転車を運転しても、無免許運転にはならない。",
+  "answer": true,
+  "explanation_ja": "教則第4章第2節2の表のとおりです。普通自動二輪車や大型特殊自動車を運転するには、それぞれ別の免許が必要です。",
+  "i18n": {
+   "zh": {
+    "question": "只取得了普通驾照的人，除普通汽车外还驾驶小型特殊汽车或一般轻型摩托车，也不属于无照驾驶。",
+    "explanation": "符合教则第4章第2节2的表格。要驾驶普通二轮汽车或大型特殊汽车，分别需要另外的驾照。"
+   },
+   "en": {
+    "question": "A person who holds only a regular motor vehicle license is not driving without a license if, besides an ordinary motor vehicle, they drive a small-sized special motor vehicle or a general motorized bicycle (moped).",
+    "explanation": "This is the table in Kyosoku Chapter 4 Section 2 item 2. Riding a regular motorcycle or driving a large-sized special motor vehicle requires its own separate licence."
+   },
+   "vi": {
+    "question": "Người chỉ có bằng lái xe thường, ngoài xe ô tô thường mà còn lái xe chuyên dùng cỡ nhỏ hay xe gắn máy (原付), thì cũng không phải là lái xe không có bằng lái.",
+    "explanation": "Đúng theo bảng ở Kyosoku Chương 4 Mục 2 điểm 2. Để lái xe mô tô thường hay xe chuyên dùng cỡ lớn thì cần bằng lái riêng cho từng loại."
+   },
+   "pt": {
+    "question": "Quem tem apenas a habilitação para veículos comuns não está dirigindo sem habilitação se, além do veículo comum, dirigir um veículo especial pequeno ou um ciclomotor.",
+    "explanation": "É a tabela do Kyosoku, Capítulo 4, Seção 2, item 2. Para pilotar motocicleta comum ou dirigir veículo especial grande é preciso uma habilitação própria para cada um."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 1,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K4-2-618",
+  "category": "運転免許",
+  "kp": "4-2-3",
+  "group": "F",
+  "source": "教則 第4章第2節3",
+  "question_type": "text",
+  "qf": "QF-4-2-A-N-03",
+  "question_ja": "故障した車をロープやクレーンでけん引するときは、けん引免許はいらない。",
+  "answer": true,
+  "explanation_ja": "教則第4章第2節3のとおりです。車の総重量が750キログラム以下の車をけん引するときも、けん引免許はいりません。",
+  "i18n": {
+   "zh": {
+    "question": "用绳索或吊车牵引发生故障的车辆时，不需要牵引驾照。",
+    "explanation": "符合教则第4章第2节3的规定。牵引车辆总重量在750千克以下的车时，同样不需要牵引驾照。"
+   },
+   "en": {
+    "question": "When you tow a broken-down vehicle with a rope or a crane, you do not need a towing license.",
+    "explanation": "This is Kyosoku Chapter 4 Section 2 item 3. You do not need a towing license to tow a vehicle whose gross vehicle weight is 750 kilograms or less either."
+   },
+   "vi": {
+    "question": "Khi kéo xe bị hỏng bằng dây kéo hoặc cần cẩu thì không cần bằng lái kéo xe.",
+    "explanation": "Đúng theo Kyosoku Chương 4 Mục 2 điểm 3. Khi kéo xe có tổng trọng lượng xe từ 750 kilôgam trở xuống cũng không cần bằng lái kéo xe."
+   },
+   "pt": {
+    "question": "Ao rebocar um veículo avariado com corda ou grua, não é preciso habilitação para reboque.",
+    "explanation": "É o Kyosoku, Capítulo 4, Seção 2, item 3. Também não é preciso habilitação para reboque quando o veículo rebocado tem peso bruto de 750 quilogramas ou menos."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K4-1-619",
+  "category": "運転免許",
+  "kp": "4-1-1",
+  "group": "F",
+  "source": "道交法第100条の2第1項 / 教則 第4章第1節1(1)エ、オ",
+  "question_type": "text",
+  "qf": "QF-4-2-A-N-04",
+  "question_ja": "初心運転者期間は免許の種類ごとに数えるので、普通免許を受けて1年を過ぎている人でも、新たに大型二輪免許を受ければ、その大型二輪免許についての初心運転者期間が始まる。",
+  "answer": true,
+  "explanation_ja": "初心運転者期間とは、準中型免許、普通免許、大型二輪免許、普通二輪免許または原付免許を受けた日から、その免許を受けていた期間が通算して1年になる日までをいいます（道交法第100条の2第1項）。免許の種類ごとに数えるので、ほかの免許を長く持っていても新しい免許の初心運転者期間がなくなるわけではありません。",
+  "i18n": {
+   "zh": {
+    "question": "新手驾驶者期间按驾照种类分别计算，所以即使是取得普通驾照已满1年的人，新取得大型二轮驾照后，针对该大型二轮驾照的新手驾驶者期间也会重新开始。",
+    "explanation": "新手驾驶者期间，是指从取得准中型驾照、普通驾照、大型二轮驾照、普通二轮驾照或轻型摩托车驾照之日起，到持有该驾照的期间合计满1年之日为止（道交法第100条之2第1款）。因为按驾照种类分别计算，所以即使长期持有其他驾照，新驾照的新手驾驶者期间也不会因此消失。"
+   },
+   "en": {
+    "question": "The beginner driver's period is counted separately for each type of licence, so even someone who has held a regular motor vehicle license for more than a year begins a new beginner driver's period for a large motorcycle license just obtained.",
+    "explanation": "The beginner driver's period runs from the day a semi-middle-sized, regular, large motorcycle, regular motorcycle or moped license is granted until the day the holder has held that licence for one year in total (Road Traffic Act Article 100-2(1)). Because it is counted for each type of licence, holding another licence for a long time does not remove the beginner driver's period for a new one."
+   },
+   "vi": {
+    "question": "Thời gian người mới lái xe được tính riêng cho từng loại bằng lái, nên ngay cả người đã có bằng lái xe thường hơn một năm, khi vừa lấy bằng lái xe mô tô cỡ lớn thì thời gian người mới lái xe của bằng đó vẫn bắt đầu.",
+    "explanation": "Thời gian người mới lái xe kéo dài từ ngày được cấp bằng lái xe cỡ bán trung, xe thường, xe mô tô cỡ lớn, xe mô tô thường hoặc xe gắn máy cho đến ngày người đó đã giữ bằng ấy đủ một năm cộng dồn (Luật Giao thông Đường bộ Điều 100-2 khoản 1). Vì được tính theo từng loại bằng, việc đã giữ một bằng khác lâu năm không làm mất đi thời gian người mới lái xe của bằng mới."
+   },
+   "pt": {
+    "question": "O período de condutor novato é contado separadamente para cada tipo de habilitação, de modo que mesmo quem tem habilitação para veículos comuns há mais de um ano inicia um novo período de condutor novato ao obter agora a habilitação para motocicletas grandes.",
+    "explanation": "O período de condutor novato vai do dia em que se obtém a habilitação para veículos médios leves, comuns, motocicletas grandes, motocicletas comuns ou ciclomotores até o dia em que se completa um ano somado de posse dessa habilitação (Lei de Trânsito Rodoviário, Artigo 100-2(1)). Como é contado por tipo de habilitação, ter outra habilitação há muito tempo não elimina o período de condutor novato da nova."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 3,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K4-2-620",
+  "category": "運転免許",
+  "kp": "4-2-1",
+  "group": "F",
+  "source": "道交法第87条第1項 / 教則 第4章第2節1(3)",
+  "question_type": "text",
+  "qf": "QF-4-2-A-N-05",
+  "question_ja": "大型自動車、中型自動車、準中型自動車または普通自動車を、その車を運転することのできる第一種免許や第二種免許を受けないで練習や試験のために運転するときは、その車種に応じた仮免許を受けなければならない。",
+  "answer": true,
+  "explanation_ja": "道交法第87条第1項のとおりです。運転しようとする車が普通自動車であれば普通仮免許、準中型自動車であれば準中型仮免許というように、車種に応じた仮免許が必要です。",
+  "i18n": {
+   "zh": {
+    "question": "在没有取得能够驾驶该车的第一种驾照或第二种驾照的情况下，为练习或考试而驾驶大型汽车、中型汽车、准中型汽车或普通汽车时，必须取得与该车种相应的临时驾照（仮免）。",
+    "explanation": "符合道交法第87条第1款的规定。要驾驶的车是普通汽车就需要普通临时驾照，是准中型汽车就需要准中型临时驾照，必须取得与车种相应的临时驾照。"
+   },
+   "en": {
+    "question": "If you drive a large-sized, medium-sized, semi-medium-sized or ordinary motor vehicle for practice or for a test without holding the Class 1 or Class 2 driver's license for that vehicle, you must hold the learner's permit (仮免) that matches that type of vehicle.",
+    "explanation": "This is Road Traffic Act Article 87(1). The permit has to match the vehicle: an ordinary-vehicle learner's permit for an ordinary motor vehicle, a semi-medium-vehicle learner's permit for a semi-medium-sized motor vehicle, and so on."
+   },
+   "vi": {
+    "question": "Khi lái xe ô tô cỡ lớn, cỡ vừa, cỡ bán trung hay xe ô tô thường để tập lái hoặc để dự thi mà chưa có bằng lái hạng 1 hoặc hạng 2 cho xe đó, bạn phải có bằng lái tạm thời (仮免) tương ứng với loại xe.",
+    "explanation": "Đúng theo Luật Giao thông Đường bộ Điều 87 khoản 1. Bằng phải khớp với xe: xe ô tô thường thì cần bằng tạm thời xe thường, xe cỡ bán trung thì cần bằng tạm thời cỡ bán trung, và tương tự như vậy."
+   },
+   "pt": {
+    "question": "Ao dirigir um veículo de grande porte, médio, semi-médio ou comum para treino ou para exame sem ter a habilitação de Classe 1 ou de Classe 2 daquele veículo, é preciso ter a habilitação provisória (仮免) correspondente ao tipo de veículo.",
+    "explanation": "É a Lei de Trânsito Rodoviário, Artigo 87(1). A habilitação provisória tem de corresponder ao veículo: provisória para veículos comuns no caso de um veículo comum, provisória para semi-médios no caso de um semi-médio, e assim por diante."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K4-2-621",
+  "category": "運転免許",
+  "kp": "4-2-2",
+  "group": "F",
+  "source": "教則 第4章第1節1(1)ウ、第4章第2節2 / 道交法第91条",
+  "question_type": "text",
+  "qf": "QF-4-2-A-N-06",
+  "question_ja": "オートマチック車に限る条件が付いた大型二輪免許では、クラッチ操作を必要とする大型自動二輪車を運転することはできない。",
+  "answer": true,
+  "explanation_ja": "免許証に記載されている条件は守らなければなりません（教則第4章第1節1(1)ウ、道交法第91条）。大型二輪免許で運転できるのは大型自動二輪車、普通自動二輪車、小型特殊自動車、一般原動機付自転車ですが、この条件が付いていれば二輪車はオートマチック車に限られます。",
+  "i18n": {
+   "zh": {
+    "question": "附有「仅限自动挡车（AT车）」条件的大型二轮驾照，不能用来驾驶需要操作离合器的大型二轮汽车。",
+    "explanation": "驾照上记载的条件必须遵守（教则第4章第1节1(1)ウ、道交法第91条）。大型二轮驾照本可驾驶大型二轮汽车、普通二轮汽车、小型特殊汽车和一般轻型摩托车，但附有该条件时，二轮车仅限自动挡车。"
+   },
+   "en": {
+    "question": "With a large motorcycle license carrying an automatic-transmission-only condition, you may not ride a large motorcycle that needs clutch operation.",
+    "explanation": "The conditions written on the licence must be observed (Kyosoku Chapter 4 Section 1 item 1(1)(c); Road Traffic Act Article 91). A large motorcycle license covers large motorcycles, regular motorcycles, small-sized special motor vehicles and general motorized bicycles (mopeds), but with this condition the two-wheelers are limited to automatic transmission vehicles (AT)."
+   },
+   "vi": {
+    "question": "Với bằng lái xe mô tô cỡ lớn có kèm điều kiện chỉ lái xe số tự động, bạn không được lái xe mô tô cỡ lớn cần thao tác ly hợp.",
+    "explanation": "Các điều kiện ghi trên bằng lái phải được tuân thủ (Kyosoku Chương 4 Mục 1 điểm 1(1)(c); Luật Giao thông Đường bộ Điều 91). Bằng lái xe mô tô cỡ lớn cho phép lái xe mô tô cỡ lớn, xe mô tô thường, xe chuyên dùng cỡ nhỏ và xe gắn máy (原付), nhưng khi có điều kiện này thì xe hai bánh chỉ giới hạn ở xe số tự động (AT)."
+   },
+   "pt": {
+    "question": "Com uma habilitação para motocicletas grandes que traz a condição de somente transmissão automática, não se pode pilotar uma motocicleta grande que exija o uso da embreagem.",
+    "explanation": "As condições escritas na carteira devem ser respeitadas (Kyosoku, Capítulo 4, Seção 1, item 1(1)(c); Lei de Trânsito Rodoviário, Artigo 91). A habilitação para motocicletas grandes abrange motocicletas grandes, motocicletas comuns, veículos especiais pequenos e ciclomotores, mas com essa condição as duas rodas ficam limitadas aos veículos de transmissão automática (AT)."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 3,
+  "exam_scope": "仮免|本免|外免",
+  "verify": true
+ },
+ {
+  "id": "K4-2-622",
+  "category": "運転免許",
+  "kp": "4-2-1",
+  "group": "F",
+  "source": "教則 第4章第2節1 / 道交法第84条第2項",
+  "question_type": "text",
+  "qf": "QF-4-2-A-N-07",
+  "question_ja": "第一種運転免許と第二種運転免許のほかに仮運転免許があり、運転免許はこの3つに区分されている。",
+  "answer": true,
+  "explanation_ja": "教則第4章第2節1のとおりです（道交法第84条第2項）。大型免許や普通免許、原付免許などは、第一種運転免許の中の種類です。",
+  "i18n": {
+   "zh": {
+    "question": "除第一种驾照和第二种驾照外还有临时驾照（仮免），驾照就区分为这3类。",
+    "explanation": "符合教则第4章第2节1的规定（道交法第84条第2款）。大型驾照、普通驾照、轻型摩托车驾照等，都是第一种驾照里面的种类。"
+   },
+   "en": {
+    "question": "Besides the Class 1 driver's license and the Class 2 driver's license there is also the learner's permit (仮免), and driver's licences are divided into these three.",
+    "explanation": "This is Kyosoku Chapter 4 Section 2 item 1 (Road Traffic Act Article 84(2)). The large-sized, regular and moped licences are types within the Class 1 driver's license."
+   },
+   "vi": {
+    "question": "Ngoài bằng lái hạng 1 và bằng lái hạng 2 còn có bằng lái tạm thời (仮免), và bằng lái xe được chia thành ba loại này.",
+    "explanation": "Đúng theo Kyosoku Chương 4 Mục 2 điểm 1 (Luật Giao thông Đường bộ Điều 84 khoản 2). Bằng lái xe cỡ lớn, bằng lái xe thường hay bằng lái xe gắn máy đều là các loại nằm trong bằng lái hạng 1."
+   },
+   "pt": {
+    "question": "Além da habilitação de Classe 1 e da habilitação de Classe 2 existe também a habilitação provisória (仮免), e as carteiras de habilitação dividem-se nessas três.",
+    "explanation": "É o Kyosoku, Capítulo 4, Seção 2, item 1 (Lei de Trânsito Rodoviário, Artigo 84(2)). As habilitações para veículos pesados, para veículos comuns e para ciclomotores são tipos dentro da habilitação de Classe 1."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 1,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K4-2-623",
+  "category": "運転免許",
+  "kp": "4-2-1",
+  "group": "F",
+  "source": "教則 第4章第2節1(3) / 道交法第87条第2項",
+  "question_type": "text",
+  "qf": "QF-4-2-A-N-08",
+  "question_ja": "仮免許で練習のため自動車を運転するときは、その自動車を運転することのできる第一種免許を通算3年以上受けている人か、その自動車を運転することのできる第二種免許を受けている人などを運転者席の横に乗せ、その指導を受けながら運転しなければならない。",
+  "answer": true,
+  "explanation_ja": "教則第4章第2節1(3)のとおりです（道交法第87条第2項）。横に乗る人は、免許の効力が停止されていない人でなければなりません。",
+  "i18n": {
+   "zh": {
+    "question": "用临时驾照（仮免）为练习而驾驶汽车时，必须让持有能够驾驶该车的第一种驾照合计3年以上的人，或者持有能够驾驶该车的第二种驾照的人等坐在驾驶席旁边，在其指导下驾驶。",
+    "explanation": "符合教则第4章第2节1(3)的规定（道交法第87条第2款）。坐在旁边的人必须是驾照效力没有被停止的人。"
+   },
+   "en": {
+    "question": "When you drive for practice on a learner's permit (仮免), you must have in the seat next to the driver's seat a person who has held the Class 1 driver's license for that vehicle for three years or more in total, or a person who holds the Class 2 driver's license for it, and drive under that person's guidance.",
+    "explanation": "This is Kyosoku Chapter 4 Section 2 item 1(3) (Road Traffic Act Article 87(2)). The person sitting beside you must be someone whose licence is not under suspension."
+   },
+   "vi": {
+    "question": "Khi lái xe để tập lái bằng bằng lái tạm thời (仮免), bạn phải cho ngồi ở ghế bên cạnh ghế lái một người đã giữ bằng lái hạng 1 của xe đó từ ba năm trở lên cộng dồn, hoặc một người có bằng lái hạng 2 của xe đó, và lái dưới sự hướng dẫn của người ấy.",
+    "explanation": "Đúng theo Kyosoku Chương 4 Mục 2 điểm 1(3) (Luật Giao thông Đường bộ Điều 87 khoản 2). Người ngồi cùng phải là người không đang bị đình chỉ bằng lái."
+   },
+   "pt": {
+    "question": "Ao dirigir para treinar com habilitação provisória (仮免), é preciso levar no assento ao lado do condutor uma pessoa que tenha a habilitação de Classe 1 daquele veículo há três anos ou mais somados, ou que tenha a habilitação de Classe 2 daquele veículo, e dirigir sob a orientação dela.",
+    "explanation": "É o Kyosoku, Capítulo 4, Seção 2, item 1(3) (Lei de Trânsito Rodoviário, Artigo 87(2)). A pessoa que acompanha não pode estar com a habilitação suspensa."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 3,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K4-2-624",
+  "category": "運転免許",
+  "kp": "4-2-1",
+  "group": "F",
+  "source": "教則 第4章第2節1(3) / 道交法第87条第3項",
+  "question_type": "text",
+  "qf": "QF-4-2-A-N-09",
+  "question_ja": "仮免許で練習のため自動車を運転するときは、その車の前面と後面の定められた位置に仮免許練習標識を付けなければならない。",
+  "answer": true,
+  "explanation_ja": "教則第4章第2節1(3)のとおりです（道交法第87条第3項）。この標識は前と後ろの両方に必要です。",
+  "i18n": {
+   "zh": {
+    "question": "用临时驾照（仮免）为练习而驾驶汽车时，必须在该车前面和后面的规定位置安装临时驾照练习标识。",
+    "explanation": "符合教则第4章第2节1(3)的规定（道交法第87条第3款）。该标识前后两处都需要。"
+   },
+   "en": {
+    "question": "When you drive for practice on a learner's permit (仮免), you must fit the learner's permit practice sign at the prescribed positions on both the front and the rear of the vehicle.",
+    "explanation": "This is Kyosoku Chapter 4 Section 2 item 1(3) (Road Traffic Act Article 87(3)). The sign is needed at the front and at the rear alike."
+   },
+   "vi": {
+    "question": "Khi lái xe để tập lái bằng bằng lái tạm thời (仮免), bạn phải gắn biển tập lái bằng tạm thời ở vị trí quy định trên cả mặt trước và mặt sau của xe.",
+    "explanation": "Đúng theo Kyosoku Chương 4 Mục 2 điểm 1(3) (Luật Giao thông Đường bộ Điều 87 khoản 3). Biển này cần có ở cả phía trước lẫn phía sau."
+   },
+   "pt": {
+    "question": "Ao dirigir para treinar com habilitação provisória (仮免), é preciso fixar a placa de treino com habilitação provisória nas posições determinadas na frente e na traseira do veículo.",
+    "explanation": "É o Kyosoku, Capítulo 4, Seção 2, item 1(3) (Lei de Trânsito Rodoviário, Artigo 87(3)). A placa é necessária tanto na frente como atrás."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 1,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K4-2-625",
+  "category": "運転免許",
+  "kp": "4-2-2",
+  "group": "F",
+  "source": "教則 第4章第2節2",
+  "question_type": "text",
+  "qf": "QF-4-2-A-N-10",
+  "question_ja": "大型二輪免許を受けている人は、大型自動二輪車と普通自動二輪車のほかに、小型特殊自動車と一般原動機付自転車を運転することができる。",
+  "answer": true,
+  "explanation_ja": "教則第4章第2節2の表のとおりです。普通自動車を運転するには、別に普通免許などが必要です。",
+  "i18n": {
+   "zh": {
+    "question": "取得大型二轮驾照的人，除大型二轮汽车和普通二轮汽车外，还可以驾驶小型特殊汽车和一般轻型摩托车。",
+    "explanation": "符合教则第4章第2节2的表格。要驾驶普通汽车，另外还需要普通驾照等。"
+   },
+   "en": {
+    "question": "A person who holds a large motorcycle license may drive a small-sized special motor vehicle and a general motorized bicycle (moped) as well as large and regular motorcycles.",
+    "explanation": "This is the table in Kyosoku Chapter 4 Section 2 item 2. To drive an ordinary motor vehicle you need a regular motor vehicle license or similar in addition."
+   },
+   "vi": {
+    "question": "Người có bằng lái xe mô tô cỡ lớn, ngoài xe mô tô cỡ lớn và xe mô tô thường, còn được lái xe chuyên dùng cỡ nhỏ và xe gắn máy (原付).",
+    "explanation": "Đúng theo bảng ở Kyosoku Chương 4 Mục 2 điểm 2. Để lái xe ô tô thường thì cần thêm bằng lái xe thường hoặc bằng tương đương."
+   },
+   "pt": {
+    "question": "Quem tem habilitação para motocicletas grandes pode dirigir, além de motocicletas grandes e comuns, o veículo especial pequeno e o ciclomotor.",
+    "explanation": "É a tabela do Kyosoku, Capítulo 4, Seção 2, item 2. Para dirigir um veículo comum é preciso, além disso, a habilitação para veículos comuns ou equivalente."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K4-2-626",
+  "category": "運転免許",
+  "kp": "4-2-1",
+  "group": "F",
+  "source": "道交法第106条の2第1項 / 第103条第1項第5号",
+  "question_type": "text",
+  "qf": "QF-4-2-D-EI-01",
+  "question_ja": "仮免許は練習のための免許なので、違反をしたり事故を起こしたりしても取り消されることはない。",
+  "answer": false,
+  "explanation_ja": "取り消されることがあります。仮免許を受けた人が自動車等の運転に関して違反行為をしたときなどは、公安委員会がその仮免許を取り消すことができます（道交法第106条の2第1項、第103条第1項第5号）。",
+  "i18n": {
+   "zh": {
+    "question": "临时驾照（仮免）是为练习而设的驾照，所以即使发生违章或事故也不会被吊销。",
+    "explanation": "是会被吊销的。取得临时驾照的人在驾驶汽车等方面有违章行为等情况时，公安委员会可以吊销其临时驾照（道交法第106条之2第1款、第103条第1款第5号）。"
+   },
+   "en": {
+    "question": "Because a learner's permit (仮免) is a licence for practice, it is never revoked even if the holder commits an offence or causes an accident.",
+    "explanation": "It can be revoked. Where the holder of a learner's permit commits an offence in the driving of a motor vehicle, the Public Safety Commission may revoke that permit (Road Traffic Act Article 106-2(1) and Article 103(1)(v))."
+   },
+   "vi": {
+    "question": "Vì bằng lái tạm thời (仮免) là bằng dành cho việc tập lái, nên dù có vi phạm hay gây tai nạn cũng không bị tước.",
+    "explanation": "Bằng này vẫn có thể bị tước. Khi người có bằng lái tạm thời vi phạm trong việc lái xe, Ủy ban An toàn Công cộng có thể tước bằng đó (Luật Giao thông Đường bộ Điều 106-2 khoản 1 và Điều 103 khoản 1 mục 5)."
+   },
+   "pt": {
+    "question": "Como a habilitação provisória (仮免) é uma licença para treino, ela nunca é cassada, mesmo que o titular cometa uma infração ou cause um acidente.",
+    "explanation": "Ela pode ser cassada. Quando o titular de uma habilitação provisória comete infração na condução de um veículo, a Comissão de Segurança Pública pode cassá-la (Lei de Trânsito Rodoviário, Artigo 106-2(1) e Artigo 103(1)(v))."
+   }
+  },
+  "trap_type": "EI",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K4-2-627",
+  "category": "運転免許",
+  "kp": "4-2-2",
+  "group": "F",
+  "source": "教則 第4章第2節2",
+  "question_type": "text",
+  "qf": "QF-4-2-D-EI-02",
+  "question_ja": "普通免許では、小型特殊自動車を運転することはできない。",
+  "answer": false,
+  "explanation_ja": "運転することができます。普通免許で運転できるのは、普通自動車、小型特殊自動車、一般原動機付自転車です（教則第4章第2節2）。",
+  "i18n": {
+   "zh": {
+    "question": "持有普通驾照，不能驾驶小型特殊汽车。",
+    "explanation": "是可以驾驶的。普通驾照可以驾驶的是普通汽车、小型特殊汽车和一般轻型摩托车（教则第4章第2节2）。"
+   },
+   "en": {
+    "question": "A regular motor vehicle license does not let you drive a small-sized special motor vehicle.",
+    "explanation": "It does. A regular motor vehicle license covers ordinary motor vehicles, small-sized special motor vehicles and general motorized bicycles (mopeds) (Kyosoku Chapter 4 Section 2 item 2)."
+   },
+   "vi": {
+    "question": "Với bằng lái xe thường thì không được lái xe chuyên dùng cỡ nhỏ.",
+    "explanation": "Vẫn được lái. Bằng lái xe thường cho phép lái xe ô tô thường, xe chuyên dùng cỡ nhỏ và xe gắn máy (原付) (Kyosoku Chương 4 Mục 2 điểm 2)."
+   },
+   "pt": {
+    "question": "Com a habilitação para veículos comuns não se pode dirigir um veículo especial pequeno.",
+    "explanation": "Pode-se, sim. A habilitação para veículos comuns abrange veículos comuns, veículos especiais pequenos e ciclomotores (Kyosoku, Capítulo 4, Seção 2, item 2)."
+   }
+  },
+  "trap_type": "EI",
+  "difficulty": 1,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K4-2-628",
+  "category": "運転免許",
+  "kp": "4-2-2",
+  "group": "F",
+  "source": "教則 第4章第2節2",
+  "question_type": "text",
+  "qf": "QF-4-2-D-EI-03",
+  "question_ja": "大型免許を受けている人は、自動三輪車だけは運転できないが、それ以外の自動車はどれでも運転してよい。",
+  "answer": false,
+  "explanation_ja": "そうではありません。大型免許で運転できるのは大型自動車、中型自動車、準中型自動車、普通自動車、小型特殊自動車と一般原動機付自転車で、大型特殊自動車や自動二輪車は運転できません（教則第4章第2節2）。",
+  "i18n": {
+   "zh": {
+    "question": "取得大型驾照的人，只有三轮汽车不能驾驶，除此以外的汽车都可以驾驶。",
+    "explanation": "并非如此。大型驾照可以驾驶的是大型汽车、中型汽车、准中型汽车、普通汽车、小型特殊汽车和一般轻型摩托车，大型特殊汽车和二轮汽车则不能驾驶（教则第4章第2节2）。"
+   },
+   "en": {
+    "question": "A person who holds a large-sized motor vehicle license is barred only from three-wheeled motor vehicles and may drive any other motor vehicle.",
+    "explanation": "That is not so. A large-sized motor vehicle license covers large-sized, medium-sized, semi-medium-sized and ordinary motor vehicles, small-sized special motor vehicles and general motorized bicycles (mopeds), but not large-sized special motor vehicles or motorcycles (Kyosoku Chapter 4 Section 2 item 2)."
+   },
+   "vi": {
+    "question": "Người có bằng lái xe cỡ lớn chỉ không được lái xe ô tô ba bánh, còn mọi loại xe ô tô khác đều được lái.",
+    "explanation": "Không phải như vậy. Bằng lái xe cỡ lớn cho phép lái xe ô tô cỡ lớn, cỡ vừa, cỡ bán trung, xe ô tô thường, xe chuyên dùng cỡ nhỏ và xe gắn máy (原付), nhưng không cho phép lái xe chuyên dùng cỡ lớn hay xe mô tô (Kyosoku Chương 4 Mục 2 điểm 2)."
+   },
+   "pt": {
+    "question": "Quem tem a habilitação para veículos pesados só não pode dirigir automóveis de três rodas e pode dirigir qualquer outro automóvel.",
+    "explanation": "Não é assim. A habilitação para veículos pesados abrange veículos de grande porte, médios, semi-médios e comuns, veículos especiais pequenos e ciclomotores, mas não veículos especiais grandes nem motocicletas (Kyosoku, Capítulo 4, Seção 2, item 2)."
+   }
+  },
+  "trap_type": "EI",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K4-2-629",
+  "category": "運転免許",
+  "kp": "4-2-1",
+  "group": "F",
+  "source": "教則 第4章第2節1(3) / 道交法第87条第2項",
+  "question_type": "text",
+  "qf": "QF-4-2-D-EI-04",
+  "question_ja": "普通仮免許を受けていれば、一般原動機付自転車も運転することができる。",
+  "answer": false,
+  "explanation_ja": "運転できません。仮免許で練習や試験のため運転できるのは、その仮免許の種類に応じた大型自動車、中型自動車、準中型自動車または普通自動車だけです（道交法第87条第2項）。",
+  "i18n": {
+   "zh": {
+    "question": "只要取得普通临时驾照（仮免），也可以驾驶一般轻型摩托车。",
+    "explanation": "不能驾驶。用临时驾照为练习或考试而能驾驶的，只有与该临时驾照种类相应的大型汽车、中型汽车、准中型汽车或普通汽车（道交法第87条第2款）。"
+   },
+   "en": {
+    "question": "If you hold an ordinary-vehicle learner's permit (仮免), you may ride a general motorized bicycle (moped) as well.",
+    "explanation": "You may not. On a learner's permit you may drive, for practice or a test, only the large-sized, medium-sized, semi-medium-sized or ordinary motor vehicle that matches the type of permit (Road Traffic Act Article 87(2))."
+   },
+   "vi": {
+    "question": "Chỉ cần có bằng lái tạm thời (仮免) cho xe thường thì cũng được lái xe gắn máy (原付).",
+    "explanation": "Không được lái. Với bằng lái tạm thời, khi tập lái hoặc dự thi bạn chỉ được lái xe ô tô cỡ lớn, cỡ vừa, cỡ bán trung hoặc xe ô tô thường tương ứng với loại bằng đó (Luật Giao thông Đường bộ Điều 87 khoản 2)."
+   },
+   "pt": {
+    "question": "Quem tem a habilitação provisória (仮免) para veículos comuns também pode conduzir um ciclomotor.",
+    "explanation": "Não pode. Com a habilitação provisória só se pode dirigir, para treino ou exame, o veículo de grande porte, médio, semi-médio ou comum correspondente ao tipo dessa habilitação (Lei de Trânsito Rodoviário, Artigo 87(2))."
+   }
+  },
+  "trap_type": "EI",
+  "difficulty": 1,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K4-1-630",
+  "category": "運転免許",
+  "kp": "4-1-1",
+  "group": "F",
+  "source": "教則 第7章前文 / 道交法第71条の5第2項",
+  "question_type": "text",
+  "qf": "QF-4-2-D-EI-05",
+  "question_ja": "普通免許を受けて1年を経過していない人は、高速道路を通行することができない。",
+  "answer": false,
+  "explanation_ja": "そのような決まりはありません。高速道路を通行できないのは一般原動機付自転車などの車の種類によるもので、初心運転者は初心者マークを付けて通行することができます（教則第7章前文、道交法第71条の5第2項）。",
+  "i18n": {
+   "zh": {
+    "question": "取得普通驾照未满1年的人，不能在高速公路上通行。",
+    "explanation": "并没有这样的规定。不能在高速公路通行的是一般轻型摩托车等按车种划分的车辆，新手驾驶者贴上新手标识即可通行（教则第7章前言、道交法第71条之5第2款）。"
+   },
+   "en": {
+    "question": "A person who has held a regular motor vehicle license for less than a year may not use the expressway.",
+    "explanation": "There is no such rule. What may not use the expressway is decided by type of vehicle, such as general motorized bicycles (mopeds), and a beginner driver may use it while displaying the new driver mark (初心者マーク) (Kyosoku Chapter 7 opening passage; Road Traffic Act Article 71-5(2))."
+   },
+   "vi": {
+    "question": "Người có bằng lái xe thường chưa đủ một năm thì không được đi trên đường cao tốc.",
+    "explanation": "Không có quy định như vậy. Việc không được đi trên đường cao tốc là do loại xe quyết định, chẳng hạn xe gắn máy (原付), còn người mới lái xe vẫn được đi nếu gắn dấu hiệu người mới lái (Kyosoku Chương 7 phần mở đầu; Luật Giao thông Đường bộ Điều 71-5 khoản 2)."
+   },
+   "pt": {
+    "question": "Quem tem habilitação para veículos comuns há menos de um ano não pode trafegar na rodovia expressa.",
+    "explanation": "Não existe tal regra. O que não pode trafegar na rodovia expressa é definido pelo tipo de veículo, como os ciclomotores, e o condutor novato pode trafegar exibindo o símbolo de condutor novato (Kyosoku, Capítulo 7, texto de abertura; Lei de Trânsito Rodoviário, Artigo 71-5(2))."
+   }
+  },
+  "trap_type": "EI",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K4-1-631",
+  "category": "運転免許",
+  "kp": "4-1-1",
+  "group": "F",
+  "source": "教則 第4章第1節1(1)ウ / 道交法第91条",
+  "question_type": "text",
+  "qf": "QF-4-2-D-EI-06",
+  "question_ja": "オートマチック車に限る条件が付いた普通免許でも、仕事で使う普通貨物自動車であれば、クラッチ操作のいるマニュアル車を運転してよい。",
+  "answer": false,
+  "explanation_ja": "仕事で使う車でも同じです。免許証に記載されている条件は守らなければならず、オートマチック車に限る条件が付いていればマニュアル車を運転することはできません（教則第4章第1節1(1)ウ、道交法第91条）。",
+  "i18n": {
+   "zh": {
+    "question": "即使是附有「仅限自动挡车（AT车）」条件的普通驾照，只要是工作上使用的普通货车，也可以驾驶需要操作离合器的手动挡车。",
+    "explanation": "工作用车也一样。驾照上记载的条件必须遵守，附有仅限自动挡车条件时，就不能驾驶手动挡车（教则第4章第1节1(1)ウ、道交法第91条）。"
+   },
+   "en": {
+    "question": "Even with a regular motor vehicle license carrying an automatic-transmission-only condition, you may drive a manual ordinary truck that needs clutch operation if it is used for work.",
+    "explanation": "A vehicle used for work is no different. The conditions written on the licence must be observed, and with an automatic-transmission-only condition you may not drive a manual vehicle (Kyosoku Chapter 4 Section 1 item 1(1)(c); Road Traffic Act Article 91)."
+   },
+   "vi": {
+    "question": "Ngay cả với bằng lái xe thường có kèm điều kiện chỉ lái xe số tự động, nếu là xe tải thường dùng cho công việc thì vẫn được lái xe số sàn cần thao tác ly hợp.",
+    "explanation": "Xe dùng cho công việc cũng không khác. Các điều kiện ghi trên bằng lái phải được tuân thủ, và khi có điều kiện chỉ lái xe số tự động thì không được lái xe số sàn (Kyosoku Chương 4 Mục 1 điểm 1(1)(c); Luật Giao thông Đường bộ Điều 91)."
+   },
+   "pt": {
+    "question": "Mesmo com uma habilitação para veículos comuns que traz a condição de somente transmissão automática, pode-se dirigir um caminhão comum manual que exige embreagem, desde que seja usado no trabalho.",
+    "explanation": "Um veículo usado no trabalho não é diferente. As condições escritas na carteira devem ser respeitadas e, com a condição de somente transmissão automática, não se pode dirigir um veículo manual (Kyosoku, Capítulo 4, Seção 1, item 1(1)(c); Lei de Trânsito Rodoviário, Artigo 91)."
+   }
+  },
+  "trap_type": "EI",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K4-1-632",
+  "category": "運転免許",
+  "kp": "4-1-1",
+  "group": "F",
+  "source": "教則 第4章第1節1(1)オ / 道交法第71条の5第2項",
+  "question_type": "text",
+  "qf": "QF-4-2-D-EI-07",
+  "question_ja": "普通免許を受けて1年を経過していない人でも、運転するのが普通貨物自動車であれば、初心者マークを付けなくてよい。",
+  "answer": false,
+  "explanation_ja": "普通貨物自動車も普通自動車です。普通免許を受けて1年を経過していない初心運転者が普通自動車を運転するときは、その車の前と後ろの定められた位置に初心者マークを付けなければなりません（教則第4章第1節1(1)オ）。",
+  "i18n": {
+   "zh": {
+    "question": "取得普通驾照未满1年的人，只要驾驶的是普通货车，就可以不贴新手标识。",
+    "explanation": "普通货车也属于普通汽车。取得普通驾照未满1年的新手驾驶者驾驶普通汽车时，必须在该车前后的规定位置贴上新手标识（教则第4章第1节1(1)オ）。"
+   },
+   "en": {
+    "question": "Even a person who has held a regular motor vehicle license for less than a year need not display the new driver mark (初心者マーク) if the vehicle driven is an ordinary truck.",
+    "explanation": "An ordinary truck is an ordinary motor vehicle too. A beginner driver who has held a regular motor vehicle license for less than a year must fit the mark at the prescribed positions on the front and rear of the ordinary motor vehicle being driven (Kyosoku Chapter 4 Section 1 item 1(1)(e))."
+   },
+   "vi": {
+    "question": "Người có bằng lái xe thường chưa đủ một năm, nếu lái xe tải thường thì không cần gắn dấu hiệu người mới lái.",
+    "explanation": "Xe tải thường cũng là xe ô tô thường. Người mới lái xe có bằng lái xe thường chưa đủ một năm phải gắn dấu hiệu này ở vị trí quy định phía trước và phía sau chiếc xe ô tô thường mà mình lái (Kyosoku Chương 4 Mục 1 điểm 1(1)(e))."
+   },
+   "pt": {
+    "question": "Mesmo quem tem habilitação para veículos comuns há menos de um ano não precisa exibir o símbolo de condutor novato se o veículo conduzido for um caminhão comum.",
+    "explanation": "Um caminhão comum também é um veículo comum. O condutor novato com habilitação para veículos comuns há menos de um ano deve fixar o símbolo nas posições determinadas na frente e na traseira do veículo comum que conduz (Kyosoku, Capítulo 4, Seção 1, item 1(1)(e))."
+   }
+  },
+  "trap_type": "EI",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K4-2-633",
+  "category": "運転免許",
+  "kp": "4-2-1",
+  "group": "F",
+  "source": "道交法第87条第2項 / 教則 第4章第2節1(3)",
+  "question_type": "text",
+  "qf": "QF-4-2-D-EO-01",
+  "question_ja": "仮免許で練習のため自動車を運転するときは、その自動車を運転することのできる第一種免許を受けている人であれば、受けてからの期間に関係なく横に乗せて指導を受けることができる。",
+  "answer": false,
+  "explanation_ja": "期間の条件が抜けています。第一種免許を受けている人の場合は、その自動車を運転することのできる第一種免許を通算3年以上受けている人でなければなりません（道交法第87条第2項）。",
+  "i18n": {
+   "zh": {
+    "question": "用临时驾照（仮免）为练习而驾驶汽车时，只要是持有能够驾驶该车的第一种驾照的人，无论取得驾照后经过多久，都可以让其坐在旁边接受指导。",
+    "explanation": "漏掉了期间的条件。若是持有第一种驾照的人，必须是持有能够驾驶该车的第一种驾照合计3年以上的人（道交法第87条第2款）。"
+   },
+   "en": {
+    "question": "When you drive for practice on a learner's permit (仮免), anyone who holds the Class 1 driver's license for that vehicle may sit beside you and guide you, no matter how long they have held it.",
+    "explanation": "The condition about the period is missing. In the case of a Class 1 driver's license, the person must have held the licence for that vehicle for three years or more in total (Road Traffic Act Article 87(2))."
+   },
+   "vi": {
+    "question": "Khi lái xe để tập lái bằng bằng lái tạm thời (仮免), bất kỳ ai có bằng lái hạng 1 của xe đó đều có thể ngồi bên cạnh hướng dẫn, không kể đã có bằng bao lâu.",
+    "explanation": "Điều kiện về thời gian đã bị bỏ sót. Nếu là người có bằng lái hạng 1 thì người đó phải đã giữ bằng lái của xe ấy từ ba năm trở lên cộng dồn (Luật Giao thông Đường bộ Điều 87 khoản 2)."
+   },
+   "pt": {
+    "question": "Ao dirigir para treinar com habilitação provisória (仮免), qualquer pessoa que tenha a habilitação de Classe 1 daquele veículo pode sentar-se ao lado e orientar, não importa há quanto tempo a tenha.",
+    "explanation": "Falta a condição relativa ao prazo. No caso da habilitação de Classe 1, a pessoa deve tê-la para aquele veículo há três anos ou mais somados (Lei de Trânsito Rodoviário, Artigo 87(2))."
+   }
+  },
+  "trap_type": "EO",
+  "difficulty": 3,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K4-2-634",
+  "category": "運転免許",
+  "kp": "4-2-1",
+  "group": "F",
+  "source": "道交法第87条第3項 / 教則 第4章第2節1(3)",
+  "question_type": "text",
+  "qf": "QF-4-2-D-EO-02",
+  "question_ja": "仮免許で練習するときの仮免許練習標識は、車の前面の定められた位置に付けておけばよい。",
+  "answer": false,
+  "explanation_ja": "後面が抜けています。仮免許練習標識は、車の前面と後面の定められた位置に付けなければなりません（道交法第87条第3項）。",
+  "i18n": {
+   "zh": {
+    "question": "用临时驾照（仮免）练习时的临时驾照练习标识，只要装在车前面的规定位置即可。",
+    "explanation": "漏掉了后面。临时驾照练习标识必须装在车前面和后面的规定位置（道交法第87条第3款）。"
+   },
+   "en": {
+    "question": "The learner's permit practice sign used when practising on a learner's permit (仮免) only has to be fitted at the prescribed position on the front of the vehicle.",
+    "explanation": "The rear is missing. The sign must be fitted at the prescribed positions on both the front and the rear of the vehicle (Road Traffic Act Article 87(3))."
+   },
+   "vi": {
+    "question": "Biển tập lái bằng tạm thời dùng khi tập lái với bằng lái tạm thời (仮免) chỉ cần gắn ở vị trí quy định phía trước xe là đủ.",
+    "explanation": "Phía sau đã bị bỏ sót. Biển tập lái phải được gắn ở vị trí quy định trên cả mặt trước và mặt sau của xe (Luật Giao thông Đường bộ Điều 87 khoản 3)."
+   },
+   "pt": {
+    "question": "A placa de treino com habilitação provisória (仮免) usada durante o treino basta ser fixada na posição determinada na frente do veículo.",
+    "explanation": "Falta a traseira. A placa deve ser fixada nas posições determinadas tanto na frente como na traseira do veículo (Lei de Trânsito Rodoviário, Artigo 87(3))."
+   }
+  },
+  "trap_type": "EO",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K4-1-635",
+  "category": "運転免許",
+  "kp": "4-1-1",
+  "group": "F",
+  "source": "道交法第71条の5第3項・第4項 / 教則 第4章第1節1(2)",
+  "question_type": "text",
+  "qf": "QF-4-2-D-EX-01",
+  "question_ja": "70歳以上の人が普通自動車を運転するときは、全員が高齢者マークを付けなければならない。",
+  "answer": false,
+  "explanation_ja": "全員ではありません。70歳以上75歳未満の人は、加齢に伴う身体機能の低下が運転に影響を及ぼすおそれがあるときに付けるよう努める努力義務であり、付けなければならないのは75歳以上の人です（道交法第71条の5第3項、第4項）。",
+  "i18n": {
+   "zh": {
+    "question": "70岁以上的人驾驶普通汽车时，全都必须贴上高龄者标识。",
+    "explanation": "并非全都必须。70岁以上不满75岁的人，是在因年龄增长导致身体机能下降可能影响驾驶时尽量贴上的努力义务（应尽量做到，无罚则），必须贴的是75岁以上的人（道交法第71条之5第3款、第4款）。"
+   },
+   "en": {
+    "question": "Everyone aged 70 or over must display the elderly driver mark when driving an ordinary motor vehicle.",
+    "explanation": "Not everyone. For a person aged 70 or over but under 75 it is a duty to make an effort (no penalty) to display it when age-related decline in physical function may affect their driving, while those aged 75 or over must display it (Road Traffic Act Article 71-5(3) and (4))."
+   },
+   "vi": {
+    "question": "Mọi người từ 70 tuổi trở lên đều phải gắn dấu hiệu người lái cao tuổi khi lái xe ô tô thường.",
+    "explanation": "Không phải mọi người. Với người từ 70 đến dưới 75 tuổi, đây là nghĩa vụ nỗ lực (không có chế tài) gắn dấu hiệu khi sự suy giảm chức năng cơ thể do tuổi tác có thể ảnh hưởng đến việc lái xe, còn người từ 75 tuổi trở lên thì bắt buộc phải gắn (Luật Giao thông Đường bộ Điều 71-5 khoản 3 và khoản 4)."
+   },
+   "pt": {
+    "question": "Todas as pessoas com 70 anos ou mais devem exibir o símbolo de motorista idoso ao dirigir um veículo comum.",
+    "explanation": "Não são todas. Para quem tem de 70 a menos de 75 anos trata-se de um dever de esforço (sem penalidade), aplicável quando o declínio físico ligado à idade puder afetar a condução, ao passo que quem tem 75 anos ou mais é obrigado a exibi-lo (Lei de Trânsito Rodoviário, Artigo 71-5(3) e (4))."
+   }
+  },
+  "trap_type": "EX",
+  "difficulty": 3,
+  "exam_scope": "仮免|本免|外免"
+ }
+]

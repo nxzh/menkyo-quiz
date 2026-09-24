@@ -1,0 +1,192 @@
+[
+ {
+  "id": "K5-1-713",
+  "category": "安全な発進",
+  "kp": "5-1-1",
+  "group": "G",
+  "source": "教則 第5章第1節1(2)",
+  "question_type": "text",
+  "qf": "QF-5-1-A-N-11",
+  "question_ja": "同乗者を乗せているときの運転者は、ドアをロックしておき、同乗者が不用意にドアを開けてしまうことのないように注意しなければならない。",
+  "answer": true,
+  "explanation_ja": "教則第5章第1節1(2)のとおりです。ドアを開けるときや車から降りるときは、運転者が後方の安全を確認しなければなりません。",
+  "i18n": {
+   "zh": {"question": "车上载有搭乘者时的驾驶员，必须先把车门锁好，并留意搭乘者不要随手把车门打开。", "explanation": "符合教则第5章第1节1(2)的规定。开门时和下车时，驾驶员必须确认后方的安全。"},
+   "en": {"question": "A driver who has passengers on board must keep the doors locked and take care that a passenger does not open a door carelessly.", "explanation": "This is Kyosoku Chapter 5 Section 1 item 1(2). When opening a door or getting out, the driver must check that it is safe behind."},
+   "vi": {"question": "Người lái xe khi đang chở người ngồi cùng xe phải khóa cửa lại và chú ý để họ không vô ý mở cửa ra.", "explanation": "Đúng theo Kyosoku Chương 5 Mục 1 điểm 1(2). Khi mở cửa hoặc khi xuống xe, người lái xe phải xác nhận an toàn phía sau."},
+   "pt": {"question": "O condutor que leva passageiros deve manter as portas travadas e cuidar para que um passageiro não abra a porta por descuido.", "explanation": "É o Kyosoku, Capítulo 5, Seção 1, item 1(2). Ao abrir a porta ou ao sair do carro, o condutor deve verificar a segurança atrás."}
+  },
+  "trap_type": "N", "difficulty": 2, "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-1-714",
+  "category": "安全な発進",
+  "kp": "5-1-2",
+  "group": "G",
+  "source": "教則 第5章第1節2(1)",
+  "question_type": "text",
+  "qf": "QF-5-1-A-N-05",
+  "question_ja": "正しい運転姿勢をとるときは、シートの背を、ハンドルに両手を掛けたときにひじがわずかに曲がる状態に合わせる。",
+  "answer": true,
+  "explanation_ja": "教則第5章第1節2(1)のとおりです。シートの前後の位置は、クラッチを踏み込んだときにひざがわずかに曲がる状態に合わせます。",
+  "i18n": {
+   "zh": {"question": "采取正确的驾驶姿势时，要把座椅靠背调整到双手搭在方向把上时肘部略微弯曲的状态。", "explanation": "符合教则第5章第1节2(1)的规定。座椅的前后位置，要调整到踩下离合器时膝盖略微弯曲的状态。"},
+   "en": {"question": "For a correct driving posture, set the seat back so that your elbows are slightly bent when both hands are on the steering wheel.", "explanation": "This is Kyosoku Chapter 5 Section 1 item 2(1). The fore-and-aft position of the seat is set so that your knee is slightly bent when the clutch is pressed down."},
+   "vi": {"question": "Để có tư thế lái đúng, hãy chỉnh lưng ghế sao cho khuỷu tay hơi cong khi đặt hai tay lên vô lăng.", "explanation": "Đúng theo Kyosoku Chương 5 Mục 1 điểm 2(1). Vị trí trước sau của ghế được chỉnh sao cho đầu gối hơi cong khi đạp hết côn."},
+   "pt": {"question": "Para uma postura de direção correta, ajuste o encosto do banco de modo que os cotovelos fiquem levemente dobrados com as duas mãos no volante.", "explanation": "É o Kyosoku, Capítulo 5, Seção 1, item 2(1). A posição do banco para a frente e para trás é ajustada de modo que o joelho fique levemente dobrado ao pisar a fundo na embreagem."}
+  },
+  "trap_type": "N", "difficulty": 2, "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-1-715",
+  "category": "安全な発進",
+  "kp": "5-1-2",
+  "group": "G",
+  "source": "教則 第5章第1節2(1)",
+  "question_type": "text",
+  "qf": "QF-5-1-D-SW-02",
+  "question_ja": "シートの前後の位置は、クラッチを踏み込んだときにひざが伸びきる状態に合わせる。",
+  "answer": false,
+  "explanation_ja": "伸びきる状態ではありません。クラッチを踏み込んだときにひざがわずかに曲がる状態に合わせます（教則第5章第1節2(1)）。",
+  "i18n": {
+   "zh": {"question": "座椅的前后位置，要调整到踩下离合器时膝盖完全伸直的状态。", "explanation": "不是完全伸直的状态。要调整到踩下离合器时膝盖略微弯曲的状态（教则第5章第1节2(1)）。"},
+   "en": {"question": "The fore-and-aft position of the seat is set so that your knee is fully straight when the clutch is pressed down.", "explanation": "Not fully straight. It is set so that your knee is slightly bent when the clutch is pressed down (Kyosoku Chapter 5 Section 1 item 2(1))."},
+   "vi": {"question": "Vị trí trước sau của ghế được chỉnh sao cho đầu gối duỗi thẳng hết cỡ khi đạp hết côn.", "explanation": "Không phải duỗi thẳng hết cỡ. Ghế được chỉnh sao cho đầu gối hơi cong khi đạp hết côn (Kyosoku Chương 5 Mục 1 điểm 2(1))."},
+   "pt": {"question": "A posição do banco para a frente e para trás é ajustada de modo que o joelho fique totalmente esticado ao pisar a fundo na embreagem.", "explanation": "Não é totalmente esticado. O banco é ajustado de modo que o joelho fique levemente dobrado ao pisar a fundo na embreagem (Kyosoku, Capítulo 5, Seção 1, item 2(1))."}
+  },
+  "trap_type": "SW", "difficulty": 2, "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-1-716",
+  "category": "シートベルト",
+  "kp": "5-1-3",
+  "group": "G",
+  "source": "教則 第5章第1節3(1)",
+  "question_type": "text",
+  "qf": "QF-5-1-A-N-01",
+  "question_ja": "シートベルトを着けて運転していれば、万一交通事故に遭った場合でも、受ける被害を大幅に小さくすることができる。",
+  "answer": true,
+  "explanation_ja": "教則第5章第1節3(1)のとおりです。正しい運転姿勢を保たせて疲労を軽減する効果もあります。",
+  "i18n": {
+   "zh": {"question": "系好安全带驾驶的话，万一遭遇交通事故，也能大幅减小所受的伤害。", "explanation": "符合教则第5章第1节3(1)的规定。它还有保持正确驾驶姿势、减轻疲劳的效果。"},
+   "en": {"question": "If you drive with your seat belt fastened, then even if you do have a traffic accident the harm you suffer can be greatly reduced.", "explanation": "This is Kyosoku Chapter 5 Section 1 item 3(1). It also keeps a correct driving posture and so reduces fatigue."},
+   "vi": {"question": "Nếu lái xe khi đã thắt dây an toàn thì ngay cả khi không may gặp tai nạn giao thông, thiệt hại phải chịu cũng giảm đi rất nhiều.", "explanation": "Đúng theo Kyosoku Chương 5 Mục 1 điểm 3(1). Nó còn giúp giữ tư thế lái đúng nên làm giảm mệt mỏi."},
+   "pt": {"question": "Se dirigir com o cinto de segurança afivelado, mesmo que venha a sofrer um acidente de trânsito os danos recebidos ficam muito menores.", "explanation": "É o Kyosoku, Capítulo 5, Seção 1, item 3(1). Ele também mantém a postura de direção correta e assim reduz o cansaço."}
+  },
+  "trap_type": "N", "difficulty": 1, "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-1-717",
+  "category": "シートベルト",
+  "kp": "5-1-3",
+  "group": "G",
+  "source": "教則 第5章第1節3(2)イ、3(2)ウ",
+  "question_type": "text",
+  "qf": "QF-5-1-A-N-04",
+  "question_ja": "運転席に座ってシートベルトを着けるときは、腰ベルトが骨盤を巻く位置にくるようにして、しっかりと締める。",
+  "answer": true,
+  "explanation_ja": "教則第5章第1節3(2)イのとおりです。三点式ベルトの肩ベルトは、首にかからないようにします。",
+  "i18n": {
+   "zh": {"question": "坐在驾驶席系安全带时，要让腰部皮带处于缠绕髋部的位置，并系紧。", "explanation": "符合教则第5章第1节3(2)イ的规定。三点式安全带的肩部皮带，要注意不要挂在脖子上。"},
+   "en": {"question": "When you sit in the driver's seat and fasten the seat belt, position the lap belt so that it goes around the pelvis and pull it tight.", "explanation": "This is Kyosoku Chapter 5 Section 1 item 3(2)(i). The shoulder belt of a three-point belt should not run across your neck."},
+   "vi": {"question": "Khi ngồi vào ghế lái và thắt dây an toàn, hãy đưa dây đai hông vào vị trí vòng qua xương chậu và siết chặt.", "explanation": "Đúng theo Kyosoku Chương 5 Mục 1 điểm 3(2)(i). Dây vai của dây an toàn ba điểm không được vắt qua cổ."},
+   "pt": {"question": "Ao sentar-se no banco do motorista e afivelar o cinto de segurança, coloque o cinto abdominal na posição em que ele passa pela pelve e aperte-o bem.", "explanation": "É o Kyosoku, Capítulo 5, Seção 1, item 3(2)(i). O cinto diagonal de um cinto de três pontos não deve passar sobre o pescoço."}
+  },
+  "trap_type": "N", "difficulty": 2, "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-1-718",
+  "category": "シートベルト",
+  "kp": "5-1-3",
+  "group": "G",
+  "source": "教則 第5章第1節3(1)",
+  "question_type": "text",
+  "qf": "QF-5-1-A-N-13",
+  "question_ja": "病気などやむを得ない理由があるときは、シートベルトを着用しないで自動車を運転することができる。",
+  "answer": true,
+  "explanation_ja": "教則第5章第1節3(1)のとおりです。シートベルトを備えている自動車を運転するときは運転者自身が着用し同乗者にも着用させなければなりませんが、病気などやむを得ない理由がある場合は別です。",
+  "i18n": {
+   "zh": {"question": "因疾病等不得已的理由时，可以不系安全带驾驶汽车。", "explanation": "符合教则第5章第1节3(1)的规定。驾驶配备安全带的汽车时，驾驶员自己要系上，也必须让搭乘者系上，但因疾病等不得已的理由时另当别论。"},
+   "en": {"question": "When there is an unavoidable reason such as illness, you may drive a motor vehicle without wearing the seat belt.", "explanation": "This is Kyosoku Chapter 5 Section 1 item 3(1). When you drive a vehicle fitted with seat belts you must wear one yourself and make your passengers wear theirs, but it is different when there is an unavoidable reason such as illness."},
+   "vi": {"question": "Khi có lý do bất khả kháng như bệnh tật, bạn có thể lái xe ô tô mà không thắt dây an toàn.", "explanation": "Đúng theo Kyosoku Chương 5 Mục 1 điểm 3(1). Khi lái xe có trang bị dây an toàn, người lái phải tự thắt và phải cho người ngồi cùng xe thắt, nhưng sẽ khác nếu có lý do bất khả kháng như bệnh tật."},
+   "pt": {"question": "Quando há um motivo inevitável, como doença, é permitido dirigir um automóvel sem usar o cinto de segurança.", "explanation": "É o Kyosoku, Capítulo 5, Seção 1, item 3(1). Ao dirigir um veículo equipado com cintos, o condutor deve usá-lo e fazer os passageiros usarem, mas é diferente quando há um motivo inevitável, como doença."}
+  },
+  "trap_type": "N", "difficulty": 2, "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-1-719",
+  "category": "シートベルト",
+  "kp": "5-1-3",
+  "group": "G",
+  "source": "教則 第5章第1節3(1)",
+  "question_type": "text",
+  "qf": "QF-5-1-D-AB-01",
+  "question_ja": "シートベルトは、どんな場合でも着用しなければならない。",
+  "answer": false,
+  "explanation_ja": "例外があります。病気などやむを得ない理由がある場合は着用しなくてもよいとされています（教則第5章第1節3(1)）。",
+  "i18n": {
+   "zh": {"question": "安全带在任何情况下都必须系。", "explanation": "存在例外。因疾病等不得已的理由时，可以不系（教则第5章第1节3(1)）。"},
+   "en": {"question": "The seat belt must be worn in every case without exception.", "explanation": "There is an exception. When there is an unavoidable reason such as illness, it need not be worn (Kyosoku Chapter 5 Section 1 item 3(1))."},
+   "vi": {"question": "Dây an toàn phải được thắt trong mọi trường hợp, không có ngoại lệ.", "explanation": "Có ngoại lệ. Khi có lý do bất khả kháng như bệnh tật thì không bắt buộc phải thắt (Kyosoku Chương 5 Mục 1 điểm 3(1))."},
+   "pt": {"question": "O cinto de segurança deve ser usado em todos os casos, sem exceção.", "explanation": "Há exceção. Quando existe um motivo inevitável, como doença, não é obrigatório usá-lo (Kyosoku, Capítulo 5, Seção 1, item 3(1))."}
+  },
+  "trap_type": "AB", "difficulty": 3, "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-1-720",
+  "category": "シートベルト",
+  "kp": "5-1-3",
+  "group": "G",
+  "source": "教則 第5章第1節3(1)",
+  "question_type": "text",
+  "qf": "QF-5-1-D-EI-01",
+  "question_ja": "近くの店まで行くだけの短い距離であれば、シートベルトを着用しないで運転してもよい。",
+  "answer": false,
+  "explanation_ja": "距離による例外はありません。シートベルトを備えている自動車を運転するときは着用しなければならず、例外は病気などやむを得ない理由がある場合だけです（教則第5章第1節3(1)）。",
+  "i18n": {
+   "zh": {"question": "只是去附近商店这样的短距离，可以不系安全带驾驶。", "explanation": "并不存在按距离划分的例外。驾驶配备安全带的汽车时必须系上，例外只有因疾病等不得已的理由的情况（教则第5章第1节3(1)）。"},
+   "en": {"question": "For a short distance such as driving to a nearby shop, you may drive without wearing the seat belt.", "explanation": "There is no exception based on distance. When you drive a vehicle fitted with seat belts you must wear one, and the only exception is an unavoidable reason such as illness (Kyosoku Chapter 5 Section 1 item 3(1))."},
+   "vi": {"question": "Nếu chỉ đi một quãng ngắn như đến cửa hàng gần nhà thì có thể lái xe mà không thắt dây an toàn.", "explanation": "Không có ngoại lệ nào dựa trên quãng đường. Khi lái xe có trang bị dây an toàn thì phải thắt, và ngoại lệ duy nhất là lý do bất khả kháng như bệnh tật (Kyosoku Chương 5 Mục 1 điểm 3(1))."},
+   "pt": {"question": "Em um trajeto curto, como ir até uma loja próxima, pode-se dirigir sem usar o cinto de segurança.", "explanation": "Não há exceção baseada na distância. Ao dirigir um veículo equipado com cintos é obrigatório usá-lo, e a única exceção é um motivo inevitável, como doença (Kyosoku, Capítulo 5, Seção 1, item 3(1))."}
+  },
+  "trap_type": "EI", "difficulty": 1, "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-1-721",
+  "category": "シートベルト",
+  "kp": "5-1-3",
+  "group": "G",
+  "source": "教則 第5章第1節3(1)",
+  "question_type": "text",
+  "qf": "QF-5-1-D-EI-02",
+  "question_ja": "エアバッグを備えている自動車では、シートベルトを着用しなくてもよい。",
+  "answer": false,
+  "explanation_ja": "エアバッグがあっても同じです。シートベルトを備えている自動車を運転するときは、運転者も同乗者も着用しなければなりません（教則第5章第1節3(1)）。",
+  "i18n": {
+   "zh": {"question": "在配备安全气囊的汽车上，可以不系安全带。", "explanation": "即使有安全气囊也一样。驾驶配备安全带的汽车时，驾驶员和搭乘者都必须系上（教则第5章第1节3(1)）。"},
+   "en": {"question": "In a car fitted with airbags, the seat belt need not be worn.", "explanation": "It is the same even with airbags. When driving a vehicle fitted with seat belts, both the driver and the passengers must wear them (Kyosoku Chapter 5 Section 1 item 3(1))."},
+   "vi": {"question": "Trên xe có trang bị túi khí thì không cần thắt dây an toàn.", "explanation": "Có túi khí cũng vậy. Khi lái xe có trang bị dây an toàn, cả người lái xe lẫn người ngồi cùng xe đều phải thắt (Kyosoku Chương 5 Mục 1 điểm 3(1))."},
+   "pt": {"question": "Em um carro equipado com airbags, não é preciso usar o cinto de segurança.", "explanation": "Com airbag é igual. Ao dirigir um veículo equipado com cintos, tanto o condutor quanto os passageiros devem usá-los (Kyosoku, Capítulo 5, Seção 1, item 3(1))."}
+  },
+  "trap_type": "EI", "difficulty": 2, "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-1-722",
+  "category": "安全な発進",
+  "kp": "5-1-5",
+  "group": "G",
+  "source": "教則 第5章第1節5(1)",
+  "question_type": "text",
+  "qf": "QF-5-1-D-NR-01",
+  "question_ja": "車に乗る前には、車の前後に人がいないかどうかだけを確かめればよい。",
+  "answer": false,
+  "explanation_ja": "前後だけでは足りません。車の下に子供がいないかどうかも確かめます（教則第5章第1節5(1)）。",
+  "i18n": {
+   "zh": {"question": "上车之前，只要确认车的前后有没有人就可以了。", "explanation": "只看前后是不够的。还要确认车下有没有孩子（教则第5章第1节5(1)）。"},
+   "en": {"question": "Before getting into the car, it is enough to check that there is nobody in front of or behind it.", "explanation": "Front and back alone are not enough. You also check that no child is under the car (Kyosoku Chapter 5 Section 1 item 5(1))."},
+   "vi": {"question": "Trước khi lên xe, chỉ cần kiểm tra xem có ai ở phía trước và phía sau xe hay không là đủ.", "explanation": "Chỉ phía trước và phía sau thì chưa đủ. Bạn còn phải kiểm tra xem có trẻ em ở gầm xe hay không (Kyosoku Chương 5 Mục 1 điểm 5(1))."},
+   "pt": {"question": "Antes de entrar no carro, basta verificar se não há ninguém à frente e atrás dele.", "explanation": "Só frente e trás não basta. É preciso verificar também se não há uma criança embaixo do carro (Kyosoku, Capítulo 5, Seção 1, item 5(1))."}
+  },
+  "trap_type": "NR", "difficulty": 2, "exam_scope": "仮免|本免|外免"
+ }
+]

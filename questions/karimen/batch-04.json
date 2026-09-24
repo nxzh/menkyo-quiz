@@ -1,662 +1,402 @@
 [
-  {
-    "id": "K1-4-001",
-    "category": "道路でしてはいけないこと",
-    "kp": "1-4-1",
-    "group": "U",
-    "source": "教則 第1章第4節1(5)",
-    "question_type": "text",
-    "qf": "QF-1-4-1-A-N-01",
-    "question_ja": "車からたばこの吸い殻や紙くず、空きかんなどを投げ捨てたり、体や物を車の外に出したりしてはいけない。",
-    "answer": true,
-    "explanation_ja": "教則第1章第4節1(5)のとおりです。投げ捨てた物がほかの車や歩行者に当たる危険があります。",
-    "i18n": {
-      "zh": {
-        "question": "不得从车内扔掉烟头、废纸、空罐等，也不得把身体或物品伸出车外。",
-        "explanation": "符合教则第1章第4节1(5)的规定。扔出的东西有可能打到其他车辆或步行者。"
-      },
-      "en": {
-        "question": "You must not throw cigarette ends, waste paper, empty cans and the like out of a vehicle, or put your body or objects outside it.",
-        "explanation": "This is Kyosoku Chapter 1 Section 4 item 1(5). What is thrown out can strike another vehicle or a pedestrian."
-      },
-      "vi": {
-        "question": "Không được ném tàn thuốc, giấy vụn, lon rỗng và những thứ tương tự ra khỏi xe, cũng không được thò người hay đồ vật ra ngoài xe.",
-        "explanation": "Đúng theo Kyosoku Chương 1 Mục 4 điểm 1(5). Vật ném ra có thể trúng xe khác hoặc người đi bộ."
-      },
-      "pt": {
-        "question": "Não se deve jogar pontas de cigarro, papéis, latas vazias e coisas semelhantes para fora do veículo, nem colocar o corpo ou objetos para fora dele.",
-        "explanation": "É o Kyosoku, Capítulo 1, Seção 4, item 1(5). O que é lançado para fora pode atingir outro veículo ou um pedestre."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免|外免"
+ {
+  "id": "KM-001",
+  "category": "標示",
+  "kp": "付3-2-1",
+  "group": "D",
+  "source": "教則 付表3（2）1",
+  "question_type": "marking",
+  "qf": "QF-付3-A-N-55",
+  "image": {"sign_no": "101", "file": "M101.svg", "license": "PD-Japan-exempt (標識令 catalogue reproduction)", "file_verified": true},
+  "question_ja": "この標示は、車が転回することを禁止していることを示している。",
+  "answer": true,
+  "explanation_ja": "教則付表3（2）1のとおりです。記号に数字が添えられているときは、その数字が転回を禁止する時間を示します。",
+  "i18n": {
+   "zh": {"question": "这个标示（路面）表示禁止车辆掉头。", "explanation": "符合教则附表3（2）1的规定。记号上附有数字时，该数字表示禁止掉头的时间段。"},
+   "en": {"question": "This road marking shows that vehicles are forbidden to make a U-turn.", "explanation": "This is Kyosoku Appendix 3(2) item 1. Where a figure is added to the symbol, it shows the hours during which U-turns are forbidden."},
+   "vi": {"question": "Vạch kẻ đường (kí hiệu trên mặt đường) này cho biết xe bị cấm quay đầu.", "explanation": "Đúng theo Kyosoku Phụ lục 3(2) mục 1. Khi có con số kèm theo kí hiệu, con số đó cho biết khung giờ cấm quay đầu."},
+   "pt": {"question": "Esta sinalização horizontal indica que os veículos estão proibidos de fazer retorno.", "explanation": "É o Kyosoku, Anexo 3(2), item 1. Quando há um número junto ao símbolo, ele indica o horário em que o retorno é proibido."}
   },
-  {
-    "id": "K1-4-002",
-    "category": "道路でしてはいけないこと",
-    "kp": "1-4-2",
-    "group": "U",
-    "source": "教則 第1章第4節2",
-    "question_type": "text",
-    "qf": "QF-1-4-2-A-N-01",
-    "question_ja": "道路上に商品などを陳列したり、土砂や材木など交通の妨げになる物を置いたりしてはいけない。",
-    "answer": true,
-    "explanation_ja": "教則第1章第4節2のとおりです。道路は多数の人や車が通行するところだからです。",
-    "i18n": {
-      "zh": {
-        "question": "不得在道路上陈列商品，也不得放置泥沙、木材等妨碍交通的物品。",
-        "explanation": "符合教则第1章第4节2的规定。因为道路是许多人和车辆通行的地方。"
-      },
-      "en": {
-        "question": "You must not display goods on the road or leave earth, timber or anything else that obstructs traffic on it.",
-        "explanation": "This is Kyosoku Chapter 1 Section 4 item 2. A road is a place where many people and vehicles pass."
-      },
-      "vi": {
-        "question": "Không được bày hàng hóa trên đường hay để đất cát, gỗ và những thứ khác gây cản trở giao thông trên đó.",
-        "explanation": "Đúng theo Kyosoku Chương 1 Mục 4 điểm 2. Đường là nơi rất nhiều người và xe qua lại."
-      },
-      "pt": {
-        "question": "Não se deve expor mercadorias na via nem deixar terra, madeira ou qualquer outra coisa que atrapalhe o trânsito.",
-        "explanation": "É o Kyosoku, Capítulo 1, Seção 4, item 2. A via é um lugar por onde passam muitas pessoas e veículos."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "N", "difficulty": 1, "exam_scope": "仮免|本免"
+ },
+ {
+  "id": "KM-002",
+  "category": "標示",
+  "kp": "付3-2-24",
+  "group": "D",
+  "source": "教則 付表3（2）24",
+  "question_type": "marking",
+  "qf": "QF-付3-D-SS-02",
+  "image": {"sign_no": "115", "file": "M115-B_転回禁止.svg", "license": "PD-Japan-exempt (標識令 catalogue reproduction)", "file_verified": true},
+  "question_ja": "この標示から先は、転回することができない。",
+  "answer": false,
+  "explanation_ja": "この標示は転回禁止の区間の終わりを示すものですから、この先は転回することができます（教則付表3（2）24）。",
+  "i18n": {
+   "zh": {"question": "从这个标示（路面）往前不能掉头。", "explanation": "这个标示表示禁止掉头区间的终点，因此前方可以掉头（教则附表3（2）24）。"},
+   "en": {"question": "Beyond this road marking you may not make a U-turn.", "explanation": "This marking shows the end of the section in which U-turns are forbidden, so beyond it you may make one (Kyosoku Appendix 3(2) item 24)."},
+   "vi": {"question": "Từ vạch kẻ đường (kí hiệu trên mặt đường) này trở đi không được quay đầu.", "explanation": "Vạch này cho biết điểm kết thúc của đoạn cấm quay đầu, nên từ đó trở đi được quay đầu (Kyosoku Phụ lục 3(2) mục 24)."},
+   "pt": {"question": "A partir desta sinalização horizontal não se pode fazer retorno.", "explanation": "Esta marcação indica o fim do trecho em que o retorno é proibido, por isso adiante dela o retorno é permitido (Kyosoku, Anexo 3(2), item 24)."}
   },
-  {
-    "id": "K1-4-003",
-    "category": "道路でしてはいけないこと",
-    "kp": "1-4-4",
-    "group": "U",
-    "source": "教則 第1章第4節4",
-    "question_type": "text",
-    "qf": "QF-1-4-4-A-N-01",
-    "question_ja": "免許を持たない人や酒気を帯びた人に、車の運転を頼んではいけない。",
-    "answer": true,
-    "explanation_ja": "教則第1章第4節4のとおりです。運転しない人にも守るべき決まりがあります。",
-    "i18n": {
-      "zh": {
-        "question": "不得请求没有驾照的人或带有酒气的人驾驶车辆。",
-        "explanation": "符合教则第1章第4节4的规定。不驾驶的人也有必须遵守的规定。"
-      },
-      "en": {
-        "question": "You must not ask a person without a licence, or a person who has been drinking, to drive a vehicle.",
-        "explanation": "This is Kyosoku Chapter 1 Section 4 item 4. There are rules that bind people who are not driving as well."
-      },
-      "vi": {
-        "question": "Không được nhờ người không có bằng lái xe hoặc người đã uống rượu bia lái xe.",
-        "explanation": "Đúng theo Kyosoku Chương 1 Mục 4 điểm 4. Có những quy định ràng buộc cả người không cầm lái."
-      },
-      "pt": {
-        "question": "Não se deve pedir que uma pessoa sem habilitação, ou que tenha bebido, conduza um veículo.",
-        "explanation": "É o Kyosoku, Capítulo 1, Seção 4, item 4. Há regras que obrigam também quem não está dirigindo."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "SS", "difficulty": 3, "exam_scope": "仮免|本免"
+ },
+ {
+  "id": "KM-003",
+  "category": "標示",
+  "kp": "付3-2-3",
+  "group": "D",
+  "source": "教則 付表3（2）3",
+  "question_type": "marking",
+  "qf": "QF-付3-A-N-28",
+  "image": {"sign_no": "102-2", "file": "M102-2-A_黄実線.svg", "license": "PD-Japan-exempt (標識令 catalogue reproduction)", "file_verified": true},
+  "question_ja": "この標示で区画された車両通行帯では、AからBへも、BからAへも進路を変えることができない。",
+  "answer": true,
+  "explanation_ja": "教則付表3（2）3のとおりです。黄の実線どうしで区画されているときは、どちらの通行帯を通る車も進路を変えられません。",
+  "i18n": {
+   "zh": {"question": "在由这个标示（路面）划分的车辆通行带中，从A到B、从B到A都不能变更行进路线。", "explanation": "符合教则附表3（2）3的规定。由黄色实线相互划分时，无论行驶在哪条通行带的车辆都不能变更行进路线。"},
+   "en": {"question": "In the vehicle lanes divided by this road marking, you may change lanes neither from A to B nor from B to A.", "explanation": "This is Kyosoku Appendix 3(2) item 3. Where the lanes are divided by solid yellow lines on both sides, a vehicle in either lane may not change lanes."},
+   "vi": {"question": "Ở các làn xe được phân chia bởi vạch kẻ đường (kí hiệu trên mặt đường) này, không được chuyển làn từ A sang B cũng như từ B sang A.", "explanation": "Đúng theo Kyosoku Phụ lục 3(2) mục 3. Khi hai làn được phân chia bằng vạch vàng liền ở cả hai phía, xe ở làn nào cũng không được chuyển làn."},
+   "pt": {"question": "Nas faixas de trânsito separadas por esta sinalização horizontal não se pode mudar de faixa nem de A para B nem de B para A.", "explanation": "É o Kyosoku, Anexo 3(2), item 3. Quando a separação é feita por linhas amarelas contínuas dos dois lados, o veículo de qualquer das faixas não pode mudar de faixa."}
   },
-  {
-    "id": "K1-4-004",
-    "category": "道路でしてはいけないこと",
-    "kp": "1-4-5",
-    "group": "U",
-    "source": "教則 第1章第4節5",
-    "question_type": "text",
-    "qf": "QF-1-4-5-A-N-01",
-    "question_ja": "これから車を運転しようとする人に、酒を出したり勧めたりしてはいけない。",
-    "answer": true,
-    "explanation_ja": "教則第1章第4節5のとおりです。酒を出す側にも責任があります。",
-    "i18n": {
-      "zh": {
-        "question": "不得向即将驾驶车辆的人提供酒或劝酒。",
-        "explanation": "符合教则第1章第4节5的规定。提供酒的一方也有责任。"
-      },
-      "en": {
-        "question": "You must not serve alcohol to, or press it on, a person who is about to drive.",
-        "explanation": "This is Kyosoku Chapter 1 Section 4 item 5. The person serving the drink carries responsibility too."
-      },
-      "vi": {
-        "question": "Không được mời hay ép rượu bia cho người sắp lái xe.",
-        "explanation": "Đúng theo Kyosoku Chương 1 Mục 4 điểm 5. Người mời rượu cũng có trách nhiệm."
-      },
-      "pt": {
-        "question": "Não se deve servir bebida alcoólica nem insistir para que beba quem está prestes a dirigir.",
-        "explanation": "É o Kyosoku, Capítulo 1, Seção 4, item 5. Quem serve a bebida também tem responsabilidade."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "N", "difficulty": 2, "exam_scope": "仮免|本免"
+ },
+ {
+  "id": "KM-004",
+  "category": "標示",
+  "kp": "付3-2-3",
+  "group": "D",
+  "source": "教則 付表3（2）3",
+  "question_type": "marking",
+  "qf": "QF-付3-A-N-15",
+  "image": {"sign_no": "102-2", "file": "M102-2-B_黄実線と白破線.svg", "license": "PD-Japan-exempt (標識令 catalogue reproduction)", "file_verified": true},
+  "question_ja": "この標示のある道路では、白の破線の側の車両通行帯を通る車は、となりの車両通行帯へ進路を変えることができる。",
+  "answer": true,
+  "explanation_ja": "教則付表3（2）3のとおりです。この図の標示が禁止しているのは、黄の実線の側の通行帯を通る車が進路を変えることです。",
+  "i18n": {
+   "zh": {"question": "在设有这个标示（路面）的道路上，行驶在白色虚线一侧车辆通行带的车辆可以向旁边的车辆通行带变更行进路线。", "explanation": "符合教则附表3（2）3的规定。此图的标示所禁止的是行驶在黄色实线一侧通行带的车辆变更行进路线。"},
+   "en": {"question": "On a road with this road marking, a vehicle in the lane on the broken-white-line side may change into the lane beside it.", "explanation": "This is Kyosoku Appendix 3(2) item 3. What the marking in this figure forbids is a lane change by a vehicle in the lane on the solid-yellow-line side."},
+   "vi": {"question": "Trên đường có vạch kẻ đường (kí hiệu trên mặt đường) này, xe đi ở làn phía vạch trắng đứt nét được chuyển sang làn bên cạnh.", "explanation": "Đúng theo Kyosoku Phụ lục 3(2) mục 3. Điều mà vạch trong hình cấm là việc chuyển làn của xe đi ở làn phía vạch vàng liền."},
+   "pt": {"question": "Numa via com esta sinalização horizontal, o veículo que segue na faixa do lado da linha branca tracejada pode mudar para a faixa ao lado.", "explanation": "É o Kyosoku, Anexo 3(2), item 3. O que a marcação da figura proíbe é a mudança de faixa do veículo que segue na faixa do lado da linha amarela contínua."}
   },
-  {
-    "id": "K6-2-001",
-    "category": "坂道・カーブ",
-    "kp": "6-2-1",
-    "group": "U",
-    "source": "教則 第6章第2節1(6)",
-    "question_type": "text",
-    "qf": "QF-6-2-1-A-N-01",
-    "question_ja": "坂道では上り坂での発進がむずかしいため下りの車が上りの車に道を譲るが、近くに待避所があるときは、上りの車でもその待避所に入って待つ。",
-    "answer": true,
-    "explanation_ja": "教則第6章第2節1(6)のとおりです。待避所が近くにあるかどうかで譲る側が変わります。",
-    "i18n": {
-      "zh": {
-        "question": "在坡道上由于上坡起步困难，下坡的车给上坡的车让路，但附近有避车处时，即使是上坡的车也进入该避车处等待。",
-        "explanation": "符合教则第6章第2节1(6)的规定。让路的一方取决于附近是否有避车处。"
-      },
-      "en": {
-        "question": "On a hill the vehicle going down gives way to the one coming up, because moving off uphill is difficult, but where there is a pull-in bay nearby the vehicle going up uses that bay and waits.",
-        "explanation": "This is Kyosoku Chapter 6 Section 2 item 1(6). Which vehicle gives way depends on whether a pull-in bay is close by."
-      },
-      "vi": {
-        "question": "Trên đường dốc, xe đi xuống nhường đường cho xe đi lên vì khởi hành lên dốc là khó, nhưng khi gần đó có chỗ tránh xe thì chính xe đi lên vào chỗ đó và chờ.",
-        "explanation": "Đúng theo Kyosoku Chương 6 Mục 2 điểm 1(6). Bên nào nhường đường tùy thuộc vào việc gần đó có chỗ tránh xe hay không."
-      },
-      "pt": {
-        "question": "Em ladeira, o veículo que desce dá passagem ao que sobe, porque arrancar em subida é difícil, mas quando há um refúgio próximo é o veículo que sobe que entra nele e espera.",
-        "explanation": "É o Kyosoku, Capítulo 6, Seção 2, item 1(6). Qual veículo dá passagem depende de haver ou não um refúgio por perto."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 3,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "N", "difficulty": 3, "exam_scope": "仮免|本免"
+ },
+ {
+  "id": "KM-005",
+  "category": "標示",
+  "kp": "付3-2-3",
+  "group": "D",
+  "source": "教則 付表3（2）3",
+  "question_type": "marking",
+  "qf": "QF-付3-D-SS-06",
+  "image": {"sign_no": "102-2", "file": "M102-2-B_黄実線と白破線.svg", "license": "PD-Japan-exempt (標識令 catalogue reproduction)", "file_verified": true},
+  "question_ja": "この標示のある道路では、白の破線の側の車両通行帯を通る車も、となりの通行帯へ進路を変えることはできない。",
+  "answer": false,
+  "explanation_ja": "白の破線の側の通行帯を通る車は進路を変えることができます。進路を変えられないのは、黄の実線の側の通行帯を通る車です（教則付表3（2）3）。",
+  "i18n": {
+   "zh": {"question": "在设有这个标示（路面）的道路上，行驶在白色虚线一侧车辆通行带的车辆也不能向旁边的通行带变更行进路线。", "explanation": "行驶在白色虚线一侧通行带的车辆可以变更行进路线。不能变更的是行驶在黄色实线一侧通行带的车辆（教则附表3（2）3）。"},
+   "en": {"question": "On a road with this road marking, even a vehicle in the lane on the broken-white-line side may not change into the lane beside it.", "explanation": "A vehicle in the lane on the broken-white-line side may change lanes. The one that may not is the vehicle in the lane on the solid-yellow-line side (Kyosoku Appendix 3(2) item 3)."},
+   "vi": {"question": "Trên đường có vạch kẻ đường (kí hiệu trên mặt đường) này, ngay cả xe đi ở làn phía vạch trắng đứt nét cũng không được chuyển sang làn bên cạnh.", "explanation": "Xe đi ở làn phía vạch trắng đứt nét được chuyển làn. Xe không được chuyển làn là xe đi ở làn phía vạch vàng liền (Kyosoku Phụ lục 3(2) mục 3)."},
+   "pt": {"question": "Numa via com esta sinalização horizontal, nem mesmo o veículo que segue na faixa do lado da linha branca tracejada pode mudar para a faixa ao lado.", "explanation": "O veículo na faixa do lado da linha branca tracejada pode mudar de faixa. Quem não pode é o veículo na faixa do lado da linha amarela contínua (Kyosoku, Anexo 3(2), item 3)."}
   },
-  {
-    "id": "K6-2-002",
-    "category": "坂道・カーブ",
-    "kp": "6-2-1",
-    "group": "U",
-    "source": "教則 第6章第2節1(8)",
-    "question_type": "text",
-    "qf": "QF-6-2-1-A-N-02",
-    "question_ja": "片側が転落のおそれのあるがけになっている道路で安全な行き違いができないときは、がけ側の車が一時停止をして道を譲る。",
-    "answer": true,
-    "explanation_ja": "教則第6章第2節1(8)のとおりです。がけ側の車のほうが転落の危険が大きいためです。",
-    "i18n": {
-      "zh": {
-        "question": "在一侧是有坠落危险的悬崖的道路上无法安全会车时，靠悬崖一侧的车辆暂停（一時停止）让路。",
-        "explanation": "符合教则第6章第2节1(8)的规定。因为靠悬崖一侧的车辆坠落的危险更大。"
-      },
-      "en": {
-        "question": "On a road with a cliff on one side where a vehicle could fall, if oncoming vehicles cannot pass each other safely, the vehicle on the cliff side comes to a complete stop (一時停止) and gives way.",
-        "explanation": "This is Kyosoku Chapter 6 Section 2 item 1(8). The vehicle on the cliff side is the one in greater danger of going over."
-      },
-      "vi": {
-        "question": "Trên đường mà một bên là vách núi có nguy cơ rơi xuống, khi không thể tránh xe ngược chiều an toàn thì xe ở phía vách núi tạm dừng (一時停止) và nhường đường.",
-        "explanation": "Đúng theo Kyosoku Chương 6 Mục 2 điểm 1(8). Xe ở phía vách núi là bên có nguy cơ rơi xuống lớn hơn."
-      },
-      "pt": {
-        "question": "Em via com um precipício de um dos lados, quando não é possível cruzar com o veículo em sentido contrário em segurança, o veículo do lado do precipício faz parada obrigatória (一時停止) e dá passagem.",
-        "explanation": "É o Kyosoku, Capítulo 6, Seção 2, item 1(8). O veículo do lado do precipício é o que corre maior risco de cair."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "SS", "difficulty": 3, "exam_scope": "仮免|本免"
+ },
+ {
+  "id": "KM-006",
+  "category": "標示",
+  "kp": "付3-2-4",
+  "group": "D",
+  "source": "教則 付表3（2）4",
+  "question_type": "marking",
+  "qf": "QF-付3-A-N-29",
+  "image": {"sign_no": "103", "file": "M103.svg", "license": "PD-Japan-exempt (標識令 catalogue reproduction)", "file_verified": true},
+  "question_ja": "この標示は、車の停車と駐車がどちらも禁止されていることを示している。",
+  "answer": true,
+  "explanation_ja": "教則付表3（2）4のとおりです。人の乗り降りのための短い停車もできません。",
+  "i18n": {
+   "zh": {"question": "这个标示（路面）表示车辆的停车和驻车都被禁止。", "explanation": "符合教则附表3（2）4的规定。为上下人的短暂停车也不允许。"},
+   "en": {"question": "This road marking shows that both stopping and parking are forbidden.", "explanation": "This is Kyosoku Appendix 3(2) item 4. Even a brief stop to let someone in or out is not allowed."},
+   "vi": {"question": "Vạch kẻ đường (kí hiệu trên mặt đường) này cho biết cả dừng xe lẫn đỗ xe đều bị cấm.", "explanation": "Đúng theo Kyosoku Phụ lục 3(2) mục 4. Ngay cả việc dừng ngắn để cho người lên xuống cũng không được phép."},
+   "pt": {"question": "Esta sinalização horizontal indica que tanto a parada quanto o estacionamento são proibidos.", "explanation": "É o Kyosoku, Anexo 3(2), item 4. Nem mesmo uma parada breve para embarque ou desembarque é permitida."}
   },
-  {
-    "id": "K6-2-003",
-    "category": "坂道・カーブ",
-    "kp": "6-2-1",
-    "group": "U",
-    "source": "教則 第6章第2節1(4)",
-    "question_type": "text",
-    "qf": "QF-6-2-1-A-N-03",
-    "question_ja": "下り坂では低速のギアを用いてエンジンブレーキを活用し、フットブレーキばかりを使い過ぎないようにする。",
-    "answer": true,
-    "explanation_ja": "教則第6章第2節1(4)のとおりです。長い下り坂でフットブレーキを頻繁に使い過ぎると、急にブレーキが効かなくなることがあります。",
-    "i18n": {
-      "zh": {
-        "question": "在下坡路上使用低速挡活用发动机制动，不要只是过多地使用脚刹车。",
-        "explanation": "符合教则第6章第2节1(4)的规定。在长下坡频繁过度使用脚刹车，有时会使刹车突然失效。"
-      },
-      "en": {
-        "question": "On a downhill stretch you use a low gear to make good use of the engine brake and avoid relying too heavily on the foot brake.",
-        "explanation": "This is Kyosoku Chapter 6 Section 2 item 1(4). Using the foot brake too often on a long descent can make the brakes suddenly stop working."
-      },
-      "vi": {
-        "question": "Khi xuống dốc, bạn dùng số thấp để tận dụng phanh động cơ và tránh chỉ dựa quá nhiều vào phanh chân.",
-        "explanation": "Đúng theo Kyosoku Chương 6 Mục 2 điểm 1(4). Dùng phanh chân quá thường xuyên trên đoạn dốc dài có thể khiến phanh đột ngột mất tác dụng."
-      },
-      "pt": {
-        "question": "Na descida você usa uma marcha reduzida para aproveitar o freio motor e evita depender demais do freio de pé.",
-        "explanation": "É o Kyosoku, Capítulo 6, Seção 2, item 1(4). Usar o freio de pé com frequência excessiva em descida longa pode fazer os freios pararem de funcionar de repente."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "N", "difficulty": 1, "exam_scope": "仮免|本免"
+ },
+ {
+  "id": "KM-007",
+  "category": "標示",
+  "kp": "付3-2-4",
+  "group": "D",
+  "source": "教則 付表3（2）4、5",
+  "question_type": "marking",
+  "qf": "QF-付3-D-SS-29",
+  "image": {"sign_no": "103", "file": "M103.svg", "license": "PD-Japan-exempt (標識令 catalogue reproduction)", "file_verified": true},
+  "question_ja": "この標示のあるところでは駐車はできないが、人の乗り降りのための停車ならできる。",
+  "answer": false,
+  "explanation_ja": "この標示は駐停車禁止で、停車もできません。駐車だけを禁止するのは別の標示です（教則付表3（2）4、5）。",
+  "i18n": {
+   "zh": {"question": "在有这个标示（路面）的地方不能驻车，但为上下人的停车是可以的。", "explanation": "这个标示是禁止驻停车，停车也不允许。只禁止驻车的是另一种标示（教则附表3（2）4、5）。"},
+   "en": {"question": "Where this road marking is, parking is not allowed, but stopping to let someone in or out is.", "explanation": "This marking forbids stopping as well as parking. The marking that forbids only parking is a different one (Kyosoku Appendix 3(2) items 4 and 5)."},
+   "vi": {"question": "Ở nơi có vạch kẻ đường (kí hiệu trên mặt đường) này thì không được đỗ xe, nhưng dừng xe để cho người lên xuống thì được.", "explanation": "Vạch này cấm cả dừng lẫn đỗ, nên dừng xe cũng không được. Vạch chỉ cấm đỗ xe là một vạch khác (Kyosoku Phụ lục 3(2) mục 4 và 5)."},
+   "pt": {"question": "Onde há esta sinalização horizontal não se pode estacionar, mas é permitido parar para embarque ou desembarque.", "explanation": "Esta marcação proíbe parar e estacionar, por isso a parada também não é permitida. A marcação que proíbe apenas o estacionamento é outra (Kyosoku, Anexo 3(2), itens 4 e 5)."}
   },
-  {
-    "id": "K6-2-004",
-    "category": "坂道・カーブ",
-    "kp": "6-2-2",
-    "group": "U",
-    "source": "教則 第6章第2節2(1)",
-    "question_type": "text",
-    "qf": "QF-6-2-2-A-N-01",
-    "question_ja": "曲がり角やカーブに近づくときは、その手前の直線部分で十分に速度を落としておく。",
-    "answer": true,
-    "explanation_ja": "教則第6章第2節2(1)のとおりです。高速のままハンドルを切ったり、ハンドルを切りながらブレーキを掛けたりすると、横転や横滑りを起こしやすくなります。",
-    "i18n": {
-      "zh": {
-        "question": "接近拐角或弯道时，要在其前方的直线部分充分降低速度。",
-        "explanation": "符合教则第6章第2节2(1)的规定。保持高速打方向盘，或者一边打方向盘一边刹车，容易造成侧翻或侧滑。"
-      },
-      "en": {
-        "question": "As you approach a bend or a curve you reduce speed sufficiently on the straight section before it.",
-        "explanation": "This is Kyosoku Chapter 6 Section 2 item 2(1). Turning the wheel at speed, or braking while turning it, makes the vehicle prone to rolling over or sliding sideways."
-      },
-      "vi": {
-        "question": "Khi tới gần chỗ ngoặt hoặc khúc cua, bạn giảm tốc độ đủ mức ngay trên đoạn thẳng phía trước đó.",
-        "explanation": "Đúng theo Kyosoku Chương 6 Mục 2 điểm 2(1). Đánh lái khi còn chạy nhanh, hoặc vừa đánh lái vừa phanh, dễ khiến xe lật hoặc trượt ngang."
-      },
-      "pt": {
-        "question": "Ao se aproximar de uma esquina ou curva, você reduz bem a velocidade no trecho reto que a antecede.",
-        "explanation": "É o Kyosoku, Capítulo 6, Seção 2, item 2(1). Girar o volante em alta velocidade, ou frear enquanto o gira, favorece o capotamento ou a derrapagem lateral."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "SS", "difficulty": 2, "exam_scope": "仮免|本免"
+ },
+ {
+  "id": "KM-008",
+  "category": "標示",
+  "kp": "付3-2-5",
+  "group": "D",
+  "source": "教則 付表3（2）5",
+  "question_type": "marking",
+  "qf": "QF-付3-A-N-57",
+  "image": {"sign_no": "104", "file": "M104.svg", "license": "PD-Japan-exempt (標識令 catalogue reproduction)", "file_verified": true},
+  "question_ja": "この標示のあるところでは駐車はできないが、停車ならできる。",
+  "answer": true,
+  "explanation_ja": "教則付表3（2）5のとおりです。この標示が禁止しているのは駐車だけで、停車は禁止されていません。",
+  "i18n": {
+   "zh": {"question": "在有这个标示（路面）的地方不能驻车，但停车是可以的。", "explanation": "符合教则附表3（2）5的规定。这个标示禁止的只有驻车，停车没有被禁止。"},
+   "en": {"question": "Where this road marking is, parking is not allowed but stopping is.", "explanation": "This is Kyosoku Appendix 3(2) item 5. This marking forbids only parking; stopping is not forbidden."},
+   "vi": {"question": "Ở nơi có vạch kẻ đường (kí hiệu trên mặt đường) này thì không được đỗ xe, nhưng được dừng xe.", "explanation": "Đúng theo Kyosoku Phụ lục 3(2) mục 5. Vạch này chỉ cấm đỗ xe; dừng xe không bị cấm."},
+   "pt": {"question": "Onde há esta sinalização horizontal não se pode estacionar, mas é permitido parar.", "explanation": "É o Kyosoku, Anexo 3(2), item 5. Esta marcação proíbe apenas o estacionamento; a parada não é proibida."}
   },
-  {
-    "id": "K6-2-005",
-    "category": "坂道・カーブ",
-    "kp": "6-2-2",
-    "group": "U",
-    "source": "教則 第6章第2節2(4)",
-    "question_type": "text",
-    "qf": "QF-6-2-2-A-N-02",
-    "question_ja": "道路の曲がり角やカーブを通行するときは、内輪差のため、内側にいる歩行者や自転車などを巻き込んだり、後車輪が路肩からはみ出したりするおそれがある。",
-    "answer": true,
-    "explanation_ja": "教則第6章第2節2(4)のとおりです。内輪差とは、曲がるとき後輪が前輪より内側を通ることによる前後輪の軌跡の差をいいます。",
-    "i18n": {
-      "zh": {
-        "question": "通过道路的拐角或弯道时，由于内轮差，有可能卷入内侧的步行者或自行车，或者后轮驶出路肩。",
-        "explanation": "符合教则第6章第2节2(4)的规定。所谓内轮差，是指转弯时后轮比前轮更靠内侧通过而产生的前后轮轨迹之差。"
-      },
-      "en": {
-        "question": "When you go round a bend or a curve, the inner wheel difference can draw in a pedestrian or a bicycle on the inside, or take the rear wheels off the shoulder of the road.",
-        "explanation": "This is Kyosoku Chapter 6 Section 2 item 2(4). The inner wheel difference is the gap between the paths of the front and rear wheels, because the rear wheels run inside the front ones in a turn."
-      },
-      "vi": {
-        "question": "Khi đi qua chỗ ngoặt hoặc khúc cua, chênh lệch vòng bánh trong có thể cuốn người đi bộ hay xe đạp ở phía trong, hoặc làm bánh sau trượt khỏi lề đường.",
-        "explanation": "Đúng theo Kyosoku Chương 6 Mục 2 điểm 2(4). Chênh lệch vòng bánh trong là khoảng cách giữa quỹ đạo bánh trước và bánh sau, do bánh sau đi phía trong bánh trước khi rẽ."
-      },
-      "pt": {
-        "question": "Ao contornar uma esquina ou curva, a diferença de trajetória das rodas internas pode prender um pedestre ou uma bicicleta do lado de dentro, ou levar as rodas traseiras para fora do acostamento.",
-        "explanation": "É o Kyosoku, Capítulo 6, Seção 2, item 2(4). Essa diferença é a distância entre as trajetórias das rodas dianteiras e traseiras, pois as traseiras passam por dentro das dianteiras na curva."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "N", "difficulty": 2, "exam_scope": "仮免|本免"
+ },
+ {
+  "id": "KM-009",
+  "category": "標示",
+  "kp": "付3-2-5",
+  "group": "D",
+  "source": "教則 付表3（2）4、5",
+  "question_type": "marking",
+  "qf": "QF-付3-D-SS-26",
+  "image": {"sign_no": "104", "file": "M104.svg", "license": "PD-Japan-exempt (標識令 catalogue reproduction)", "file_verified": true},
+  "question_ja": "この標示は、駐車と停車のどちらも禁止されていることを示している。",
+  "answer": false,
+  "explanation_ja": "この標示が禁止しているのは駐車だけです。駐車と停車の両方を禁止する標示は別のものです（教則付表3（2）4、5）。",
+  "i18n": {
+   "zh": {"question": "这个标示（路面）表示驻车和停车都被禁止。", "explanation": "这个标示禁止的只有驻车。同时禁止驻车和停车的是另一种标示（教则附表3（2）4、5）。"},
+   "en": {"question": "This road marking shows that both parking and stopping are forbidden.", "explanation": "This marking forbids only parking. The marking that forbids both is a different one (Kyosoku Appendix 3(2) items 4 and 5)."},
+   "vi": {"question": "Vạch kẻ đường (kí hiệu trên mặt đường) này cho biết cả đỗ xe lẫn dừng xe đều bị cấm.", "explanation": "Vạch này chỉ cấm đỗ xe. Vạch cấm cả hai là một vạch khác (Kyosoku Phụ lục 3(2) mục 4 và 5)."},
+   "pt": {"question": "Esta sinalização horizontal indica que tanto o estacionamento quanto a parada são proibidos.", "explanation": "Esta marcação proíbe apenas o estacionamento. A que proíbe os dois é outra (Kyosoku, Anexo 3(2), itens 4 e 5)."}
   },
-  {
-    "id": "K1-1-001",
-    "category": "基本的な心構え",
-    "kp": "1-1-2",
-    "group": "U",
-    "source": "教則 第1章第1節2(3)",
-    "question_type": "text",
-    "qf": "QF-1-1-2-A-N-01",
-    "question_ja": "万一の場合に備えて、自動車保険に加入したり、応急救護処置に必要な知識を身に付けたり、救急用具を車に備え付けたりしておくことが必要である。",
-    "answer": true,
-    "explanation_ja": "教則第1章第1節2(3)のとおりです。応急救護処置とは、交通事故の現場で負傷者を救護するために必要な応急の処置をいいます。",
-    "i18n": {
-      "zh": {
-        "question": "为防万一，有必要事先投保汽车保险、掌握急救处置所需的知识、在车上配备急救用具。",
-        "explanation": "符合教则第1章第1节2(3)的规定。所谓急救处置，是指在交通事故现场为救护伤者所需的应急处置。"
-      },
-      "en": {
-        "question": "As a precaution you should take out motor insurance, learn what you need to know for emergency first aid, and keep first-aid equipment in the vehicle.",
-        "explanation": "This is Kyosoku Chapter 1 Section 1 item 2(3). Emergency first aid means the immediate measures needed to help an injured person at the scene of a traffic accident."
-      },
-      "vi": {
-        "question": "Để phòng bất trắc, bạn nên mua bảo hiểm ô tô, nắm những kiến thức cần thiết cho sơ cứu và trang bị dụng cụ cứu thương trên xe.",
-        "explanation": "Đúng theo Kyosoku Chương 1 Mục 1 điểm 2(3). Sơ cứu là những biện pháp khẩn cấp cần thiết để cứu giúp người bị thương tại hiện trường tai nạn giao thông."
-      },
-      "pt": {
-        "question": "Por precaução, convém contratar seguro do automóvel, adquirir os conhecimentos necessários de primeiros socorros e manter material de emergência no veículo.",
-        "explanation": "É o Kyosoku, Capítulo 1, Seção 1, item 2(3). Primeiros socorros são as medidas imediatas necessárias para socorrer um ferido no local de um acidente de trânsito."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "SS", "difficulty": 2, "exam_scope": "仮免|本免"
+ },
+ {
+  "id": "KM-010",
+  "category": "標示",
+  "kp": "付3-2-7",
+  "group": "D",
+  "source": "教則 付表3（2）7",
+  "question_type": "marking",
+  "qf": "QF-付3-A-N-58",
+  "image": {"sign_no": "106", "file": "M106.svg", "license": "PD-Japan-exempt (標識令 catalogue reproduction)", "file_verified": true},
+  "question_ja": "この標示は、車が通行してはならない部分を示している。",
+  "answer": true,
+  "explanation_ja": "教則付表3（2）7のとおりです。「立入り禁止部分」は、車が入ってはならない部分として指定されたものです。",
+  "i18n": {
+   "zh": {"question": "这个标示（路面）表示车辆不得通行的部分。", "explanation": "符合教则附表3（2）7的规定。「禁止入内部分」是被指定为车辆不得进入的部分。"},
+   "en": {"question": "This road marking shows a part of the road that vehicles must not drive on.", "explanation": "This is Kyosoku Appendix 3(2) item 7. A No entry zone is a part designated as one that vehicles must not enter."},
+   "vi": {"question": "Vạch kẻ đường (kí hiệu trên mặt đường) này cho biết phần đường mà xe không được đi vào.", "explanation": "Đúng theo Kyosoku Phụ lục 3(2) mục 7. «Khu vực cấm đi vào» là phần được chỉ định là nơi xe không được vào."},
+   "pt": {"question": "Esta sinalização horizontal indica uma parte da via por onde os veículos não devem trafegar.", "explanation": "É o Kyosoku, Anexo 3(2), item 7. A área de entrada proibida é a parte designada como aquela em que os veículos não podem entrar."}
   },
-  {
-    "id": "K1-4-005",
-    "category": "道路でしてはいけないこと",
-    "kp": "1-4-1",
-    "group": "U",
-    "source": "教則 第1章第4節1(4)",
-    "question_type": "text",
-    "qf": "QF-1-4-1-D-EI-01",
-    "question_ja": "道路にガラス片をまいても、後ですぐに片付けるつもりであれば差し支えない。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第1章第4節1(4)は、汚水、ごみ、くぎ、ガラス片などをまいたり捨てたりすること自体を禁じており、後で片付けるという例外はありません。",
-    "i18n": {
-      "zh": {
-        "question": "即使把玻璃碎片撒在道路上，只要打算之后马上清理干净，也没有关系。",
-        "explanation": "错误。教则第1章第4节1(4)禁止的是撒放或丢弃污水、垃圾、钉子、玻璃碎片等这一行为本身，不存在「之后清理」这一例外。"
-      },
-      "en": {
-        "question": "Scattering glass fragments on the road is acceptable as long as you mean to clear them up straight afterwards.",
-        "explanation": "This is wrong. Kyosoku Chapter 1 Section 4 item 1(4) forbids scattering or dumping dirty water, rubbish, nails, glass fragments and the like at all, with no exception for clearing up later."
-      },
-      "vi": {
-        "question": "Rải mảnh kính trên đường cũng không sao, miễn là bạn định dọn sạch ngay sau đó.",
-        "explanation": "Sai. Kyosoku Chương 1 Mục 4 điểm 1(4) cấm chính hành vi rải hay vứt nước bẩn, rác, đinh, mảnh kính và những thứ tương tự, không có ngoại lệ dọn dẹp sau đó."
-      },
-      "pt": {
-        "question": "Espalhar cacos de vidro na via não tem problema, desde que você pretenda recolhê-los logo em seguida.",
-        "explanation": "Está errado. O Kyosoku, Capítulo 1, Seção 4, item 1(4), proíbe o próprio ato de espalhar ou descartar água suja, lixo, pregos, cacos de vidro e coisas semelhantes, sem exceção para recolher depois."
-      }
-    },
-    "trap_type": "EI",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "N", "difficulty": 2, "exam_scope": "仮免|本免"
+ },
+ {
+  "id": "KM-011",
+  "category": "標示",
+  "kp": "付3-2-7",
+  "group": "D",
+  "source": "教則 付表3（2）7",
+  "question_type": "marking",
+  "qf": "QF-付3-D-NR-01",
+  "image": {"sign_no": "106", "file": "M106.svg", "license": "PD-Japan-exempt (標識令 catalogue reproduction)", "file_verified": true},
+  "question_ja": "この標示の部分は、走り抜けることはできるが、その中で停止することはできない。",
+  "answer": false,
+  "explanation_ja": "「立入り禁止部分」は車が通行してはならない部分ですから、走り抜けることもできません（教則付表3（2）7）。",
+  "i18n": {
+   "zh": {"question": "这个标示（路面）的部分可以驶过，但不能在其中停下。", "explanation": "「禁止入内部分」是车辆不得通行的部分，因此也不能驶过（教则附表3（2）7）。"},
+   "en": {"question": "You may drive through the part marked by this road marking, but you may not stop inside it.", "explanation": "A No entry zone is a part that vehicles must not drive on, so you may not drive through it either (Kyosoku Appendix 3(2) item 7)."},
+   "vi": {"question": "Phần có vạch kẻ đường (kí hiệu trên mặt đường) này thì được chạy qua, nhưng không được dừng lại bên trong.", "explanation": "«Khu vực cấm đi vào» là phần xe không được đi vào, nên cũng không được chạy qua (Kyosoku Phụ lục 3(2) mục 7)."},
+   "pt": {"question": "Pela parte com esta sinalização horizontal é possível passar, mas não é possível parar dentro dela.", "explanation": "A área de entrada proibida é uma parte por onde os veículos não devem trafegar, por isso também não se pode atravessá-la (Kyosoku, Anexo 3(2), item 7)."}
   },
-  {
-    "id": "K6-2-006",
-    "category": "坂道・カーブ",
-    "kp": "6-2-1",
-    "group": "U",
-    "source": "教則 第6章第2節1(6)",
-    "question_type": "text",
-    "qf": "QF-6-2-1-D-SW-01",
-    "question_ja": "坂道での行き違いでは、上りの車が下りの車に道を譲る。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第6章第2節1(6)により、上り坂での発進がむずかしいため、下りの車が上りの車に道を譲ります。",
-    "i18n": {
-      "zh": {
-        "question": "在坡道上会车时，上坡的车给下坡的车让路。",
-        "explanation": "错误。根据教则第6章第2节1(6)，由于上坡起步困难，是下坡的车给上坡的车让路。"
-      },
-      "en": {
-        "question": "When vehicles pass each other on a hill, the one going up gives way to the one coming down.",
-        "explanation": "This is wrong. Under Kyosoku Chapter 6 Section 2 item 1(6), because moving off uphill is difficult, the vehicle going down gives way to the one coming up."
-      },
-      "vi": {
-        "question": "Khi tránh xe ngược chiều trên đường dốc, xe đi lên nhường đường cho xe đi xuống.",
-        "explanation": "Sai. Theo Kyosoku Chương 6 Mục 2 điểm 1(6), vì khởi hành lên dốc là khó nên xe đi xuống mới nhường đường cho xe đi lên."
-      },
-      "pt": {
-        "question": "Ao cruzarem em uma ladeira, o veículo que sobe dá passagem ao que desce.",
-        "explanation": "Está errado. Pelo Kyosoku, Capítulo 6, Seção 2, item 1(6), como arrancar em subida é difícil, é o veículo que desce que dá passagem ao que sobe."
-      }
-    },
-    "trap_type": "SW",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "NR", "difficulty": 3, "exam_scope": "仮免|本免"
+ },
+ {
+  "id": "KM-012",
+  "category": "標示",
+  "kp": "付3-2-7",
+  "group": "D",
+  "source": "教則 付表3（2）7、8",
+  "question_type": "marking",
+  "qf": "QF-付3-D-SS-15",
+  "image": {"sign_no": "106", "file": "M106.svg", "license": "PD-Japan-exempt (標識令 catalogue reproduction)", "file_verified": true},
+  "question_ja": "この標示のある部分は、交通が混雑していてその中で停止してしまうおそれがあるときだけ、車が入ってはならない部分である。",
+  "answer": false,
+  "explanation_ja": "これは「立入り禁止部分」です。「停止禁止部分」は、混雑していてその中で停止してしまうおそれがあるときに入ってはならない部分で、別の標示です（教則付表3（2）7、8）。",
+  "i18n": {
+   "zh": {"question": "有这个标示（路面）的部分，只有在交通拥挤、有可能停在其中时，车辆才不得进入。", "explanation": "这是「禁止入内部分」。「禁止停留部分」是在拥堵而有可能停在其中时不得进入的部分，属于另一种标示（教则附表3（2）7、8）。"},
+   "en": {"question": "The part marked by this road marking is one that vehicles must not enter only when congested traffic means they might end up stopped inside it.", "explanation": "This is the No entry zone. The No stopping zone is a part you must not enter when congestion means you might end up stopped inside it, and it is a different marking (Kyosoku Appendix 3(2) items 7 and 8)."},
+   "vi": {"question": "Phần có vạch kẻ đường (kí hiệu trên mặt đường) này là phần mà xe chỉ không được đi vào khi giao thông tắc nghẽn và có thể phải dừng lại bên trong.", "explanation": "Đây là «Khu vực cấm đi vào». «Khu vực cấm dừng lại» là phần không được đi vào khi đang ùn tắc và có nguy cơ phải dừng bên trong, và là một vạch khác (Kyosoku Phụ lục 3(2) mục 7 và 8)."},
+   "pt": {"question": "A parte com esta sinalização horizontal é aquela em que o veículo não pode entrar apenas quando o trânsito congestionado pode deixá-lo parado dentro dela.", "explanation": "Esta é a Área de entrada proibida. A Área de proibição de parada é aquela em que não se deve entrar quando o congestionamento pode deixar o veículo parado dentro dela, e é outra marcação (Kyosoku, Anexo 3(2), itens 7 e 8)."}
   },
-  {
-    "id": "K6-2-007",
-    "category": "坂道・カーブ",
-    "kp": "6-2-1",
-    "group": "U",
-    "source": "教則 第6章第2節1(3)",
-    "question_type": "text",
-    "qf": "QF-6-2-1-D-EI-01",
-    "question_ja": "上り坂の頂上付近では、前方の見通しがよいことが確かめられれば、前の車を追い越してもよい。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第6章第2節1(3)により、上り坂の頂上付近では徐行しなければならず、追越しは見通しにかかわらず禁止されています。",
-    "i18n": {
-      "zh": {
-        "question": "在上坡坡顶附近，只要确认前方视野良好，就可以对前车超车。",
-        "explanation": "错误。根据教则第6章第2节1(3)，在上坡坡顶附近必须缓行（徐行），而且无论视野如何都禁止超车。"
-      },
-      "en": {
-        "question": "Near the crest of a hill you may overtake the vehicle ahead once you have confirmed that the view ahead is clear.",
-        "explanation": "This is wrong. Under Kyosoku Chapter 6 Section 2 item 1(3) you must proceed slowly (徐行) near the crest of a hill, and overtaking there is prohibited whatever the view."
-      },
-      "vi": {
-        "question": "Gần đỉnh dốc, nếu đã xác nhận tầm nhìn phía trước tốt thì bạn được vượt xe phía trước.",
-        "explanation": "Sai. Theo Kyosoku Chương 6 Mục 2 điểm 1(3), gần đỉnh dốc bạn phải lưu thông chậm (徐行), và việc vượt xe bị cấm bất kể tầm nhìn thế nào."
-      },
-      "pt": {
-        "question": "Próximo ao topo de um aclive, você pode ultrapassar o veículo à frente desde que confirme que a visibilidade adiante está boa.",
-        "explanation": "Está errado. Pelo Kyosoku, Capítulo 6, Seção 2, item 1(3), próximo ao topo de aclives você deve prosseguir lentamente (徐行), e a ultrapassagem ali é proibida seja qual for a visibilidade."
-      }
-    },
-    "trap_type": "EI",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "SS", "difficulty": 3, "exam_scope": "仮免|本免"
+ },
+ {
+  "id": "KM-013",
+  "category": "標示",
+  "kp": "付3-2-7",
+  "group": "D",
+  "source": "教則 付表3（2）7、34",
+  "question_type": "marking",
+  "qf": "QF-付3-D-SS-33",
+  "image": {"sign_no": "106", "file": "M106.svg", "license": "PD-Japan-exempt (標識令 catalogue reproduction)", "file_verified": true},
+  "question_ja": "この標示のある部分は、路面電車に乗り降りする人が待つための場所である。",
+  "answer": false,
+  "explanation_ja": "これは「立入り禁止部分」です。安全地帯の標示は外わくが黄、内わくが白で、別のものです（教則付表3（2）7、34）。",
+  "i18n": {
+   "zh": {"question": "有这个标示（路面）的部分，是供上下路面电车的人等候的场所。", "explanation": "这是「禁止入内部分」。安全地带的标示外框为黄色、内框为白色，是另一种标示（教则附表3（2）7、34）。"},
+   "en": {"question": "The part with this road marking is a place for people getting on and off a streetcar (tram) to wait.", "explanation": "This is the No entry zone. The safety zone marking has a yellow outer frame and a white inner frame and is a different one (Kyosoku Appendix 3(2) items 7 and 34)."},
+   "vi": {"question": "Phần có vạch kẻ đường (kí hiệu trên mặt đường) này là nơi để người lên xuống tàu điện mặt đất đứng chờ.", "explanation": "Đây là «Khu vực cấm đi vào». Vạch khu vực an toàn có khung ngoài màu vàng và khung trong màu trắng, là một vạch khác (Kyosoku Phụ lục 3(2) mục 7 và 34)."},
+   "pt": {"question": "A parte com esta sinalização horizontal é um local para as pessoas que embarcam e desembarcam do bonde esperarem.", "explanation": "Esta é a Área de entrada proibida. A marcação de zona de segurança tem moldura externa amarela e interna branca, e é outra (Kyosoku, Anexo 3(2), itens 7 e 34)."}
   },
-  {
-    "id": "K6-2-008",
-    "category": "坂道・カーブ",
-    "kp": "6-2-1",
-    "group": "U",
-    "source": "教則 第6章第2節1(6)",
-    "question_type": "text",
-    "qf": "QF-6-2-1-D-EO-01",
-    "question_ja": "坂道では下りの車が上りの車に道を譲るので、上りの車が待つことはない。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第6章第2節1(6)により、近くに待避所があるときは、上りの車でもその待避所に入って待ちます。",
-    "i18n": {
-      "zh": {
-        "question": "在坡道上是下坡的车给上坡的车让路，所以上坡的车不会有等待的情况。",
-        "explanation": "错误。根据教则第6章第2节1(6)，附近有避车处时，即使是上坡的车也要进入该避车处等待。"
-      },
-      "en": {
-        "question": "Since the vehicle going down a hill gives way to the one coming up, the vehicle going up never has to wait.",
-        "explanation": "This is wrong. Under Kyosoku Chapter 6 Section 2 item 1(6), where there is a pull-in bay nearby, even the vehicle going up uses that bay and waits."
-      },
-      "vi": {
-        "question": "Vì xe đi xuống dốc nhường đường cho xe đi lên nên xe đi lên không bao giờ phải chờ.",
-        "explanation": "Sai. Theo Kyosoku Chương 6 Mục 2 điểm 1(6), khi gần đó có chỗ tránh xe thì ngay cả xe đi lên cũng vào chỗ đó và chờ."
-      },
-      "pt": {
-        "question": "Como o veículo que desce a ladeira dá passagem ao que sobe, o que sobe nunca precisa esperar.",
-        "explanation": "Está errado. Pelo Kyosoku, Capítulo 6, Seção 2, item 1(6), havendo um refúgio por perto, até mesmo o veículo que sobe entra nele e espera."
-      }
-    },
-    "trap_type": "EO",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "SS", "difficulty": 3, "exam_scope": "仮免|本免"
+ },
+ {
+  "id": "KM-014",
+  "category": "標示",
+  "kp": "付3-2-8",
+  "group": "D",
+  "source": "教則 付表3（2）8",
+  "question_type": "marking",
+  "qf": "QF-付3-A-N-02",
+  "image": {"sign_no": "107", "file": "M107.svg", "license": "PD-Japan-exempt (標識令 catalogue reproduction)", "file_verified": true},
+  "question_ja": "この標示は、交通が混雑していてそのまま進むとこの部分で止まってしまうおそれがあるとき、車が入ってはならない部分を示している。",
+  "answer": true,
+  "explanation_ja": "教則付表3（2）8のとおりです。警察署や消防署の前などに設けられます。",
+  "i18n": {
+   "zh": {"question": "这个标示（路面）表示：在交通拥堵、照原样前进有可能停在该部分之中时，车辆不得进入的部分。", "explanation": "符合教则附表3（2）8的规定。它设置在警察署和消防署前面等处。"},
+   "en": {"question": "This road marking shows a part that vehicles must not enter when traffic is congested and going on would risk leaving them stopped inside it.", "explanation": "This is Kyosoku Appendix 3(2) item 8. It is laid in places such as in front of a police station or a fire station."},
+   "vi": {"question": "Vạch kẻ đường (kí hiệu trên mặt đường) này cho biết phần mà xe không được đi vào khi giao thông ùn tắc và đi tiếp có nguy cơ phải dừng lại bên trong.", "explanation": "Đúng theo Kyosoku Phụ lục 3(2) mục 8. Vạch này được kẻ ở những nơi như trước đồn cảnh sát hay trạm cứu hỏa."},
+   "pt": {"question": "Esta sinalização horizontal indica a parte em que os veículos não devem entrar quando o trânsito está congestionado e seguir em frente pode deixá-los parados dentro dela.", "explanation": "É o Kyosoku, Anexo 3(2), item 8. Ela é pintada em locais como a frente de uma delegacia ou de um quartel de bombeiros."}
   },
-  {
-    "id": "K1-4-006",
-    "category": "道路でしてはいけないこと",
-    "kp": "1-4-6",
-    "group": "U",
-    "source": "教則 第1章第4節6",
-    "question_type": "text",
-    "qf": "QF-1-4-6-D-NR-01",
-    "question_ja": "運転者に過積載をして運転することを求めてはいけないが、過積載となるような物を売り渡すことまでは禁止されていない。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第1章第4節6は、過積載となるような物を売り渡したり引き渡したりすることも禁じています。",
-    "i18n": {
-      "zh": {
-        "question": "不得要求驾驶员超载行驶，但出售会造成超载的物品并未被禁止。",
-        "explanation": "错误。教则第1章第4节6同样禁止出售或交付会造成超载的物品。"
-      },
-      "en": {
-        "question": "You must not ask a driver to drive overloaded, but selling goods that would overload the vehicle is not prohibited.",
-        "explanation": "This is wrong. Kyosoku Chapter 1 Section 4 item 6 also prohibits selling or handing over goods that would overload the vehicle."
-      },
-      "vi": {
-        "question": "Không được yêu cầu người lái xe chở quá tải, nhưng việc bán hàng hóa gây quá tải thì không bị cấm.",
-        "explanation": "Sai. Kyosoku Chương 1 Mục 4 điểm 6 cũng cấm bán hoặc giao hàng hóa gây quá tải cho xe."
-      },
-      "pt": {
-        "question": "Não se pode pedir ao condutor que dirija com excesso de carga, mas vender mercadorias que causariam esse excesso não é proibido.",
-        "explanation": "Está errado. O Kyosoku, Capítulo 1, Seção 4, item 6, também proíbe vender ou entregar mercadorias que causariam excesso de carga."
-      }
-    },
-    "trap_type": "NR",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "N", "difficulty": 2, "exam_scope": "仮免|本免"
+ },
+ {
+  "id": "KM-015",
+  "category": "標示",
+  "kp": "付3-2-8",
+  "group": "D",
+  "source": "教則 付表3（2）8",
+  "question_type": "marking",
+  "qf": "QF-付3-A-N-24",
+  "image": {"sign_no": "107", "file": "M107.svg", "license": "PD-Japan-exempt (標識令 catalogue reproduction)", "file_verified": true},
+  "question_ja": "信号待ちのためであっても、この標示の部分に止まってはならない。",
+  "answer": true,
+  "explanation_ja": "教則付表3（2）8のとおりです。止まってしまうおそれがあるときは、この部分の手前で待ちます。",
+  "i18n": {
+   "zh": {"question": "即使是为等信号，也不得停在这个标示（路面）的部分之中。", "explanation": "符合教则附表3（2）8的规定。有可能停下时，应在该部分的近前等待。"},
+   "en": {"question": "Even while waiting for a light, you must not stop inside the part shown by this road marking.", "explanation": "This is Kyosoku Appendix 3(2) item 8. If you might end up stopped there, wait before the marked part."},
+   "vi": {"question": "Ngay cả khi chờ đèn tín hiệu, cũng không được dừng trong phần có vạch kẻ đường (kí hiệu trên mặt đường) này.", "explanation": "Đúng theo Kyosoku Phụ lục 3(2) mục 8. Nếu có nguy cơ phải dừng ở đó, hãy chờ phía trước phần được kẻ vạch."},
+   "pt": {"question": "Mesmo à espera do sinal, não se deve parar dentro da parte indicada por esta sinalização horizontal.", "explanation": "É o Kyosoku, Anexo 3(2), item 8. Se houver risco de ficar parado ali, espere antes da parte demarcada."}
   },
-  {
-    "id": "K1-4-007",
-    "category": "道路でしてはいけないこと",
-    "kp": "1-4-1",
-    "group": "U",
-    "source": "教則 第1章第4節1(5)",
-    "question_type": "text",
-    "qf": "QF-1-4-1-D-SC-01",
-    "question_ja": "渋滞で車が止まったままで退屈だったので、窓から腕を出して外の様子を見た。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第1章第4節1(5)により、体や物を車の外に出してはいけません。",
-    "i18n": {
-      "zh": {
-        "question": "因为堵车时车一直停着很无聊，就把胳膊伸出窗外看外面的情况。",
-        "explanation": "错误。根据教则第1章第4节1(5)，不得把身体或物品伸出车外。"
-      },
-      "en": {
-        "question": "Because the vehicle was stuck in a jam and it was dull, you put your arm out of the window to look at what was going on outside.",
-        "explanation": "This is wrong. Under Kyosoku Chapter 1 Section 4 item 1(5) you must not put your body or objects outside the vehicle."
-      },
-      "vi": {
-        "question": "Vì xe đứng yên trong đoạn tắc đường và thấy chán, bạn thò tay ra ngoài cửa sổ để xem tình hình bên ngoài.",
-        "explanation": "Sai. Theo Kyosoku Chương 1 Mục 4 điểm 1(5), không được thò người hay đồ vật ra ngoài xe."
-      },
-      "pt": {
-        "question": "Como o veículo estava parado no congestionamento e era entediante, você pôs o braço para fora da janela para ver o que acontecia lá fora.",
-        "explanation": "Está errado. Pelo Kyosoku, Capítulo 1, Seção 4, item 1(5), não se deve colocar o corpo ou objetos para fora do veículo."
-      }
-    },
-    "trap_type": "SC",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "N", "difficulty": 2, "exam_scope": "仮免|本免"
+ },
+ {
+  "id": "KM-016",
+  "category": "標示",
+  "kp": "付3-2-8",
+  "group": "D",
+  "source": "教則 第5章第2節2(9) / 付表3（2）8",
+  "question_type": "marking",
+  "qf": "QF-付3-A-N-49",
+  "image": {"sign_no": "107", "file": "M107.svg", "license": "PD-Japan-exempt (標識令 catalogue reproduction)", "file_verified": true},
+  "question_ja": "警察署や消防署の前などに設けられたこの標示の部分には、前方の交通が混雑していて、そのまま進むとその中で止まってしまうおそれがあるとき、車は入ってはいけない。",
+  "answer": true,
+  "explanation_ja": "教則第5章第2節2(9)のとおりです。横断歩道や踏切で動きがとれなくなるおそれがあるときも同じです。",
+  "i18n": {
+   "zh": {"question": "对于设在警察署、消防署前等处的这个标示（路面）的部分，当前方交通拥挤、照原样前进有可能停在其中时，车辆不得进入。", "explanation": "符合教则第5章第2节2(9)的规定。在人行横道和铁路道口有可能动弹不得时也一样。"},
+   "en": {"question": "A vehicle must not enter the part marked by this road marking, laid in places such as in front of a police station or a fire station, when the traffic ahead is congested and going on might leave it stopped inside.", "explanation": "This is Kyosoku Chapter 5 Section 2 item 2(9). The same goes for a pedestrian crossing or a railway crossing where you might end up unable to move."},
+   "vi": {"question": "Xe không được đi vào phần có vạch kẻ đường (kí hiệu trên mặt đường) này, được kẻ ở những nơi như trước đồn cảnh sát hay trạm cứu hỏa, khi giao thông phía trước tắc nghẽn và việc đi tiếp có thể khiến xe phải dừng lại bên trong.", "explanation": "Đúng theo Kyosoku Chương 5 Mục 2 điểm 2(9). Ở vạch sang đường hay đường ngang đường sắt, khi có nguy cơ không di chuyển được, cũng như vậy."},
+   "pt": {"question": "O veículo não deve entrar na parte com esta sinalização horizontal, pintada em locais como em frente a uma delegacia ou a um quartel de bombeiros, quando o trânsito à frente está congestionado e seguir em frente pode deixá-lo parado dentro dela.", "explanation": "É o Kyosoku, Capítulo 5, Seção 2, item 2(9). O mesmo vale para a faixa de pedestres ou a passagem de nível em que se possa ficar sem como sair."}
   },
-  {
-    "id": "K6-2-009",
-    "category": "坂道・カーブ",
-    "kp": "6-2-2",
-    "group": "U",
-    "source": "教則 第6章第2節2(5)",
-    "question_type": "text",
-    "qf": "QF-6-2-2-D-EI-01",
-    "question_ja": "曲がり角やカーブでも、対向車が来ていないことが確かめられれば前の車を追い越してよい。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第6章第2節2(5)により、曲がり角やカーブでは前の車を追い越してはいけません。",
-    "i18n": {
-      "zh": {
-        "question": "即使在拐角或弯道，只要确认没有对向车驶来，也可以对前车超车。",
-        "explanation": "错误。根据教则第6章第2节2(5)，在拐角和弯道不得对前车超车。"
-      },
-      "en": {
-        "question": "Even at a bend or a curve you may overtake the vehicle ahead once you have confirmed that nothing is coming the other way.",
-        "explanation": "This is wrong. Under Kyosoku Chapter 6 Section 2 item 2(5) you must not overtake the vehicle ahead at a bend or a curve."
-      },
-      "vi": {
-        "question": "Ngay cả ở chỗ ngoặt hay khúc cua, nếu đã xác nhận không có xe ngược chiều thì bạn được vượt xe phía trước.",
-        "explanation": "Sai. Theo Kyosoku Chương 6 Mục 2 điểm 2(5), ở chỗ ngoặt và khúc cua không được vượt xe phía trước."
-      },
-      "pt": {
-        "question": "Mesmo em esquina ou curva, você pode ultrapassar o veículo à frente desde que confirme que não vem ninguém em sentido contrário.",
-        "explanation": "Está errado. Pelo Kyosoku, Capítulo 6, Seção 2, item 2(5), em esquinas e curvas não se deve ultrapassar o veículo à frente."
-      }
-    },
-    "trap_type": "EI",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "N", "difficulty": 2, "exam_scope": "仮免|本免"
+ },
+ {
+  "id": "KM-017",
+  "category": "標示",
+  "kp": "付3-2-8",
+  "group": "D",
+  "source": "教則 付表3（2）8",
+  "question_type": "marking",
+  "qf": "QF-付3-D-AB-01",
+  "image": {"sign_no": "107", "file": "M107.svg", "license": "PD-Japan-exempt (標識令 catalogue reproduction)", "file_verified": true},
+  "question_ja": "車は、この標示の部分には、どんな場合でも入ってはならない。",
+  "answer": false,
+  "explanation_ja": "入ってはならないのは、混雑していてその部分で止まってしまうおそれがあるときです。そのおそれがなければ通行できます（教則付表3（2）8）。",
+  "i18n": {
+   "zh": {"question": "车辆在任何情况下都不得进入这个标示（路面）的部分。", "explanation": "不得进入的是拥堵而有可能停在该部分之中的时候。没有这种可能时可以通行（教则附表3（2）8）。"},
+   "en": {"question": "A vehicle must never, under any circumstances, enter the part shown by this road marking.", "explanation": "You must not enter when congestion means you might end up stopped inside it. If there is no such risk you may drive through (Kyosoku Appendix 3(2) item 8)."},
+   "vi": {"question": "Xe không được đi vào phần có vạch kẻ đường (kí hiệu trên mặt đường) này trong bất kỳ trường hợp nào.", "explanation": "Không được đi vào khi ùn tắc và có nguy cơ phải dừng bên trong phần đó. Nếu không có nguy cơ ấy thì được đi qua (Kyosoku Phụ lục 3(2) mục 8)."},
+   "pt": {"question": "O veículo não pode, em nenhuma circunstância, entrar na parte indicada por esta sinalização horizontal.", "explanation": "Não se deve entrar quando o congestionamento pode deixar o veículo parado dentro dela. Sem esse risco, é possível atravessar (Kyosoku, Anexo 3(2), item 8)."}
   },
-  {
-    "id": "K6-2-010",
-    "category": "坂道・カーブ",
-    "kp": "6-2-1",
-    "group": "U",
-    "source": "教則 第6章第2節1(4)",
-    "question_type": "text",
-    "qf": "QF-6-2-1-D-SW-02",
-    "question_ja": "長い下り坂では、エンジンブレーキを使わずにフットブレーキを繰り返し使うようにするとよい。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第6章第2節1(4)により、低速のギアを用いてエンジンブレーキを活用し、フットブレーキを頻繁に使い過ぎないようにします。",
-    "i18n": {
-      "zh": {
-        "question": "在长下坡，最好不使用发动机制动，而是反复使用脚刹车。",
-        "explanation": "错误。根据教则第6章第2节1(4)，要使用低速挡活用发动机制动，不要过于频繁地使用脚刹车。"
-      },
-      "en": {
-        "question": "On a long descent it is best to leave the engine brake alone and use the foot brake repeatedly instead.",
-        "explanation": "This is wrong. Under Kyosoku Chapter 6 Section 2 item 1(4) you use a low gear to make good use of the engine brake and avoid using the foot brake too often."
-      },
-      "vi": {
-        "question": "Trên đoạn dốc xuống dài, tốt nhất là không dùng phanh động cơ mà đạp phanh chân nhiều lần.",
-        "explanation": "Sai. Theo Kyosoku Chương 6 Mục 2 điểm 1(4), bạn dùng số thấp để tận dụng phanh động cơ và tránh dùng phanh chân quá thường xuyên."
-      },
-      "pt": {
-        "question": "Em descida longa, o melhor é dispensar o freio motor e usar o freio de pé repetidamente.",
-        "explanation": "Está errado. Pelo Kyosoku, Capítulo 6, Seção 2, item 1(4), você usa marcha reduzida para aproveitar o freio motor e evita usar o freio de pé com frequência excessiva."
-      }
-    },
-    "trap_type": "SW",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "AB", "difficulty": 3, "exam_scope": "仮免|本免"
+ },
+ {
+  "id": "KM-018",
+  "category": "標示",
+  "kp": "付3-2-8",
+  "group": "D",
+  "source": "教則 付表3（2）7、8",
+  "question_type": "marking",
+  "qf": "QF-付3-D-SS-08",
+  "image": {"sign_no": "107", "file": "M107.svg", "license": "PD-Japan-exempt (標識令 catalogue reproduction)", "file_verified": true},
+  "question_ja": "この標示のある部分は、交通が混雑しているかどうかにかかわらず、車が通行してはならない部分である。",
+  "answer": false,
+  "explanation_ja": "これは「停止禁止部分」です。「立入り禁止部分」は車が通行してはならない部分で、別の標示です（教則付表3（2）7、8）。",
+  "i18n": {
+   "zh": {"question": "有这个标示（路面）的部分，无论交通是否拥挤，车辆都不得通行。", "explanation": "这是「禁止停留部分」。「禁止入内部分」是车辆不得通行的部分，属于另一种标示（教则附表3（2）7、8）。"},
+   "en": {"question": "Whether or not the traffic is congested, vehicles must not drive on the part marked by this road marking.", "explanation": "This is the No stopping zone. The No entry zone is a part that vehicles must not drive on, and it is a different marking (Kyosoku Appendix 3(2) items 7 and 8)."},
+   "vi": {"question": "Bất kể giao thông có tắc nghẽn hay không, xe đều không được đi vào phần có vạch kẻ đường (kí hiệu trên mặt đường) này.", "explanation": "Đây là «Khu vực cấm dừng lại». «Khu vực cấm đi vào» là phần xe không được đi vào và là một vạch khác (Kyosoku Phụ lục 3(2) mục 7 và 8)."},
+   "pt": {"question": "Esteja o trânsito congestionado ou não, os veículos não podem trafegar pela parte com esta sinalização horizontal.", "explanation": "Esta é a Área de proibição de parada. A Área de entrada proibida é uma parte por onde os veículos não devem trafegar, e é outra marcação (Kyosoku, Anexo 3(2), itens 7 e 8)."}
   },
-  {
-    "id": "K1-4-008",
-    "category": "道路でしてはいけないこと",
-    "kp": "1-4-3",
-    "group": "U",
-    "source": "教則 第1章第4節3",
-    "question_type": "text",
-    "qf": "QF-1-4-3-D-EI-01",
-    "question_ja": "信号機の近くに信号と似た色のネオンサインを設けても、点灯するのが夜間だけであれば差し支えない。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第1章第4節3は、信号や標識・標示がよく見えなくなることを防ぐため、こうしたネオンサインを設けること自体を禁じています。",
-    "i18n": {
-      "zh": {
-        "question": "在信号灯附近设置与信号灯颜色相似的霓虹灯招牌，只要只在夜间点亮就没有关系。",
-        "explanation": "错误。教则第1章第4节3为防止信号灯和标识（立牌）、标示变得难以看清，禁止设置这类霓虹灯招牌这一行为本身。"
-      },
-      "en": {
-        "question": "Putting up a neon sign in a colour resembling a traffic light near a traffic light is acceptable as long as it is only lit at night.",
-        "explanation": "This is wrong. Kyosoku Chapter 1 Section 4 item 3 forbids putting up such a neon sign at all, so that traffic lights, road signs and road markings stay easy to see."
-      },
-      "vi": {
-        "question": "Đặt biển đèn neon có màu giống đèn tín hiệu ở gần đèn tín hiệu cũng không sao, miễn là chỉ bật vào ban đêm.",
-        "explanation": "Sai. Kyosoku Chương 1 Mục 4 điểm 3 cấm chính việc đặt biển đèn neon như vậy, để đèn tín hiệu, biển báo giao thông và vạch kẻ đường luôn dễ nhìn."
-      },
-      "pt": {
-        "question": "Instalar um letreiro de neon com cor parecida com a do semáforo perto de um semáforo não tem problema, desde que só fique aceso à noite.",
-        "explanation": "Está errado. O Kyosoku, Capítulo 1, Seção 4, item 3, proíbe instalar esse letreiro de neon em si, para que semáforos e sinalizações continuem bem visíveis."
-      }
-    },
-    "trap_type": "EI",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "SS", "difficulty": 3, "exam_scope": "仮免|本免"
+ },
+ {
+  "id": "KM-019",
+  "category": "標示",
+  "kp": "付3-2-8",
+  "group": "D",
+  "source": "教則 付表3（2）8、34",
+  "question_type": "marking",
+  "qf": "QF-付3-D-SS-36",
+  "image": {"sign_no": "107", "file": "M107.svg", "license": "PD-Japan-exempt (標識令 catalogue reproduction)", "file_verified": true},
+  "question_ja": "この標示の部分は、道路を横断する歩行者が安全のために立ち止まってよい場所である。",
+  "answer": false,
+  "explanation_ja": "これは「停止禁止部分」です。安全地帯は路面電車に乗り降りする人や横断する歩行者の安全のための場所で、標示も別のものです（教則付表3（2）8、34）。",
+  "i18n": {
+   "zh": {"question": "这个标示（路面）的部分，是横穿道路的步行者为了安全可以停下站立的场所。", "explanation": "这是「禁止停留部分」。安全地带是为上下路面电车的人和横穿的步行者的安全而设的场所，标示也不同（教则附表3（2）8、34）。"},
+   "en": {"question": "The part with this road marking is a place where pedestrians crossing the road may stand still for safety.", "explanation": "This is the No stopping zone. A safety zone is a place for the safety of people boarding or leaving a streetcar (tram) and of pedestrians crossing, and its marking is a different one (Kyosoku Appendix 3(2) items 8 and 34)."},
+   "vi": {"question": "Phần có vạch kẻ đường (kí hiệu trên mặt đường) này là nơi người đi bộ băng ngang đường có thể đứng lại cho an toàn.", "explanation": "Đây là «Khu vực cấm dừng lại». Khu vực an toàn là nơi dành cho sự an toàn của người lên xuống tàu điện mặt đất và người đi bộ sang đường, và vạch của nó cũng khác (Kyosoku Phụ lục 3(2) mục 8 và 34)."},
+   "pt": {"question": "A parte com esta sinalização horizontal é um local onde os pedestres que atravessam a via podem parar em pé para sua segurança.", "explanation": "Esta é a Área de proibição de parada. A zona de segurança é um local para a segurança de quem embarca ou desembarca do bonde e de quem atravessa a pé, e sua marcação é outra (Kyosoku, Anexo 3(2), itens 8 e 34)."}
   },
-  {
-    "id": "K6-2-011",
-    "category": "坂道・カーブ",
-    "kp": "6-2-2",
-    "group": "U",
-    "source": "教則 第6章第2節2(3)",
-    "question_type": "text",
-    "qf": "QF-6-2-2-D-AB-01",
-    "question_ja": "曲がり角やカーブでは自分が道路の中央からはみ出さないようにしていれば、対向車が中央からはみ出して来ることは一切ない。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第6章第2節2(3)は、対向車が道路の中央からはみ出して来ることがあるから注意するよう求めています。",
-    "i18n": {
-      "zh": {
-        "question": "在拐角或弯道，只要自己不驶出道路中心线，对向车就绝不会越过中心线驶来。",
-        "explanation": "错误。教则第6章第2节2(3)要求注意，因为对向车有可能越过道路中心线驶来。"
-      },
-      "en": {
-        "question": "At a bend or a curve, as long as you keep from crossing the centre of the road, an oncoming vehicle will never cross it either.",
-        "explanation": "This is wrong. Kyosoku Chapter 6 Section 2 item 2(3) asks you to watch out precisely because an oncoming vehicle may come across the centre of the road."
-      },
-      "vi": {
-        "question": "Ở chỗ ngoặt hay khúc cua, chỉ cần bạn không lấn qua tim đường thì xe ngược chiều cũng tuyệt đối không bao giờ lấn qua.",
-        "explanation": "Sai. Kyosoku Chương 6 Mục 2 điểm 2(3) yêu cầu chú ý chính vì xe ngược chiều có thể lấn qua tim đường."
-      },
-      "pt": {
-        "question": "Em esquina ou curva, desde que você não invada o centro da via, o veículo em sentido contrário nunca o invadirá.",
-        "explanation": "Está errado. O Kyosoku, Capítulo 6, Seção 2, item 2(3), pede atenção justamente porque o veículo em sentido contrário pode invadir o centro da via."
-      }
-    },
-    "trap_type": "AB",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免|外免"
-  }
+  "trap_type": "SS", "difficulty": 3, "exam_scope": "仮免|本免"
+ },
+ {
+  "id": "KM-020",
+  "category": "標示",
+  "kp": "付3-2-10",
+  "group": "D",
+  "source": "教則 第5章第8節3(3) / 付表3（2）10",
+  "question_type": "marking",
+  "qf": "QF-付3-A-N-37",
+  "image": {"sign_no": "108-2", "file": "M108-2.svg", "license": "PD-Japan-exempt (標識令 catalogue reproduction)", "file_verified": true},
+  "question_ja": "この標示のある路側帯では、車はその中に入って駐車や停車をすることができない。",
+  "answer": true,
+  "explanation_ja": "教則第5章第8節3(3)のとおりです。白の実線と破線の標示がある路側帯は駐停車禁止路側帯で、幅が広くても中に入れません。",
+  "i18n": {
+   "zh": {"question": "在有这个标示（路面）的路侧带（路側帯）内，车辆不能进入其中驻车或停车。", "explanation": "符合教则第5章第8节3(3)的规定。设有白色实线与虚线标示的路侧带是禁止驻停车路侧带，即使宽度够宽也不能进入其中。"},
+   "en": {"question": "In the side strip (路側帯) with this road marking, a vehicle may not go inside it to park or stop.", "explanation": "This is Kyosoku Chapter 5 Section 8 item 3(3). A side strip marked with a solid and a broken white line is a no-stopping-or-parking side strip, and you may not enter it however wide it is."},
+   "vi": {"question": "Ở lề đường (路側帯) có vạch kẻ đường (kí hiệu trên mặt đường) này, xe không được đi vào bên trong để đỗ hay dừng.", "explanation": "Đúng theo Kyosoku Chương 5 Mục 8 điểm 3(3). Lề đường có vạch trắng liền và vạch trắng đứt là lề đường cấm dừng đỗ, dù rộng đến đâu cũng không được đi vào."},
+   "pt": {"question": "Na faixa lateral (路側帯) com esta sinalização horizontal, o veículo não pode entrar para estacionar nem para parar.", "explanation": "É o Kyosoku, Capítulo 5, Seção 8, item 3(3). A faixa lateral marcada com uma linha branca contínua e outra tracejada é uma faixa em que parar e estacionar são proibidos, e não se pode entrar nela por mais larga que seja."}
+  },
+  "trap_type": "N", "difficulty": 3, "exam_scope": "仮免|本免"
+ }
 ]

@@ -1,197 +1,232 @@
 {
-  "lang": "pt-BR",
-  "source": "交通の方法に関する教則（令和6年9月4日 国家公安委員会告示第37号）目次、および道路交通法",
-  "chapters": [
+ "lang": "pt-BR",
+ "source": "交通の方法に関する教則（令和6年9月4日 国家公安委員会告示第37号）目次、および道路交通法",
+ "chapters": [
+  {
+   "code": "1",
+   "kind": "kyosoku",
+   "name": "Regras comuns a pedestres e condutores",
+   "sections": [
     {
-      "code": "1",
-      "kind": "kyosoku",
-      "name": "Regras comuns a pedestres e condutores",
-      "sections": [
-        {
-          "code": "1-1",
-          "name": "Atitude básica"
-        },
-        {
-          "code": "1-2",
-          "name": "Obedecer aos semáforos, às placas e à sinalização horizontal"
-        },
-        {
-          "code": "1-3",
-          "name": "Obedecer às instruções de policiais"
-        },
-        {
-          "code": "1-4",
-          "name": "O que não se pode fazer na via"
-        }
-      ]
+     "code": "1-1",
+     "name": "Atitude básica"
     },
     {
-      "code": "2",
-      "kind": "kyosoku",
-      "name": "Regras para pedestres",
-      "sections": [
-        {
-          "code": "2-2",
-          "name": "Por onde os pedestres andam"
-        },
-        {
-          "code": "2-3",
-          "name": "Como atravessar a via"
-        }
-      ]
+     "code": "1-2",
+     "name": "Obedecer aos semáforos, às placas e à sinalização horizontal"
     },
     {
-      "code": "3",
-      "kind": "kyosoku",
-      "name": "Regras para condutores de ciclomotores pequenos especificados e bicicletas",
-      "sections": [
-        {
-          "code": "3-1",
-          "name": "Como conduzir corretamente um ciclomotor pequeno especificado"
-        },
-        {
-          "code": "3-2",
-          "name": "Como conduzir corretamente uma bicicleta"
-        },
-        {
-          "code": "3-3",
-          "name": "Circulação segura"
-        }
-      ]
+     "code": "1-3",
+     "name": "Obedecer às instruções de policiais"
     },
     {
-      "code": "4",
-      "kind": "kyosoku",
-      "name": "Antes de dirigir um automóvel ou um ciclomotor",
-      "sections": [
-        {
-          "code": "4-1",
-          "name": "Cuidados ao dirigir"
-        },
-        {
-          "code": "4-2",
-          "name": "Como funciona a habilitação"
-        }
-      ]
-    },
-    {
-      "code": "5",
-      "kind": "kyosoku",
-      "name": "Como dirigir um automóvel ou um ciclomotor",
-      "sections": [
-        {
-          "code": "5-1",
-          "name": "Partida segura"
-        },
-        {
-          "code": "5-2",
-          "name": "Por onde o automóvel circula"
-        },
-        {
-          "code": "5-3",
-          "name": "Proteção aos pedestres"
-        },
-        {
-          "code": "5-4",
-          "name": "Velocidade segura e distância do veículo à frente"
-        },
-        {
-          "code": "5-5",
-          "name": "Mudança de faixa e manobras relacionadas"
-        },
-        {
-          "code": "5-6",
-          "name": "Ultrapassagem e regras relacionadas"
-        },
-        {
-          "code": "5-7",
-          "name": "Como atravessar um cruzamento"
-        },
-        {
-          "code": "5-9",
-          "name": "Dirigir um veículo de transmissão automática (AT)"
-        }
-      ]
-    },
-    {
-      "code": "6",
-      "kind": "kyosoku",
-      "name": "Dirigir em locais perigosos",
-      "sections": [
-        {
-          "code": "6-1",
-          "name": "Passagens de nível ferroviárias"
-        },
-        {
-          "code": "6-2",
-          "name": "Ladeiras e curvas"
-        }
-      ]
-    },
-    {
-      "code": "8",
-      "kind": "kyosoku",
-      "name": "Como pilotar um veículo de duas rodas",
-      "sections": [
-        {
-          "code": "8-1",
-          "name": "O que o piloto de um veículo de duas rodas deve saber"
-        },
-        {
-          "code": "8-2",
-          "name": "Pilotar corretamente"
-        },
-        {
-          "code": "8-3",
-          "name": "Como pilotar com segurança"
-        },
-        {
-          "code": "8-4",
-          "name": "Como usar os freios"
-        }
-      ]
-    },
-    {
-      "code": "付3",
-      "kind": "appendix",
-      "name": "Anexo 3 — Tipos e significados das placas e da sinalização horizontal",
-      "sections": [
-        {
-          "code": "付3-1",
-          "name": "Tipos e significados das placas"
-        },
-        {
-          "code": "付3-2",
-          "name": "Tipos e significados da sinalização horizontal"
-        }
-      ]
-    },
-    {
-      "code": "法",
-      "kind": "law",
-      "name": "Lei de Trânsito — habilitação",
-      "sections": [
-        {
-          "code": "法84-5",
-          "name": "Habilitação provisória (仮免)"
-        },
-        {
-          "code": "法87-1",
-          "name": "Quando se pode dirigir com habilitação provisória"
-        },
-        {
-          "code": "法87-2",
-          "name": "O acompanhante e a placa de treino"
-        },
-        {
-          "code": "法88-1",
-          "name": "Quem não pode ter habilitação"
-        },
-        {
-          "code": "法96",
-          "name": "Validade da habilitação provisória"
-        }
-      ]
+     "code": "1-4",
+     "name": "O que não se pode fazer na via"
     }
-  ]
+   ]
+  },
+  {
+   "code": "2",
+   "kind": "kyosoku",
+   "name": "Regras para pedestres",
+   "sections": [
+    {
+     "code": "2-2",
+     "name": "Por onde os pedestres andam"
+    },
+    {
+     "code": "2-3",
+     "name": "Como atravessar a via"
+    }
+   ]
+  },
+  {
+   "code": "3",
+   "kind": "kyosoku",
+   "name": "Regras para condutores de ciclomotores pequenos especificados e bicicletas",
+   "sections": [
+    {
+     "code": "3-1",
+     "name": "Como conduzir corretamente um ciclomotor pequeno especificado"
+    },
+    {
+     "code": "3-2",
+     "name": "Como conduzir corretamente uma bicicleta"
+    },
+    {
+     "code": "3-3",
+     "name": "Circulação segura"
+    }
+   ]
+  },
+  {
+   "code": "4",
+   "kind": "kyosoku",
+   "name": "Antes de dirigir um automóvel ou um ciclomotor",
+   "sections": [
+    {
+     "code": "4-1",
+     "name": "Cuidados ao dirigir"
+    },
+    {
+     "code": "4-2",
+     "name": "Como funciona a habilitação"
+    },
+    {
+     "code": "4-4",
+     "name": "Transporte de pessoas e de carga"
+    }
+   ]
+  },
+  {
+   "code": "5",
+   "kind": "kyosoku",
+   "name": "Como dirigir um automóvel ou um ciclomotor",
+   "sections": [
+    {
+     "code": "5-1",
+     "name": "Partida segura"
+    },
+    {
+     "code": "5-2",
+     "name": "Por onde o automóvel circula"
+    },
+    {
+     "code": "5-3",
+     "name": "Proteção aos pedestres"
+    },
+    {
+     "code": "5-4",
+     "name": "Velocidade segura e distância do veículo à frente"
+    },
+    {
+     "code": "5-5",
+     "name": "Mudança de faixa e manobras relacionadas"
+    },
+    {
+     "code": "5-6",
+     "name": "Ultrapassagem e regras relacionadas"
+    },
+    {
+     "code": "5-7",
+     "name": "Como atravessar um cruzamento"
+    },
+    {
+     "code": "5-8",
+     "name": "Estacionamento e parada"
+    },
+    {
+     "code": "5-9",
+     "name": "Dirigir um veículo de transmissão automática (AT)"
+    }
+   ]
+  },
+  {
+   "code": "6",
+   "kind": "kyosoku",
+   "name": "Dirigir em locais perigosos",
+   "sections": [
+    {
+     "code": "6-1",
+     "name": "Passagens de nível ferroviárias"
+    },
+    {
+     "code": "6-2",
+     "name": "Ladeiras e curvas"
+    },
+    {
+     "code": "6-3",
+     "name": "À noite"
+    }
+   ]
+  },
+  {
+   "code": "8",
+   "kind": "kyosoku",
+   "name": "Como pilotar um veículo de duas rodas",
+   "sections": [
+    {
+     "code": "8-1",
+     "name": "O que o piloto de um veículo de duas rodas deve saber"
+    },
+    {
+     "code": "8-2",
+     "name": "Pilotar corretamente"
+    },
+    {
+     "code": "8-3",
+     "name": "Como pilotar com segurança"
+    },
+    {
+     "code": "8-4",
+     "name": "Como usar os freios"
+    },
+    {
+     "code": "8-6",
+     "name": "Outros cuidados necessários"
+    }
+   ]
+  },
+  {
+   "code": "11",
+   "kind": "kyosoku",
+   "name": "O que devem saber proprietários, usuários e gestores de segurança",
+   "sections": [
+    {
+     "code": "11-1",
+     "name": "Deveres do proprietário do veículo"
+    }
+   ]
+  },
+  {
+   "code": "付3",
+   "kind": "appendix",
+   "name": "Anexo 3 — Tipos e significados das placas e da sinalização horizontal",
+   "sections": [
+    {
+     "code": "付3-1",
+     "name": "Tipos e significados das placas"
+    },
+    {
+     "code": "付3-2",
+     "name": "Tipos e significados da sinalização horizontal"
+    }
+   ]
+  },
+  {
+   "code": "法",
+   "kind": "law",
+   "name": "Lei de Trânsito — habilitação",
+   "sections": [
+    {
+     "code": "法64-1",
+     "name": "Proibição de dirigir sem habilitação"
+    },
+    {
+     "code": "法84-5",
+     "name": "Habilitação provisória (仮免)"
+    },
+    {
+     "code": "法87-1",
+     "name": "Quando se pode dirigir com habilitação provisória"
+    },
+    {
+     "code": "法87-2",
+     "name": "O acompanhante e a placa de treino"
+    },
+    {
+     "code": "法88-1",
+     "name": "Quem não pode ter habilitação"
+    },
+    {
+     "code": "法96",
+     "name": "Validade da habilitação provisória"
+    },
+    {
+     "code": "法103-1",
+     "name": "Cassação e suspensão da habilitação"
+    }
+   ]
+  }
+ ]
 }

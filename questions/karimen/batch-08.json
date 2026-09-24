@@ -1,662 +1,227 @@
 [
-  {
-    "id": "K5-2-041",
-    "category": "通行してはいけないところ",
-    "kp": "5-2-7",
-    "group": "H",
-    "source": "教則 第5章第2節7(2)",
-    "question_type": "text",
-    "qf": "QF-5-2-7-A-N-01",
-    "question_ja": "車は歩道や路側帯や自転車道などを通行してはいけないが、道路に面した場所に出入りするために横切る場合などは別である。",
-    "answer": true,
-    "explanation_ja": "教則第5章第2節7(2)のとおりです。横切る場合も、その直前で一時停止をしなければなりません。",
-    "i18n": {
-      "zh": {
-        "question": "车辆不得通行人行道、路侧带和自行车道等，但为进出面向道路的场所而横穿的情况除外。",
-        "explanation": "符合教则第5章第2节7(2)的规定。横穿时也必须在其正前方暂停（一時停止）。"
-      },
-      "en": {
-        "question": "A vehicle must not travel along a sidewalk, a side strip (路側帯) or a bicycle path, except when crossing one to enter or leave a place facing the road.",
-        "explanation": "This is Kyosoku Chapter 5 Section 2 item 7(2). Even when crossing, you must come to a complete stop just before it."
-      },
-      "vi": {
-        "question": "Xe không được đi trên vỉa hè, lề đường (路側帯) hay đường dành cho xe đạp, trừ khi băng qua để ra vào một địa điểm tiếp giáp đường.",
-        "explanation": "Đúng theo Kyosoku Chương 5 Mục 2 điểm 7(2). Ngay cả khi băng qua, bạn vẫn phải tạm dừng ngay trước đó."
-      },
-      "pt": {
-        "question": "O veículo não pode trafegar pela calçada, pela faixa lateral (路側帯) nem pela ciclovia, exceto ao atravessá-las para entrar ou sair de um local voltado para a via.",
-        "explanation": "É o Kyosoku, Capítulo 5, Seção 2, item 7(2). Mesmo ao atravessar, você deve parar completamente logo antes."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免|外免"
+ {
+  "id": "KS-041", "category": "標識", "kp": "付3-1-35", "group": "D",
+  "source": "教則 付表3（1）35", "question_type": "sign", "qf": "QF-付3-A-N-19",
+  "image": {"sign_no": "327-7-A", "file": "327-7-A.svg", "license": "PD-Japan-exempt (標識令 catalogue reproduction)", "file_verified": true},
+  "question_ja": "この標識のある交差点に近づいたときは、車は自分が進もうとする方向に応じた通行区分に従って通らなければならない。",
+  "answer": true,
+  "explanation_ja": "教則付表3（1）35のとおりです。「進行方向別通行区分」で、示された区分に従って通行しなければなりません。",
+  "i18n": {
+   "zh": {"question": "接近设有这个标识（立牌）的交叉路口时，车辆必须按照与自己要行进方向相应的通行区分通行。", "explanation": "符合教则附表3（1）35的规定。这是「按行进方向的通行区分」，必须按所示区分通行。"},
+   "en": {"question": "When approaching an intersection with this sign, a vehicle must travel according to the lane division that matches the direction it is going.", "explanation": "This is Kyosoku Appendix 3(1) item 35. It is Lane use by direction, and you must travel according to the division shown."},
+   "vi": {"question": "Khi đến gần nút giao thông có biển báo giao thông này, xe phải đi theo cách phân làn tương ứng với hướng mình định đi.", "explanation": "Đúng theo Kyosoku Phụ lục 3(1) mục 35. Đây là biển «Phân làn theo hướng đi», và phải đi theo cách phân chia được chỉ ra."},
+   "pt": {"question": "Ao aproximar-se de um cruzamento com esta placa, o veículo deve circular conforme a divisão de faixas correspondente à direção que pretende seguir.", "explanation": "É o Kyosoku, Anexo 3(1), item 35. É a placa de Uso de faixas por direção, e deve-se circular conforme a divisão indicada."}
   },
-  {
-    "id": "K5-2-042",
-    "category": "通行してはいけないところ",
-    "kp": "5-2-7",
-    "group": "H",
-    "source": "教則 第5章第2節7(3)",
-    "question_type": "text",
-    "qf": "QF-5-2-7-A-N-02",
-    "question_ja": "安全地帯や「立入り禁止部分」の標示によって車の通行が禁止されている場所に入ってはいけない。",
-    "answer": true,
-    "explanation_ja": "教則第5章第2節7(3)のとおりです。これらは、通り抜けるだけであっても入ることが禁じられます。",
-    "i18n": {
-      "zh": {
-        "question": "不得进入安全地带，以及由「禁止入内部分」标示禁止车辆通行的场所。",
-        "explanation": "符合教则第5章第2节7(3)的规定。即使只是穿过，也禁止进入这些场所。"
-      },
-      "en": {
-        "question": "You must not enter a safety zone or a place where the No entry zone road marking prohibits vehicles.",
-        "explanation": "This is Kyosoku Chapter 5 Section 2 item 7(3). Entering is prohibited even if you would only be passing through."
-      },
-      "vi": {
-        "question": "Bạn không được đi vào khu vực an toàn hay nơi mà vạch kẻ đường Khu vực cấm đi vào cấm phương tiện.",
-        "explanation": "Đúng theo Kyosoku Chương 5 Mục 2 điểm 7(3). Việc đi vào bị cấm ngay cả khi bạn chỉ đi xuyên qua."
-      },
-      "pt": {
-        "question": "Você não pode entrar em zona de segurança nem em local onde a marcação de Área de entrada proibida veda os veículos.",
-        "explanation": "É o Kyosoku, Capítulo 5, Seção 2, item 7(3). Entrar é proibido mesmo que fosse apenas de passagem."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "N", "difficulty": 2, "exam_scope": "仮免|本免"
+ },
+ {
+  "id": "KS-042", "category": "標識", "kp": "付3-1-35", "group": "D",
+  "source": "教則 付表3（1）35の2", "question_type": "sign", "qf": "QF-付3-A-N-56",
+  "image": {"sign_no": "327-8", "file": "327-8.svg", "license": "PD-Japan-exempt (標識令 catalogue reproduction)", "file_verified": true},
+  "question_ja": "この標識のある交差点では、一般原動機付自転車は二段階の右折方法で右折しなければならない。",
+  "answer": true,
+  "explanation_ja": "教則付表3（1）35の2のとおりです。交差点の向こう側まで直進し、その地点で向きを変えて進みます。",
+  "i18n": {
+   "zh": {"question": "在设有这个标识（立牌）的交叉路口，一般轻型摩托车必须以二阶段右拐弯方法右拐弯。", "explanation": "符合教则附表3（1）35の2的规定。先直行到交叉路口对面，在该处改变方向后前进。"},
+   "en": {"question": "At an intersection with this sign, a general motorized bicycle (moped) must turn right by the two-step method.", "explanation": "This is Kyosoku Appendix 3(1) item 35-2. You go straight to the far side of the intersection, change direction there and then go on."},
+   "vi": {"question": "Tại nút giao thông có biển báo giao thông này, xe gắn máy (原付) phải rẽ phải theo cách hai bước.", "explanation": "Đúng theo Kyosoku Phụ lục 3(1) mục 35-2. Đi thẳng sang phía bên kia nút giao, đổi hướng tại đó rồi đi tiếp."},
+   "pt": {"question": "No cruzamento com esta placa, o ciclomotor deve converter à direita em duas etapas.", "explanation": "É o Kyosoku, Anexo 3(1), item 35-2. Segue-se reto até o outro lado do cruzamento, muda-se de direção ali e então prossegue."}
   },
-  {
-    "id": "K5-2-043",
-    "category": "通行してはいけないところ",
-    "kp": "5-2-7",
-    "group": "H",
-    "source": "教則 第5章第2節7(4)",
-    "question_type": "text",
-    "qf": "QF-5-2-7-A-N-03",
-    "question_ja": "歩道や路側帯のない道路を通行するときは、路肩（路端から0.5メートルの部分）にはみ出して通行してはいけない。",
-    "answer": true,
-    "explanation_ja": "教則第5章第2節7(4)のとおりです。路肩は崩れやすく、強度も十分ではないためです。",
-    "i18n": {
-      "zh": {
-        "question": "在没有人行道和路侧带的道路上通行时，不得驶出到路肩（自路端起0.5米的部分）通行。",
-        "explanation": "符合教则第5章第2节7(4)的规定。因为路肩容易塌陷，强度也不足。"
-      },
-      "en": {
-        "question": "On a road with no sidewalk and no side strip (路側帯), you must not stray onto the shoulder, the 0.5 metres measured from the edge of the road.",
-        "explanation": "This is Kyosoku Chapter 5 Section 2 item 7(4). The shoulder crumbles easily and is not strong enough to carry a vehicle."
-      },
-      "vi": {
-        "question": "Trên đường không có vỉa hè và không có lề đường (路側帯), bạn không được lấn ra phần lề cứng, tức 0,5 mét tính từ mép đường.",
-        "explanation": "Đúng theo Kyosoku Chương 5 Mục 2 điểm 7(4). Phần lề này dễ sụt lở và không đủ chắc để chịu xe."
-      },
-      "pt": {
-        "question": "Em via sem calçada e sem faixa lateral (路側帯), você não pode invadir o acostamento, os 0,5 metro medidos a partir da borda da via.",
-        "explanation": "É o Kyosoku, Capítulo 5, Seção 2, item 7(4). O acostamento cede com facilidade e não tem resistência suficiente."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "N", "difficulty": 2, "exam_scope": "仮免|本免"
+ },
+ {
+  "id": "KS-043", "category": "標識", "kp": "付3-1-36", "group": "D",
+  "source": "教則 第5章第5節1(5) / 付表3（1）36", "question_type": "sign", "qf": "QF-付3-D-EI-01",
+  "image": {"sign_no": "328", "file": "328.svg", "license": "PD-Japan-exempt (標識令 catalogue reproduction)", "file_verified": true},
+  "question_ja": "この標識のある場所は、警音器を鳴らさずに徐行して通行すればよい。",
+  "answer": false,
+  "explanation_ja": "「警笛鳴らせ」の標識がある場所では、警音器を鳴らさなければなりません。徐行で代えることはできません（教則第5章第5節1(5)）。",
+  "i18n": {
+   "zh": {"question": "有这个标识（立牌）的场所，不鸣喇叭而缓行（徐行）通过即可。", "explanation": "在设有「鸣笛」标识的场所必须鸣喇叭。不能以缓行代替（教则第5章第5节1(5)）。"},
+   "en": {"question": "Where this sign stands, it is enough to proceed slowly (徐行) without sounding the horn.", "explanation": "Where the \"Sound horn\" sign stands you must sound the horn. Proceeding slowly is not a substitute (Kyosoku Chapter 5 Section 5 item 1(5))."},
+   "vi": {"question": "Ở nơi có biển báo giao thông này, chỉ cần lưu thông chậm (徐行) mà không bấm còi là đủ.", "explanation": "Ở nơi có biển «Bấm còi» thì phải bấm còi. Không thể thay bằng việc lưu thông chậm (Kyosoku Chương 5 Mục 5 điểm 1(5))."},
+   "pt": {"question": "Onde está esta placa, basta prosseguir lentamente (徐行) sem buzinar.", "explanation": "Onde está a placa \"Soar a buzina\" é obrigatório buzinar. Prosseguir lentamente não substitui isso (Kyosoku, Capítulo 5, Seção 5, item 1(5))."}
   },
-  {
-    "id": "K5-2-044",
-    "category": "通行してはいけないところ",
-    "kp": "5-2-7",
-    "group": "H",
-    "source": "教則 第5章第2節7(5)",
-    "question_type": "text",
-    "qf": "QF-5-2-7-A-N-04",
-    "question_ja": "車は軌道敷内を通行してはいけないが、「軌道敷内通行可」の標識によって認められた車が通行する場合や右折する場合などは別である。",
-    "answer": true,
-    "explanation_ja": "教則第5章第2節7(5)のとおりです。右折のために軌道敷内を横切ることは、標識がなくてもできます。",
-    "i18n": {
-      "zh": {
-        "question": "车辆不得在轨道区域内通行，但由「可在轨道区域内通行」标识（立牌）认可的车辆通行时，以及右拐弯时等情况除外。",
-        "explanation": "符合教则第5章第2节7(5)的规定。为右拐弯而横穿轨道区域，即使没有标识也可以。"
-      },
-      "en": {
-        "question": "A vehicle must not travel on tram tracks, except where a vehicle permitted by the Driving on tram tracks permitted sign does so, or where it is turning right and similar cases.",
-        "explanation": "This is Kyosoku Chapter 5 Section 2 item 7(5). Crossing the tracks in order to turn right is allowed even without the sign."
-      },
-      "vi": {
-        "question": "Xe không được đi trong phần đường ray tàu điện, trừ xe được biển Được phép đi trong phần đường ray cho phép, hoặc khi rẽ phải và những trường hợp tương tự.",
-        "explanation": "Đúng theo Kyosoku Chương 5 Mục 2 điểm 7(5). Việc cắt qua đường ray để rẽ phải được phép ngay cả khi không có biển."
-      },
-      "pt": {
-        "question": "O veículo não pode transitar sobre os trilhos, salvo quando autorizado pela placa Permitido transitar sobre os trilhos, ou ao converter à direita e casos semelhantes.",
-        "explanation": "É o Kyosoku, Capítulo 5, Seção 2, item 7(5). Atravessar os trilhos para converter à direita é permitido mesmo sem a placa."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "EI", "difficulty": 2, "exam_scope": "仮免|本免"
+ },
+ {
+  "id": "KS-044", "category": "標識", "kp": "付3-1-40", "group": "D",
+  "source": "教則 付表3（1）40", "question_type": "sign", "qf": "QF-付3-A-N-45",
+  "image": {"sign_no": "330-A", "file": "330-A.svg", "license": "PD-Japan-exempt (標識令 catalogue reproduction)", "file_verified": true},
+  "question_ja": "この標識のあるところでは、周りに車がなく明らかに安全だと思われる場合でも、車はいったん停止しなければならない。",
+  "answer": true,
+  "explanation_ja": "教則付表3（1）40のとおりです。標識による一時停止は、安全そうに見えるかどうかに関係なく義務です。",
+  "i18n": {
+   "zh": {"question": "在有这个标识（立牌）的地方，即使周围没有车、看来明显安全，车辆也必须暂停（一時停止）。", "explanation": "符合教则附表3（1）40的规定。标识规定的暂停是义务，与看起来是否安全无关。"},
+   "en": {"question": "Where this sign stands, a vehicle must come to a complete stop (一時停止) even when there is no other traffic and it plainly seems safe.", "explanation": "This is Kyosoku Appendix 3(1) item 40. A stop required by the sign is a duty, however safe it may look."},
+   "vi": {"question": "Ở nơi có biển báo giao thông này, dù xung quanh không có xe và trông rõ ràng là an toàn, xe vẫn phải tạm dừng (一時停止).", "explanation": "Đúng theo Kyosoku Phụ lục 3(1) mục 40. Việc dừng theo biển báo là nghĩa vụ, bất kể trông có an toàn hay không."},
+   "pt": {"question": "Onde está esta placa, o veículo deve fazer parada obrigatória (一時停止) mesmo sem outro trânsito e parecendo claramente seguro.", "explanation": "É o Kyosoku, Anexo 3(1), item 40. A parada exigida pela placa é um dever, por seguro que pareça."}
   },
-  {
-    "id": "K5-2-045",
-    "category": "通行してはいけないところ",
-    "kp": "5-2-7",
-    "group": "H",
-    "source": "教則 第5章第2節7(6)",
-    "question_type": "text",
-    "qf": "QF-5-2-7-A-N-05",
-    "question_ja": "軌道敷内を通行している車は、後方から路面電車が近づいてきたときは、速やかに軌道敷外に出るか、十分な距離を保たなければならない。",
-    "answer": true,
-    "explanation_ja": "教則第5章第2節7(6)のとおりです。軌道敷内を認められて通行している場合でも、路面電車の進行を妨げてはいけません。",
-    "i18n": {
-      "zh": {
-        "question": "在轨道区域内通行的车辆，后方有路面电车驶近时，必须迅速驶出轨道区域，或者保持足够的距离。",
-        "explanation": "符合教则第5章第2节7(6)的规定。即使是被认可在轨道区域内通行的情况，也不得妨碍路面电车通行。"
-      },
-      "en": {
-        "question": "A vehicle travelling on tram tracks must, when a streetcar (tram) comes up behind it, leave the tracks promptly or keep a sufficient distance.",
-        "explanation": "This is Kyosoku Chapter 5 Section 2 item 7(6). Even a vehicle allowed on the tracks must not obstruct the streetcar."
-      },
-      "vi": {
-        "question": "Xe đang đi trong phần đường ray tàu điện phải nhanh chóng ra khỏi đó hoặc giữ đủ khoảng cách khi có tàu điện mặt đất đến từ phía sau.",
-        "explanation": "Đúng theo Kyosoku Chương 5 Mục 2 điểm 7(6). Ngay cả xe được phép đi trong phần đường ray cũng không được cản trở tàu điện."
-      },
-      "pt": {
-        "question": "O veículo que trafega sobre os trilhos deve, quando um bonde se aproxima por trás, sair dos trilhos sem demora ou manter distância suficiente.",
-        "explanation": "É o Kyosoku, Capítulo 5, Seção 2, item 7(6). Mesmo o veículo autorizado a usar os trilhos não deve obstruir o bonde."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "N", "difficulty": 1, "exam_scope": "仮免|本免"
+ },
+ {
+  "id": "KS-045", "category": "標識", "kp": "付3-1-40", "group": "D",
+  "source": "教則 付表1（1）備考 / 付表3（1）40", "question_type": "sign", "qf": "QF-付3-A-N-48",
+  "image": {"sign_no": "330-A", "file": "330-A.svg", "license": "PD-Japan-exempt (標識令 catalogue reproduction)", "file_verified": true},
+  "question_ja": "この標識があるところで車が停止する位置は、停止線があればその直前である。",
+  "answer": true,
+  "explanation_ja": "教則付表1（1）の備考のとおりです。停止線がないところでは交差点の直前が停止位置になります。",
+  "i18n": {
+   "zh": {"question": "在有这个标识（立牌）的地方，车辆停车的位置是：有停止线时为其正前方。", "explanation": "符合教则附表1（1）备注的规定。没有停止线的地方，交叉路口的正前方即为停止位置。"},
+   "en": {"question": "Where this sign stands, a vehicle stops just before the stop line if there is one.", "explanation": "This is the note to Kyosoku Appendix 1(1). Where there is no stop line, the stopping position is just before the intersection."},
+   "vi": {"question": "Ở nơi có biển báo giao thông này, vị trí xe dừng là ngay trước vạch dừng nếu có vạch.", "explanation": "Đúng theo ghi chú của Kyosoku Phụ lục 1(1). Ở nơi không có vạch dừng, vị trí dừng là ngay trước nút giao thông."},
+   "pt": {"question": "Onde está esta placa, o veículo para logo antes da linha de parada, se houver uma.", "explanation": "É a observação do Kyosoku, Anexo 1(1). Onde não há linha de parada, a posição de parada é logo antes do cruzamento."}
   },
-  {
-    "id": "K5-2-046",
-    "category": "通行してはいけないところ",
-    "kp": "5-2-4",
-    "group": "H",
-    "source": "教則 第5章第2節4",
-    "question_type": "text",
-    "qf": "QF-5-2-4-A-N-01",
-    "question_ja": "大型自動車、中型自動車及び準中型自動車で高さに制限のある場所を通過するときは、積載物の高さを含めて制限以下であることを確認しなければならない。",
-    "answer": true,
-    "explanation_ja": "教則第5章第2節4のとおりです。これらの車は普通自動車に比べて車体の高さが高く、荷台の積載物が制限を超えてしまうことがあります。",
-    "i18n": {
-      "zh": {
-        "question": "驾驶大型汽车、中型汽车和准中型汽车通过有高度限制的场所时，必须确认包括装载物高度在内不超过限制。",
-        "explanation": "符合教则第5章第2节4的规定。这些车与普通汽车相比车身较高，货台上的装载物有可能超过限制。"
-      },
-      "en": {
-        "question": "When taking a large, medium or semi-medium vehicle through a place with a height limit, you must check that it is within the limit including the height of the load.",
-        "explanation": "This is Kyosoku Chapter 5 Section 2 item 4. These vehicles are taller than ordinary ones, and the load on the bed can push them over the limit."
-      },
-      "vi": {
-        "question": "Khi đưa xe cỡ lớn, cỡ trung hoặc cỡ bán trung qua nơi có giới hạn chiều cao, bạn phải kiểm tra rằng chiều cao kể cả hàng hóa vẫn nằm trong giới hạn.",
-        "explanation": "Đúng theo Kyosoku Chương 5 Mục 2 điểm 4. Những xe này cao hơn xe thông thường, và hàng trên thùng có thể làm vượt giới hạn."
-      },
-      "pt": {
-        "question": "Ao passar com veículo grande, médio ou semimédio por local com limite de altura, você deve verificar que ele está dentro do limite, incluindo a altura da carga.",
-        "explanation": "É o Kyosoku, Capítulo 5, Seção 2, item 4. Esses veículos são mais altos que os comuns, e a carga na carroceria pode ultrapassar o limite."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "N", "difficulty": 2, "exam_scope": "仮免|本免"
+ },
+ {
+  "id": "KS-046", "category": "標識", "kp": "付3-1-52", "group": "D",
+  "source": "教則 第5章第2節7(5)、(6) / 付表3（1）52", "question_type": "sign", "qf": "QF-付3-A-N-44",
+  "image": {"sign_no": "402", "file": "402.svg", "license": "PD-Japan-exempt (標識令 catalogue reproduction)", "file_verified": true},
+  "question_ja": "この標識のある道路では自動車は軌道敷内を通行できるが、後方から路面電車が近づいてきたときは、その進行を妨げないようにしなければならない。",
+  "answer": true,
+  "explanation_ja": "教則第5章第2節7(5)、(6)のとおりです。速やかに軌道敷の外に出るか、十分な距離を保ちます。",
+  "i18n": {
+   "zh": {"question": "设有这个标识（立牌）的道路上，汽车可以在轨道敷内通行，但后方有路面电车驶近时，必须不妨碍其通行。", "explanation": "符合教则第5章第2节7(5)、(6)的规定。应迅速驶出轨道敷外，或保持足够的距离。"},
+   "en": {"question": "On a road with this sign a motor vehicle may drive on the tramway, but when a streetcar (tram) comes up from behind it must not obstruct it.", "explanation": "This is Kyosoku Chapter 5 Section 2 items 7(5) and 7(6). Leave the tramway promptly or keep well clear of the streetcar."},
+   "vi": {"question": "Trên đường có biển báo giao thông này, xe ô tô được đi trong phần đường tàu điện, nhưng khi tàu điện mặt đất đến từ phía sau thì không được cản trở nó.", "explanation": "Đúng theo Kyosoku Chương 5 Mục 2 điểm 7(5) và 7(6). Hãy nhanh chóng ra khỏi phần đường tàu điện hoặc giữ khoảng cách đủ xa."},
+   "pt": {"question": "Na via com esta placa o automóvel pode trafegar sobre a linha do bonde, mas quando um bonde se aproxima por trás não deve atrapalhá-lo.", "explanation": "É o Kyosoku, Capítulo 5, Seção 2, itens 7(5) e 7(6). Saia logo da linha do bonde ou mantenha distância suficiente."}
   },
-  {
-    "id": "K5-2-047",
-    "category": "通行してはいけないところ",
-    "kp": "5-2-7",
-    "group": "H",
-    "source": "教則 第5章第2節7(1)",
-    "question_type": "text",
-    "qf": "QF-5-2-7-A-N-06",
-    "question_ja": "「通行止め」や「車両通行止め」などの標識によって通行が禁止されている道路を通行してはいけない。",
-    "answer": true,
-    "explanation_ja": "教則第5章第2節7(1)のとおりです。「歩行者等専用」の標識のある道路も同じです。",
-    "i18n": {
-      "zh": {
-        "question": "不得通行由「禁止通行」「车辆禁止通行」等标识（立牌）禁止通行的道路。",
-        "explanation": "符合教则第5章第2节7(1)的规定。设有「步行者等专用」标识的道路也一样。"
-      },
-      "en": {
-        "question": "You must not travel on a road where signs such as Road closed or Closed to all vehicles prohibit it.",
-        "explanation": "This is Kyosoku Chapter 5 Section 2 item 7(1). The same goes for a road carrying the Pedestrians only sign."
-      },
-      "vi": {
-        "question": "Bạn không được đi trên đường mà các biển như Cấm lưu thông hay Cấm phương tiện lưu thông đã cấm.",
-        "explanation": "Đúng theo Kyosoku Chương 5 Mục 2 điểm 7(1). Điều tương tự áp dụng cho đường có biển Dành riêng cho người đi bộ."
-      },
-      "pt": {
-        "question": "Você não pode trafegar em via onde placas como Trânsito proibido ou Trânsito proibido para veículos o vedem.",
-        "explanation": "É o Kyosoku, Capítulo 5, Seção 2, item 7(1). O mesmo vale para via com a placa de Exclusivo para pedestres."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "N", "difficulty": 3, "exam_scope": "仮免|本免"
+ },
+ {
+  "id": "KS-047", "category": "標識", "kp": "付3-1-55", "group": "D",
+  "source": "教則 付表3（1）55", "question_type": "sign", "qf": "QF-付3-A-N-47",
+  "image": {"sign_no": "405", "file": "405.svg", "license": "PD-Japan-exempt (標識令 catalogue reproduction)", "file_verified": true},
+  "question_ja": "この標識は、自分が通行している道路が優先道路であることを示している。",
+  "answer": true,
+  "explanation_ja": "教則付表3（1）55のとおりです。優先道路を通行しているときは、見通しのきかない交差点でも徐行の義務はありません。",
+  "i18n": {
+   "zh": {"question": "这个标识（立牌）表示自己正在通行的道路是优先道路。", "explanation": "符合教则附表3（1）55的规定。通行优先道路时，即使在视野不好的交叉路口也没有缓行（徐行）的义务。"},
+   "en": {"question": "This sign shows that the road you are travelling on is a priority road.", "explanation": "This is Kyosoku Appendix 3(1) item 55. While travelling on a priority road you have no duty to proceed slowly (徐行), even at an intersection with poor visibility."},
+   "vi": {"question": "Biển báo giao thông này cho biết con đường bạn đang đi là đường ưu tiên.", "explanation": "Đúng theo Kyosoku Phụ lục 3(1) mục 55. Khi đang đi trên đường ưu tiên, bạn không có nghĩa vụ lưu thông chậm (徐行), kể cả ở nút giao có tầm nhìn hạn chế."},
+   "pt": {"question": "Esta placa indica que a via em que você trafega é uma via preferencial.", "explanation": "É o Kyosoku, Anexo 3(1), item 55. Ao trafegar numa via preferencial não há dever de prosseguir lentamente (徐行), mesmo em cruzamento de pouca visibilidade."}
   },
-  {
-    "id": "K5-2-048",
-    "category": "通行してはいけないところ",
-    "kp": "5-2-7",
-    "group": "H",
-    "source": "教則 第5章第2節7(4)",
-    "question_type": "text",
-    "qf": "QF-5-2-7-A-N-07",
-    "question_ja": "路肩のはみ出し通行が禁止されるのは、歩道や路側帯のない道路を通行するときである。",
-    "answer": true,
-    "explanation_ja": "教則第5章第2節7(4)のとおりです。歩道や路側帯がある道路では、そもそもそこを通行することが禁じられています。",
-    "i18n": {
-      "zh": {
-        "question": "禁止驶出到路肩通行，适用于通行没有人行道和路侧带的道路时。",
-        "explanation": "符合教则第5章第2节7(4)的规定。在有人行道或路侧带的道路上，本来就禁止在那里通行。"
-      },
-      "en": {
-        "question": "The ban on straying onto the shoulder applies when you are travelling on a road that has no sidewalk and no side strip (路側帯).",
-        "explanation": "This is Kyosoku Chapter 5 Section 2 item 7(4). Where there is a sidewalk or a side strip, travelling on it is already prohibited in itself."
-      },
-      "vi": {
-        "question": "Lệnh cấm lấn ra lề cứng áp dụng khi bạn đi trên đường không có vỉa hè và không có lề đường (路側帯).",
-        "explanation": "Đúng theo Kyosoku Chương 5 Mục 2 điểm 7(4). Ở nơi có vỉa hè hoặc lề đường, việc đi trên đó vốn đã bị cấm."
-      },
-      "pt": {
-        "question": "A proibição de invadir o acostamento vale quando você trafega em via sem calçada e sem faixa lateral (路側帯).",
-        "explanation": "É o Kyosoku, Capítulo 5, Seção 2, item 7(4). Onde há calçada ou faixa lateral, trafegar por elas já é proibido em si."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 3,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "N", "difficulty": 2, "exam_scope": "仮免|本免"
+ },
+ {
+  "id": "KS-048", "category": "標識", "kp": "付3-1-59", "group": "D",
+  "source": "教則 付表3（1）59", "question_type": "sign", "qf": "QF-付3-A-N-62",
+  "image": {"sign_no": "408", "file": "408.svg", "license": "PD-Japan-exempt (標識令 catalogue reproduction)", "file_verified": true},
+  "question_ja": "この標識が立てられている場所は安全地帯なので、車はその中に入ってはいけない。",
+  "answer": true,
+  "explanation_ja": "教則付表3（1）59のとおりです。安全地帯には車は入れません。",
+  "i18n": {
+   "zh": {"question": "立有这个标识（立牌）的场所是安全地带，因此车辆不得进入其中。", "explanation": "符合教则附表3（1）59的规定。车辆不能进入安全地带。"},
+   "en": {"question": "The place where this sign is set up is a safety zone, so a vehicle must not enter it.", "explanation": "This is Kyosoku Appendix 3(1) item 59. Vehicles may not enter a safety zone."},
+   "vi": {"question": "Nơi có đặt biển báo giao thông này là khu vực an toàn, nên xe không được đi vào trong đó.", "explanation": "Đúng theo Kyosoku Phụ lục 3(1) mục 59. Xe không được đi vào đảo an toàn."},
+   "pt": {"question": "O local onde esta placa está instalada é uma zona de segurança, por isso o veículo não deve entrar nela.", "explanation": "É o Kyosoku, Anexo 3(1), item 59. Os veículos não podem entrar na zona de segurança."}
   },
-  {
-    "id": "K5-2-049",
-    "category": "通行してはいけないところ",
-    "kp": "5-2-7",
-    "group": "H",
-    "source": "教則 第5章第2節7(2)",
-    "question_type": "text",
-    "qf": "QF-5-2-7-A-N-08",
-    "question_ja": "自転車道は自転車などが通行するための場所であり、自動車は通行してはいけない。",
-    "answer": true,
-    "explanation_ja": "教則第5章第2節7(2)のとおりです。道路に面した場所に出入りするために横切る場合などは別です。",
-    "i18n": {
-      "zh": {
-        "question": "自行车道是供自行车等通行的场所，汽车不得通行。",
-        "explanation": "符合教则第5章第2节7(2)的规定。为进出面向道路的场所而横穿的情况等除外。"
-      },
-      "en": {
-        "question": "A bicycle path is a place for bicycles and similar vehicles, and a car must not travel along it.",
-        "explanation": "This is Kyosoku Chapter 5 Section 2 item 7(2). Crossing it to enter or leave a place facing the road is an exception."
-      },
-      "vi": {
-        "question": "Đường dành cho xe đạp là nơi dành cho xe đạp và những xe tương tự, ô tô không được đi trên đó.",
-        "explanation": "Đúng theo Kyosoku Chương 5 Mục 2 điểm 7(2). Việc băng qua để ra vào địa điểm tiếp giáp đường là ngoại lệ."
-      },
-      "pt": {
-        "question": "A ciclovia é um espaço para bicicletas e veículos semelhantes, e o automóvel não pode trafegar por ela.",
-        "explanation": "É o Kyosoku, Capítulo 5, Seção 2, item 7(2). Atravessá-la para entrar ou sair de um local voltado para a via é exceção."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "N", "difficulty": 1, "exam_scope": "仮免|本免"
+ },
+ {
+  "id": "KS-049", "category": "標識", "kp": "付3-1-57", "group": "D",
+  "source": "教則 付表3（1）57、182", "question_type": "sign", "qf": "QF-付3-D-SS-34",
+  "image": {"sign_no": "407-A", "file": "407-A.svg", "license": "PD-Japan-exempt (標識令 catalogue reproduction)", "file_verified": true},
+  "question_ja": "この標識は、近くに学校や幼稚園などがあることを示している。",
+  "answer": false,
+  "explanation_ja": "これは横断歩道があることを示す指示標識です。学校や幼稚園などがあることを示すのは黄色のひし形の警戒標識です（教則付表3（1）57、182）。",
+  "i18n": {
+   "zh": {"question": "这个标识（立牌）表示附近有学校或幼儿园等。", "explanation": "这是表示设有人行横道的指示标识。表示附近有学校或幼儿园等的是黄色菱形的警戒标识（教则附表3（1）57、182）。"},
+   "en": {"question": "This sign shows that there is a school, a kindergarten or the like nearby.", "explanation": "This is an indication sign showing a pedestrian crossing. A school, kindergarten or the like is shown by a yellow diamond warning sign (Kyosoku Appendix 3(1) items 57 and 182)."},
+   "vi": {"question": "Biển báo giao thông này cho biết gần đó có trường học hay trường mẫu giáo.", "explanation": "Đây là biển báo chỉ dẫn cho biết có vạch sang đường. Trường học hay mẫu giáo được báo bằng biển cảnh báo hình thoi màu vàng (Kyosoku Phụ lục 3(1) mục 57 và 182)."},
+   "pt": {"question": "Esta placa indica que há uma escola, um jardim de infância ou algo semelhante por perto.", "explanation": "Esta é uma sinalização vertical de indicação que mostra uma faixa de pedestres. Escola ou jardim de infância são indicados por uma placa de advertência em losango amarelo (Kyosoku, Anexo 3(1), itens 57 e 182)."}
   },
-  {
-    "id": "K5-2-050",
-    "category": "通行してはいけないところ",
-    "kp": "5-2-7",
-    "group": "H",
-    "source": "教則 第5章第2節7(3)",
-    "question_type": "text",
-    "qf": "QF-5-2-7-A-N-09",
-    "question_ja": "安全地帯は、そこに歩行者がいるかどうかにかかわらず、車が入ってはいけない場所である。",
-    "answer": true,
-    "explanation_ja": "教則第5章第2節7(3)のとおりです。歩行者がいる安全地帯のそばを通るときは、さらに徐行しなければなりません。",
-    "i18n": {
-      "zh": {
-        "question": "安全地带无论其中是否有步行者，都是车辆不得进入的场所。",
-        "explanation": "符合教则第5章第2节7(3)的规定。从有步行者的安全地带旁边通过时，还必须缓行（徐行）。"
-      },
-      "en": {
-        "question": "A safety zone is a place a vehicle must not enter, whether or not anyone is standing in it.",
-        "explanation": "This is Kyosoku Chapter 5 Section 2 item 7(3). When you pass a safety zone with people in it you must also proceed slowly (徐行)."
-      },
-      "vi": {
-        "question": "Khu vực an toàn là nơi xe không được đi vào, bất kể có ai đang đứng trong đó hay không.",
-        "explanation": "Đúng theo Kyosoku Chương 5 Mục 2 điểm 7(3). Khi đi qua khu vực an toàn có người, bạn còn phải lưu thông chậm (徐行)."
-      },
-      "pt": {
-        "question": "A zona de segurança é um local em que o veículo não pode entrar, haja ou não alguém parado nela.",
-        "explanation": "É o Kyosoku, Capítulo 5, Seção 2, item 7(3). Ao passar por zona de segurança com pessoas, você deve ainda prosseguir lentamente (徐行)."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "SS", "difficulty": 2, "exam_scope": "仮免|本免"
+ },
+ {
+  "id": "KS-050", "category": "標識", "kp": "付3-1-182", "group": "D",
+  "source": "教則 付表3（1）182", "question_type": "sign", "qf": "QF-付3-A-N-05",
+  "image": {"sign_no": "208", "file": "208.svg", "license": "PD-Japan-exempt (標識令 catalogue reproduction)", "file_verified": true},
+  "question_ja": "この標識のある道路では、近くに学校や幼稚園などがあり子供が飛び出してくることがあるので、特に注意して運転しなければならない。",
+  "answer": true,
+  "explanation_ja": "教則付表3（1）182のとおりです。駐車車両の陰から子供が出てくることもあるので、速度を落として通ります。",
+  "i18n": {
+   "zh": {"question": "设有这个标识（立牌）的道路，附近有学校或幼儿园等，孩子可能突然跑出来，因此必须特别注意驾驶。", "explanation": "符合教则附表3（1）182的规定。孩子也可能从驻车车辆的阴影处出来，因此应降低速度通过。"},
+   "en": {"question": "On a road with this sign there is a school, a kindergarten or the like nearby and children may run out, so you must drive with particular care.", "explanation": "This is Kyosoku Appendix 3(1) item 182. A child may also step out from behind a parked vehicle, so slow down as you pass."},
+   "vi": {"question": "Trên đường có biển báo giao thông này, gần đó có trường học hay mẫu giáo và trẻ em có thể chạy ra, nên phải lái xe đặc biệt cẩn thận.", "explanation": "Đúng theo Kyosoku Phụ lục 3(1) mục 182. Trẻ em cũng có thể bước ra từ phía sau xe đang đỗ, vì vậy hãy giảm tốc độ khi đi qua."},
+   "pt": {"question": "Na via com esta placa há uma escola, um jardim de infância ou algo semelhante por perto e crianças podem sair correndo, por isso é preciso dirigir com atenção especial.", "explanation": "É o Kyosoku, Anexo 3(1), item 182. Uma criança também pode surgir de trás de um veículo estacionado, por isso reduza a velocidade ao passar."}
   },
-  {
-    "id": "K5-2-051",
-    "category": "通行してはいけないところ",
-    "kp": "5-2-7",
-    "group": "H",
-    "source": "教則 第5章第2節7(4)",
-    "question_type": "text",
-    "qf": "QF-5-2-7-D-NU-01",
-    "question_ja": "歩道や路側帯のない道路の路肩とは、路端から1メートルの部分をいう。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第5章第2節7(4)により、路肩は路端から0.5メートルの部分です。",
-    "i18n": {
-      "zh": {
-        "question": "没有人行道和路侧带的道路的路肩，是指自路端起1米的部分。",
-        "explanation": "错误。根据教则第5章第2节7(4)，路肩是自路端起0.5米的部分。"
-      },
-      "en": {
-        "question": "On a road with no sidewalk and no side strip (路側帯), the shoulder is the 1 metre measured from the edge of the road.",
-        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 2 item 7(4) the shoulder is the 0.5 metres from the edge of the road."
-      },
-      "vi": {
-        "question": "Trên đường không có vỉa hè và lề đường (路側帯), phần lề cứng là 1 mét tính từ mép đường.",
-        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 2 điểm 7(4), phần lề cứng là 0,5 mét tính từ mép đường."
-      },
-      "pt": {
-        "question": "Em via sem calçada e sem faixa lateral (路側帯), o acostamento é 1 metro medido a partir da borda da via.",
-        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 2, item 7(4), o acostamento são os 0,5 metro a partir da borda da via."
-      }
-    },
-    "trap_type": "NU",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "N", "difficulty": 1, "exam_scope": "仮免|本免"
+ },
+ {
+  "id": "KS-051", "category": "標識", "kp": "付3-1-182", "group": "D",
+  "source": "教則 付表3（1）57、182", "question_type": "sign", "qf": "QF-付3-D-SS-21",
+  "image": {"sign_no": "208", "file": "208.svg", "license": "PD-Japan-exempt (標識令 catalogue reproduction)", "file_verified": true},
+  "question_ja": "この標識は、前方に児童が横断する横断歩道があることを示している。",
+  "answer": false,
+  "explanation_ja": "これは学校、幼稚園、保育所などがあることを知らせる警戒標識です。横断歩道があることを示すのは別の標識です（教則付表3（1）57、182）。",
+  "i18n": {
+   "zh": {"question": "这个标识（立牌）表示前方有儿童横穿的人行横道。", "explanation": "这是告知附近有学校、幼儿园、保育所等的警戒标识。表示设有人行横道的是另一种标识（教则附表3（1）57、182）。"},
+   "en": {"question": "This sign shows that there is a pedestrian crossing ahead used by schoolchildren.", "explanation": "This is a warning sign telling you there is a school, kindergarten or nursery nearby. A pedestrian crossing is shown by a different sign (Kyosoku Appendix 3(1) items 57 and 182)."},
+   "vi": {"question": "Biển báo giao thông này cho biết phía trước có vạch sang đường dành cho học sinh.", "explanation": "Đây là biển cảnh báo cho biết gần đó có trường học, mẫu giáo hay nhà trẻ. Vạch sang đường được báo bằng biển khác (Kyosoku Phụ lục 3(1) mục 57 và 182)."},
+   "pt": {"question": "Esta placa indica que há adiante uma faixa de pedestres usada por escolares.", "explanation": "Esta é uma placa de advertência que informa haver escola, jardim de infância ou creche por perto. A faixa de pedestres é indicada por outra placa (Kyosoku, Anexo 3(1), itens 57 e 182)."}
   },
-  {
-    "id": "K5-2-052",
-    "category": "通行してはいけないところ",
-    "kp": "5-2-7",
-    "group": "H",
-    "source": "教則 第5章第2節7(2)",
-    "question_type": "text",
-    "qf": "QF-5-2-7-D-EO-01",
-    "question_ja": "車は、どのような場合でも歩道や路側帯を横切ってはいけない。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第5章第2節7(2)により、道路に面した場所に出入りするために横切る場合などは別です。",
-    "i18n": {
-      "zh": {
-        "question": "车辆在任何情况下都不得横穿人行道和路侧带。",
-        "explanation": "错误。根据教则第5章第2节7(2)，为进出面向道路的场所而横穿的情况等除外。"
-      },
-      "en": {
-        "question": "A vehicle must never cross a sidewalk or a side strip (路側帯), in any circumstances.",
-        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 2 item 7(2), crossing one to enter or leave a place facing the road is an exception."
-      },
-      "vi": {
-        "question": "Xe không bao giờ được băng qua vỉa hè hay lề đường (路側帯), trong bất kỳ hoàn cảnh nào.",
-        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 2 điểm 7(2), việc băng qua để ra vào địa điểm tiếp giáp đường là ngoại lệ."
-      },
-      "pt": {
-        "question": "O veículo nunca pode atravessar a calçada ou a faixa lateral (路側帯), em nenhuma circunstância.",
-        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 2, item 7(2), atravessá-las para entrar ou sair de um local voltado para a via é exceção."
-      }
-    },
-    "trap_type": "EO",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "SS", "difficulty": 2, "exam_scope": "仮免|本免"
+ },
+ {
+  "id": "KS-052", "category": "標識", "kp": "付3-1-184", "group": "D",
+  "source": "教則 付表3（1）184、194", "question_type": "sign", "qf": "QF-付3-D-SS-23",
+  "image": {"sign_no": "209", "file": "209.svg", "license": "PD-Japan-exempt (標識令 catalogue reproduction)", "file_verified": true},
+  "question_ja": "この標識は、横風に注意することを知らせている。",
+  "answer": false,
+  "explanation_ja": "これは路面が滑りやすいことを知らせる警戒標識です。横風注意の標識は吹き流しの図柄で、別のものです（教則付表3（1）184、194）。",
+  "i18n": {
+   "zh": {"question": "这个标识（立牌）提示注意横风。", "explanation": "这是告知路面易滑的警戒标识。横风注意的标识是风向袋的图案，属于另一种（教则附表3（1）184、194）。"},
+   "en": {"question": "This sign warns you to watch out for a crosswind.", "explanation": "This is a warning sign telling you the road surface is slippery. The crosswind sign shows a windsock and is a different one (Kyosoku Appendix 3(1) items 184 and 194)."},
+   "vi": {"question": "Biển báo giao thông này nhắc chú ý gió ngang.", "explanation": "Đây là biển cảnh báo cho biết mặt đường trơn trượt. Biển chú ý gió ngang có hình túi gió và là biển khác (Kyosoku Phụ lục 3(1) mục 184 và 194)."},
+   "pt": {"question": "Esta placa avisa para ter cuidado com o vento lateral.", "explanation": "Esta é uma placa de advertência que informa que o pavimento é escorregadio. A placa de vento lateral mostra uma biruta e é outra (Kyosoku, Anexo 3(1), itens 184 e 194)."}
   },
-  {
-    "id": "K5-2-053",
-    "category": "通行してはいけないところ",
-    "kp": "5-2-7",
-    "group": "H",
-    "source": "教則 第5章第2節7(5)",
-    "question_type": "text",
-    "qf": "QF-5-2-7-D-EI-01",
-    "question_ja": "軌道敷内は、路面電車が近くを走っていないことが確かめられれば、どの車も通行することができる。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第5章第2節7(5)により、通行できるのは「軌道敷内通行可」の標識で認められた車や右折する場合などに限られます。",
-    "i18n": {
-      "zh": {
-        "question": "轨道区域内，只要确认附近没有路面电车行驶，任何车辆都可以通行。",
-        "explanation": "错误。根据教则第5章第2节7(5)，能够通行的仅限于由「可在轨道区域内通行」标识（立牌）认可的车辆以及右拐弯等情况。"
-      },
-      "en": {
-        "question": "Any vehicle may travel on tram tracks once it has confirmed that no streetcar (tram) is running nearby.",
-        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 2 item 7(5) only vehicles permitted by the Driving on tram tracks permitted sign, and cases such as turning right, are allowed."
-      },
-      "vi": {
-        "question": "Bất kỳ xe nào cũng được đi trong phần đường ray tàu điện khi đã xác nhận không có tàu điện chạy gần đó.",
-        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 2 điểm 7(5), chỉ xe được biển Được phép đi trong phần đường ray cho phép, và các trường hợp như rẽ phải, mới được đi."
-      },
-      "pt": {
-        "question": "Qualquer veículo pode transitar sobre os trilhos depois de confirmar que nenhum bonde circula por perto.",
-        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 2, item 7(5), só os veículos autorizados pela placa Permitido transitar sobre os trilhos e casos como converter à direita são admitidos."
-      }
-    },
-    "trap_type": "EI",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "SS", "difficulty": 2, "exam_scope": "仮免|本免"
+ },
+ {
+  "id": "KS-053", "category": "標識", "kp": "付3-1-185", "group": "D",
+  "source": "教則 付表3（1）185", "question_type": "sign", "qf": "QF-付3-D-EX-04",
+  "image": {"sign_no": "209-2", "file": "209-2.svg", "license": "PD-Japan-exempt (標識令 catalogue reproduction)", "file_verified": true},
+  "question_ja": "この標識は、落石のおそれがあるため、この先は通行できないことを示している。",
+  "answer": false,
+  "explanation_ja": "これは注意を促す警戒標識で、通行を禁止するものではありません（教則付表3（1）185）。",
+  "i18n": {
+   "zh": {"question": "这个标识（立牌）表示因有落石危险，前方不能通行。", "explanation": "这是促请注意的警戒标识，并不禁止通行（教则附表3（1）185）。"},
+   "en": {"question": "This sign shows that, because of the risk of falling rocks, you may not pass beyond it.", "explanation": "It is a warning sign that calls for care; it does not forbid passing (Kyosoku Appendix 3(1) item 185)."},
+   "vi": {"question": "Biển báo giao thông này cho biết vì có nguy cơ đá lở nên phía trước không được đi qua.", "explanation": "Đây là biển cảnh báo nhắc chú ý, không cấm đi qua (Kyosoku Phụ lục 3(1) mục 185)."},
+   "pt": {"question": "Esta placa indica que, por risco de queda de pedras, não se pode passar adiante.", "explanation": "É uma placa de advertência que pede atenção; ela não proíbe a passagem (Kyosoku, Anexo 3(1), item 185)."}
   },
-  {
-    "id": "K5-2-054",
-    "category": "通行してはいけないところ",
-    "kp": "5-2-7",
-    "group": "H",
-    "source": "教則 第5章第2節7(6)",
-    "question_type": "text",
-    "qf": "QF-5-2-7-D-EI-02",
-    "question_ja": "「軌道敷内通行可」の標識によって軌道敷内の通行を認められた車は、後方から路面電車が近づいてきても、そのまま通行を続けてよい。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第5章第2節7(6)により、速やかに軌道敷外に出るか、十分な距離を保たなければなりません。",
-    "i18n": {
-      "zh": {
-        "question": "由「可在轨道区域内通行」标识（立牌）认可在轨道区域内通行的车辆，即使后方有路面电车驶近，也可以继续照常通行。",
-        "explanation": "错误。根据教则第5章第2节7(6)，必须迅速驶出轨道区域，或者保持足够的距离。"
-      },
-      "en": {
-        "question": "A vehicle allowed onto the tram tracks by the Driving on tram tracks permitted sign may carry on as it is even when a streetcar (tram) comes up behind it.",
-        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 2 item 7(6) it must leave the tracks promptly or keep a sufficient distance."
-      },
-      "vi": {
-        "question": "Xe được biển Được phép đi trong phần đường ray cho phép vào đó có thể cứ đi tiếp ngay cả khi có tàu điện mặt đất đến từ phía sau.",
-        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 2 điểm 7(6), xe phải nhanh chóng ra khỏi phần đường ray hoặc giữ đủ khoảng cách."
-      },
-      "pt": {
-        "question": "O veículo autorizado a usar os trilhos pela placa Permitido transitar sobre os trilhos pode seguir como está mesmo quando um bonde se aproxima por trás.",
-        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 2, item 7(6), ele deve sair dos trilhos sem demora ou manter distância suficiente."
-      }
-    },
-    "trap_type": "EI",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "EX", "difficulty": 2, "exam_scope": "仮免|本免"
+ },
+ {
+  "id": "KS-054", "category": "標識", "kp": "付3-1-188", "group": "D",
+  "source": "教則 付表3（1）188、189", "question_type": "sign", "qf": "QF-付3-D-SS-13",
+  "image": {"sign_no": "211", "file": "211.svg", "license": "PD-Japan-exempt (標識令 catalogue reproduction)", "file_verified": true},
+  "question_ja": "この標識は、この先で道路の幅が狭くなることを知らせている。",
+  "answer": false,
+  "explanation_ja": "これは車線数が減ることを知らせる警戒標識です。道幅が狭くなることを知らせるのは「幅員減少」で、別の標識です（教則付表3（1）188、189）。",
+  "i18n": {
+   "zh": {"question": "这个标识（立牌）提示前方道路宽度变窄。", "explanation": "这是告知车道数减少的警戒标识。告知道路宽度变窄的是「宽度减少」，属于另一种标识（教则附表3（1）188、189）。"},
+   "en": {"question": "This sign tells you that the road narrows ahead.", "explanation": "This is a warning sign telling you the number of lanes is reduced. A narrowing road is shown by the Road narrows sign, a different one (Kyosoku Appendix 3(1) items 188 and 189)."},
+   "vi": {"question": "Biển báo giao thông này cho biết phía trước lòng đường hẹp lại.", "explanation": "Đây là biển cảnh báo cho biết số làn giảm. Việc lòng đường hẹp lại được báo bằng biển «Đường hẹp lại», là biển khác (Kyosoku Phụ lục 3(1) mục 188 và 189)."},
+   "pt": {"question": "Esta placa informa que a via se estreita adiante.", "explanation": "Esta é uma placa de advertência que informa a redução do número de faixas. O estreitamento da via é indicado pela placa Pista estreita, que é outra (Kyosoku, Anexo 3(1), itens 188 e 189)."}
   },
-  {
-    "id": "K5-2-055",
-    "category": "通行してはいけないところ",
-    "kp": "5-2-7",
-    "group": "H",
-    "source": "教則 第5章第2節7(3)",
-    "question_type": "text",
-    "qf": "QF-5-2-7-D-EI-03",
-    "question_ja": "「立入り禁止部分」の標示がある場所でも、中に車がいなければ通り抜けることができる。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第5章第2節7(3)により、この標示によって車の通行が禁止されている場所には入ってはいけません。",
-    "i18n": {
-      "zh": {
-        "question": "即使是设有「禁止入内部分」标示的场所，只要里面没有车辆也可以穿行。",
-        "explanation": "错误。根据教则第5章第2节7(3)，由该标示禁止车辆通行的场所不得进入。"
-      },
-      "en": {
-        "question": "Even where the No entry zone road marking is in place, you may pass through it if no vehicle is inside.",
-        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 2 item 7(3) you must not enter a place where that marking prohibits vehicles."
-      },
-      "vi": {
-        "question": "Ngay ở nơi có vạch kẻ đường Khu vực cấm đi vào, bạn vẫn được đi xuyên qua nếu bên trong không có xe nào.",
-        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 2 điểm 7(3), bạn không được đi vào nơi mà vạch đó cấm phương tiện."
-      },
-      "pt": {
-        "question": "Mesmo onde existe a marcação de Área de entrada proibida, você pode atravessá-la se não houver veículo dentro.",
-        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 2, item 7(3), você não pode entrar em local onde essa marcação veda os veículos."
-      }
-    },
-    "trap_type": "EI",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "SS", "difficulty": 3, "exam_scope": "仮免|本免"
+ },
+ {
+  "id": "KS-055", "category": "標識", "kp": "付3-1-193", "group": "D",
+  "source": "教則 付表3（1）193", "question_type": "sign", "qf": "QF-付3-D-EX-03",
+  "image": {"sign_no": "213", "file": "213.svg", "license": "PD-Japan-exempt (標識令 catalogue reproduction)", "file_verified": true},
+  "question_ja": "この標識を見た運転者は、その先では道路工事が行われているので、そこから先へ車を進めてはならない。",
+  "answer": false,
+  "explanation_ja": "これは道路工事中であることを知らせて注意を促す警戒標識で、通行を禁止するものではありません（教則付表3（1）193）。",
+  "i18n": {
+   "zh": {"question": "看到这个标识（立牌）的驾驶人，因为前方正在进行道路施工，不得再把车驶向前方。", "explanation": "这是告知道路施工中、促请注意的警戒标识，并不禁止通行（教则附表3（1）193）。"},
+   "en": {"question": "A driver who sees this sign must not take the vehicle any further, because road works are going on ahead.", "explanation": "It is a warning sign telling you there are road works and calling for care; it does not forbid passing (Kyosoku Appendix 3(1) item 193)."},
+   "vi": {"question": "Người lái khi nhìn thấy biển báo giao thông này không được cho xe đi tiếp về phía trước, vì phía trước đang có công trình đường bộ.", "explanation": "Đây là biển cảnh báo cho biết đang có công trình và nhắc chú ý; biển không cấm đi qua (Kyosoku Phụ lục 3(1) mục 193)."},
+   "pt": {"question": "O condutor que vir esta placa não deve seguir adiante com o veículo, porque há obras na via à frente.", "explanation": "É uma placa de advertência que informa a existência de obras e pede atenção; ela não proíbe a passagem (Kyosoku, Anexo 3(1), item 193)."}
   },
-  {
-    "id": "K5-2-056",
-    "category": "通行してはいけないところ",
-    "kp": "5-2-4",
-    "group": "H",
-    "source": "教則 第5章第2節4",
-    "question_type": "text",
-    "qf": "QF-5-2-4-D-NR-01",
-    "question_ja": "高さに制限のある場所を通過するときに確認すべきなのは車体の高さだけであり、荷台の積載物の高さは含まれない。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第5章第2節4により、荷台の積載物の高さが制限を超えてしまう場合があるので、これも含めて確認します。",
-    "i18n": {
-      "zh": {
-        "question": "通过有高度限制的场所时应确认的只是车身高度，不包括货台上装载物的高度。",
-        "explanation": "错误。根据教则第5章第2节4，货台上的装载物高度有可能超过限制，因此也要一并确认。"
-      },
-      "en": {
-        "question": "What you have to check at a place with a height limit is the height of the vehicle body alone; the load on the bed is not included.",
-        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 2 item 4 the load on the bed can itself exceed the limit, so it is checked as well."
-      },
-      "vi": {
-        "question": "Điều phải kiểm tra ở nơi có giới hạn chiều cao chỉ là chiều cao thân xe; hàng trên thùng không được tính vào.",
-        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 2 điểm 4, chính hàng trên thùng có thể vượt giới hạn, nên phải kiểm tra cả phần đó."
-      },
-      "pt": {
-        "question": "O que se deve conferir em local com limite de altura é apenas a altura da carroceria; a carga sobre ela não entra na conta.",
-        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 2, item 4, a própria carga pode ultrapassar o limite, por isso também é conferida."
-      }
-    },
-    "trap_type": "NR",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
-  },
-  {
-    "id": "K5-2-057",
-    "category": "通行してはいけないところ",
-    "kp": "5-2-7",
-    "group": "H",
-    "source": "教則 第5章第2節7(4)",
-    "question_type": "text",
-    "qf": "QF-5-2-7-D-EX-01",
-    "question_ja": "歩道や路側帯のない道路では、路肩にはみ出して通行してはいけないが、二輪車は除かれる。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第5章第2節7(4)は車の種類による区別をしておらず、二輪車を除くという定めはありません。",
-    "i18n": {
-      "zh": {
-        "question": "在没有人行道和路侧带的道路上不得驶出到路肩通行，但两轮车除外。",
-        "explanation": "错误。教则第5章第2节7(4)并未按车辆种类作区分，也没有「两轮车除外」的规定。"
-      },
-      "en": {
-        "question": "On a road with no sidewalk and no side strip (路側帯) you must not stray onto the shoulder, but two-wheeled vehicles are excepted.",
-        "explanation": "This is wrong. Kyosoku Chapter 5 Section 2 item 7(4) draws no distinction by type of vehicle, and there is no exception for two-wheelers."
-      },
-      "vi": {
-        "question": "Trên đường không có vỉa hè và lề đường (路側帯), bạn không được lấn ra lề cứng, nhưng xe hai bánh thì được loại trừ.",
-        "explanation": "Sai. Kyosoku Chương 5 Mục 2 điểm 7(4) không phân biệt theo loại xe, và không có ngoại lệ nào cho xe hai bánh."
-      },
-      "pt": {
-        "question": "Em via sem calçada e sem faixa lateral (路側帯) não se pode invadir o acostamento, mas os veículos de duas rodas são exceção.",
-        "explanation": "Está errado. O Kyosoku, Capítulo 5, Seção 2, item 7(4), não distingue por tipo de veículo, e não há exceção para os de duas rodas."
-      }
-    },
-    "trap_type": "EX",
-    "difficulty": 3,
-    "exam_scope": "仮免|本免|外免"
-  },
-  {
-    "id": "K5-2-058",
-    "category": "通行してはいけないところ",
-    "kp": "5-2-7",
-    "group": "H",
-    "source": "教則 第5章第2節7(1)",
-    "question_type": "text",
-    "qf": "QF-5-2-7-D-EI-04",
-    "question_ja": "「車両通行止め」の標識がある道路でも、その道路の先に自宅があるときは通行することができる。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第5章第2節7(1)により、標識によって通行が禁止されている道路は通行できず、自宅があることはその理由になりません。",
-    "i18n": {
-      "zh": {
-        "question": "即使是设有「车辆禁止通行」标识（立牌）的道路，只要该道路前方有自己家，也可以通行。",
-        "explanation": "错误。根据教则第5章第2节7(1)，由标识禁止通行的道路不能通行，家在那里并不构成理由。"
-      },
-      "en": {
-        "question": "Even on a road carrying the Closed to all vehicles sign, you may drive along it if your own home is further down it.",
-        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 2 item 7(1) a road closed by sign may not be used, and living there is not a reason."
-      },
-      "vi": {
-        "question": "Ngay trên đường có biển Cấm phương tiện lưu thông, bạn vẫn được đi nếu nhà bạn nằm phía trong con đường đó.",
-        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 2 điểm 7(1), đường bị biển cấm thì không được đi, và việc nhà bạn ở đó không phải là lý do."
-      },
-      "pt": {
-        "question": "Mesmo em via com a placa de Trânsito proibido para veículos, você pode percorrê-la se a sua casa ficar adiante nela.",
-        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 2, item 7(1), via fechada por placa não pode ser usada, e morar ali não é motivo."
-      }
-    },
-    "trap_type": "EI",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免|外免"
-  },
-  {
-    "id": "K5-2-059",
-    "category": "通行してはいけないところ",
-    "kp": "5-2-7",
-    "group": "H",
-    "source": "教則 第5章第2節7(2)",
-    "question_type": "text",
-    "qf": "QF-5-2-7-D-SC-01",
-    "question_ja": "道路が渋滞していて進めなかったので、空いている歩道に乗り上げて前に進んだ。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第5章第2節7(2)により、車は歩道を通行してはいけません。",
-    "i18n": {
-      "zh": {
-        "question": "因为道路拥堵无法前进，就驶上空着的人行道向前行驶。",
-        "explanation": "错误。根据教则第5章第2节7(2)，车辆不得通行人行道。"
-      },
-      "en": {
-        "question": "Because the road was jammed and you could not move on, you drove up onto the empty sidewalk and went forward.",
-        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 2 item 7(2) a vehicle must not travel along a sidewalk."
-      },
-      "vi": {
-        "question": "Vì đường tắc không đi được, bạn leo lên vỉa hè đang trống và đi tiếp.",
-        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 2 điểm 7(2), xe không được đi trên vỉa hè."
-      },
-      "pt": {
-        "question": "Como a via estava congestionada e você não avançava, subiu na calçada vazia e seguiu em frente.",
-        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 2, item 7(2), o veículo não pode trafegar pela calçada."
-      }
-    },
-    "trap_type": "SC",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免|外免"
-  },
-  {
-    "id": "K5-2-060",
-    "category": "通行してはいけないところ",
-    "kp": "5-2-7",
-    "group": "H",
-    "source": "教則 第5章第2節7(3)",
-    "question_type": "text",
-    "qf": "QF-5-2-7-D-SW-01",
-    "question_ja": "安全地帯は歩行者が待つための場所なので、車は入ってもよいが徐行しなければならない。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第5章第2節7(3)により、安全地帯に車が入ってはいけません。徐行が求められるのは、歩行者がいる安全地帯のそばを通るときです。",
-    "i18n": {
-      "zh": {
-        "question": "安全地带是供步行者等候的场所，所以车辆可以进入，但必须缓行（徐行）。",
-        "explanation": "错误。根据教则第5章第2节7(3)，车辆不得进入安全地带。要求缓行的是从有步行者的安全地带旁边通过时。"
-      },
-      "en": {
-        "question": "A safety zone is a place for pedestrians to wait, so a vehicle may enter it but must proceed slowly (徐行).",
-        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 2 item 7(3) a vehicle must not enter a safety zone. Proceeding slowly is what is required when you pass a safety zone with people in it."
-      },
-      "vi": {
-        "question": "Khu vực an toàn là nơi người đi bộ đứng chờ, nên xe được đi vào nhưng phải lưu thông chậm (徐行).",
-        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 2 điểm 7(3), xe không được đi vào khu vực an toàn. Việc lưu thông chậm là điều bắt buộc khi đi qua bên cạnh khu vực an toàn có người."
-      },
-      "pt": {
-        "question": "A zona de segurança é um local de espera para pedestres, então o veículo pode entrar nela, mas deve prosseguir lentamente (徐行).",
-        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 2, item 7(3), o veículo não pode entrar em zona de segurança. Prosseguir lentamente é o exigido ao passar por uma zona de segurança com pessoas."
-      }
-    },
-    "trap_type": "SW",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
-  }
+  "trap_type": "EX", "difficulty": 2, "exam_scope": "仮免|本免"
+ }
 ]

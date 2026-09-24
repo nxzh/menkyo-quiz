@@ -1,662 +1,283 @@
 [
-  {
-    "id": "K5-4-041",
-    "category": "停止距離と車間距離",
-    "kp": "5-4-2",
-    "group": "L",
-    "source": "教則 第5章第4節2(1)",
-    "question_type": "text",
-    "qf": "QF-5-4-2-A-N-06",
-    "question_ja": "停止するまでには、運転者が危険を感じてからブレーキを踏み、ブレーキが実際に効き始めるまでの間に車が走る距離が必要である。",
-    "answer": true,
-    "explanation_ja": "教則第5章第4節2(1)のとおりです。これを空走距離といいます。",
-    "i18n": {
-      "zh": {
-        "question": "在停住之前，需要驾驶员感到危险后踩下刹车、到刹车实际开始起作用为止车辆行驶的距离。",
-        "explanation": "符合教则第5章第4节2(1)的规定。这叫作空驶距离。"
-      },
-      "en": {
-        "question": "Before a vehicle stops it covers the distance it travels between the driver sensing danger, pressing the brake, and the brakes actually beginning to work.",
-        "explanation": "This is Kyosoku Chapter 5 Section 4 item 2(1). That is the reaction distance."
-      },
-      "vi": {
-        "question": "Trước khi dừng, xe còn đi hết quãng đường từ lúc người lái cảm thấy nguy hiểm, đạp phanh, cho tới khi phanh thực sự bắt đầu ăn.",
-        "explanation": "Đúng theo Kyosoku Chương 5 Mục 4 điểm 2(1). Đó là quãng đường phản ứng."
-      },
-      "pt": {
-        "question": "Antes de parar, o veículo percorre a distância entre o condutor perceber o perigo, pisar no freio e os freios começarem de fato a atuar.",
-        "explanation": "É o Kyosoku, Capítulo 5, Seção 4, item 2(1). Essa é a distância de reação."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免|外免"
+ {
+  "id": "K5-4-401", "category": "安全な速度と車間距離", "kp": "5-4-2", "group": "L",
+  "source": "教則 第5章第4節2(1)", "question_type": "text", "qf": "QF-5-4-A-N-01",
+  "question_ja": "運転者が危険を感じてブレーキを踏んでから、そのブレーキが実際に効き始めるまでの間にも車は走り続けており、この間に走る距離を空走距離という。",
+  "answer": true,
+  "explanation_ja": "教則第5章第4節2(1)のとおりです。この空走距離と、ブレーキが効き始めてから車が停止するまでの制動距離とを合わせたものが停止距離です。",
+  "i18n": {
+   "zh": {"question": "驾驶员感到危险踩下刹车后，到刹车实际开始起作用为止，车辆仍在继续行驶，这段期间行驶的距离称为空驶距离。", "explanation": "符合教则第5章第4节2(1)的规定。空驶距离与刹车开始起作用后到车辆停住为止的制动距离相加，就是停止距离。"},
+   "en": {"question": "From the moment the driver senses danger and presses the brake until the brakes actually begin to work the vehicle keeps moving, and the distance it covers in that interval is called the reaction distance.", "explanation": "This is Kyosoku Chapter 5 Section 4 item 2(1). The reaction distance plus the braking distance, which runs from the moment the brakes begin to work until the vehicle stops, is the stopping distance."},
+   "vi": {"question": "Từ khi người lái xe cảm thấy nguy hiểm và đạp phanh cho đến khi phanh thực sự bắt đầu ăn, xe vẫn tiếp tục chạy, và quãng đường xe đi được trong khoảng đó gọi là quãng đường phản ứng.", "explanation": "Đúng theo Kyosoku Chương 5 Mục 4 điểm 2(1). Quãng đường phản ứng cộng với quãng đường phanh, tính từ khi phanh bắt đầu ăn cho đến khi xe dừng hẳn, chính là quãng đường dừng."},
+   "pt": {"question": "Desde o momento em que o condutor percebe o perigo e pisa no freio até o freio começar de fato a agir o veículo continua a andar, e a distância percorrida nesse intervalo chama-se distância de reação.", "explanation": "É o Kyosoku, Capítulo 5, Seção 4, item 2(1). A distância de reação somada à distância de frenagem, que vai do momento em que o freio começa a agir até o veículo parar, é a distância de parada."}
   },
-  {
-    "id": "K5-4-042",
-    "category": "停止距離と車間距離",
-    "kp": "5-4-2",
-    "group": "L",
-    "source": "教則 第5章第4節2(4)",
-    "question_type": "text",
-    "qf": "QF-5-4-2-A-N-07",
-    "question_ja": "車間距離は、天候、路面やタイヤの状態、荷物の重さを考えに入れ、前の車が急に止まってもこれに追突しないような距離をとらなければならない。",
-    "answer": true,
-    "explanation_ja": "教則第5章第4節2(4)のとおりです。距離は一定ではなく、そのときの条件で変わります。",
-    "i18n": {
-      "zh": {
-        "question": "车距必须把天气、路面和轮胎的状态、货物重量考虑在内，保持即使前车突然停住也不会追尾的距离。",
-        "explanation": "符合教则第5章第4节2(4)的规定。这个距离不是固定的，会随当时的条件而变化。"
-      },
-      "en": {
-        "question": "You must keep a following distance at which you would not run into the vehicle ahead if it stopped suddenly, taking the weather, the state of the road and tyres and the weight of the load into account.",
-        "explanation": "This is Kyosoku Chapter 5 Section 4 item 2(4). The distance is not fixed; it changes with the conditions."
-      },
-      "vi": {
-        "question": "Bạn phải giữ khoảng cách với xe phía trước sao cho không đâm vào nó nếu nó dừng đột ngột, có tính đến thời tiết, tình trạng mặt đường và lốp, cùng trọng lượng hàng.",
-        "explanation": "Đúng theo Kyosoku Chương 5 Mục 4 điểm 2(4). Khoảng cách không cố định mà thay đổi theo điều kiện."
-      },
-      "pt": {
-        "question": "Você deve manter uma distância do veículo à frente que evite a colisão se ele parar de repente, considerando o tempo, o estado do piso e dos pneus e o peso da carga.",
-        "explanation": "É o Kyosoku, Capítulo 5, Seção 4, item 2(4). A distância não é fixa; muda com as condições."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "N", "difficulty": 2, "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-4-402", "category": "安全な速度と車間距離", "kp": "5-4-2", "group": "L",
+  "source": "教則 第5章第4節2(1)", "question_type": "text", "qf": "QF-5-4-D-SW-01",
+  "question_ja": "ブレーキが効き始めてから車が完全に止まるまでの間に走る距離のことを、空走距離という。",
+  "answer": false,
+  "explanation_ja": "それは制動距離です。空走距離は、運転者が危険を感じてからブレーキが実際に効き始めるまでの間に車が走る距離です（教則第5章第4節2(1)）。",
+  "i18n": {
+   "zh": {"question": "从刹车开始起作用到车辆完全停住为止所行驶的距离，称为空驶距离。", "explanation": "那是制动距离。空驶距离是指驾驶员感到危险后，到刹车实际开始起作用为止车辆行驶的距离（教则第5章第4节2(1)）。"},
+   "en": {"question": "The distance a vehicle covers from the moment the brakes begin to work until it has stopped completely is called the reaction distance.", "explanation": "That is the braking distance. The reaction distance is the distance the vehicle travels from the moment the driver senses danger until the brakes actually begin to work (Kyosoku Chapter 5 Section 4 item 2(1))."},
+   "vi": {"question": "Quãng đường xe đi được từ khi phanh bắt đầu ăn cho đến khi xe dừng hẳn được gọi là quãng đường phản ứng.", "explanation": "Đó là quãng đường phanh. Quãng đường phản ứng là quãng đường xe chạy được từ khi người lái xe cảm thấy nguy hiểm cho đến khi phanh thực sự bắt đầu ăn (Kyosoku Chương 5 Mục 4 điểm 2(1))."},
+   "pt": {"question": "A distância percorrida pelo veículo desde o momento em que o freio começa a agir até ele parar por completo chama-se distância de reação.", "explanation": "Essa é a distância de frenagem. A distância de reação é a distância que o veículo percorre desde o momento em que o condutor percebe o perigo até o freio realmente começar a agir (Kyosoku, Capítulo 5, Seção 4, item 2(1))."}
   },
-  {
-    "id": "K5-4-043",
-    "category": "ブレーキの掛け方",
-    "kp": "5-4-3",
-    "group": "L",
-    "source": "教則 第5章第4節3(2)",
-    "question_type": "text",
-    "qf": "QF-5-4-3-A-N-03",
-    "question_ja": "ブレーキを数回に分けて使う方法は、道路が滑りやすい状態のときにとりわけ効果的である。",
-    "answer": true,
-    "explanation_ja": "教則第5章第4節3(2)のとおりです。ブレーキ灯が点滅して後車への合図にもなります。",
-    "i18n": {
-      "zh": {
-        "question": "分几次使用刹车的方法，在道路湿滑时尤其有效。",
-        "explanation": "符合教则第5章第4节3(2)的规定。刹车灯闪烁还能成为给后车的信号。"
-      },
-      "en": {
-        "question": "Braking in several separate applications is particularly effective when the road is slippery.",
-        "explanation": "This is Kyosoku Chapter 5 Section 4 item 3(2). The flashing brake lights also signal to the vehicle behind."
-      },
-      "vi": {
-        "question": "Cách phanh thành nhiều lần đặc biệt hiệu quả khi mặt đường trơn trượt.",
-        "explanation": "Đúng theo Kyosoku Chương 5 Mục 4 điểm 3(2). Đèn phanh nhấp nháy cũng là tín hiệu cho xe phía sau."
-      },
-      "pt": {
-        "question": "Frear em várias aplicações sucessivas é especialmente eficaz quando a via está escorregadia.",
-        "explanation": "É o Kyosoku, Capítulo 5, Seção 4, item 3(2). A luz de freio piscando também sinaliza ao veículo de trás."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "SW", "difficulty": 2, "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-4-403", "category": "安全な速度と車間距離", "kp": "5-4-2", "group": "L",
+  "source": "教則 第5章第4節2(1)", "question_type": "text", "qf": "QF-5-4-A-N-04",
+  "question_ja": "車が実際に止まるまでに必要な停止距離は、空走距離に制動距離を足した長さになる。",
+  "answer": true,
+  "explanation_ja": "教則第5章第4節2(1)のとおりです。車は急には止まれないので、この停止距離を考えて、危険が起きても安全に止まれる速度で運転します。",
+  "i18n": {
+   "zh": {"question": "车辆实际停住之前所需要的停止距离，是空驶距离加上制动距离的长度。", "explanation": "符合教则第5章第4节2(1)的规定。车辆无法立即停住，因此要考虑这个停止距离，以即使发生危险也能安全停车的速度行驶。"},
+   "en": {"question": "The stopping distance a vehicle needs before it actually comes to rest is the length of the reaction distance plus the braking distance.", "explanation": "This is Kyosoku Chapter 5 Section 4 item 2(1). A vehicle cannot stop at once, so you drive at a speed at which you can still stop safely if danger arises, keeping this stopping distance in mind."},
+   "vi": {"question": "Quãng đường dừng mà xe cần trước khi thực sự dừng lại là độ dài của quãng đường phản ứng cộng với quãng đường phanh.", "explanation": "Đúng theo Kyosoku Chương 5 Mục 4 điểm 2(1). Xe không thể dừng ngay lập tức, nên hãy nghĩ đến quãng đường dừng này và chạy với tốc độ mà khi có nguy hiểm vẫn dừng lại được an toàn."},
+   "pt": {"question": "A distância de parada de que o veículo precisa até realmente parar é o comprimento da distância de reação somada à distância de frenagem.", "explanation": "É o Kyosoku, Capítulo 5, Seção 4, item 2(1). O veículo não para de imediato, por isso dirija a uma velocidade que permita parar com segurança mesmo se surgir um perigo, levando em conta essa distância de parada."}
   },
-  {
-    "id": "K5-4-044",
-    "category": "ブレーキの掛け方",
-    "kp": "5-4-3",
-    "group": "L",
-    "source": "教則 第5章第4節3(4)",
-    "question_type": "text",
-    "qf": "QF-5-4-3-A-N-04",
-    "question_ja": "むやみにブレーキを使わず、なるべくアクセルの操作で徐々に速度を落としてから止まるようにする。",
-    "answer": true,
-    "explanation_ja": "教則第5章第4節3(4)のとおりです。後続車にとっても、急な減速は危険です。",
-    "i18n": {
-      "zh": {
-        "question": "不要随意使用刹车，尽量通过油门操作逐渐降低速度后再停车。",
-        "explanation": "符合教则第5章第4节3(4)的规定。对后车而言，急减速同样危险。"
-      },
-      "en": {
-        "question": "Do not use the brakes needlessly; slow down gradually with the accelerator as far as you can before stopping.",
-        "explanation": "This is Kyosoku Chapter 5 Section 4 item 3(4). A sudden loss of speed is dangerous for the vehicle behind too."
-      },
-      "vi": {
-        "question": "Đừng dùng phanh một cách tùy tiện; hãy giảm tốc dần bằng chân ga hết mức có thể rồi mới dừng.",
-        "explanation": "Đúng theo Kyosoku Chương 5 Mục 4 điểm 3(4). Việc giảm tốc đột ngột cũng nguy hiểm cho xe phía sau."
-      },
-      "pt": {
-        "question": "Não use os freios sem necessidade; reduza aos poucos com o acelerador antes de parar.",
-        "explanation": "É o Kyosoku, Capítulo 5, Seção 4, item 3(4). A perda súbita de velocidade também é perigosa para quem vem atrás."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "N", "difficulty": 1, "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-4-404", "category": "安全な速度と車間距離", "kp": "5-4-2", "group": "L",
+  "source": "教則 第5章第4節2(1)", "question_type": "text", "qf": "QF-5-4-D-SW-02",
+  "question_ja": "車が止まるまでに走る距離のうち、ブレーキが効き始めてからあとの部分だけを停止距離という。",
+  "answer": false,
+  "explanation_ja": "それは制動距離です。停止距離は、その制動距離に空走距離を加えた距離です（教則第5章第4節2(1)）。",
+  "i18n": {
+   "zh": {"question": "在车辆停住之前所行驶的距离中，只把刹车开始起作用之后的那一部分称为停止距离。", "explanation": "那是制动距离。停止距离是在该制动距离上再加上空驶距离的距离（教则第5章第4节2(1)）。"},
+   "en": {"question": "Of the distance a vehicle travels before it stops, only the part after the brakes begin to work is called the stopping distance.", "explanation": "That is the braking distance. The stopping distance is that braking distance plus the reaction distance (Kyosoku Chapter 5 Section 4 item 2(1))."},
+   "vi": {"question": "Trong quãng đường xe chạy được trước khi dừng lại, chỉ phần sau khi phanh bắt đầu ăn mới được gọi là quãng đường dừng.", "explanation": "Đó là quãng đường phanh. Quãng đường dừng là quãng đường phanh đó cộng thêm quãng đường phản ứng (Kyosoku Chương 5 Mục 4 điểm 2(1))."},
+   "pt": {"question": "Da distância que o veículo percorre antes de parar, apenas a parte posterior ao momento em que o freio começa a agir é chamada de distância de parada.", "explanation": "Essa é a distância de frenagem. A distância de parada é essa distância de frenagem somada à distância de reação (Kyosoku, Capítulo 5, Seção 4, item 2(1))."}
   },
-  {
-    "id": "K5-4-045",
-    "category": "停止距離と車間距離",
-    "kp": "5-4-2",
-    "group": "L",
-    "source": "教則 第5章第4節2(2)",
-    "question_type": "text",
-    "qf": "QF-5-4-2-A-N-08",
-    "question_ja": "制動距離は、雨にぬれた道路を走る場合や重い荷物を積んでいる場合などに長くなる。",
-    "answer": true,
-    "explanation_ja": "教則第5章第4節2(2)のとおりです。空走距離が変わるのは、運転者の状態によるものです。",
-    "i18n": {
-      "zh": {
-        "question": "制动距离在被雨淋湿的道路上行驶时、或装载着沉重货物时会变长。",
-        "explanation": "符合教则第5章第4节2(2)的规定。空驶距离的变化则取决于驾驶员的状态。"
-      },
-      "en": {
-        "question": "Braking distance grows longer on a road wet with rain and when a heavy load is carried.",
-        "explanation": "This is Kyosoku Chapter 5 Section 4 item 2(2). What changes the reaction distance is the driver's condition."
-      },
-      "vi": {
-        "question": "Quãng đường phanh dài ra khi chạy trên đường ướt mưa và khi chở hàng nặng.",
-        "explanation": "Đúng theo Kyosoku Chương 5 Mục 4 điểm 2(2). Cái làm thay đổi quãng đường phản ứng là trạng thái người lái."
-      },
-      "pt": {
-        "question": "A distância de frenagem aumenta em via molhada de chuva e com carga pesada.",
-        "explanation": "É o Kyosoku, Capítulo 5, Seção 4, item 2(2). O que altera a distância de reação é o estado do condutor."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "SW", "difficulty": 2, "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-4-405", "category": "安全な速度と車間距離", "kp": "5-4-2", "group": "L",
+  "source": "教則 第5章第4節2(1)", "question_type": "text", "qf": "QF-5-4-D-SW-03",
+  "question_ja": "制動距離とは、空走距離と停止距離とを合わせた距離をいう。",
+  "answer": false,
+  "explanation_ja": "合計になるのは停止距離のほうで、空走距離と制動距離を合わせた距離です。制動距離は、ブレーキが効き始めてから車が停止するまでの距離をいいます（教則第5章第4節2(1)）。",
+  "i18n": {
+   "zh": {"question": "制动距离是指空驶距离与停止距离相加的距离。", "explanation": "相加得出的是停止距离，它是空驶距离与制动距离之和。制动距离是指刹车开始起作用后到车辆停住为止的距离（教则第5章第4节2(1)）。"},
+   "en": {"question": "The braking distance is the reaction distance and the stopping distance added together.", "explanation": "The one that is an addition is the stopping distance, which is the reaction distance plus the braking distance. The braking distance is the distance from the moment the brakes begin to work until the vehicle stops (Kyosoku Chapter 5 Section 4 item 2(1))."},
+   "vi": {"question": "Quãng đường phanh là tổng của quãng đường phản ứng và quãng đường dừng.", "explanation": "Cái là tổng chính là quãng đường dừng, bằng quãng đường phản ứng cộng quãng đường phanh. Quãng đường phanh là quãng đường từ khi phanh bắt đầu ăn cho đến khi xe dừng lại (Kyosoku Chương 5 Mục 4 điểm 2(1))."},
+   "pt": {"question": "A distância de frenagem é a soma da distância de reação com a distância de parada.", "explanation": "A que é uma soma é a distância de parada, que é a distância de reação mais a distância de frenagem. A distância de frenagem é a distância entre o momento em que o freio começa a agir e o momento em que o veículo para (Kyosoku, Capítulo 5, Seção 4, item 2(1))."}
   },
-  {
-    "id": "K5-4-046",
-    "category": "停止距離と車間距離",
-    "kp": "5-4-2",
-    "group": "L",
-    "source": "教則 第5章第4節2(4)",
-    "question_type": "text",
-    "qf": "QF-5-4-2-A-N-09",
-    "question_ja": "大型自動車や中型自動車は運転席から見下ろす形になるため、車間距離が実際より長く感じられる。",
-    "answer": true,
-    "explanation_ja": "教則第5章第4節2(4)のとおりです。そのため、車間距離が短くなりやすいので注意が必要です。",
-    "i18n": {
-      "zh": {
-        "question": "大型汽车和中型汽车由于是从驾驶席俯视的角度，车距感觉上比实际更长。",
-        "explanation": "符合教则第5章第4节2(4)的规定。因此车距容易变短，需要注意。"
-      },
-      "en": {
-        "question": "In a large or medium vehicle you look down from the driving seat, so the following distance feels longer than it is.",
-        "explanation": "This is Kyosoku Chapter 5 Section 4 item 2(4). That is why the distance tends to become too short, and why care is needed."
-      },
-      "vi": {
-        "question": "Trên xe cỡ lớn hay cỡ trung, bạn nhìn xuống từ ghế lái nên khoảng cách với xe trước có cảm giác dài hơn thực tế.",
-        "explanation": "Đúng theo Kyosoku Chương 5 Mục 4 điểm 2(4). Vì vậy khoảng cách dễ bị rút ngắn và cần chú ý."
-      },
-      "pt": {
-        "question": "Em veículo grande ou médio você olha de cima a partir do banco, então a distância do veículo à frente parece maior do que é.",
-        "explanation": "É o Kyosoku, Capítulo 5, Seção 4, item 2(4). Por isso ela tende a ficar curta demais e exige atenção."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "SW", "difficulty": 3, "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-4-406", "category": "安全な速度と車間距離", "kp": "5-4-2", "group": "L",
+  "source": "教則 第5章第4節2(1)", "question_type": "text", "qf": "QF-5-4-D-SW-04",
+  "question_ja": "ブレーキが実際に効き始める前、運転者が危険に気づいてから車が進んでしまう分の距離を制動距離という。",
+  "answer": false,
+  "explanation_ja": "それは空走距離です。制動距離は、ブレーキが効き始めてから車が停止するまでの距離です（教則第5章第4節2(1)）。",
+  "i18n": {
+   "zh": {"question": "在刹车实际开始起作用之前，驾驶员察觉危险后车辆仍会向前行驶，这一部分的距离称为制动距离。", "explanation": "那是空驶距离。制动距离是指刹车开始起作用后到车辆停住为止的距离（教则第5章第4节2(1)）。"},
+   "en": {"question": "The distance a vehicle runs on after the driver notices danger but before the brakes actually begin to work is called the braking distance.", "explanation": "That is the reaction distance. The braking distance is the distance from the moment the brakes begin to work until the vehicle stops (Kyosoku Chapter 5 Section 4 item 2(1))."},
+   "vi": {"question": "Quãng đường mà xe vẫn còn chạy tới sau khi người lái xe nhận ra nguy hiểm nhưng trước khi phanh thực sự bắt đầu ăn được gọi là quãng đường phanh.", "explanation": "Đó là quãng đường phản ứng. Quãng đường phanh là quãng đường từ khi phanh bắt đầu ăn cho đến khi xe dừng lại (Kyosoku Chương 5 Mục 4 điểm 2(1))."},
+   "pt": {"question": "A distância que o veículo ainda avança depois que o condutor nota o perigo, mas antes de o freio começar de fato a agir, chama-se distância de frenagem.", "explanation": "Essa é a distância de reação. A distância de frenagem é a distância entre o momento em que o freio começa a agir e o momento em que o veículo para (Kyosoku, Capítulo 5, Seção 4, item 2(1))."}
   },
-  {
-    "id": "K5-4-047",
-    "category": "ブレーキの掛け方",
-    "kp": "5-4-3",
-    "group": "L",
-    "source": "教則 第5章第4節3(1)",
-    "question_type": "text",
-    "qf": "QF-5-4-3-A-N-05",
-    "question_ja": "ブレーキは最初はできるだけ軽く踏み込み、それから必要な強さまで徐々に踏み込んでいく。",
-    "answer": true,
-    "explanation_ja": "教則第5章第4節3(1)のとおりです。いきなり強く踏むと、車の安定を失います。",
-    "i18n": {
-      "zh": {
-        "question": "刹车最初要尽量轻踩，然后再逐渐踩到需要的力度。",
-        "explanation": "符合教则第5章第4节3(1)的规定。一上来就用力踩会使车辆失去稳定。"
-      },
-      "en": {
-        "question": "Press the brake as lightly as you can at first and then build up gradually to the strength you need.",
-        "explanation": "This is Kyosoku Chapter 5 Section 4 item 3(1). Pressing hard straight away upsets the vehicle's balance."
-      },
-      "vi": {
-        "question": "Hãy đạp phanh nhẹ nhất có thể lúc đầu rồi tăng dần tới mức cần thiết.",
-        "explanation": "Đúng theo Kyosoku Chương 5 Mục 4 điểm 3(1). Đạp mạnh ngay từ đầu sẽ làm xe mất ổn định."
-      },
-      "pt": {
-        "question": "Pise no freio o mais levemente possível no início e vá aumentando até a força necessária.",
-        "explanation": "É o Kyosoku, Capítulo 5, Seção 4, item 3(1). Pisar forte de imediato desestabiliza o veículo."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "SW", "difficulty": 2, "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-4-407", "category": "安全な速度と車間距離", "kp": "5-4-2", "group": "L",
+  "source": "教則 第5章第4節2(2)", "question_type": "text", "qf": "QF-5-4-A-N-06",
+  "question_ja": "重い荷物を積んで走るときは、同じ速度で走っていても制動距離が長くなる。",
+  "answer": true,
+  "explanation_ja": "教則第5章第4節2(2)のとおりです。雨にぬれた道路を走る場合も同じように制動距離が長くなります。",
+  "i18n": {
+   "zh": {"question": "装载重物行驶时，即使以相同速度行驶，制动距离也会变长。", "explanation": "符合教则第5章第4节2(2)的规定。在被雨淋湿的道路上行驶时，制动距离同样会变长。"},
+   "en": {"question": "When you are carrying a heavy load, the braking distance grows longer even at the same speed.", "explanation": "This is Kyosoku Chapter 5 Section 4 item 2(2). Driving on a rain-wet road makes the braking distance longer in the same way."},
+   "vi": {"question": "Khi chở hàng nặng, quãng đường phanh dài ra ngay cả khi chạy cùng một tốc độ.", "explanation": "Đúng theo Kyosoku Chương 5 Mục 4 điểm 2(2). Chạy trên mặt đường ướt vì mưa cũng làm quãng đường phanh dài ra như vậy."},
+   "pt": {"question": "Quando se transporta uma carga pesada, a distância de frenagem aumenta mesmo à mesma velocidade.", "explanation": "É o Kyosoku, Capítulo 5, Seção 4, item 2(2). Rodar em pista molhada pela chuva alonga a distância de frenagem da mesma forma."}
   },
-  {
-    "id": "K5-4-048",
-    "category": "停止距離と車間距離",
-    "kp": "5-4-2",
-    "group": "L",
-    "source": "教則 第5章第4節2(1)",
-    "question_type": "text",
-    "qf": "QF-5-4-2-A-N-10",
-    "question_ja": "停止距離を考えて、危険が発生した場合でも安全に停止できるような速度で運転する。",
-    "answer": true,
-    "explanation_ja": "教則第5章第4節2(1)のとおりです。車は急には止まれないという前提から出発します。",
-    "i18n": {
-      "zh": {
-        "question": "要考虑停止距离，以即使发生危险也能安全停车的速度驾驶。",
-        "explanation": "符合教则第5章第4节2(1)的规定。出发点是车辆无法骤然停住这一前提。"
-      },
-      "en": {
-        "question": "Drive at a speed from which you could still stop safely if danger arose, bearing the stopping distance in mind.",
-        "explanation": "This is Kyosoku Chapter 5 Section 4 item 2(1). It starts from the premise that a vehicle cannot stop instantly."
-      },
-      "vi": {
-        "question": "Hãy chạy ở tốc độ mà nếu có nguy hiểm bạn vẫn dừng an toàn được, có tính đến quãng đường dừng.",
-        "explanation": "Đúng theo Kyosoku Chương 5 Mục 4 điểm 2(1). Điểm xuất phát là xe không thể dừng ngay lập tức."
-      },
-      "pt": {
-        "question": "Dirija a uma velocidade da qual ainda consiga parar com segurança se surgir um perigo, considerando a distância de parada.",
-        "explanation": "É o Kyosoku, Capítulo 5, Seção 4, item 2(1). Parte-se do princípio de que o veículo não para de imediato."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "N", "difficulty": 1, "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-4-408", "category": "安全な速度と車間距離", "kp": "5-4-2", "group": "L",
+  "source": "教則 第5章第4節2(2) / 第4章第5節2(1)", "question_type": "text", "qf": "QF-5-4-A-N-13",
+  "question_ja": "同じ速度で走っていても、雨にぬれた路面では乾いた路面より制動距離が長くなる。",
+  "answer": true,
+  "explanation_ja": "教則第5章第4節2(2)のとおりです。路面がぬれるとタイヤと路面の間の摩擦抵抗が小さくなるためです。",
+  "i18n": {
+   "zh": {"question": "即使以相同速度行驶，在被雨淋湿的路面上，制动距离也比干燥路面长。", "explanation": "符合教则第5章第4节2(2)的规定。这是因为路面湿了以后，轮胎与路面之间的摩擦阻力变小。"},
+   "en": {"question": "Even at the same speed, the braking distance is longer on a rain-wet road surface than on a dry one.", "explanation": "This is Kyosoku Chapter 5 Section 4 item 2(2). It is because a wet surface gives less friction between the tyres and the road."},
+   "vi": {"question": "Dù chạy cùng một tốc độ, quãng đường phanh trên mặt đường ướt vì mưa vẫn dài hơn trên mặt đường khô.", "explanation": "Đúng theo Kyosoku Chương 5 Mục 4 điểm 2(2). Lý do là mặt đường ướt làm ma sát giữa lốp và mặt đường giảm đi."},
+   "pt": {"question": "Mesmo à mesma velocidade, a distância de frenagem é maior em pista molhada pela chuva do que em pista seca.", "explanation": "É o Kyosoku, Capítulo 5, Seção 4, item 2(2). Isso ocorre porque a pista molhada reduz o atrito entre os pneus e o piso."}
   },
-  {
-    "id": "K5-4-049",
-    "category": "ブレーキの掛け方",
-    "kp": "5-4-3",
-    "group": "L",
-    "source": "教則 第5章第4節3(3)",
-    "question_type": "text",
-    "qf": "QF-5-4-3-A-N-06",
-    "question_ja": "急ブレーキを掛けてよいのは、危険を避けるためやむを得ない場合だけである。",
-    "answer": true,
-    "explanation_ja": "教則第5章第4節3(3)のとおりです。アンチロックブレーキシステムを備えた車では、そのときの踏み方が定められています。",
-    "i18n": {
-      "zh": {
-        "question": "可以急刹车的，只有为避免危险不得已的情况。",
-        "explanation": "符合教则第5章第4节3(3)的规定。在装有防抱死制动系统（ABS）的车上，规定了那种情况下的踩踏方法。"
-      },
-      "en": {
-        "question": "Hard braking is allowed only where it is unavoidable in order to avoid danger.",
-        "explanation": "This is Kyosoku Chapter 5 Section 4 item 3(3). For a vehicle with an anti-lock braking system (ABS), how to press the pedal then is laid down."
-      },
-      "vi": {
-        "question": "Chỉ được phanh gấp khi bắt buộc phải làm vậy để tránh nguy hiểm.",
-        "explanation": "Đúng theo Kyosoku Chương 5 Mục 4 điểm 3(3). Với xe có hệ thống chống bó cứng phanh (ABS), cách đạp trong tình huống đó đã được quy định."
-      },
-      "pt": {
-        "question": "A frenagem brusca só é permitida quando inevitável para evitar perigo.",
-        "explanation": "É o Kyosoku, Capítulo 5, Seção 4, item 3(3). Em veículo com sistema antitravamento (ABS), a forma de pisar nessa hora está prevista."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "N", "difficulty": 1, "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-4-409", "category": "安全な速度と車間距離", "kp": "5-4-2", "group": "L",
+  "source": "教則 第5章第4節2(2)", "question_type": "text", "qf": "QF-5-4-D-NR-01",
+  "question_ja": "制動距離は、速度が同じであれば、路面がぬれているかどうかに関係なく同じである。",
+  "answer": false,
+  "explanation_ja": "路面の状態によって変わります。雨にぬれた道路を走る場合は、同じ速度でも制動距離が長くなります（教則第5章第4節2(2)）。",
+  "i18n": {
+   "zh": {"question": "只要速度相同，制动距离与路面是否湿滑无关，都是一样的。", "explanation": "制动距离会随路面状态而变化。在被雨淋湿的道路上行驶时，即使速度相同，制动距离也会变长（教则第5章第4节2(2)）。"},
+   "en": {"question": "As long as the speed is the same, the braking distance is the same whether or not the road surface is wet.", "explanation": "It changes with the state of the road surface. On a rain-wet road the braking distance grows longer even at the same speed (Kyosoku Chapter 5 Section 4 item 2(2))."},
+   "vi": {"question": "Miễn là cùng tốc độ thì quãng đường phanh là như nhau, bất kể mặt đường có ướt hay không.", "explanation": "Nó thay đổi theo tình trạng mặt đường. Trên đường ướt vì mưa, quãng đường phanh dài ra ngay cả khi tốc độ như nhau (Kyosoku Chương 5 Mục 4 điểm 2(2))."},
+   "pt": {"question": "Desde que a velocidade seja a mesma, a distância de frenagem é igual, esteja a pista molhada ou não.", "explanation": "Ela muda conforme o estado do piso. Em pista molhada pela chuva, a distância de frenagem aumenta mesmo à mesma velocidade (Kyosoku, Capítulo 5, Seção 4, item 2(2))."}
   },
-  {
-    "id": "K5-4-050",
-    "category": "停止距離と車間距離",
-    "kp": "5-4-2",
-    "group": "L",
-    "source": "教則 第5章第4節2(2)",
-    "question_type": "text",
-    "qf": "QF-5-4-2-D-SW-02",
-    "question_ja": "空走距離は、雨にぬれた道路を走る場合に長くなる。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第5章第4節2(2)により、雨にぬれた道路で長くなるのは制動距離です。空走距離が長くなるのは運転者が疲れているときなどです。",
-    "i18n": {
-      "zh": {
-        "question": "空驶距离在被雨淋湿的道路上行驶时会变长。",
-        "explanation": "错误。根据教则第5章第4节2(2)，在被雨淋湿的道路上变长的是制动距离。空驶距离变长是在驾驶员疲劳时等情况。"
-      },
-      "en": {
-        "question": "Reaction distance grows longer when driving on a road wet with rain.",
-        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 4 item 2(2) what grows longer on a wet road is the braking distance. Reaction distance grows when the driver is tired and in similar cases."
-      },
-      "vi": {
-        "question": "Quãng đường phản ứng dài ra khi chạy trên đường ướt mưa.",
-        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 4 điểm 2(2), thứ dài ra trên đường ướt là quãng đường phanh. Quãng đường phản ứng dài ra khi người lái mệt mỏi và những trường hợp tương tự."
-      },
-      "pt": {
-        "question": "A distância de reação aumenta ao dirigir em via molhada de chuva.",
-        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 4, item 2(2), em piso molhado aumenta a distância de frenagem. A de reação aumenta com o cansaço do condutor e em casos assim."
-      }
-    },
-    "trap_type": "SW",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "NR", "difficulty": 2, "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-4-410", "category": "安全な速度と車間距離", "kp": "5-4-2", "group": "L",
+  "source": "教則 第5章第4節2(3)", "question_type": "text", "qf": "QF-5-4-A-N-20",
+  "question_ja": "雨の中をタイヤのすり減った車で走っているときは、乾いた路面でタイヤの状態が良い場合に比べ、停止距離が２倍程度まで延びることがある。",
+  "answer": true,
+  "explanation_ja": "教則第5章第4節2(3)のとおりです。２倍程度に延びるのは制動距離ではなく、空走距離と制動距離を合わせた停止距離です。",
+  "i18n": {
+   "zh": {"question": "在雨中驾驶轮胎已磨损的车辆时，与干燥路面且轮胎状态良好的情况相比，停止距离有时会延长到约2倍。", "explanation": "符合教则第5章第4节2(3)的规定。延长到约2倍的不是制动距离，而是空驶距离与制动距离相加的停止距离。"},
+   "en": {"question": "Driving in the rain with worn tyres, the stopping distance can stretch to about twice what it would be on a dry surface with tyres in good condition.", "explanation": "This is Kyosoku Chapter 5 Section 4 item 2(3). What stretches to about twice is not the braking distance but the stopping distance, the reaction distance and the braking distance together."},
+   "vi": {"question": "Khi chạy xe dưới mưa với lốp đã mòn, quãng đường dừng có thể dài ra đến khoảng gấp đôi so với khi mặt đường khô và lốp còn tốt.", "explanation": "Đúng theo Kyosoku Chương 5 Mục 4 điểm 2(3). Cái dài ra khoảng gấp đôi không phải là quãng đường phanh, mà là quãng đường dừng, tức quãng đường phản ứng cộng quãng đường phanh."},
+   "pt": {"question": "Ao dirigir na chuva com pneus gastos, a distância de parada pode se estender até cerca do dobro da que haveria em pista seca e com pneus em bom estado.", "explanation": "É o Kyosoku, Capítulo 5, Seção 4, item 2(3). O que chega a cerca do dobro não é a distância de frenagem, e sim a distância de parada, ou seja, a distância de reação somada à de frenagem."}
   },
-  {
-    "id": "K5-4-051",
-    "category": "停止距離と車間距離",
-    "kp": "5-4-2",
-    "group": "L",
-    "source": "教則 第5章第4節2(4)",
-    "question_type": "text",
-    "qf": "QF-5-4-2-D-EI-01",
-    "question_ja": "車間距離は、前の車との距離を一定に保っていれば、天候が変わっても変える必要はない。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第5章第4節2(4)により、天候、路面やタイヤの状態、荷物の重さを考えに入れて車間距離をとります。",
-    "i18n": {
-      "zh": {
-        "question": "车距只要与前车保持一定距离，天气变化也不需要改变。",
-        "explanation": "错误。根据教则第5章第4节2(4)，要把天气、路面和轮胎的状态、货物重量考虑在内来保持车距。"
-      },
-      "en": {
-        "question": "As long as you keep a constant distance from the vehicle ahead, you need not change it when the weather changes.",
-        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 4 item 2(4) you set the following distance with the weather, the state of the road and tyres and the weight of the load in mind."
-      },
-      "vi": {
-        "question": "Chỉ cần giữ khoảng cách cố định với xe phía trước thì dù thời tiết thay đổi cũng không cần đổi.",
-        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 4 điểm 2(4), bạn đặt khoảng cách có tính đến thời tiết, tình trạng mặt đường và lốp, cùng trọng lượng hàng."
-      },
-      "pt": {
-        "question": "Desde que se mantenha distância constante do veículo à frente, não é preciso mudá-la quando o tempo muda.",
-        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 4, item 2(4), a distância é definida considerando o tempo, o piso, os pneus e a carga."
-      }
-    },
-    "trap_type": "EI",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "N", "difficulty": 2, "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-4-411", "category": "安全な速度と車間距離", "kp": "5-4-2", "group": "L",
+  "source": "教則 第5章第4節2(3)", "question_type": "text", "qf": "QF-5-4-D-NR-02",
+  "question_ja": "停止距離は、タイヤや路面の状態には影響されず、速度だけで決まる。",
+  "answer": false,
+  "explanation_ja": "路面とタイヤの状態にも左右されます。路面が雨にぬれ、タイヤがすり減っている場合の停止距離は、乾いた路面でタイヤの状態がよい場合の２倍程度に延びることがあります（教則第5章第4節2(3)）。",
+  "i18n": {
+   "zh": {"question": "停止距离不受轮胎和路面状态影响，只由速度决定。", "explanation": "停止距离也受路面和轮胎状态左右。路面被雨淋湿、轮胎磨损时的停止距离，有时会延长到干燥路面且轮胎状态良好时的约2倍（教则第5章第4节2(3)）。"},
+   "en": {"question": "The stopping distance is decided by speed alone and is not affected by the state of the tyres or the road surface.", "explanation": "It also depends on the state of the road surface and the tyres. With a rain-wet surface and worn tyres the stopping distance can stretch to about twice what it is on a dry surface with tyres in good condition (Kyosoku Chapter 5 Section 4 item 2(3))."},
+   "vi": {"question": "Quãng đường dừng chỉ do tốc độ quyết định và không chịu ảnh hưởng của tình trạng lốp hay mặt đường.", "explanation": "Nó còn phụ thuộc vào tình trạng mặt đường và lốp xe. Khi mặt đường ướt vì mưa và lốp đã mòn, quãng đường dừng có thể dài ra khoảng gấp đôi so với khi mặt đường khô và lốp còn tốt (Kyosoku Chương 5 Mục 4 điểm 2(3))."},
+   "pt": {"question": "A distância de parada é determinada só pela velocidade e não é afetada pelo estado dos pneus nem do piso.", "explanation": "Ela também depende do estado do piso e dos pneus. Com pista molhada pela chuva e pneus gastos, a distância de parada pode chegar a cerca do dobro da que se tem em pista seca e com pneus em bom estado (Kyosoku, Capítulo 5, Seção 4, item 2(3))."}
   },
-  {
-    "id": "K5-4-052",
-    "category": "ブレーキの掛け方",
-    "kp": "5-4-3",
-    "group": "L",
-    "source": "教則 第5章第4節3(2)",
-    "question_type": "text",
-    "qf": "QF-5-4-3-D-SW-02",
-    "question_ja": "ブレーキを数回に分けて使うのは、道路が乾いているときにだけ効果がある。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第5章第4節3(2)により、この方法は道路が滑りやすい状態のときにとりわけ効果的です。",
-    "i18n": {
-      "zh": {
-        "question": "分几次使用刹车，只在道路干燥时才有效果。",
-        "explanation": "错误。根据教则第5章第4节3(2)，这种方法在道路湿滑时尤其有效。"
-      },
-      "en": {
-        "question": "Braking in several separate applications is effective only when the road is dry.",
-        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 4 item 3(2) the method is particularly effective when the road is slippery."
-      },
-      "vi": {
-        "question": "Cách phanh thành nhiều lần chỉ hiệu quả khi mặt đường khô.",
-        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 4 điểm 3(2), cách này đặc biệt hiệu quả khi mặt đường trơn trượt."
-      },
-      "pt": {
-        "question": "Frear em várias aplicações só é eficaz quando a via está seca.",
-        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 4, item 3(2), o método é especialmente eficaz em via escorregadia."
-      }
-    },
-    "trap_type": "SW",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "NR", "difficulty": 2, "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-4-412", "category": "安全な速度と車間距離", "kp": "5-4-2", "group": "L",
+  "source": "教則 第5章第4節2(2)", "question_type": "text", "qf": "QF-5-4-A-N-23",
+  "question_ja": "疲れた状態で運転していると、危険に気づいて判断を下すまでに余計な時間がかかるので、その分だけ空走距離が長くなる。",
+  "answer": true,
+  "explanation_ja": "教則第5章第4節2(2)のとおりです。長くなるのは空走距離で、制動距離ではありません。",
+  "i18n": {
+   "zh": {"question": "在疲劳的状态下驾驶时，从察觉危险到作出判断要多花时间，因此空驶距离会相应变长。", "explanation": "符合教则第5章第4节2(2)的规定。变长的是空驶距离，而不是制动距离。"},
+   "en": {"question": "Driving while tired, it takes extra time to notice a danger and reach a decision, so the reaction distance grows longer by that much.", "explanation": "This is Kyosoku Chapter 5 Section 4 item 2(2). What grows longer is the reaction distance, not the braking distance."},
+   "vi": {"question": "Khi lái xe trong tình trạng mệt mỏi, việc nhận ra nguy hiểm và đưa ra phán đoán mất thêm thời gian, nên quãng đường phản ứng dài ra tương ứng.", "explanation": "Đúng theo Kyosoku Chương 5 Mục 4 điểm 2(2). Cái dài ra là quãng đường phản ứng, không phải quãng đường phanh."},
+   "pt": {"question": "Dirigindo cansado, leva-se um tempo extra para notar o perigo e tomar a decisão, de modo que a distância de reação aumenta na mesma medida.", "explanation": "É o Kyosoku, Capítulo 5, Seção 4, item 2(2). O que aumenta é a distância de reação, não a distância de frenagem."}
   },
-  {
-    "id": "K5-4-053",
-    "category": "停止距離と車間距離",
-    "kp": "5-4-2",
-    "group": "L",
-    "source": "教則 第5章第4節2(3)",
-    "question_type": "text",
-    "qf": "QF-5-4-2-D-NU-01",
-    "question_ja": "路面がぬれタイヤがすり減っている場合の停止距離は、乾燥した路面でタイヤの状態が良い場合の半分程度に縮まる。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第5章第4節2(3)により、この場合の停止距離は2倍程度に延びることがあります。",
-    "i18n": {
-      "zh": {
-        "question": "路面被雨淋湿且轮胎磨损时的停止距离，会缩短到干燥路面、轮胎状态良好时的一半左右。",
-        "explanation": "错误。根据教则第5章第4节2(3)，这种情况下停止距离有时会延长到约2倍。"
-      },
-      "en": {
-        "question": "With a wet road and worn tyres the stopping distance shrinks to about half of what it is on a dry road with good tyres.",
-        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 4 item 2(3) it can stretch to about twice as long."
-      },
-      "vi": {
-        "question": "Với mặt đường ướt và lốp mòn, quãng đường dừng rút xuống còn khoảng một nửa so với đường khô và lốp tốt.",
-        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 4 điểm 2(3), nó có thể dài gấp khoảng hai lần."
-      },
-      "pt": {
-        "question": "Com piso molhado e pneus gastos, a distância de parada cai para cerca de metade da obtida em piso seco com bons pneus.",
-        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 4, item 2(3), ela pode chegar ao dobro."
-      }
-    },
-    "trap_type": "NU",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "N", "difficulty": 2, "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-4-413", "category": "安全な速度と車間距離", "kp": "5-4-2", "group": "L",
+  "source": "教則 第5章第4節2(2)", "question_type": "text", "qf": "QF-5-4-D-SW-05",
+  "question_ja": "運転者が疲れているときに長くなるのは、制動距離である。",
+  "answer": false,
+  "explanation_ja": "長くなるのは空走距離です。疲れていると危険を認知して判断するまでに時間がかかるため、ブレーキが効き始めるまでに車が走る距離が延びます（教則第5章第4節2(2)）。",
+  "i18n": {
+   "zh": {"question": "驾驶员疲劳时变长的是制动距离。", "explanation": "变长的是空驶距离。疲劳时从察觉危险到作出判断需要时间，因此刹车开始起作用前车辆行驶的距离会延长（教则第5章第4节2(2)）。"},
+   "en": {"question": "What grows longer when the driver is tired is the braking distance.", "explanation": "What grows longer is the reaction distance. A tired driver takes longer to notice a danger and decide, so the distance the vehicle runs before the brakes begin to work gets longer (Kyosoku Chapter 5 Section 4 item 2(2))."},
+   "vi": {"question": "Cái dài ra khi người lái xe mệt mỏi là quãng đường phanh.", "explanation": "Cái dài ra là quãng đường phản ứng. Người lái mệt mỏi cần nhiều thời gian hơn để nhận biết nguy hiểm và phán đoán, nên quãng đường xe chạy trước khi phanh bắt đầu ăn sẽ dài ra (Kyosoku Chương 5 Mục 4 điểm 2(2))."},
+   "pt": {"question": "O que aumenta quando o condutor está cansado é a distância de frenagem.", "explanation": "O que aumenta é a distância de reação. Um condutor cansado demora mais para perceber o perigo e decidir, de modo que a distância percorrida antes de o freio começar a agir fica maior (Kyosoku, Capítulo 5, Seção 4, item 2(2))."}
   },
-  {
-    "id": "K5-4-054",
-    "category": "ブレーキの掛け方",
-    "kp": "5-4-3",
-    "group": "L",
-    "source": "教則 第5章第4節3(1)",
-    "question_type": "text",
-    "qf": "QF-5-4-3-D-EI-03",
-    "question_ja": "ブレーキは、最初から必要な強さまで一気に踏み込むほうが停止距離が短くなるのでよい。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第5章第4節3(1)により、最初はできるだけ軽く踏み込み、それから徐々に踏み込んでいきます。",
-    "i18n": {
-      "zh": {
-        "question": "刹车从一开始就一口气踩到需要的力度，能缩短停止距离，所以更好。",
-        "explanation": "错误。根据教则第5章第4节3(1)，最初要尽量轻踩，然后再逐渐踩下去。"
-      },
-      "en": {
-        "question": "It is better to press the brake straight to the strength you need from the start, because it shortens the stopping distance.",
-        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 4 item 3(1) you press as lightly as you can at first and then build up gradually."
-      },
-      "vi": {
-        "question": "Tốt hơn là đạp phanh mạnh tới mức cần thiết ngay từ đầu vì như vậy quãng đường dừng ngắn hơn.",
-        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 4 điểm 3(1), lúc đầu bạn đạp nhẹ nhất có thể rồi tăng dần."
-      },
-      "pt": {
-        "question": "É melhor pisar no freio com toda a força necessária desde o início, pois encurta a distância de parada.",
-        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 4, item 3(1), pisa-se o mais leve possível no início e aumenta-se aos poucos."
-      }
-    },
-    "trap_type": "EI",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "SW", "difficulty": 3, "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-4-414", "category": "安全な速度と車間距離", "kp": "5-4-2", "group": "L",
+  "source": "教則 第5章第4節2(4) / 道交法第26条", "question_type": "text", "qf": "QF-5-4-A-N-12",
+  "question_ja": "前の車が急に止まったとしても追突せずに止まれるだけの間隔をとっていれば、その車間距離は安全な車間距離といえる。",
+  "answer": true,
+  "explanation_ja": "教則第5章第4節2(4)のとおりです。天候、路面やタイヤの状態、荷物の重さなども考えに入れてとらなければなりません。",
+  "i18n": {
+   "zh": {"question": "如果保持的间隔足以在前车突然停住时也不追尾而停下，那么这个车间距离就可以说是安全车间距离。", "explanation": "符合教则第5章第4节2(4)的规定。还必须把天气、路面和轮胎状态、货物重量等一并考虑在内。"},
+   "en": {"question": "If you are keeping a gap wide enough to pull up without running into the vehicle ahead even when it stops suddenly, that following distance counts as a safe following distance.", "explanation": "This is Kyosoku Chapter 5 Section 4 item 2(4). You must also take the weather, the state of the road and tyres and the weight of your load into account."},
+   "vi": {"question": "Nếu giữ được khoảng cách đủ rộng để dừng lại mà không va chạm từ phía sau với xe phía trước ngay cả khi xe đó dừng đột ngột, thì khoảng cách đó được coi là khoảng cách an toàn với xe phía trước.", "explanation": "Đúng theo Kyosoku Chương 5 Mục 4 điểm 2(4). Còn phải tính đến thời tiết, tình trạng mặt đường và lốp xe, cũng như trọng lượng hàng chở."},
+   "pt": {"question": "Se você mantém um espaço suficiente para parar sem colidir com o veículo da frente mesmo que ele pare de repente, essa distância de seguimento é considerada uma distância de seguimento segura.", "explanation": "É o Kyosoku, Capítulo 5, Seção 4, item 2(4). Também é preciso levar em conta o tempo, o estado do piso e dos pneus e o peso da carga."}
   },
-  {
-    "id": "K5-4-055",
-    "category": "停止距離と車間距離",
-    "kp": "5-4-2",
-    "group": "L",
-    "source": "教則 第5章第4節2(4)",
-    "question_type": "text",
-    "qf": "QF-5-4-2-D-SW-03",
-    "question_ja": "大型自動車は運転席が高いので、車間距離が実際より短く感じられる。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第5章第4節2(4)により、運転席から見下ろす形になるため、車間距離は実際より長く感じられます。",
-    "i18n": {
-      "zh": {
-        "question": "大型汽车因为驾驶席高，所以车距感觉上比实际更短。",
-        "explanation": "错误。根据教则第5章第4节2(4)，由于是从驾驶席俯视的角度，车距感觉上比实际更长。"
-      },
-      "en": {
-        "question": "In a large vehicle the high driving position makes the following distance feel shorter than it is.",
-        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 4 item 2(4), looking down from the driving seat makes it feel longer than it is."
-      },
-      "vi": {
-        "question": "Trên xe cỡ lớn, ghế lái cao khiến khoảng cách với xe trước có cảm giác ngắn hơn thực tế.",
-        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 4 điểm 2(4), việc nhìn xuống từ ghế lái khiến khoảng cách có cảm giác dài hơn thực tế."
-      },
-      "pt": {
-        "question": "No veículo grande, a posição elevada faz a distância do veículo à frente parecer menor do que é.",
-        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 4, item 2(4), olhar de cima a faz parecer maior do que é."
-      }
-    },
-    "trap_type": "SW",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "N", "difficulty": 1, "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-4-415", "category": "安全な速度と車間距離", "kp": "5-4-2", "group": "L",
+  "source": "教則 第5章第4節2(3)(4)", "question_type": "text", "qf": "QF-5-4-D-NU-02",
+  "question_ja": "時速40キロメートルで走るときは、雨で路面がぬれてタイヤがすり減っていても、車間距離を20メートルとっておけば追突を避けられる。",
+  "answer": false,
+  "explanation_ja": "その状態では20メートルでは足りないことがあります。路面が雨にぬれ、タイヤがすり減っている場合の停止距離は乾いた路面の２倍程度に延びることがあるので、車間距離もそれに応じて長くとらなければなりません（教則第5章第4節2(3)(4)）。",
+  "i18n": {
+   "zh": {"question": "以时速40公里行驶时，即使下雨路面湿滑、轮胎磨损，只要保持20米车间距离就能避免追尾。", "explanation": "在那种状态下20米有时是不够的。路面被雨淋湿、轮胎磨损时的停止距离有时会延长到干燥路面的约2倍，因此车间距离也必须相应地加长（教则第5章第4节2(3)(4)）。"},
+   "en": {"question": "When driving at 40 km/h you can avoid a rear-end collision by keeping 20 metres of following distance, even if the road is wet with rain and the tyres are worn.", "explanation": "Twenty metres can be too little in that state. With a rain-wet surface and worn tyres the stopping distance can stretch to about twice what it is on a dry road, so the following distance must be made longer to match (Kyosoku Chapter 5 Section 4 items 2(3) and 2(4))."},
+   "vi": {"question": "Khi chạy với tốc độ 40 km/h, dù mặt đường ướt vì mưa và lốp đã mòn, chỉ cần giữ khoảng cách 20 mét với xe phía trước là tránh được va chạm từ phía sau.", "explanation": "Hai mươi mét có thể là không đủ trong tình trạng đó. Khi mặt đường ướt vì mưa và lốp đã mòn, quãng đường dừng có thể dài ra khoảng gấp đôi so với đường khô, nên khoảng cách với xe phía trước cũng phải kéo dài tương ứng (Kyosoku Chương 5 Mục 4 điểm 2(3) và 2(4))."},
+   "pt": {"question": "Ao rodar a 40 km/h, mesmo com a pista molhada pela chuva e os pneus gastos, manter 20 metros de distância do veículo da frente basta para evitar a colisão traseira.", "explanation": "Vinte metros podem não bastar nessa condição. Com pista molhada e pneus gastos, a distância de parada pode chegar a cerca do dobro da de pista seca, por isso a distância de seguimento também precisa ser aumentada na mesma medida (Kyosoku, Capítulo 5, Seção 4, itens 2(3) e 2(4))."}
   },
-  {
-    "id": "K5-4-056",
-    "category": "ブレーキの掛け方",
-    "kp": "5-4-3",
-    "group": "L",
-    "source": "教則 第5章第4節3(4)",
-    "question_type": "text",
-    "qf": "QF-5-4-3-D-SW-03",
-    "question_ja": "速度を落とすときは、できるだけブレーキだけで調整するほうがよい。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第5章第4節3(4)により、むやみにブレーキを使わず、なるべくアクセルの操作で徐々に速度を落とします。",
-    "i18n": {
-      "zh": {
-        "question": "降低速度时，最好尽量只用刹车来调整。",
-        "explanation": "错误。根据教则第5章第4节3(4)，不要随意使用刹车，要尽量通过油门操作逐渐降低速度。"
-      },
-      "en": {
-        "question": "When reducing speed it is best to manage it with the brakes alone as far as possible.",
-        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 4 item 3(4) you avoid needless braking and slow down gradually with the accelerator as far as you can."
-      },
-      "vi": {
-        "question": "Khi giảm tốc, tốt nhất là điều chỉnh bằng phanh càng nhiều càng tốt.",
-        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 4 điểm 3(4), bạn tránh phanh tùy tiện và giảm tốc dần bằng chân ga hết mức có thể."
-      },
-      "pt": {
-        "question": "Ao reduzir a velocidade, o melhor é controlar apenas com os freios sempre que possível.",
-        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 4, item 3(4), evita-se frear sem necessidade e reduz-se aos poucos com o acelerador."
-      }
-    },
-    "trap_type": "SW",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "NU", "difficulty": 3, "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-4-416", "category": "安全な速度と車間距離", "kp": "5-4-2", "group": "L",
+  "source": "教則 第5章第4節2(1)(3)", "question_type": "text", "qf": "QF-5-4-A-N-19",
+  "question_ja": "乾いた路面をタイヤの状態がよい車で時速60キロメートルで走行しているときの停止距離は、およそ44メートルである。",
+  "answer": true,
+  "explanation_ja": "停止距離は空走距離と制動距離を合わせた距離で、時速60キロメートルではおよそ44メートルになります。路面が雨にぬれ、タイヤがすり減っていれば、その２倍程度に延びることがあります（教則第5章第4節2(1)(3)）。",
+  "i18n": {
+   "zh": {"question": "在干燥路面上、以轮胎状态良好的车辆按时速60公里行驶时，停止距离约为44米。", "explanation": "停止距离是空驶距离与制动距离相加的距离，时速60公里时约为44米。若路面被雨淋湿、轮胎磨损，有时会延长到其约2倍（教则第5章第4节2(1)(3)）。"},
+   "en": {"question": "On a dry road with tyres in good condition, the stopping distance at 60 km/h is roughly 44 metres.", "explanation": "The stopping distance is the reaction distance plus the braking distance, and at 60 km/h it comes to roughly 44 metres. If the surface is wet with rain and the tyres are worn it can stretch to about twice that (Kyosoku Chapter 5 Section 4 items 2(1) and 2(3))."},
+   "vi": {"question": "Trên đường khô và với lốp còn tốt, quãng đường dừng khi chạy 60 km/h là khoảng 44 mét.", "explanation": "Quãng đường dừng là quãng đường phản ứng cộng quãng đường phanh, và ở tốc độ 60 km/h nó vào khoảng 44 mét. Nếu mặt đường ướt vì mưa và lốp đã mòn, nó có thể dài ra khoảng gấp đôi (Kyosoku Chương 5 Mục 4 điểm 2(1) và 2(3))."},
+   "pt": {"question": "Em pista seca e com pneus em bom estado, a distância de parada a 60 km/h é de cerca de 44 metros.", "explanation": "A distância de parada é a distância de reação somada à de frenagem e, a 60 km/h, fica em torno de 44 metros. Se a pista estiver molhada pela chuva e os pneus gastos, ela pode chegar a cerca do dobro disso (Kyosoku, Capítulo 5, Seção 4, itens 2(1) e 2(3))."}
   },
-  {
-    "id": "K5-4-057",
-    "category": "停止距離と車間距離",
-    "kp": "5-4-2",
-    "group": "L",
-    "source": "教則 第5章第4節2(1)",
-    "question_type": "text",
-    "qf": "QF-5-4-2-D-SW-04",
-    "question_ja": "停止距離とは、ブレーキが効き始めてから車が停止するまでの距離をいう。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第5章第4節2(1)により、それは制動距離で、停止距離は空走距離と制動距離を合わせた距離です。",
-    "i18n": {
-      "zh": {
-        "question": "所谓停止距离，是指刹车开始起作用后到车辆停住为止的距离。",
-        "explanation": "错误。根据教则第5章第4节2(1)，那是制动距离，停止距离是空驶距离与制动距离之和。"
-      },
-      "en": {
-        "question": "Stopping distance is the distance from the brakes beginning to work until the vehicle stops.",
-        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 4 item 2(1) that is the braking distance; stopping distance is the reaction distance plus the braking distance."
-      },
-      "vi": {
-        "question": "Quãng đường dừng là quãng đường từ khi phanh bắt đầu ăn cho đến khi xe dừng hẳn.",
-        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 4 điểm 2(1), đó là quãng đường phanh; quãng đường dừng là tổng của quãng đường phản ứng và quãng đường phanh."
-      },
-      "pt": {
-        "question": "Distância de parada é a distância desde os freios começarem a atuar até o veículo parar.",
-        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 4, item 2(1), essa é a distância de frenagem; a de parada é a soma da de reação com a de frenagem."
-      }
-    },
-    "trap_type": "SW",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "N", "difficulty": 3, "exam_scope": "仮免|本免|外免", "verify": true
+ },
+ {
+  "id": "K5-4-417", "category": "安全な速度と車間距離", "kp": "5-4-2", "group": "L",
+  "source": "教則 第5章第4節2(1)", "question_type": "text", "qf": "QF-5-4-D-NU-03",
+  "question_ja": "乾いた路面を時速60キロメートルで走行しているときの停止距離は、およそ20メートルである。",
+  "answer": false,
+  "explanation_ja": "20メートルでは足りません。時速60キロメートルの停止距離は、乾いた路面でもおよそ44メートルになります（教則第5章第4節2(1)）。",
+  "i18n": {
+   "zh": {"question": "在干燥路面上以时速60公里行驶时，停止距离约为20米。", "explanation": "20米是不够的。时速60公里的停止距离即使在干燥路面上也约为44米（教则第5章第4节2(1)）。"},
+   "en": {"question": "On a dry road the stopping distance at 60 km/h is about 20 metres.", "explanation": "Twenty metres is not enough. At 60 km/h the stopping distance comes to roughly 44 metres even on a dry road (Kyosoku Chapter 5 Section 4 item 2(1))."},
+   "vi": {"question": "Trên đường khô, quãng đường dừng khi chạy 60 km/h là khoảng 20 mét.", "explanation": "Hai mươi mét là không đủ. Ở tốc độ 60 km/h, quãng đường dừng vào khoảng 44 mét ngay cả trên đường khô (Kyosoku Chương 5 Mục 4 điểm 2(1))."},
+   "pt": {"question": "Em pista seca, a distância de parada a 60 km/h é de cerca de 20 metros.", "explanation": "Vinte metros não bastam. A 60 km/h a distância de parada chega a cerca de 44 metros mesmo em pista seca (Kyosoku, Capítulo 5, Seção 4, item 2(1))."}
   },
-  {
-    "id": "K5-4-058",
-    "category": "ブレーキの掛け方",
-    "kp": "5-4-3",
-    "group": "L",
-    "source": "教則 第5章第4節3(3)",
-    "question_type": "text",
-    "qf": "QF-5-4-3-D-EI-04",
-    "question_ja": "急ブレーキは、後ろに車がいないことを確かめれば自由に掛けてよい。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第5章第4節3(3)により、急ブレーキを掛けてよいのは危険を避けるためやむを得ない場合だけです。",
-    "i18n": {
-      "zh": {
-        "question": "急刹车只要确认后面没有车，就可以随意使用。",
-        "explanation": "错误。根据教则第5章第4节3(3)，可以急刹车的只有为避免危险不得已的情况。"
-      },
-      "en": {
-        "question": "You may brake hard freely as long as you have confirmed that no vehicle is behind you.",
-        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 4 item 3(3) hard braking is allowed only where it is unavoidable to avoid danger."
-      },
-      "vi": {
-        "question": "Bạn được phanh gấp thoải mái miễn là đã xác nhận phía sau không có xe.",
-        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 4 điểm 3(3), chỉ được phanh gấp khi bắt buộc để tránh nguy hiểm."
-      },
-      "pt": {
-        "question": "Você pode frear bruscamente à vontade desde que tenha confirmado que não há veículo atrás.",
-        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 4, item 3(3), a frenagem brusca só é permitida quando inevitável para evitar perigo."
-      }
-    },
-    "trap_type": "EI",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "NU", "difficulty": 2, "exam_scope": "仮免|本免|外免", "verify": true
+ },
+ {
+  "id": "K5-4-418", "category": "安全な速度と車間距離", "kp": "5-4-2", "group": "L",
+  "source": "教則 第5章第4節2(1) / 第4章第5節2(4)", "question_type": "text", "qf": "QF-5-4-A-N-26",
+  "question_ja": "乾いた路面をタイヤの状態がよい車で時速40キロメートルで走行しているときの停止距離は、おおむね20メートルである。",
+  "answer": true,
+  "explanation_ja": "空走距離と制動距離を合わせた停止距離は、時速40キロメートルではおおむね20メートルです。速度が上がれば制動距離は速度の２乗に比例して大きくなるので、停止距離はさらに長くなります（教則第5章第4節2(1)、第4章第5節2(4)）。",
+  "i18n": {
+   "zh": {"question": "在干燥路面上、以轮胎状态良好的车辆按时速40公里行驶时，停止距离大致为20米。", "explanation": "空驶距离与制动距离相加的停止距离，在时速40公里时大致为20米。速度提高后，制动距离与速度的平方成正比增大，因此停止距离会更长（教则第5章第4节2(1)、第4章第5节2(4)）。"},
+   "en": {"question": "On a dry road with tyres in good condition, the stopping distance at 40 km/h is roughly 20 metres.", "explanation": "The stopping distance, the reaction distance and the braking distance together, comes to roughly 20 metres at 40 km/h. As speed rises the braking distance grows in proportion to the square of the speed, so the stopping distance gets longer still (Kyosoku Chapter 5 Section 4 item 2(1) and Chapter 4 Section 5 item 2(4))."},
+   "vi": {"question": "Trên đường khô và với lốp còn tốt, quãng đường dừng khi chạy 40 km/h vào khoảng 20 mét.", "explanation": "Quãng đường dừng, tức quãng đường phản ứng cộng quãng đường phanh, vào khoảng 20 mét ở tốc độ 40 km/h. Khi tốc độ tăng, quãng đường phanh tăng theo bình phương của tốc độ, nên quãng đường dừng còn dài hơn nữa (Kyosoku Chương 5 Mục 4 điểm 2(1) và Chương 4 Mục 5 điểm 2(4))."},
+   "pt": {"question": "Em pista seca e com pneus em bom estado, a distância de parada a 40 km/h é de cerca de 20 metros.", "explanation": "A distância de parada, soma da distância de reação com a de frenagem, fica em torno de 20 metros a 40 km/h. Quando a velocidade aumenta, a distância de frenagem cresce na proporção do quadrado da velocidade, de modo que a distância de parada fica ainda maior (Kyosoku, Capítulo 5, Seção 4, item 2(1) e Capítulo 4, Seção 5, item 2(4))."}
   },
-  {
-    "id": "K5-4-059",
-    "category": "停止距離と車間距離",
-    "kp": "5-4-2",
-    "group": "L",
-    "source": "教則 第5章第4節2(2)",
-    "question_type": "text",
-    "qf": "QF-5-4-2-D-EI-02",
-    "question_ja": "運転者が疲れていても、危険を認知して判断するまでの時間は変わらない。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第5章第4節2(2)により、疲れているときは危険を認知して判断するまでに時間がかかり、空走距離が長くなります。",
-    "i18n": {
-      "zh": {
-        "question": "即使驾驶员疲劳，从察觉危险到作出判断的时间也不会变化。",
-        "explanation": "错误。根据教则第5章第4节2(2)，疲劳时从察觉危险到作出判断需要更长时间，空驶距离会变长。"
-      },
-      "en": {
-        "question": "Even when the driver is tired, the time taken to recognise danger and decide does not change.",
-        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 4 item 2(2) a tired driver takes longer to recognise and decide, so the reaction distance grows longer."
-      },
-      "vi": {
-        "question": "Dù người lái mệt mỏi, thời gian để nhận biết nguy hiểm và phán đoán vẫn không thay đổi.",
-        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 4 điểm 2(2), người lái mệt mất nhiều thời gian hơn để nhận biết và phán đoán, nên quãng đường phản ứng dài ra."
-      },
-      "pt": {
-        "question": "Mesmo cansado, o tempo que o condutor leva para perceber o perigo e decidir não muda.",
-        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 4, item 2(2), o condutor cansado leva mais tempo, e a distância de reação aumenta."
-      }
-    },
-    "trap_type": "EI",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "N", "difficulty": 3, "exam_scope": "仮免|本免|外免", "verify": true
+ },
+ {
+  "id": "K5-4-419", "category": "安全な速度と車間距離", "kp": "5-4-1", "group": "L",
+  "source": "教則 第5章第4節1(1) / 道交法第22条", "question_type": "text", "qf": "QF-5-4-D-EI-05",
+  "question_ja": "標識や標示で最高速度が指定されていない道路では、運転者が安全だと思う速度で走ってよい。",
+  "answer": false,
+  "explanation_ja": "そうではありません。指定がない道路にも法令で定められた最高速度があり、これを超えて運転してはいけません（教則第5章第4節1(1)、道交法第22条）。",
+  "i18n": {
+   "zh": {"question": "在标识（立牌）或标示（路面）未指定最高速度的道路上，可以按驾驶员认为安全的速度行驶。", "explanation": "并非如此。未作指定的道路也有法令规定的最高速度，不得超过该速度行驶（教则第5章第4节1(1)、道交法第22条）。"},
+   "en": {"question": "On a road where no maximum speed is designated by a road sign or road marking, you may drive at whatever speed you think is safe.", "explanation": "That is not so. A road without a designated speed still has a legal maximum speed, and you may not drive faster than that (Kyosoku Chapter 5 Section 4 item 1(1), Road Traffic Act Article 22)."},
+   "vi": {"question": "Trên đường không có biển báo giao thông hay vạch kẻ đường (kí hiệu trên mặt đường) chỉ định tốc độ tối đa, người lái xe được chạy với tốc độ mà mình cho là an toàn.", "explanation": "Không phải vậy. Đường không được chỉ định vẫn có tốc độ tối đa theo luật định, và không được chạy quá tốc độ đó (Kyosoku Chương 5 Mục 4 điểm 1(1), Luật Giao thông đường bộ Điều 22)."},
+   "pt": {"question": "Numa via em que nenhuma velocidade máxima é indicada por sinalização vertical (placa) ou horizontal, o condutor pode rodar na velocidade que julgar segura.", "explanation": "Não é assim. A via sem indicação também tem uma velocidade máxima legal, e não se pode rodar acima dela (Kyosoku, Capítulo 5, Seção 4, item 1(1), Lei de Trânsito, Artigo 22)."}
   },
-  {
-    "id": "K5-4-060",
-    "category": "停止距離と車間距離",
-    "kp": "5-4-2",
-    "group": "L",
-    "source": "教則 第5章第4節2(4)",
-    "question_type": "text",
-    "qf": "QF-5-4-2-D-SC-01",
-    "question_ja": "雨が降ってきたが、前の車との車間距離はいつもと同じままで走り続けた。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第5章第4節2(4)により、天候や路面の状態を考えに入れて車間距離をとらなければなりません。",
-    "i18n": {
-      "zh": {
-        "question": "下起了雨，但与前车的车距仍保持和平时一样继续行驶。",
-        "explanation": "错误。根据教则第5章第4节2(4)，必须把天气和路面状态考虑在内来保持车距。"
-      },
-      "en": {
-        "question": "It began to rain, but you carried on with the same following distance as always.",
-        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 4 item 2(4) you must set the following distance with the weather and the state of the road in mind."
-      },
-      "vi": {
-        "question": "Trời bắt đầu mưa, nhưng bạn vẫn giữ nguyên khoảng cách với xe phía trước như mọi khi.",
-        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 4 điểm 2(4), bạn phải đặt khoảng cách có tính đến thời tiết và tình trạng mặt đường."
-      },
-      "pt": {
-        "question": "Começou a chover, mas você seguiu com a mesma distância do veículo à frente de sempre.",
-        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 4, item 2(4), a distância deve considerar o tempo e o estado do piso."
-      }
-    },
-    "trap_type": "SC",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免|外免"
-  }
+  "trap_type": "EI", "difficulty": 2, "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "KS-401", "category": "標識", "kp": "付3-1-25", "group": "L",
+  "source": "教則 付表3（1）25 / 第5章第4節1(1)", "question_type": "sign", "qf": "QF-5-4-A-N-24",
+  "image": {"sign_no": "323", "file": "323-40.svg", "license": "PD-Japan-exempt (標識令 catalogue reproduction)", "file_verified": true},
+  "question_ja": "この標識のある道路に普通自動車で入ったときは、運転者は時速40キロメートルを超えないように速度を保たなければならない。",
+  "answer": true,
+  "explanation_ja": "教則付表3（1）25のとおりです。「最高速度」の標識で、指定された速度を超えて運転してはいけません。",
+  "i18n": {
+   "zh": {"question": "以普通汽车驶入设有这个标识（立牌）的道路时，驾驶员必须把速度保持在不超过时速40公里。", "explanation": "符合教则附表3（1）25的规定。这是「最高速度」标识，不得超过所指定的速度行驶。"},
+   "en": {"question": "When you enter a road carrying this road sign in an ordinary motor vehicle, the driver must hold the speed so that it does not go above 40 km/h.", "explanation": "This is Kyosoku Appendix 3(1) item 25. It is the Maximum speed sign, and you may not drive faster than the speed it designates."},
+   "vi": {"question": "Khi đi vào đường có biển báo giao thông này bằng xe ô tô thường, người lái xe phải giữ tốc độ sao cho không vượt quá 40 km/h.", "explanation": "Đúng theo Kyosoku Phụ lục 3(1) mục 25. Đây là biển «Tốc độ tối đa», và không được chạy nhanh hơn tốc độ mà biển chỉ định."},
+   "pt": {"question": "Ao entrar com um veículo comum numa via que traz esta placa, o condutor deve manter a velocidade de modo que não ultrapasse 40 km/h.", "explanation": "É o Kyosoku, Anexo 3(1), item 25. É a placa «Velocidade máxima», e não se pode rodar acima da velocidade que ela indica."}
+  },
+  "trap_type": "N", "difficulty": 1, "exam_scope": "仮免|本免"
+ }
 ]

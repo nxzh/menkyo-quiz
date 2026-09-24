@@ -1,0 +1,173 @@
+[
+ {
+  "id": "K6-1-738",
+  "category": "踏切",
+  "kp": "6-1-1",
+  "group": "S",
+  "source": "教則 第6章第1節1(1)",
+  "question_type": "text",
+  "qf": "QF-6-1-A-N-01",
+  "question_ja": "信号機のある踏切では、その信号に従って通過することができる。",
+  "answer": true,
+  "explanation_ja": "教則第6章第1節1(1)のとおりです。信号機のない踏切では、直前（停止線があるときはその直前）で一時停止をし、自分の目と耳で左右の安全を確かめなければなりません。",
+  "i18n": {
+   "zh": {"question": "在设有信号灯的铁路道口，可以按照该信号灯通过。", "explanation": "符合教则第6章第1节1(1)的规定。在没有信号灯的铁路道口，必须在紧前方（有停止线时为其紧前方）暂停（一時停止），用自己的眼睛和耳朵确认左右的安全。"},
+   "en": {"question": "At a railway crossing with a traffic light, you may go across in accordance with that light.", "explanation": "This is Kyosoku Chapter 6 Section 1 item 1(1). At a railway crossing with no traffic light you must come to a complete stop (一時停止) just before it, or just before the stop line where there is one, and check that it is safe to left and right with your own eyes and ears."},
+   "vi": {"question": "Tại nút giao đường tàu có đèn tín hiệu, bạn có thể đi qua theo đèn tín hiệu đó.", "explanation": "Đúng theo Kyosoku Chương 6 Mục 1 điểm 1(1). Tại nút giao đường tàu không có đèn tín hiệu, bạn phải tạm dừng (一時停止) ngay trước đó, hoặc ngay trước vạch dừng nếu có, và tự mình dùng mắt và tai xác nhận an toàn hai bên trái phải."},
+   "pt": {"question": "Em uma passagem de nível ferroviária com semáforo, você pode atravessar conforme esse semáforo.", "explanation": "É o Kyosoku, Capítulo 6, Seção 1, item 1(1). Em uma passagem de nível sem semáforo, é obrigatório fazer parada obrigatória (一時停止) logo antes dela, ou logo antes da linha de parada quando houver, e verificar a segurança à esquerda e à direita com os próprios olhos e ouvidos."}
+  },
+  "trap_type": "N", "difficulty": 2, "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K6-1-739",
+  "category": "踏切",
+  "kp": "6-1-1",
+  "group": "S",
+  "source": "教則 第6章第1節1(5)",
+  "question_type": "text",
+  "qf": "QF-6-1-A-N-02",
+  "question_ja": "踏切を通るときは、歩行者や対向車に注意しながら、落輪しないようにやや中央寄りを通る。",
+  "answer": true,
+  "explanation_ja": "教則第6章第1節1(5)のとおりです。あわせて、エンストを防止するため、変速しないで発進したときの低速ギアのまま一気に通過しましょう。",
+  "i18n": {
+   "zh": {"question": "通过铁路道口时，要一边注意步行者和对向车，一边稍微靠中央通行，以免车轮掉落。", "explanation": "符合教则第6章第1节1(5)的规定。同时，为防止熄火，要不换挡、保持起步时的低速挡一口气通过。"},
+   "en": {"question": "When you go across a railway crossing, keep a little towards the middle so as not to drop a wheel off the edge, while watching for pedestrians and oncoming vehicles.", "explanation": "This is Kyosoku Chapter 6 Section 1 item 1(5). At the same time, to avoid an engine stall, cross in one go without changing gear, staying in the low gear you moved off in."},
+   "vi": {"question": "Khi đi qua nút giao đường tàu, hãy đi hơi lệch về giữa để bánh xe không bị sụt ra mép, đồng thời chú ý người đi bộ và xe đi ngược chiều.", "explanation": "Đúng theo Kyosoku Chương 6 Mục 1 điểm 1(5). Đồng thời, để tránh chết máy, hãy đi qua một mạch mà không sang số, giữ nguyên số thấp lúc khởi hành."},
+   "pt": {"question": "Ao atravessar uma passagem de nível ferroviária, mantenha-se um pouco para o centro para não deixar uma roda cair na borda, atento a pedestres e a veículos em sentido contrário.", "explanation": "É o Kyosoku, Capítulo 6, Seção 1, item 1(5). Ao mesmo tempo, para evitar a parada do motor, atravesse de uma vez sem trocar de marcha, mantendo a marcha baixa com que arrancou."}
+  },
+  "trap_type": "N", "difficulty": 2, "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K6-1-740",
+  "category": "踏切",
+  "kp": "6-1-1",
+  "group": "S",
+  "source": "教則 第6章第1節1(5)",
+  "question_type": "text",
+  "qf": "QF-6-1-A-N-03",
+  "question_ja": "踏切を渡り始めたら、エンストを起こさないように、発進に使った低速ギアのまま変速せずに一気に渡り切るのがよい。",
+  "answer": true,
+  "explanation_ja": "教則第6章第1節1(5)のとおりです。歩行者や対向車に注意しながら、落輪しないようにやや中央寄りを通りましょう。",
+  "i18n": {
+   "zh": {"question": "开始通过铁路道口后，为避免熄火，最好保持起步时使用的低速挡不换挡，一口气通过。", "explanation": "符合教则第6章第1节1(5)的规定。要一边注意步行者和对向车，一边稍微靠中央通行以免车轮掉落。"},
+   "en": {"question": "Once you have started across a railway crossing, it is best to cross in one go without changing gear, staying in the low gear you used to move off, so that the engine does not stall.", "explanation": "This is Kyosoku Chapter 6 Section 1 item 1(5). Keep a little towards the middle so as not to drop a wheel off the edge, while watching for pedestrians and oncoming vehicles."},
+   "vi": {"question": "Khi đã bắt đầu đi qua nút giao đường tàu, tốt nhất là qua một mạch mà không sang số, giữ nguyên số thấp đã dùng để khởi hành, để động cơ không bị chết máy.", "explanation": "Đúng theo Kyosoku Chương 6 Mục 1 điểm 1(5). Hãy đi hơi lệch về giữa để bánh xe không bị sụt ra mép, đồng thời chú ý người đi bộ và xe đi ngược chiều."},
+   "pt": {"question": "Depois de começar a atravessar uma passagem de nível ferroviária, o melhor é atravessar de uma vez sem trocar de marcha, mantendo a marcha baixa usada para arrancar, para o motor não morrer.", "explanation": "É o Kyosoku, Capítulo 6, Seção 1, item 1(5). Mantenha-se um pouco para o centro para não deixar uma roda cair na borda, atento a pedestres e a veículos em sentido contrário."}
+  },
+  "trap_type": "N", "difficulty": 2, "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K6-1-741",
+  "category": "踏切",
+  "kp": "6-1-1",
+  "group": "S",
+  "source": "教則 第6章第1節1(5)",
+  "question_type": "text",
+  "qf": "QF-6-1-D-EI-01",
+  "question_ja": "踏切に入ったら、すぐに高いギアに入れ替えて、一気に通過するのがよい。",
+  "answer": false,
+  "explanation_ja": "ギアを入れ替えてはいけません。踏切内ではエンストを防止するため、変速しないで発進したときの低速ギアのまま一気に通過します（教則第6章第1節1(5)）。",
+  "i18n": {
+   "zh": {"question": "进入铁路道口后，应立即换到高速挡，一口气通过。", "explanation": "不可以换挡。在道口内为防止熄火，要不换挡、保持起步时的低速挡一口气通过（教则第6章第1节1(5)）。"},
+   "en": {"question": "Once you are in a railway crossing, you should change up to a higher gear at once and cross in one go.", "explanation": "You must not change gear. Inside a crossing you cross in one go without changing gear, staying in the low gear you moved off in, so that the engine does not stall (Kyosoku Chapter 6 Section 1 item 1(5))."},
+   "vi": {"question": "Khi đã vào nút giao đường tàu, nên sang ngay số cao hơn và đi qua một mạch.", "explanation": "Không được sang số. Trong nút giao đường tàu, để tránh chết máy, phải đi qua một mạch mà không sang số, giữ nguyên số thấp lúc khởi hành (Kyosoku Chương 6 Mục 1 điểm 1(5))."},
+   "pt": {"question": "Assim que entrar na passagem de nível ferroviária, convém trocar logo para uma marcha mais alta e atravessar de uma vez.", "explanation": "Não se deve trocar de marcha. Dentro da passagem de nível, atravessa-se de uma vez sem trocar de marcha, mantendo a marcha baixa com que se arrancou, para o motor não morrer (Kyosoku, Capítulo 6, Seção 1, item 1(5))."}
+  },
+  "trap_type": "EI", "difficulty": 2, "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K6-1-742",
+  "category": "踏切",
+  "kp": "6-1-1",
+  "group": "S",
+  "source": "教則 第5章第7節2(9) / 第6章第1節1(4)",
+  "question_type": "text",
+  "qf": "QF-6-1-D-EI-02",
+  "question_ja": "前方の交通が混雑しているとき、踏切に入ってはいけないが、横断歩道の上で止まってしまうのはやむを得ない。",
+  "answer": false,
+  "explanation_ja": "横断歩道も同じです。前方の交通が混雑していて横断歩道や踏切で動きがとれなくなるおそれがあるときは、入ってはいけません（教則第5章第7節2(9)）。",
+  "i18n": {
+   "zh": {"question": "前方交通拥挤时，虽然不得进入铁路道口，但停在人行横道上是不得已的。", "explanation": "人行横道也一样。前方交通拥挤、有可能在人行横道或铁路道口内无法动弹时，不得进入（教则第5章第7节2(9)）。"},
+   "en": {"question": "When the traffic ahead is congested you must not enter a railway crossing, but ending up stopped on a pedestrian crossing cannot be helped.", "explanation": "A pedestrian crossing is the same. Where congested traffic ahead means you might be unable to move on a pedestrian crossing or a railway crossing, you must not enter it (Kyosoku Chapter 5 Section 7 item 2(9))."},
+   "vi": {"question": "Khi giao thông phía trước tắc nghẽn, bạn không được vào nút giao đường tàu, nhưng việc phải dừng trên vạch sang đường cho người đi bộ thì đành chịu.", "explanation": "Vạch sang đường cho người đi bộ cũng vậy. Khi giao thông phía trước tắc nghẽn và có nguy cơ bạn không thể di chuyển trên vạch sang đường hoặc trong nút giao đường tàu, bạn không được đi vào (Kyosoku Chương 5 Mục 7 điểm 2(9))."},
+   "pt": {"question": "Quando o trânsito à frente está congestionado, não se deve entrar na passagem de nível ferroviária, mas ficar parado sobre a faixa de pedestres é inevitável.", "explanation": "A faixa de pedestres é igual. Quando o trânsito congestionado à frente cria o risco de você ficar sem poder sair de cima da faixa de pedestres ou da passagem de nível, não se deve entrar (Kyosoku, Capítulo 5, Seção 7, item 2(9))."}
+  },
+  "trap_type": "EI", "difficulty": 3, "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K6-1-743",
+  "category": "踏切",
+  "kp": "6-1-1",
+  "group": "S",
+  "source": "教則 第6章第1節1(1)",
+  "question_type": "text",
+  "qf": "QF-6-1-D-EI-03",
+  "question_ja": "しゃ断機が上がった直後の踏切は、一時停止をしないで通過してよい。",
+  "answer": false,
+  "explanation_ja": "上がった直後でも同じです。信号機のある踏切を除き、踏切の直前（停止線があるときはその直前）で一時停止をし、自分の目と耳で左右の安全を確かめなければなりません（教則第6章第1節1(1)）。",
+  "i18n": {
+   "zh": {"question": "遮断杆刚刚抬起的铁路道口，可以不暂停（一時停止）直接通过。", "explanation": "刚刚抬起也一样。除设有信号灯的铁路道口外，必须在道口紧前方（有停止线时为其紧前方）暂停，用自己的眼睛和耳朵确认左右的安全（教则第6章第1节1(1)）。"},
+   "en": {"question": "At a railway crossing where the barrier has just gone up, you may go across without coming to a complete stop (一時停止).", "explanation": "Just after it goes up is no different. Except at a crossing with a traffic light, you must stop just before the crossing, or just before the stop line where there is one, and check that it is safe to left and right with your own eyes and ears (Kyosoku Chapter 6 Section 1 item 1(1))."},
+   "vi": {"question": "Tại nút giao đường tàu mà thanh chắn vừa mới nâng lên, bạn có thể đi qua mà không cần tạm dừng (一時停止).", "explanation": "Vừa nâng lên cũng không khác. Trừ nút giao có đèn tín hiệu, bạn phải dừng ngay trước nút giao, hoặc ngay trước vạch dừng nếu có, và tự mình dùng mắt và tai xác nhận an toàn hai bên trái phải (Kyosoku Chương 6 Mục 1 điểm 1(1))."},
+   "pt": {"question": "Em uma passagem de nível ferroviária cuja cancela acabou de subir, pode-se atravessar sem fazer parada obrigatória (一時停止).", "explanation": "Ter acabado de subir não muda nada. Exceto na passagem de nível com semáforo, é obrigatório parar logo antes dela, ou logo antes da linha de parada quando houver, e verificar a segurança à esquerda e à direita com os próprios olhos e ouvidos (Kyosoku, Capítulo 6, Seção 1, item 1(1))."}
+  },
+  "trap_type": "EI", "difficulty": 2, "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K6-1-744",
+  "category": "踏切",
+  "kp": "6-1-1",
+  "group": "S",
+  "source": "教則 第6章第1節1(1)",
+  "question_type": "text",
+  "qf": "QF-6-1-D-EI-04",
+  "question_ja": "見通しのよい踏切では、徐行して左右の安全を確かめれば通過してよい。",
+  "answer": false,
+  "explanation_ja": "徐行では足りません。信号機のある踏切を除き、踏切の直前で一時停止をし、窓を開けるなどして自分の目と耳で左右の安全を確かめなければなりません（教則第6章第1節1(1)）。",
+  "i18n": {
+   "zh": {"question": "在视野好的铁路道口，只要缓行（徐行）并确认左右安全即可通过。", "explanation": "仅缓行是不够的。除设有信号灯的铁路道口外，必须在道口紧前方暂停（一時停止），打开车窗等，用自己的眼睛和耳朵确认左右的安全（教则第6章第1节1(1)）。"},
+   "en": {"question": "At a railway crossing with good visibility, you may cross if you proceed slowly (徐行) and check that it is safe to left and right.", "explanation": "Proceeding slowly is not enough. Except at a crossing with a traffic light, you must come to a complete stop (一時停止) just before the crossing and check that it is safe to left and right with your own eyes and ears, for instance by opening a window (Kyosoku Chapter 6 Section 1 item 1(1))."},
+   "vi": {"question": "Tại nút giao đường tàu có tầm nhìn tốt, bạn có thể đi qua nếu lưu thông chậm (徐行) và xác nhận an toàn hai bên trái phải.", "explanation": "Lưu thông chậm là chưa đủ. Trừ nút giao có đèn tín hiệu, bạn phải tạm dừng (一時停止) ngay trước nút giao và tự mình dùng mắt và tai xác nhận an toàn hai bên, chẳng hạn bằng cách mở cửa kính (Kyosoku Chương 6 Mục 1 điểm 1(1))."},
+   "pt": {"question": "Em uma passagem de nível ferroviária com boa visibilidade, pode-se atravessar bastando prosseguir lentamente (徐行) e verificar a segurança à esquerda e à direita.", "explanation": "Prosseguir lentamente não basta. Exceto na passagem de nível com semáforo, é obrigatório fazer parada obrigatória (一時停止) logo antes dela e verificar a segurança à esquerda e à direita com os próprios olhos e ouvidos, por exemplo abrindo a janela (Kyosoku, Capítulo 6, Seção 1, item 1(1))."}
+  },
+  "trap_type": "EI", "difficulty": 2, "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K6-1-745",
+  "category": "踏切",
+  "kp": "6-1-1",
+  "group": "S",
+  "source": "教則 第6章第1節1(3)",
+  "question_type": "text",
+  "qf": "QF-6-1-D-SC-01",
+  "question_ja": "踏切の手前で警報機が鳴り始めたが、列車はまだ見えなかったので、急いで踏切を通過した。",
+  "answer": false,
+  "explanation_ja": "通過してはいけません。警報機が鳴っているときや、しゃ断機が降りていたり降り始めているときは、踏切に入ってはいけません（教則第6章第1節1(3)）。",
+  "i18n": {
+   "zh": {"question": "在铁路道口前警报器开始鸣响，但还看不见列车，于是赶紧通过了道口。", "explanation": "不可以通过。警报器正在鸣响时，或遮断杆已经降下、正在开始降下时，不得进入道口（教则第6章第1节1(3)）。"},
+   "en": {"question": "The alarm at a railway crossing started to ring, but no train was in sight yet, so you hurried across the crossing.", "explanation": "You must not cross. While the alarm is ringing, or the barrier is down or coming down, you must not enter the crossing (Kyosoku Chapter 6 Section 1 item 1(3))."},
+   "vi": {"question": "Chuông cảnh báo ở nút giao đường tàu bắt đầu reo, nhưng chưa thấy tàu nên bạn vội vã đi qua nút giao.", "explanation": "Không được đi qua. Khi chuông cảnh báo đang reo, hoặc thanh chắn đã hạ hay đang bắt đầu hạ, bạn không được đi vào nút giao (Kyosoku Chương 6 Mục 1 điểm 1(3))."},
+   "pt": {"question": "O alarme sonoro da passagem de nível começou a tocar, mas o trem ainda não aparecia, então você atravessou depressa.", "explanation": "Não se pode atravessar. Enquanto o alarme sonoro toca, ou a cancela está baixada ou começando a baixar, não se deve entrar na passagem de nível (Kyosoku, Capítulo 6, Seção 1, item 1(3))."}
+  },
+  "trap_type": "SC", "difficulty": 1, "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K6-1-746",
+  "category": "踏切",
+  "kp": "6-1-2",
+  "group": "S",
+  "source": "教則 第6章第1節2(1)",
+  "question_type": "text",
+  "qf": "QF-6-1-D-SC-02",
+  "question_ja": "踏切内で車が動かなくなったが、列車が近づいていなかったので、踏切支障報知装置を押さずにしばらく様子を見た。",
+  "answer": false,
+  "explanation_ja": "様子を見てはいけません。踏切で動かなくなったときは、一刻も早く列車の運転士などに知らせるため、警報機の柱などにある押しボタン式の踏切支障報知装置を活用します（教則第6章第1節2(1)）。",
+  "i18n": {
+   "zh": {"question": "车在铁路道口内动不了了，但因为列车没有靠近，就没有按道口故障报警装置，先观察了一会儿情况。", "explanation": "不可以先观察情况。在道口动不了时，为了尽快通知列车司机等人，要利用设在警报器柱子等处的按钮式道口故障报警装置（教则第6章第1节2(1)）。"},
+   "en": {"question": "Your car would not move inside a railway crossing, but since no train was approaching you waited a while to see what happened instead of pressing the crossing emergency alarm button.", "explanation": "You must not wait and see. When your vehicle will not move at a crossing, use the push-button crossing emergency alarm fitted to the alarm post or similar, so that the train driver is told as soon as possible (Kyosoku Chapter 6 Section 1 item 2(1))."},
+   "vi": {"question": "Xe của bạn bị chết đứng trong nút giao đường tàu, nhưng vì không có tàu đến gần nên bạn chờ xem tình hình một lúc thay vì bấm nút báo sự cố nút giao.", "explanation": "Không được chờ xem tình hình. Khi xe không di chuyển được trong nút giao, hãy dùng nút bấm báo sự cố gắn trên cột chuông cảnh báo để báo cho lái tàu càng sớm càng tốt (Kyosoku Chương 6 Mục 1 điểm 2(1))."},
+   "pt": {"question": "Seu carro não saía do lugar dentro da passagem de nível, mas como nenhum trem se aproximava você esperou um pouco para ver, em vez de apertar o botão de aviso de obstrução.", "explanation": "Não se deve esperar para ver. Quando o veículo não se move na passagem de nível, use o botão de aviso de obstrução instalado no poste do alarme para avisar o maquinista o quanto antes (Kyosoku, Capítulo 6, Seção 1, item 2(1))."}
+  },
+  "trap_type": "SC", "difficulty": 2, "exam_scope": "仮免|本免|外免"
+ }
+]

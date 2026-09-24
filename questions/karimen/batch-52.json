@@ -1,0 +1,134 @@
+[
+ {
+  "id": "K5-5-521",
+  "category": "合図と警音器",
+  "kp": "5-5-1",
+  "group": "N",
+  "source": "教則 第5章第5節1(1)",
+  "question_type": "text",
+  "qf": "QF-5-5-D-NU-01",
+  "question_ja": "徐行や停止をするときの合図は、徐行や停止をしようとする約3秒前に行わなければならない。",
+  "answer": false,
+  "explanation_ja": "約3秒前というのは、同じ方向に進行しながら進路を変えるときの時期です。徐行や停止の合図は、徐行や停止をしようとするときに行います（教則第5章第5節1(1)）。",
+  "i18n": {
+   "zh": {
+    "question": "缓行（徐行）或停止时的打信号（转向灯或手势），必须在想要缓行或停止的大约3秒前进行。",
+    "explanation": "大约3秒前是在同一方向行驶中变更路线时的时期。缓行或停止的打信号，在想要缓行或停止时进行（教则第5章第5节1(1)）。"
+   },
+   "en": {
+    "question": "The signal (by indicator or hand) for proceeding slowly (徐行) or stopping must be given about 3 seconds before you do so.",
+    "explanation": "About 3 seconds before is the timing for changing lanes while travelling in the same direction. The signal for proceeding slowly or stopping is given at the moment you are about to do it (Kyosoku Chapter 5 Section 5 item 1(1))."
+   },
+   "vi": {
+    "question": "Việc báo hiệu (bằng xi nhan hoặc tay) khi lưu thông chậm (徐行) hoặc dừng lại phải được thực hiện khoảng 3 giây trước khi làm việc đó.",
+    "explanation": "Khoảng 3 giây trước là mốc dành cho việc chuyển làn khi vẫn đi theo cùng một hướng. Báo hiệu lưu thông chậm hoặc dừng được thực hiện ngay lúc sắp làm việc đó (Kyosoku Chương 5 Mục 5 điểm 1(1))."
+   },
+   "pt": {
+    "question": "O sinal (com seta ou mão) para prosseguir lentamente (徐行) ou parar deve ser feito cerca de 3 segundos antes de fazê-lo.",
+    "explanation": "Cerca de 3 segundos antes é o momento da mudança de faixa quando se segue na mesma direção. O sinal para prosseguir lentamente ou parar é feito no instante em que se vai fazê-lo (Kyosoku, Capítulo 5, Seção 5, item 1(1))."
+   }
+  },
+  "trap_type": "NU",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-5-522",
+  "category": "合図と警音器",
+  "kp": "5-5-1",
+  "group": "N",
+  "source": "教則 第5章第5節1(1)",
+  "question_type": "text",
+  "qf": "QF-5-5-D-NU-02",
+  "question_ja": "同じ方向に進行しながら進路を変えようとするときの合図は、進路を変えようとする地点から30メートル手前で行わなければならない。",
+  "answer": false,
+  "explanation_ja": "30メートル手前というのは、右左折や転回のときの時期です。同じ方向に進行しながらの進路変更の合図は、進路を変えようとする約3秒前に行います（教則第5章第5節1(1)）。",
+  "i18n": {
+   "zh": {
+    "question": "在同一方向行驶中想要变更路线时的打信号（转向灯或手势），必须在距想要变更路线的地点30米近前进行。",
+    "explanation": "30米近前是右拐弯、左拐弯或掉头时的时期。在同一方向行驶中变更路线的打信号，在想要变更路线的大约3秒前进行（教则第5章第5节1(1)）。"
+   },
+   "en": {
+    "question": "The signal (by indicator or hand) for changing lanes while travelling in the same direction must be given 30 metres before the point where you change.",
+    "explanation": "Thirty metres before is the timing for turning right or left and for a U-turn. The signal for changing lanes while travelling in the same direction is given about 3 seconds before the change (Kyosoku Chapter 5 Section 5 item 1(1))."
+   },
+   "vi": {
+    "question": "Việc báo hiệu (bằng xi nhan hoặc tay) khi chuyển làn trong lúc vẫn đi theo cùng một hướng phải được thực hiện ở điểm cách nơi chuyển làn 30 mét.",
+    "explanation": "Mốc 30 mét là dành cho rẽ phải, rẽ trái và quay đầu. Báo hiệu chuyển làn khi vẫn đi cùng một hướng được thực hiện khoảng 3 giây trước khi chuyển (Kyosoku Chương 5 Mục 5 điểm 1(1))."
+   },
+   "pt": {
+    "question": "O sinal (com seta ou mão) para mudar de faixa seguindo na mesma direção deve ser feito 30 metros antes do ponto da mudança.",
+    "explanation": "Trinta metros antes é o momento da conversão à direita ou à esquerda e do retorno. O sinal de mudança de faixa seguindo na mesma direção é feito cerca de 3 segundos antes da mudança (Kyosoku, Capítulo 5, Seção 5, item 1(1))."
+   }
+  },
+  "trap_type": "NU",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-5-523",
+  "category": "合図と警音器",
+  "kp": "5-5-1",
+  "group": "N",
+  "source": "教則 第5章第5節1(1)",
+  "question_type": "text",
+  "qf": "QF-5-5-D-NU-04",
+  "question_ja": "交差点で右折や左折をするときの合図は、その交差点に入る約3秒前に行えばよい。",
+  "answer": false,
+  "explanation_ja": "約3秒前は、同じ方向に進行しながら進路を変えるときの時期です。右左折の合図は、その交差点から30メートル手前の地点に達したときに行います（教則第5章第5節1(1)）。",
+  "i18n": {
+   "zh": {
+    "question": "在交叉路口右拐弯或左拐弯时的打信号（转向灯或手势），在进入该交叉路口的大约3秒前进行即可。",
+    "explanation": "大约3秒前是在同一方向行驶中变更路线时的时期。右拐弯、左拐弯的打信号，在到达距该交叉路口30米近前的地点时进行（教则第5章第5节1(1)）。"
+   },
+   "en": {
+    "question": "For a right or left turn at an intersection it is enough to signal (by indicator or hand) about 3 seconds before entering that intersection.",
+    "explanation": "About 3 seconds before is the timing for changing lanes while travelling in the same direction. The signal for a right or left turn is given on reaching the point 30 metres before that intersection (Kyosoku Chapter 5 Section 5 item 1(1))."
+   },
+   "vi": {
+    "question": "Khi rẽ phải hoặc rẽ trái tại nút giao thông, chỉ cần báo hiệu (bằng xi nhan hoặc tay) khoảng 3 giây trước khi vào nút giao đó là đủ.",
+    "explanation": "Khoảng 3 giây trước là mốc dành cho việc chuyển làn khi vẫn đi cùng một hướng. Báo hiệu rẽ phải hoặc rẽ trái được thực hiện khi tới điểm cách nút giao đó 30 mét (Kyosoku Chương 5 Mục 5 điểm 1(1))."
+   },
+   "pt": {
+    "question": "Para a conversão à direita ou à esquerda num cruzamento, basta sinalizar (com seta ou mão) cerca de 3 segundos antes de entrar nesse cruzamento.",
+    "explanation": "Cerca de 3 segundos antes é o momento da mudança de faixa quando se segue na mesma direção. O sinal de conversão à direita ou à esquerda é feito ao chegar ao ponto 30 metros antes desse cruzamento (Kyosoku, Capítulo 5, Seção 5, item 1(1))."
+   }
+  },
+  "trap_type": "NU",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-5-524",
+  "category": "合図と警音器",
+  "kp": "5-5-1",
+  "group": "N",
+  "source": "教則 第5章第5節1(1)",
+  "question_type": "text",
+  "qf": "QF-5-5-D-SW-04",
+  "question_ja": "転回をするときの合図は、転回しようとする約3秒前に行う。",
+  "answer": false,
+  "explanation_ja": "約3秒前は、同じ方向に進行しながら進路を変えるときの時期です。転回の合図は、転回しようとする地点から30メートル手前の地点に達したときに行います（教則第5章第5節1(1)）。",
+  "i18n": {
+   "zh": {
+    "question": "掉头时的打信号（转向灯或手势），在想要掉头的大约3秒前进行。",
+    "explanation": "大约3秒前是在同一方向行驶中变更路线时的时期。掉头的打信号，在到达距想要掉头的地点30米近前的地点时进行（教则第5章第5节1(1)）。"
+   },
+   "en": {
+    "question": "The signal (by indicator or hand) for a U-turn is given about 3 seconds before the turn.",
+    "explanation": "About 3 seconds before is the timing for changing lanes while travelling in the same direction. The signal for a U-turn is given on reaching the point 30 metres before the place where you intend to turn (Kyosoku Chapter 5 Section 5 item 1(1))."
+   },
+   "vi": {
+    "question": "Việc báo hiệu (bằng xi nhan hoặc tay) khi quay đầu được thực hiện khoảng 3 giây trước khi quay.",
+    "explanation": "Khoảng 3 giây trước là mốc dành cho việc chuyển làn khi vẫn đi cùng một hướng. Báo hiệu quay đầu được thực hiện khi tới điểm cách nơi định quay đầu 30 mét (Kyosoku Chương 5 Mục 5 điểm 1(1))."
+   },
+   "pt": {
+    "question": "O sinal (com seta ou mão) para o retorno é feito cerca de 3 segundos antes de retornar.",
+    "explanation": "Cerca de 3 segundos antes é o momento da mudança de faixa quando se segue na mesma direção. O sinal de retorno é feito ao chegar ao ponto 30 metros antes do lugar onde se pretende retornar (Kyosoku, Capítulo 5, Seção 5, item 1(1))."
+   }
+  },
+  "trap_type": "SW",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ }
+]

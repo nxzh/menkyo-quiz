@@ -1,782 +1,569 @@
 [
-  {
-    "id": "KS-061",
-    "category": "警戒標識",
-    "kp": "付3-1-171",
-    "group": "D",
-    "source": "教則 付表3（1）171",
-    "question_type": "sign",
-    "qf": "QF-付3-1-171-A-N-01",
-    "image": {
-      "sign_no": "201-A",
-      "file": "201-A.svg",
-      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
-      "file_verified": true
-    },
-    "question_ja": "この標識は、前方に十字形の道路交差点があることを知らせる警戒標識である。",
-    "answer": true,
-    "explanation_ja": "教則付表3（1）171のとおりです。警戒標識は、危険や注意すべき状況を前もって知らせるものです。",
-    "i18n": {
-      "zh": {
-        "question": "这个标识（立牌）是告知前方有十字形道路交叉路口的警戒标识。",
-        "explanation": "符合教则附表3（1）171的规定。警戒标识用于事先告知危险或需要注意的状况。"
-      },
-      "en": {
-        "question": "This sign is a warning sign telling you that there is a crossroads ahead.",
-        "explanation": "This is Kyosoku Appendix 3(1) item 171. A warning sign gives advance notice of a danger or a situation calling for care."
-      },
-      "vi": {
-        "question": "Biển báo giao thông này là biển báo cảnh báo cho biết phía trước có nút giao hình chữ thập.",
-        "explanation": "Đúng theo Kyosoku Phụ lục 3(1) mục 171. Biển báo cảnh báo báo trước về nguy hiểm hoặc tình huống cần chú ý."
-      },
-      "pt": {
-        "question": "Esta sinalização é de advertência e informa que há um cruzamento em cruz à frente.",
-        "explanation": "É o Kyosoku, Anexo 3(1), item 171. A sinalização de advertência avisa com antecedência sobre perigo ou situação que exige cuidado."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免"
+ {
+  "id": "K5-3-321",
+  "category": "歩行者の保護",
+  "kp": "5-3-2",
+  "group": "K",
+  "source": "教則 第5章第3節2(4) / 道交法第38条第3項",
+  "question_type": "text",
+  "qf": "QF-5-3-A-N-04",
+  "question_ja": "横断歩道や自転車横断帯と、その手前から30メートル以内の場所では、ほかの車を追い越すことも追い抜くこともしてはならない。",
+  "answer": true,
+  "explanation_ja": "教則第5章第3節2(4)のとおりです。進路を変えて前に出る追越しだけでなく、進路を変えずに前に出る追抜きも禁止されています（道交法第38条第3項）。",
+  "i18n": {
+   "zh": {
+    "question": "在人行横道、自行车横穿带及其近前30米以内的场所，既不得超车，也不得超过（不变道）其他车辆。",
+    "explanation": "符合教则第5章第3节2(4)的规定。不仅禁止变更路线驶到前面的超车，也禁止不变更路线驶到前面的超过（道交法第38条第3项）。"
+   },
+   "en": {
+    "question": "On a pedestrian crossing or bicycle crossing and within 30 metres before it, a driver must neither overtake another vehicle nor pass it without changing lanes.",
+    "explanation": "This is Kyosoku Chapter 5 Section 3 item 2(4). Not only overtaking, which means changing course to move ahead, but also passing without changing lanes is forbidden (Road Traffic Act Article 38 paragraph 3)."
+   },
+   "vi": {
+    "question": "Trên vạch sang đường cho người đi bộ hoặc vạch sang đường cho xe đạp và trong phạm vi 30 mét trước đó, người lái không được vượt xe khác, cũng không được vượt lên (không chuyển làn).",
+    "explanation": "Đúng theo Kyosoku Chương 5 Mục 3 điểm 2(4). Không chỉ vượt xe, tức là đổi hướng đi để tiến lên trước, mà cả vượt lên không chuyển làn cũng bị cấm (Luật Giao thông đường bộ Điều 38 khoản 3)."
+   },
+   "pt": {
+    "question": "Sobre a faixa de pedestres ou a faixa para ciclistas e nos 30 metros que a antecedem, o condutor não deve ultrapassar outro veículo nem passar à frente dele sem mudar de faixa.",
+    "explanation": "É o Kyosoku, Capítulo 5, Seção 3, item 2(4). Não só a ultrapassagem, que implica mudar de trajetória para seguir à frente, mas também passar à frente sem mudar de faixa é proibido (Lei de Trânsito, Artigo 38, parágrafo 3)."
+   }
   },
-  {
-    "id": "KS-062",
-    "category": "警戒標識",
-    "kp": "付3-1-173",
-    "group": "D",
-    "source": "教則 付表3（1）173",
-    "question_type": "sign",
-    "qf": "QF-付3-1-173-A-N-01",
-    "image": {
-      "sign_no": "201-C",
-      "file": "201-C.svg",
-      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
-      "file_verified": true
-    },
-    "question_ja": "この標識は、前方に丁字形の道路交差点があることを知らせる警戒標識である。",
-    "answer": true,
-    "explanation_ja": "教則付表3（1）173のとおりです。警戒標識は、危険や注意すべき状況を前もって知らせるものです。",
-    "i18n": {
-      "zh": {
-        "question": "这个标识（立牌）是告知前方有丁字形道路交叉路口的警戒标识。",
-        "explanation": "符合教则附表3（1）173的规定。警戒标识用于事先告知危险或需要注意的状况。"
-      },
-      "en": {
-        "question": "This sign is a warning sign telling you that there is a T-junction ahead.",
-        "explanation": "This is Kyosoku Appendix 3(1) item 173. A warning sign gives advance notice of a danger or a situation calling for care."
-      },
-      "vi": {
-        "question": "Biển báo giao thông này là biển báo cảnh báo cho biết phía trước có nút giao hình chữ T.",
-        "explanation": "Đúng theo Kyosoku Phụ lục 3(1) mục 173. Biển báo cảnh báo báo trước về nguy hiểm hoặc tình huống cần chú ý."
-      },
-      "pt": {
-        "question": "Esta sinalização é de advertência e informa que há um entroncamento em T à frente.",
-        "explanation": "É o Kyosoku, Anexo 3(1), item 173. A sinalização de advertência avisa com antecedência sobre perigo ou situação que exige cuidado."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免"
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "KM-301",
+  "category": "標示",
+  "kp": "5-3-2",
+  "group": "K",
+  "source": "教則 第5章第3節2(2) / 付表3（2）38",
+  "question_type": "marking",
+  "qf": "QF-5-3-A-N-20",
+  "image": {
+   "sign_no": "210",
+   "file": "M210.svg",
+   "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+   "file_verified": true
   },
-  {
-    "id": "KS-063",
-    "category": "警戒標識",
-    "kp": "付3-1-175",
-    "group": "D",
-    "source": "教則 付表3（1）175",
-    "question_type": "sign",
-    "qf": "QF-付3-1-175-A-N-01",
-    "image": {
-      "sign_no": "201-2",
-      "file": "201-2.svg",
-      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
-      "file_verified": true
-    },
-    "question_ja": "この標識は、前方にロータリーがあることを知らせる警戒標識である。",
-    "answer": true,
-    "explanation_ja": "教則付表3（1）175のとおりです。警戒標識は、危険や注意すべき状況を前もって知らせるものです。",
-    "i18n": {
-      "zh": {
-        "question": "这个标识（立牌）是告知前方有环岛的警戒标识。",
-        "explanation": "符合教则附表3（1）175的规定。警戒标识用于事先告知危险或需要注意的状况。"
-      },
-      "en": {
-        "question": "This sign is a warning sign telling you that there is a rotary ahead.",
-        "explanation": "This is Kyosoku Appendix 3(1) item 175. A warning sign gives advance notice of a danger or a situation calling for care."
-      },
-      "vi": {
-        "question": "Biển báo giao thông này là biển báo cảnh báo cho biết phía trước có một vòng xoay.",
-        "explanation": "Đúng theo Kyosoku Phụ lục 3(1) mục 175. Biển báo cảnh báo báo trước về nguy hiểm hoặc tình huống cần chú ý."
-      },
-      "pt": {
-        "question": "Esta sinalização é de advertência e informa que há uma rotatória antiga à frente.",
-        "explanation": "É o Kyosoku, Anexo 3(1), item 175. A sinalização de advertência avisa com antecedência sobre perigo ou situação que exige cuidado."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免"
+  "question_ja": "この標示があるところに近づいたとき、横断する人や自転車がいないことが明らかであれば、車はそのままの速度で進むことができる。",
+  "answer": true,
+  "explanation_ja": "この標示は、前方に横断歩道や自転車横断帯があることの予告です（教則付表3（2）38）。横断する人や自転車がいないことが明らかな場合のほかは、その手前で停止できるように速度を落とさなければなりません（教則第5章第3節2(2)）。",
+  "i18n": {
+   "zh": {
+    "question": "接近有这个标示（路面）的地方时，如果明显没有横穿的人或自行车，车辆可以按原速度前进。",
+    "explanation": "这个标示预告前方有人行横道或自行车横穿带（教则附表3（2）38）。除了明显没有横穿的人或自行车的情况以外，必须减速到能在其近前停住（教则第5章第3节2(2)）。"
+   },
+   "en": {
+    "question": "When approaching a place where this road marking is laid, a vehicle may go on at the same speed if it is clear that no pedestrian or bicycle is crossing.",
+    "explanation": "This marking gives advance warning that there is a pedestrian crossing or bicycle crossing ahead (Kyosoku Appendix 3(2) item 38). Except where it is clear that no pedestrian or bicycle is crossing, the driver must slow down enough to stop just before it (Kyosoku Chapter 5 Section 3 item 2(2))."
+   },
+   "vi": {
+    "question": "Khi đến gần nơi có vạch kẻ đường (kí hiệu trên mặt đường) này, nếu rõ ràng là không có người đi bộ hay xe đạp nào băng ngang thì xe có thể đi tiếp với nguyên tốc độ.",
+    "explanation": "Vạch này báo trước rằng phía trước có vạch sang đường cho người đi bộ hoặc vạch sang đường cho xe đạp (Kyosoku Phụ lục 3(2) mục 38). Trừ khi rõ ràng là không có người đi bộ hay xe đạp nào băng ngang, người lái phải giảm tốc độ đến mức có thể dừng ngay trước đó (Kyosoku Chương 5 Mục 3 điểm 2(2))."
+   },
+   "pt": {
+    "question": "Ao se aproximar de um local onde está pintada esta sinalização horizontal, o veículo pode seguir na mesma velocidade se estiver claro que nenhum pedestre ou bicicleta atravessa.",
+    "explanation": "Esta marcação avisa de antemão que há uma faixa de pedestres ou uma faixa para ciclistas adiante (Kyosoku, Anexo 3(2), item 38). Salvo quando esteja claro que nenhum pedestre ou bicicleta atravessa, o condutor deve reduzir o bastante para parar logo antes dela (Kyosoku, Capítulo 5, Seção 3, item 2(2))."
+   }
   },
-  {
-    "id": "KS-064",
-    "category": "警戒標識",
-    "kp": "付3-1-185",
-    "group": "D",
-    "source": "教則 付表3（1）185",
-    "question_type": "sign",
-    "qf": "QF-付3-1-185-A-N-01",
-    "image": {
-      "sign_no": "209-2",
-      "file": "209-2.svg",
-      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
-      "file_verified": true
-    },
-    "question_ja": "この標識は、前方に落石のおそれのある場所があることを知らせる警戒標識である。",
-    "answer": true,
-    "explanation_ja": "教則付表3（1）185のとおりです。警戒標識は、危険や注意すべき状況を前もって知らせるものです。",
-    "i18n": {
-      "zh": {
-        "question": "这个标识（立牌）是告知前方有可能落石的场所的警戒标识。",
-        "explanation": "符合教则附表3（1）185的规定。警戒标识用于事先告知危险或需要注意的状况。"
-      },
-      "en": {
-        "question": "This sign is a warning sign telling you that there is a risk of falling rocks ahead.",
-        "explanation": "This is Kyosoku Appendix 3(1) item 185. A warning sign gives advance notice of a danger or a situation calling for care."
-      },
-      "vi": {
-        "question": "Biển báo giao thông này là biển báo cảnh báo cho biết phía trước có nơi có nguy cơ đá rơi.",
-        "explanation": "Đúng theo Kyosoku Phụ lục 3(1) mục 185. Biển báo cảnh báo báo trước về nguy hiểm hoặc tình huống cần chú ý."
-      },
-      "pt": {
-        "question": "Esta sinalização é de advertência e informa que há risco de queda de pedras à frente.",
-        "explanation": "É o Kyosoku, Anexo 3(1), item 185. A sinalização de advertência avisa com antecedência sobre perigo ou situação que exige cuidado."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免"
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免"
+ },
+ {
+  "id": "K5-3-322",
+  "category": "歩行者の保護",
+  "kp": "5-3-2",
+  "group": "K",
+  "source": "教則 第5章第3節2(1) / 道交法第38条の2",
+  "question_type": "text",
+  "qf": "QF-5-3-A-N-07",
+  "question_ja": "車を運転して交差点やその付近にさしかかったとき、横断歩道がないところを歩行者が渡っていたら、運転者はその歩行者の通行を妨げてはならない。",
+  "answer": true,
+  "explanation_ja": "教則第5章第3節2(1)のとおりです。横断歩道がない場所でも、横断している歩行者が優先されます（道交法第38条の2）。",
+  "i18n": {
+   "zh": {
+    "question": "驾驶车辆行至交叉路口或其附近时，如果有步行者正在没有人行横道的地方横穿，驾驶员不得妨碍该步行者通行。",
+    "explanation": "符合教则第5章第3节2(1)的规定。即使在没有人行横道的场所，正在横穿的步行者也优先（道交法第38条之2）。"
+   },
+   "en": {
+    "question": "When you are driving and come up to an intersection or its vicinity, if a pedestrian is crossing at a place where there is no pedestrian crossing, the driver must not obstruct the progress of that pedestrian.",
+    "explanation": "This is Kyosoku Chapter 5 Section 3 item 2(1). Even where there is no pedestrian crossing, a pedestrian who is crossing has priority (Road Traffic Act Article 38-2)."
+   },
+   "vi": {
+    "question": "Khi lái xe đến nút giao thông hoặc gần đó, nếu có người đi bộ đang băng ngang ở nơi không có vạch sang đường cho người đi bộ, người lái xe không được cản trở người đó lưu thông.",
+    "explanation": "Đúng theo Kyosoku Chương 5 Mục 3 điểm 2(1). Ngay cả ở nơi không có vạch sang đường, người đi bộ đang băng ngang vẫn được ưu tiên (Luật Giao thông đường bộ Điều 38-2)."
+   },
+   "pt": {
+    "question": "Ao dirigir e chegar a um cruzamento ou às suas imediações, se um pedestre estiver atravessando num local sem faixa de pedestres, o condutor não deve obstruir a passagem desse pedestre.",
+    "explanation": "É o Kyosoku, Capítulo 5, Seção 3, item 2(1). Mesmo onde não há faixa de pedestres, o pedestre que atravessa tem prioridade (Lei de Trânsito, Artigo 38-2)."
+   }
   },
-  {
-    "id": "KS-065",
-    "category": "警戒標識",
-    "kp": "付3-1-188",
-    "group": "D",
-    "source": "教則 付表3（1）188",
-    "question_type": "sign",
-    "qf": "QF-付3-1-188-A-N-01",
-    "image": {
-      "sign_no": "211",
-      "file": "211.svg",
-      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
-      "file_verified": true
-    },
-    "question_ja": "この標識は、前方に車線数が減少する場所があることを知らせる警戒標識である。",
-    "answer": true,
-    "explanation_ja": "教則付表3（1）188のとおりです。警戒標識は、危険や注意すべき状況を前もって知らせるものです。",
-    "i18n": {
-      "zh": {
-        "question": "这个标识（立牌）是告知前方有车道数减少的地点的警戒标识。",
-        "explanation": "符合教则附表3（1）188的规定。警戒标识用于事先告知危险或需要注意的状况。"
-      },
-      "en": {
-        "question": "This sign is a warning sign telling you that there is a reduction in the number of lanes ahead.",
-        "explanation": "This is Kyosoku Appendix 3(1) item 188. A warning sign gives advance notice of a danger or a situation calling for care."
-      },
-      "vi": {
-        "question": "Biển báo giao thông này là biển báo cảnh báo cho biết phía trước có đoạn giảm số làn.",
-        "explanation": "Đúng theo Kyosoku Phụ lục 3(1) mục 188. Biển báo cảnh báo báo trước về nguy hiểm hoặc tình huống cần chú ý."
-      },
-      "pt": {
-        "question": "Esta sinalização é de advertência e informa que há redução do número de faixas à frente.",
-        "explanation": "É o Kyosoku, Anexo 3(1), item 188. A sinalização de advertência avisa com antecedência sobre perigo ou situação que exige cuidado."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免"
+  "trap_type": "N",
+  "difficulty": 1,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-3-323",
+  "category": "歩行者の保護",
+  "kp": "5-3-2",
+  "group": "K",
+  "source": "教則 第5章第3節2(1) / 道交法第38条の2",
+  "question_type": "text",
+  "qf": "QF-5-3-D-EX-04",
+  "question_ja": "横断歩道のない交差点の近くを歩行者が横断しているときは、車はその手前で一時停止をしなければならないと決められている。",
+  "answer": false,
+  "explanation_ja": "決められているのは、その歩行者の通行を妨げてはいけないということです。一時停止までは義務づけられていないので、速度を落とすなどして歩行者に道を譲れば足ります（教則第5章第3節2(1)、道交法第38条の2）。",
+  "i18n": {
+   "zh": {
+    "question": "规定为：在没有人行横道的交叉路口附近有步行者正在横穿时，车辆必须在其近前暂停（一時停止）。",
+    "explanation": "规定的内容是不得妨碍该步行者通行。并没有规定必须做到暂停，只要减速等把道路让给步行者即可（教则第5章第3节2(1)、道交法第38条之2）。"
+   },
+   "en": {
+    "question": "The rule is said to be that, where a pedestrian is crossing near an intersection without a pedestrian crossing, the vehicle must come to a complete stop (一時停止) before reaching them.",
+    "explanation": "What the rule actually says is that the driver must not obstruct that pedestrian's progress. A complete stop is not required, so slowing down and giving way to the pedestrian is enough (Kyosoku Chapter 5 Section 3 item 2(1); Road Traffic Act Article 38-2)."
+   },
+   "vi": {
+    "question": "Người ta nói rằng khi có người đi bộ đang băng ngang gần nút giao thông không có vạch sang đường, xe bắt buộc phải tạm dừng (一時停止) trước khi tới chỗ người đó.",
+    "explanation": "Điều thực sự được quy định là không được cản trở người đi bộ đó lưu thông. Không bắt buộc phải tạm dừng, nên chỉ cần giảm tốc độ và nhường đường cho người đi bộ là đủ (Kyosoku Chương 5 Mục 3 điểm 2(1); Luật Giao thông đường bộ Điều 38-2)."
+   },
+   "pt": {
+    "question": "Diz-se que, quando um pedestre atravessa perto de um cruzamento sem faixa de pedestres, o veículo é obrigado a fazer parada obrigatória (一時停止) antes de chegar a ele.",
+    "explanation": "O que a regra realmente diz é que o condutor não deve obstruir a passagem desse pedestre. A parada obrigatória não é exigida, bastando reduzir a velocidade e dar passagem ao pedestre (Kyosoku, Capítulo 5, Seção 3, item 2(1); Lei de Trânsito, Artigo 38-2)."
+   }
   },
-  {
-    "id": "KS-066",
-    "category": "警戒標識",
-    "kp": "付3-1-190",
-    "group": "D",
-    "source": "教則 付表3（1）190",
-    "question_type": "sign",
-    "qf": "QF-付3-1-190-A-N-01",
-    "image": {
-      "sign_no": "212-2",
-      "file": "212-2.svg",
-      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
-      "file_verified": true
-    },
-    "question_ja": "この標識は、前方に二方向交通となる場所があることを知らせる警戒標識である。",
-    "answer": true,
-    "explanation_ja": "教則付表3（1）190のとおりです。警戒標識は、危険や注意すべき状況を前もって知らせるものです。",
-    "i18n": {
-      "zh": {
-        "question": "这个标识（立牌）是告知前方有变为双向交通的地点的警戒标识。",
-        "explanation": "符合教则附表3（1）190的规定。警戒标识用于事先告知危险或需要注意的状况。"
-      },
-      "en": {
-        "question": "This sign is a warning sign telling you that there is two-way traffic ahead.",
-        "explanation": "This is Kyosoku Appendix 3(1) item 190. A warning sign gives advance notice of a danger or a situation calling for care."
-      },
-      "vi": {
-        "question": "Biển báo giao thông này là biển báo cảnh báo cho biết phía trước có đoạn có xe hai chiều.",
-        "explanation": "Đúng theo Kyosoku Phụ lục 3(1) mục 190. Biển báo cảnh báo báo trước về nguy hiểm hoặc tình huống cần chú ý."
-      },
-      "pt": {
-        "question": "Esta sinalização é de advertência e informa que há trânsito nos dois sentidos à frente.",
-        "explanation": "É o Kyosoku, Anexo 3(1), item 190. A sinalização de advertência avisa com antecedência sobre perigo ou situação que exige cuidado."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免"
+  "trap_type": "EX",
+  "difficulty": 3,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-3-324",
+  "category": "歩行者の保護",
+  "kp": "5-3-2",
+  "group": "K",
+  "source": "教則 第5章第3節2(1) / 道交法第38条の2",
+  "question_type": "text",
+  "qf": "QF-5-3-D-SC-01",
+  "question_ja": "横断歩道のない交差点で道路を横断していた歩行者が、こちらの車に気づいて道路の中ほどで立ち止まったので、そのままその前を通り抜けた。",
+  "answer": false,
+  "explanation_ja": "立ち止まったのは車を避けるためで、横断はまだ続いています。その前を通り抜ける行為は、歩行者の通行を妨げることになります（教則第5章第3節2(1)、道交法第38条の2）。",
+  "i18n": {
+   "zh": {
+    "question": "在没有人行横道的交叉路口横穿道路的步行者，因察觉到己方车辆而在道路中间停住了，于是就那样从其前面穿了过去。",
+    "explanation": "停住是为了躲避车辆，横穿仍在继续。从其前面穿过去的行为，构成妨碍步行者通行（教则第5章第3节2(1)、道交法第38条之2）。"
+   },
+   "en": {
+    "question": "A pedestrian crossing the road at an intersection without a pedestrian crossing noticed the driver's car and stopped in the middle of the road, so the driver went straight on past in front of them.",
+    "explanation": "The pedestrian stopped in order to avoid the car, and the crossing is still under way. Going past in front of them amounts to obstructing the pedestrian's progress (Kyosoku Chapter 5 Section 3 item 2(1); Road Traffic Act Article 38-2)."
+   },
+   "vi": {
+    "question": "Người đi bộ đang băng ngang đường tại nút giao thông không có vạch sang đường đã nhận ra xe của người lái và dừng lại ở giữa đường, nên người lái cứ thế đi qua trước mặt người đó.",
+    "explanation": "Người đi bộ dừng lại là để tránh xe, và việc băng ngang vẫn đang tiếp diễn. Đi qua trước mặt người đó chính là cản trở người đi bộ lưu thông (Kyosoku Chương 5 Mục 3 điểm 2(1); Luật Giao thông đường bộ Điều 38-2)."
+   },
+   "pt": {
+    "question": "Um pedestre que atravessava a via num cruzamento sem faixa de pedestres percebeu o carro do condutor e parou no meio da pista, então o condutor seguiu em frente e passou à frente dele.",
+    "explanation": "O pedestre parou para evitar o carro, e a travessia continua em curso. Passar à frente dele equivale a obstruir a passagem do pedestre (Kyosoku, Capítulo 5, Seção 3, item 2(1); Lei de Trânsito, Artigo 38-2)."
+   }
   },
-  {
-    "id": "KS-067",
-    "category": "警戒標識",
-    "kp": "付3-1-192",
-    "group": "D",
-    "source": "教則 付表3（1）192",
-    "question_type": "sign",
-    "qf": "QF-付3-1-192-A-N-01",
-    "image": {
-      "sign_no": "212-4",
-      "file": "212-4.svg",
-      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
-      "file_verified": true
-    },
-    "question_ja": "この標識は、前方に急な下り坂があることを知らせる警戒標識である。",
-    "answer": true,
-    "explanation_ja": "教則付表3（1）192のとおりです。警戒標識は、危険や注意すべき状況を前もって知らせるものです。",
-    "i18n": {
-      "zh": {
-        "question": "这个标识（立牌）是告知前方有陡下坡的警戒标识。",
-        "explanation": "符合教则附表3（1）192的规定。警戒标识用于事先告知危险或需要注意的状况。"
-      },
-      "en": {
-        "question": "This sign is a warning sign telling you that there is a steep descent ahead.",
-        "explanation": "This is Kyosoku Appendix 3(1) item 192. A warning sign gives advance notice of a danger or a situation calling for care."
-      },
-      "vi": {
-        "question": "Biển báo giao thông này là biển báo cảnh báo cho biết phía trước có dốc xuống gấp.",
-        "explanation": "Đúng theo Kyosoku Phụ lục 3(1) mục 192. Biển báo cảnh báo báo trước về nguy hiểm hoặc tình huống cần chú ý."
-      },
-      "pt": {
-        "question": "Esta sinalização é de advertência e informa que há uma descida íngreme à frente.",
-        "explanation": "É o Kyosoku, Anexo 3(1), item 192. A sinalização de advertência avisa com antecedência sobre perigo ou situação que exige cuidado."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免"
+  "trap_type": "SC",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-3-325",
+  "category": "歩行者の保護",
+  "kp": "5-3-4",
+  "group": "K",
+  "source": "教則 第5章第3節4(1) / 2(1)",
+  "question_type": "text",
+  "qf": "QF-5-3-A-N-11",
+  "question_ja": "横断歩道のない交差点で、独りで歩いている子供が道路を横断しようとしていたので、一時停止をして安全に渡れるようにした。",
+  "answer": true,
+  "explanation_ja": "教則第5章第3節4(1)のとおりです。子供が独りで歩いているときは、一時停止か徐行をして、安全に通れるようにしなければなりません。",
+  "i18n": {
+   "zh": {
+    "question": "在没有人行横道的交叉路口，独自行走的儿童正要横穿道路，于是暂停（一時停止）让其安全通过。",
+    "explanation": "符合教则第5章第3节4(1)的规定。儿童独自行走时，必须暂停或缓行（徐行），让其能够安全通行。"
+   },
+   "en": {
+    "question": "At an intersection without a pedestrian crossing, a child walking alone was about to cross the road, so the driver came to a complete stop (一時停止) and let the child cross safely.",
+    "explanation": "This is Kyosoku Chapter 5 Section 3 item 4(1). When a child is walking alone, the driver must come to a complete stop or proceed slowly (徐行) so that the child can pass safely."
+   },
+   "vi": {
+    "question": "Tại nút giao thông không có vạch sang đường cho người đi bộ, một đứa trẻ đi một mình đang định băng ngang đường, nên người lái đã tạm dừng (一時停止) để đứa trẻ qua đường an toàn.",
+    "explanation": "Đúng theo Kyosoku Chương 5 Mục 3 điểm 4(1). Khi trẻ em đi một mình, người lái phải tạm dừng hoặc lưu thông chậm (徐行) để các em đi qua an toàn."
+   },
+   "pt": {
+    "question": "Num cruzamento sem faixa de pedestres, uma criança que andava sozinha estava prestes a atravessar a via, então o condutor fez parada obrigatória (一時停止) e deixou-a atravessar em segurança.",
+    "explanation": "É o Kyosoku, Capítulo 5, Seção 3, item 4(1). Quando uma criança anda sozinha, o condutor deve fazer parada obrigatória ou prosseguir lentamente (徐行) para que ela possa passar em segurança."
+   }
   },
-  {
-    "id": "KS-068",
-    "category": "警戒標識",
-    "kp": "付3-1-193",
-    "group": "D",
-    "source": "教則 付表3（1）193",
-    "question_type": "sign",
-    "qf": "QF-付3-1-193-A-N-01",
-    "image": {
-      "sign_no": "213",
-      "file": "213.svg",
-      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
-      "file_verified": true
-    },
-    "question_ja": "この標識は、前方に道路工事中の場所があることを知らせる警戒標識である。",
-    "answer": true,
-    "explanation_ja": "教則付表3（1）193のとおりです。警戒標識は、危険や注意すべき状況を前もって知らせるものです。",
-    "i18n": {
-      "zh": {
-        "question": "这个标识（立牌）是告知前方有道路施工中的地点的警戒标识。",
-        "explanation": "符合教则附表3（1）193的规定。警戒标识用于事先告知危险或需要注意的状况。"
-      },
-      "en": {
-        "question": "This sign is a warning sign telling you that there is road works ahead.",
-        "explanation": "This is Kyosoku Appendix 3(1) item 193. A warning sign gives advance notice of a danger or a situation calling for care."
-      },
-      "vi": {
-        "question": "Biển báo giao thông này là biển báo cảnh báo cho biết phía trước có đoạn đang thi công đường.",
-        "explanation": "Đúng theo Kyosoku Phụ lục 3(1) mục 193. Biển báo cảnh báo báo trước về nguy hiểm hoặc tình huống cần chú ý."
-      },
-      "pt": {
-        "question": "Esta sinalização é de advertência e informa que há obras na via à frente.",
-        "explanation": "É o Kyosoku, Anexo 3(1), item 193. A sinalização de advertência avisa com antecedência sobre perigo ou situação que exige cuidado."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免"
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-3-326",
+  "category": "歩行者の保護",
+  "kp": "5-3-4",
+  "group": "K",
+  "source": "教則 第5章第3節4(1)",
+  "question_type": "text",
+  "qf": "QF-5-3-A-N-18",
+  "question_ja": "子供が独りで歩いている場合には、車は一時停止か徐行をして、その子供が安全に通れるようにしなければならない。",
+  "answer": true,
+  "explanation_ja": "教則第5章第3節4(1)のとおりです。子供は興味をひくものに夢中になって突然路上に飛び出すことがあるので、特に注意します。",
+  "i18n": {
+   "zh": {
+    "question": "儿童独自行走时，车辆必须暂停（一時停止）或缓行（徐行），让该儿童能够安全通行。",
+    "explanation": "符合教则第5章第3节4(1)的规定。儿童可能因专注于感兴趣的事物而突然窜到路上，所以要特别注意。"
+   },
+   "en": {
+    "question": "Where a child is walking alone, the vehicle must come to a complete stop (一時停止) or proceed slowly (徐行) so that the child can pass safely.",
+    "explanation": "This is Kyosoku Chapter 5 Section 3 item 4(1). A child may become absorbed in something interesting and run out into the road suddenly, so take particular care."
+   },
+   "vi": {
+    "question": "Khi một đứa trẻ đi một mình, xe phải tạm dừng (一時停止) hoặc lưu thông chậm (徐行) để đứa trẻ đi qua an toàn.",
+    "explanation": "Đúng theo Kyosoku Chương 5 Mục 3 điểm 4(1). Trẻ em có thể mải mê với thứ gì đó hấp dẫn rồi bất ngờ lao ra đường, nên phải hết sức chú ý."
+   },
+   "pt": {
+    "question": "Quando uma criança anda sozinha, o veículo deve fazer parada obrigatória (一時停止) ou prosseguir lentamente (徐行) para que ela possa passar em segurança.",
+    "explanation": "É o Kyosoku, Capítulo 5, Seção 3, item 4(1). A criança pode ficar absorta em algo que lhe chame a atenção e sair correndo para a via de repente, por isso é preciso atenção especial."
+   }
   },
-  {
-    "id": "KS-069",
-    "category": "警戒標識",
-    "kp": "付3-1-194",
-    "group": "D",
-    "source": "教則 付表3（1）194",
-    "question_type": "sign",
-    "qf": "QF-付3-1-194-A-N-01",
-    "image": {
-      "sign_no": "214",
-      "file": "214.svg",
-      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
-      "file_verified": true
-    },
-    "question_ja": "この標識は、前方に横風の強い場所があることを知らせる警戒標識である。",
-    "answer": true,
-    "explanation_ja": "教則付表3（1）194のとおりです。警戒標識は、危険や注意すべき状況を前もって知らせるものです。",
-    "i18n": {
-      "zh": {
-        "question": "这个标识（立牌）是告知前方有横风强劲的地点的警戒标识。",
-        "explanation": "符合教则附表3（1）194的规定。警戒标识用于事先告知危险或需要注意的状况。"
-      },
-      "en": {
-        "question": "This sign is a warning sign telling you that there is strong crosswinds ahead.",
-        "explanation": "This is Kyosoku Appendix 3(1) item 194. A warning sign gives advance notice of a danger or a situation calling for care."
-      },
-      "vi": {
-        "question": "Biển báo giao thông này là biển báo cảnh báo cho biết phía trước có đoạn có gió ngang mạnh.",
-        "explanation": "Đúng theo Kyosoku Phụ lục 3(1) mục 194. Biển báo cảnh báo báo trước về nguy hiểm hoặc tình huống cần chú ý."
-      },
-      "pt": {
-        "question": "Esta sinalização é de advertência e informa que há vento lateral forte à frente.",
-        "explanation": "É o Kyosoku, Anexo 3(1), item 194. A sinalização de advertência avisa com antecedência sobre perigo ou situação que exige cuidado."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免"
+  "trap_type": "N",
+  "difficulty": 1,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-3-327",
+  "category": "歩行者の保護",
+  "kp": "5-3-4",
+  "group": "K",
+  "source": "教則 第5章第3節4(1)",
+  "question_type": "text",
+  "qf": "QF-5-3-D-AB-01",
+  "question_ja": "独りで歩いている子供を見かけたときは、運転者はどんな場合でも必ずその手前で一時停止をしなければならない。",
+  "answer": false,
+  "explanation_ja": "一時停止か徐行のどちらかをして、子供が安全に通れるようにすれば足ります（教則第5章第3節4(1)）。",
+  "i18n": {
+   "zh": {
+    "question": "看到独自行走的儿童时，驾驶员在任何情况下都必须在其近前暂停（一時停止）。",
+    "explanation": "只要暂停或缓行（徐行）其中之一，让儿童能够安全通行即可（教则第5章第3节4(1)）。"
+   },
+   "en": {
+    "question": "When the driver sees a child walking alone, the driver must always come to a complete stop (一時停止) before reaching the child, whatever the circumstances.",
+    "explanation": "It is enough to do one of the two, come to a complete stop or proceed slowly (徐行), so that the child can pass safely (Kyosoku Chapter 5 Section 3 item 4(1))."
+   },
+   "vi": {
+    "question": "Khi người lái xe nhìn thấy một đứa trẻ đang đi một mình, trong mọi trường hợp người lái đều phải tạm dừng (一時停止) trước khi tới chỗ đó.",
+    "explanation": "Chỉ cần làm một trong hai việc, tạm dừng hoặc lưu thông chậm (徐行), để đứa trẻ đi qua an toàn là đủ (Kyosoku Chương 5 Mục 3 điểm 4(1))."
+   },
+   "pt": {
+    "question": "Quando o condutor vê uma criança andando sozinha, ele deve sempre fazer parada obrigatória (一時停止) antes de chegar até ela, em qualquer circunstância.",
+    "explanation": "Basta fazer uma das duas coisas, parada obrigatória ou prosseguir lentamente (徐行), para que a criança passe em segurança (Kyosoku, Capítulo 5, Seção 3, item 4(1))."
+   }
   },
-  {
-    "id": "KS-070",
-    "category": "警戒標識",
-    "kp": "付3-1-195",
-    "group": "D",
-    "source": "教則 付表3（1）195",
-    "question_type": "sign",
-    "qf": "QF-付3-1-195-A-N-01",
-    "image": {
-      "sign_no": "214-2-しか",
-      "file": "214-2-しか.svg",
-      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
-      "file_verified": true
-    },
-    "question_ja": "この標識は、前方に動物が飛び出すおそれのある場所があることを知らせる警戒標識である。",
-    "answer": true,
-    "explanation_ja": "教則付表3（1）195のとおりです。警戒標識は、危険や注意すべき状況を前もって知らせるものです。",
-    "i18n": {
-      "zh": {
-        "question": "这个标识（立牌）是告知前方有可能有动物窜出的场所的警戒标识。",
-        "explanation": "符合教则附表3（1）195的规定。警戒标识用于事先告知危险或需要注意的状况。"
-      },
-      "en": {
-        "question": "This sign is a warning sign telling you that there is a risk of animals running out ahead.",
-        "explanation": "This is Kyosoku Appendix 3(1) item 195. A warning sign gives advance notice of a danger or a situation calling for care."
-      },
-      "vi": {
-        "question": "Biển báo giao thông này là biển báo cảnh báo cho biết phía trước có nơi động vật có thể lao ra.",
-        "explanation": "Đúng theo Kyosoku Phụ lục 3(1) mục 195. Biển báo cảnh báo báo trước về nguy hiểm hoặc tình huống cần chú ý."
-      },
-      "pt": {
-        "question": "Esta sinalização é de advertência e informa que há risco de animais na pista à frente.",
-        "explanation": "É o Kyosoku, Anexo 3(1), item 195. A sinalização de advertência avisa com antecedência sobre perigo ou situação que exige cuidado."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免"
+  "trap_type": "AB",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-3-328",
+  "category": "歩行者の保護",
+  "kp": "5-3-4",
+  "group": "K",
+  "source": "教則 第5章第3節4(1)",
+  "question_type": "text",
+  "qf": "QF-5-3-D-EI-03",
+  "question_ja": "独りで歩いている子供のそばを通るときでも、1メートル以上の間隔が空いていれば、一時停止も徐行もしなくてよい。",
+  "answer": false,
+  "explanation_ja": "そのような間隔による例外はありません。子供が独りで歩いている場合には、一時停止か徐行をして、安全に通れるようにしなければなりません（教則第5章第3節4(1)）。",
+  "i18n": {
+   "zh": {
+    "question": "即使从独自行走的儿童旁边通过，只要间隔在1米以上，就既不必暂停（一時停止）也不必缓行（徐行）。",
+    "explanation": "并不存在这样以间隔为条件的例外。儿童独自行走时，必须暂停或缓行，让其能够安全通行（教则第5章第3节4(1)）。"
+   },
+   "en": {
+    "question": "Even when passing close to a child walking alone, there is no need to come to a complete stop (一時停止) or to proceed slowly (徐行) as long as there is a gap of 1 metre or more.",
+    "explanation": "There is no such exception based on the size of the gap. Where a child is walking alone, the driver must come to a complete stop or proceed slowly so that the child can pass safely (Kyosoku Chapter 5 Section 3 item 4(1))."
+   },
+   "vi": {
+    "question": "Ngay cả khi đi sát một đứa trẻ đang đi một mình, nếu có khoảng cách từ 1 mét trở lên thì không cần tạm dừng (一時停止) cũng không cần lưu thông chậm (徐行).",
+    "explanation": "Không hề có ngoại lệ nào dựa trên khoảng cách như vậy. Khi trẻ em đi một mình, người lái phải tạm dừng hoặc lưu thông chậm để các em đi qua an toàn (Kyosoku Chương 5 Mục 3 điểm 4(1))."
+   },
+   "pt": {
+    "question": "Mesmo ao passar perto de uma criança que anda sozinha, não é preciso fazer parada obrigatória (一時停止) nem prosseguir lentamente (徐行) desde que haja um espaço de 1 metro ou mais.",
+    "explanation": "Não existe tal exceção baseada no tamanho do espaço. Quando uma criança anda sozinha, o condutor deve fazer parada obrigatória ou prosseguir lentamente para que ela passe em segurança (Kyosoku, Capítulo 5, Seção 3, item 4(1))."
+   }
   },
-  {
-    "id": "KS-071",
-    "category": "警戒標識",
-    "kp": "付3-1-174",
-    "group": "D",
-    "source": "教則 付表3（1）174",
-    "question_type": "sign",
-    "qf": "QF-付3-1-174-D-SS-01",
-    "image": {
-      "sign_no": "201-D",
-      "file": "201-D.svg",
-      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
-      "file_verified": true
-    },
-    "question_ja": "この標識は、前方に十字形の道路交差点があることを知らせている。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則付表3（1）174のこの標識は、前方にY形道路交差点があることを知らせるものです。",
-    "i18n": {
-      "zh": {
-        "question": "这个标识（立牌）告知前方有十字形道路交叉路口。",
-        "explanation": "错误。教则附表3（1）174的这个标识告知前方有Y形道路交叉路口。"
-      },
-      "en": {
-        "question": "This sign tells you that there is a crossroads ahead.",
-        "explanation": "This is wrong. This sign, Kyosoku Appendix 3(1) item 174, tells you that there is a Y-junction ahead."
-      },
-      "vi": {
-        "question": "Biển báo giao thông này cho biết phía trước có nút giao hình chữ thập.",
-        "explanation": "Sai. Biển này, Kyosoku Phụ lục 3(1) mục 174, cho biết phía trước có nút giao hình chữ Y."
-      },
-      "pt": {
-        "question": "Esta sinalização informa que há um cruzamento em cruz à frente.",
-        "explanation": "Está errado. Esta placa, Kyosoku Anexo 3(1) item 174, informa que há um entroncamento em Y à frente."
-      }
-    },
-    "trap_type": "SS",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免"
+  "trap_type": "EI",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-3-329",
+  "category": "歩行者の保護",
+  "kp": "5-3-3",
+  "group": "K",
+  "source": "教則 第5章第3節3",
+  "question_type": "text",
+  "qf": "QF-5-3-A-N-13",
+  "question_ja": "白か黄のつえを持った人や盲導犬を連れた人が歩いているときは、車は一時停止か徐行をして、その人が安全に通れるようにしなければならない。",
+  "answer": true,
+  "explanation_ja": "教則第5章第3節3のとおりです。身体障害者用の車で通行している人がいる場合も同じです。",
+  "i18n": {
+   "zh": {
+    "question": "有手持白色或黄色手杖的人、或带着导盲犬的人在步行时，车辆必须暂停（一時停止）或缓行（徐行），让其能够安全通行。",
+    "explanation": "符合教则第5章第3节3的规定。有人使用身体残障者用车通行时也是一样。"
+   },
+   "en": {
+    "question": "Where a person carrying a white or yellow cane, or a person with a guide dog, is walking, the vehicle must come to a complete stop (一時停止) or proceed slowly (徐行) so that they can pass safely.",
+    "explanation": "This is Kyosoku Chapter 5 Section 3 item 3. The same applies where someone is travelling in a vehicle for people with physical disabilities."
+   },
+   "vi": {
+    "question": "Khi có người cầm gậy trắng hoặc gậy vàng, hoặc người dắt chó dẫn đường đang đi bộ, xe phải tạm dừng (一時停止) hoặc lưu thông chậm (徐行) để họ đi qua an toàn.",
+    "explanation": "Đúng theo Kyosoku Chương 5 Mục 3 điểm 3. Điều tương tự cũng áp dụng khi có người di chuyển bằng xe dành cho người khuyết tật vận động."
+   },
+   "pt": {
+    "question": "Quando caminha uma pessoa que leva uma bengala branca ou amarela, ou uma pessoa acompanhada de cão-guia, o veículo deve fazer parada obrigatória (一時停止) ou prosseguir lentamente (徐行) para que ela possa passar em segurança.",
+    "explanation": "É o Kyosoku, Capítulo 5, Seção 3, item 3. O mesmo vale quando alguém se desloca num veículo para pessoas com deficiência física."
+   }
   },
-  {
-    "id": "KS-072",
-    "category": "警戒標識",
-    "kp": "付3-1-176",
-    "group": "D",
-    "source": "教則 付表3（1）176",
-    "question_type": "sign",
-    "qf": "QF-付3-1-176-D-SS-01",
-    "image": {
-      "sign_no": "202-右",
-      "file": "202-右.svg",
-      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
-      "file_verified": true
-    },
-    "question_ja": "この標識は、前方の道路が背向屈曲していることを知らせている。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則付表3（1）176のこの標識は、前方に右方又は左方の屈曲があることを知らせるものです。",
-    "i18n": {
-      "zh": {
-        "question": "这个标识（立牌）告知前方道路是背向弯曲的。",
-        "explanation": "错误。教则附表3（1）176的这个标识告知前方有向右或向左的弯曲。"
-      },
-      "en": {
-        "question": "This sign tells you that the road ahead has reverse bends.",
-        "explanation": "This is wrong. This sign, Kyosoku Appendix 3(1) item 176, tells you that there is a bend to the right or left ahead."
-      },
-      "vi": {
-        "question": "Biển báo giao thông này cho biết đường phía trước có các khúc cong ngược chiều nhau.",
-        "explanation": "Sai. Biển này, Kyosoku Phụ lục 3(1) mục 176, cho biết phía trước có một khúc cong sang phải hoặc sang trái."
-      },
-      "pt": {
-        "question": "Esta sinalização informa que a via à frente tem curvas em sentidos opostos.",
-        "explanation": "Está errado. Esta placa, Kyosoku Anexo 3(1) item 176, informa que há uma curva à direita ou à esquerda à frente."
-      }
-    },
-    "trap_type": "SS",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免"
+  "trap_type": "N",
+  "difficulty": 1,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-3-330",
+  "category": "歩行者の保護",
+  "kp": "5-3-3",
+  "group": "K",
+  "source": "教則 第5章第3節3、4(1)",
+  "question_type": "text",
+  "qf": "QF-5-3-D-NR-01",
+  "question_ja": "独りで歩いている子供や白いつえを持った人のそばを通るときは、安全な間隔を空けさえすればよい。",
+  "answer": false,
+  "explanation_ja": "安全な間隔を空けるだけでは足りません。これらの人のそばでは、一時停止か徐行をして、安全に通れるようにしなければなりません（教則第5章第3節3、4(1)）。",
+  "i18n": {
+   "zh": {
+    "question": "从独自行走的儿童或手持白色手杖的人旁边通过时，只要留出安全间隔即可。",
+    "explanation": "仅留出安全间隔是不够的。在这些人旁边，必须暂停（一時停止）或缓行（徐行），让他们能够安全通行（教则第5章第3节3、4(1)）。"
+   },
+   "en": {
+    "question": "When passing close to a child walking alone or to a person carrying a white cane, it is enough simply to leave a safe gap.",
+    "explanation": "Leaving a safe gap is not enough. Beside these people the driver must come to a complete stop (一時停止) or proceed slowly (徐行) so that they can pass safely (Kyosoku Chapter 5 Section 3 items 3 and 4(1))."
+   },
+   "vi": {
+    "question": "Khi đi sát một đứa trẻ đi một mình hoặc một người cầm gậy trắng, chỉ cần chừa khoảng cách an toàn là đủ.",
+    "explanation": "Chừa khoảng cách an toàn thôi là chưa đủ. Bên cạnh những người này, người lái phải tạm dừng (一時停止) hoặc lưu thông chậm (徐行) để họ đi qua an toàn (Kyosoku Chương 5 Mục 3 điểm 3 và 4(1))."
+   },
+   "pt": {
+    "question": "Ao passar perto de uma criança que anda sozinha ou de uma pessoa que leva uma bengala branca, basta deixar uma distância segura.",
+    "explanation": "Deixar uma distância segura não basta. Junto dessas pessoas o condutor deve fazer parada obrigatória (一時停止) ou prosseguir lentamente (徐行) para que elas possam passar em segurança (Kyosoku, Capítulo 5, Seção 3, itens 3 e 4(1))."
+   }
   },
-  {
-    "id": "KS-073",
-    "category": "警戒標識",
-    "kp": "付3-1-180",
-    "group": "D",
-    "source": "教則 付表3（1）180",
-    "question_type": "sign",
-    "qf": "QF-付3-1-180-D-SS-01",
-    "image": {
-      "sign_no": "206-右",
-      "file": "206-右.svg",
-      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
-      "file_verified": true
-    },
-    "question_ja": "この標識は、前方に急な上り坂があることを知らせている。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則付表3（1）180のこの標識は、前方につづら折りの道路があることを知らせるものです。",
-    "i18n": {
-      "zh": {
-        "question": "这个标识（立牌）告知前方有陡上坡。",
-        "explanation": "错误。教则附表3（1）180的这个标识告知前方有连续盘山弯道。"
-      },
-      "en": {
-        "question": "This sign tells you that there is a steep climb ahead.",
-        "explanation": "This is wrong. This sign, Kyosoku Appendix 3(1) item 180, tells you that there are hairpin bends ahead."
-      },
-      "vi": {
-        "question": "Biển báo giao thông này cho biết phía trước có dốc lên gấp.",
-        "explanation": "Sai. Biển này, Kyosoku Phụ lục 3(1) mục 180, cho biết phía trước có các khúc cua tay áo nối tiếp."
-      },
-      "pt": {
-        "question": "Esta sinalização informa que há uma subida íngreme à frente.",
-        "explanation": "Está errado. Esta placa, Kyosoku Anexo 3(1) item 180, informa que há curvas em ziguezague à frente."
-      }
-    },
-    "trap_type": "SS",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免"
+  "trap_type": "NR",
+  "difficulty": 3,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-3-331",
+  "category": "歩行者の保護",
+  "kp": "5-3-4",
+  "group": "K",
+  "source": "教則 第5章第3節4(2)",
+  "question_type": "text",
+  "qf": "QF-5-3-A-N-03",
+  "question_ja": "止まっている通学通園バスのそばを通るときは、車は徐行して安全を確かめなければならない。",
+  "answer": true,
+  "explanation_ja": "教則第5章第3節4(2)のとおりです。子供がバスの前後から飛び出してくることがあるためです。",
+  "i18n": {
+   "zh": {
+    "question": "从停着的学校・幼儿园接送班车旁边通过时，车辆必须缓行（徐行）并确认安全。",
+    "explanation": "符合教则第5章第3节4(2)的规定。因为儿童可能从班车的前后窜出。"
+   },
+   "en": {
+    "question": "When passing a stopped school bus (school / kindergarten bus), the vehicle must proceed slowly (徐行) and check that it is safe.",
+    "explanation": "This is Kyosoku Chapter 5 Section 3 item 4(2). The reason is that children may run out from in front of or behind the bus."
+   },
+   "vi": {
+    "question": "Khi đi qua một xe đưa đón học sinh đang dừng, xe phải lưu thông chậm (徐行) và xác nhận an toàn.",
+    "explanation": "Đúng theo Kyosoku Chương 5 Mục 3 điểm 4(2). Lý do là trẻ em có thể lao ra từ phía trước hoặc phía sau xe."
+   },
+   "pt": {
+    "question": "Ao passar por um ônibus escolar parado, o veículo deve prosseguir lentamente (徐行) e verificar que é seguro.",
+    "explanation": "É o Kyosoku, Capítulo 5, Seção 3, item 4(2). A razão é que crianças podem sair correndo pela frente ou por trás do ônibus."
+   }
   },
-  {
-    "id": "KS-074",
-    "category": "警戒標識",
-    "kp": "付3-1-186",
-    "group": "D",
-    "source": "教則 付表3（1）186",
-    "question_type": "sign",
-    "qf": "QF-付3-1-186-D-SS-01",
-    "image": {
-      "sign_no": "209-3",
-      "file": "209-3.svg",
-      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
-      "file_verified": true
-    },
-    "question_ja": "この標識は、前方の路面が滑りやすいことを知らせている。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則付表3（1）186のこの標識は、前方の路面に凹凸があることを知らせるものです。",
-    "i18n": {
-      "zh": {
-        "question": "这个标识（立牌）告知前方路面易滑。",
-        "explanation": "错误。教则附表3（1）186的这个标识告知前方路面有凹凸。"
-      },
-      "en": {
-        "question": "This sign tells you that the road surface ahead is slippery.",
-        "explanation": "This is wrong. This sign, Kyosoku Appendix 3(1) item 186, tells you that the road surface ahead is uneven."
-      },
-      "vi": {
-        "question": "Biển báo giao thông này cho biết mặt đường phía trước trơn trượt.",
-        "explanation": "Sai. Biển này, Kyosoku Phụ lục 3(1) mục 186, cho biết mặt đường phía trước gồ ghề."
-      },
-      "pt": {
-        "question": "Esta sinalização informa que o piso adiante é escorregadio.",
-        "explanation": "Está errado. Esta placa, Kyosoku Anexo 3(1) item 186, informa que o piso adiante é irregular."
-      }
-    },
-    "trap_type": "SS",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免"
+  "trap_type": "N",
+  "difficulty": 1,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-3-332",
+  "category": "歩行者の保護",
+  "kp": "5-3-4",
+  "group": "K",
+  "source": "教則 第5章第3節4(2)",
+  "question_type": "text",
+  "qf": "QF-5-3-D-EX-01",
+  "question_ja": "道路わきに通学通園バスが止まっているとき、その横を通る車の運転者は、バスの手前で一時停止をしてから進まなければならない。",
+  "answer": false,
+  "explanation_ja": "一時停止までは求められていません。徐行して安全を確かめなければならない、と決められています（教則第5章第3節4(2)）。",
+  "i18n": {
+   "zh": {
+    "question": "学校・幼儿园接送班车停在路边时，从其旁边通过的车辆的驾驶员必须在该班车近前暂停（一時停止）后再前进。",
+    "explanation": "并不要求做到暂停。规定的是必须缓行（徐行）并确认安全（教则第5章第3节4(2)）。"
+   },
+   "en": {
+    "question": "When a school bus (school / kindergarten bus) is stopped at the side of the road, the driver of a vehicle passing alongside it must come to a complete stop (一時停止) before the bus and only then go on.",
+    "explanation": "A complete stop is not required. What the rule says is that the driver must proceed slowly (徐行) and check that it is safe (Kyosoku Chapter 5 Section 3 item 4(2))."
+   },
+   "vi": {
+    "question": "Khi một xe đưa đón học sinh dừng bên lề đường, người lái xe đi qua bên cạnh phải tạm dừng (一時停止) trước xe đó rồi mới đi tiếp.",
+    "explanation": "Không đòi hỏi đến mức tạm dừng. Quy định là phải lưu thông chậm (徐行) và xác nhận an toàn (Kyosoku Chương 5 Mục 3 điểm 4(2))."
+   },
+   "pt": {
+    "question": "Quando um ônibus escolar está parado à beira da via, o condutor do veículo que passa ao lado dele deve fazer parada obrigatória (一時停止) antes do ônibus e só então seguir.",
+    "explanation": "A parada obrigatória não é exigida. O que a regra diz é que o condutor deve prosseguir lentamente (徐行) e verificar que é seguro (Kyosoku, Capítulo 5, Seção 3, item 4(2))."
+   }
   },
-  {
-    "id": "KS-075",
-    "category": "警戒標識",
-    "kp": "付3-1-191",
-    "group": "D",
-    "source": "教則 付表3（1）191",
-    "question_type": "sign",
-    "qf": "QF-付3-1-191-D-SS-01",
-    "image": {
-      "sign_no": "212-3",
-      "file": "212-3.svg",
-      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
-      "file_verified": true
-    },
-    "question_ja": "この標識は、前方に急な下り坂があることを知らせている。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則付表3（1）191のこの標識は、前方に急な上り坂があることを知らせるものです。",
-    "i18n": {
-      "zh": {
-        "question": "这个标识（立牌）告知前方有陡下坡。",
-        "explanation": "错误。教则附表3（1）191的这个标识告知前方有陡上坡。"
-      },
-      "en": {
-        "question": "This sign tells you that there is a steep descent ahead.",
-        "explanation": "This is wrong. This sign, Kyosoku Appendix 3(1) item 191, tells you that there is a steep climb ahead."
-      },
-      "vi": {
-        "question": "Biển báo giao thông này cho biết phía trước có dốc xuống gấp.",
-        "explanation": "Sai. Biển này, Kyosoku Phụ lục 3(1) mục 191, cho biết phía trước có dốc lên gấp."
-      },
-      "pt": {
-        "question": "Esta sinalização informa que há uma descida íngreme à frente.",
-        "explanation": "Está errado. Esta placa, Kyosoku Anexo 3(1) item 191, informa que há uma subida íngreme à frente."
-      }
-    },
-    "trap_type": "SS",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免"
+  "trap_type": "EX",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-3-333",
+  "category": "歩行者の保護",
+  "kp": "5-3-4",
+  "group": "K",
+  "source": "教則 第5章第3節4(2)",
+  "question_type": "text",
+  "qf": "QF-5-3-D-EI-04",
+  "question_ja": "止まっている通学通園バスのそばを通るときでも、周りに人が見当たらなければ徐行しなくてよい。",
+  "answer": false,
+  "explanation_ja": "そのような例外はありません。止まっている通学通園バスのそばを通るときは、徐行して安全を確かめなければなりません（教則第5章第3節4(2)）。",
+  "i18n": {
+   "zh": {
+    "question": "即使从停着的学校・幼儿园接送班车旁边通过，只要周围看不到人，就可以不缓行（徐行）。",
+    "explanation": "并不存在这样的例外。从停着的接送班车旁边通过时，必须缓行并确认安全（教则第5章第3节4(2)）。"
+   },
+   "en": {
+    "question": "Even when passing a stopped school bus (school / kindergarten bus), there is no need to proceed slowly (徐行) if no one can be seen around it.",
+    "explanation": "There is no such exception. When passing a stopped school bus, the driver must proceed slowly and check that it is safe (Kyosoku Chapter 5 Section 3 item 4(2))."
+   },
+   "vi": {
+    "question": "Ngay cả khi đi qua một xe đưa đón học sinh đang dừng, nếu không thấy ai xung quanh thì không cần lưu thông chậm (徐行).",
+    "explanation": "Không hề có ngoại lệ như vậy. Khi đi qua xe đưa đón học sinh đang dừng, người lái phải lưu thông chậm và xác nhận an toàn (Kyosoku Chương 5 Mục 3 điểm 4(2))."
+   },
+   "pt": {
+    "question": "Mesmo ao passar por um ônibus escolar parado, não é preciso prosseguir lentamente (徐行) se não houver ninguém à vista em volta.",
+    "explanation": "Não existe tal exceção. Ao passar por um ônibus escolar parado, o condutor deve prosseguir lentamente e verificar que é seguro (Kyosoku, Capítulo 5, Seção 3, item 4(2))."
+   }
   },
-  {
-    "id": "KS-076",
-    "category": "警戒標識",
-    "kp": "付3-1-196",
-    "group": "D",
-    "source": "教則 付表3（1）196",
-    "question_type": "sign",
-    "qf": "QF-付3-1-196-D-SS-01",
-    "image": {
-      "sign_no": "215",
-      "file": "215.svg",
-      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
-      "file_verified": true
-    },
-    "question_ja": "この標識は、前方に道路工事中の場所があることを知らせている。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則付表3（1）196のこの標識は、ほかの警戒標識では表せないその他の危険があることを知らせるものです。",
-    "i18n": {
-      "zh": {
-        "question": "这个标识（立牌）告知前方有道路施工中的地点。",
-        "explanation": "错误。教则附表3（1）196的这个标识告知存在其他警戒标识无法表示的其他危险。"
-      },
-      "en": {
-        "question": "This sign tells you that there are road works ahead.",
-        "explanation": "This is wrong. This sign, Kyosoku Appendix 3(1) item 196, warns of some other danger that no other warning sign covers."
-      },
-      "vi": {
-        "question": "Biển báo giao thông này cho biết phía trước có đoạn đang thi công đường.",
-        "explanation": "Sai. Biển này, Kyosoku Phụ lục 3(1) mục 196, cảnh báo một nguy hiểm khác mà các biển cảnh báo còn lại không thể hiện."
-      },
-      "pt": {
-        "question": "Esta sinalização informa que há obras na via à frente.",
-        "explanation": "Está errado. Esta placa, Kyosoku Anexo 3(1) item 196, adverte sobre outro perigo que nenhuma outra placa cobre."
-      }
-    },
-    "trap_type": "SS",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免"
+  "trap_type": "EI",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-3-334",
+  "category": "歩行者の保護",
+  "kp": "5-3-4",
+  "group": "K",
+  "source": "教則 第5章第3節4(2)",
+  "question_type": "text",
+  "qf": "QF-5-3-D-SC-04",
+  "question_ja": "通学通園バスが止まっていたが、乗り降りしている子供がいなかったので、徐行しないでそのそばを通過した。",
+  "answer": false,
+  "explanation_ja": "止まっている通学通園バスのそばを通るときは、徐行して安全を確かめなければなりません（教則第5章第3節4(2)）。",
+  "i18n": {
+   "zh": {
+    "question": "学校・幼儿园接送班车停着，但没有正在上下车的儿童，于是没有缓行（徐行）就从其旁边通过了。",
+    "explanation": "从停着的接送班车旁边通过时，必须缓行并确认安全（教则第5章第3节4(2)）。"
+   },
+   "en": {
+    "question": "A school bus (school / kindergarten bus) was stopped, but no children were getting on or off, so the driver passed it without proceeding slowly (徐行).",
+    "explanation": "When passing a stopped school bus, the driver must proceed slowly and check that it is safe (Kyosoku Chapter 5 Section 3 item 4(2))."
+   },
+   "vi": {
+    "question": "Một xe đưa đón học sinh đang dừng nhưng không có trẻ em nào lên xuống, nên người lái đã đi qua mà không lưu thông chậm (徐行).",
+    "explanation": "Khi đi qua xe đưa đón học sinh đang dừng, người lái phải lưu thông chậm và xác nhận an toàn (Kyosoku Chương 5 Mục 3 điểm 4(2))."
+   },
+   "pt": {
+    "question": "Um ônibus escolar estava parado, mas nenhuma criança embarcava ou desembarcava, então o condutor passou por ele sem prosseguir lentamente (徐行).",
+    "explanation": "Ao passar por um ônibus escolar parado, o condutor deve prosseguir lentamente e verificar que é seguro (Kyosoku, Capítulo 5, Seção 3, item 4(2))."
+   }
   },
-  {
-    "id": "KS-077",
-    "category": "警戒標識",
-    "kp": "付3-1-187",
-    "group": "D",
-    "source": "教則 付表3（1）187",
-    "question_type": "sign",
-    "qf": "QF-付3-1-187-D-AB-01",
-    "image": {
-      "sign_no": "210",
-      "file": "210.svg",
-      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
-      "file_verified": true
-    },
-    "question_ja": "この標識のあるところでは、合流してくる車が優先するので必ず道を譲らなければならない。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則付表3（1）187のこの標識は合流交通があることを知らせる警戒標識で、優先関係を定めるものではありません。",
-    "i18n": {
-      "zh": {
-        "question": "在设有这个标识（立牌）的地方，汇入的车辆优先，所以必须让路。",
-        "explanation": "错误。教则附表3（1）187的这个标识是告知有汇入交通的警戒标识，并不规定优先关系。"
-      },
-      "en": {
-        "question": "Where this sign stands the merging vehicle has priority, so you must always give way.",
-        "explanation": "This is wrong. This sign, Kyosoku Appendix 3(1) item 187, is a warning sign telling you traffic merges here; it does not settle who has priority."
-      },
-      "vi": {
-        "question": "Ở nơi có biển này, xe nhập vào được ưu tiên nên bạn buộc phải nhường đường.",
-        "explanation": "Sai. Biển này, Kyosoku Phụ lục 3(1) mục 187, là biển cảnh báo có luồng xe nhập vào; nó không quy định bên nào được ưu tiên."
-      },
-      "pt": {
-        "question": "Onde está esta placa o veículo que converge tem preferência, então você sempre deve dar passagem.",
-        "explanation": "Está errado. Esta placa, Kyosoku Anexo 3(1) item 187, é de advertência sobre trânsito convergindo; não define preferência."
-      }
-    },
-    "trap_type": "AB",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免"
+  "trap_type": "SC",
+  "difficulty": 1,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-7-335",
+  "category": "交差点",
+  "kp": "5-7-2",
+  "group": "K",
+  "source": "教則 第5章第7節2(9)",
+  "question_type": "text",
+  "qf": "QF-5-3-A-N-02",
+  "question_ja": "前方の交通が混雑していて、そのまま進むと横断歩道の上で動きが取れなくなるおそれがあるときは、車は横断歩道に入ってはならない。",
+  "answer": true,
+  "explanation_ja": "教則第5章第7節2(9)のとおりです。「停止禁止部分」の標示のある場所や踏切でも同じです。",
+  "i18n": {
+   "zh": {
+    "question": "前方交通拥挤，照原样前进有可能在人行横道上无法动弹时，车辆不得进入人行横道。",
+    "explanation": "符合教则第5章第7节2(9)的规定。设有「禁止停留部分」标示（路面）的场所和铁路道口也是一样。"
+   },
+   "en": {
+    "question": "Where traffic ahead is congested and going on would risk the vehicle becoming stuck on a pedestrian crossing, the vehicle must not enter the crossing.",
+    "explanation": "This is Kyosoku Chapter 5 Section 7 item 2(9). The same applies at a place with a \"No stopping zone\" road marking and at a railway crossing."
+   },
+   "vi": {
+    "question": "Khi giao thông phía trước tắc nghẽn và việc đi tiếp có nguy cơ khiến xe bị kẹt lại trên vạch sang đường cho người đi bộ, xe không được đi vào vạch đó.",
+    "explanation": "Đúng theo Kyosoku Chương 5 Mục 7 điểm 2(9). Điều tương tự cũng áp dụng ở nơi có vạch kẻ đường (kí hiệu trên mặt đường) «Khu vực cấm dừng lại» và ở nút giao đường tàu."
+   },
+   "pt": {
+    "question": "Quando o trânsito à frente está congestionado e seguir em frente pode deixar o veículo preso sobre a faixa de pedestres, o veículo não deve entrar na faixa.",
+    "explanation": "É o Kyosoku, Capítulo 5, Seção 7, item 2(9). O mesmo vale num local com a sinalização horizontal \"Área de proibição de parada\" e numa passagem de nível ferroviária."
+   }
   },
-  {
-    "id": "KS-078",
-    "category": "警戒標識",
-    "kp": "付3-1-184",
-    "group": "D",
-    "source": "教則 付表3（1）184",
-    "question_type": "sign",
-    "qf": "QF-付3-1-184-D-EI-01",
-    "image": {
-      "sign_no": "209",
-      "file": "209.svg",
-      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
-      "file_verified": true
-    },
-    "question_ja": "この標識のあるところでは、路面が滑りやすいので急ブレーキを掛けて速度を落とすとよい。",
-    "answer": false,
-    "explanation_ja": "誤りです。滑りやすい路面では急ブレーキは横滑りの原因になり、手前で徐々に速度を落とします。",
-    "i18n": {
-      "zh": {
-        "question": "在设有这个标识（立牌）的地方，因为路面易滑，最好急刹车降低速度。",
-        "explanation": "错误。在易滑路面上急刹车会导致侧滑，要在跟前逐渐降低速度。"
-      },
-      "en": {
-        "question": "Where this sign stands the road is slippery, so it is best to brake hard to reduce speed.",
-        "explanation": "This is wrong. Hard braking on a slippery surface causes a skid; you reduce speed gradually beforehand."
-      },
-      "vi": {
-        "question": "Ở nơi có biển này mặt đường trơn nên tốt nhất là phanh gấp để giảm tốc.",
-        "explanation": "Sai. Phanh gấp trên mặt đường trơn gây trượt ngang; bạn giảm tốc từ từ ngay từ trước đó."
-      },
-      "pt": {
-        "question": "Onde está esta placa o piso é escorregadio, então o melhor é frear com força para reduzir.",
-        "explanation": "Está errado. Frear forte em piso escorregadio provoca derrapagem; reduz-se aos poucos antes."
-      }
-    },
-    "trap_type": "EI",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免"
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-3-336",
+  "category": "追越し",
+  "kp": "5-3-8",
+  "group": "K",
+  "source": "教則 第5章第3節8(1)",
+  "question_type": "text",
+  "qf": "QF-5-3-D-EI-01",
+  "question_ja": "高齢者マークを付けた普通自動車は、追い越してはならないことになっている。",
+  "answer": false,
+  "explanation_ja": "追越しそのものが禁止されているわけではありません。禁止されているのは、危険を避けるためやむを得ない場合のほかに、側方に幅寄せをしたり、前方に無理に割り込んだりすることです（教則第5章第3節8(1)）。",
+  "i18n": {
+   "zh": {
+    "question": "对贴有高龄者标识的普通汽车，规定为不得超车。",
+    "explanation": "并不是禁止超车本身。被禁止的是：除为避免危险不得已的情况外，向其侧方挤车、或强行插队到其前方（教则第5章第3节8(1)）。"
+   },
+   "en": {
+    "question": "The rule is said to be that a driver must not overtake an ordinary motor vehicle displaying the elderly driver mark.",
+    "explanation": "Overtaking itself is not forbidden. What is forbidden, except where it is unavoidable in order to avoid danger, is squeezing that vehicle aside or forcing your way in ahead of it (Kyosoku Chapter 5 Section 3 item 8(1))."
+   },
+   "vi": {
+    "question": "Có quy định rằng không được vượt xe ô tô thường có gắn dấu hiệu người lái cao tuổi.",
+    "explanation": "Bản thân việc vượt xe không bị cấm. Điều bị cấm, trừ khi bất khả kháng để tránh nguy hiểm, là ép xe đó sang bên hoặc tạt đầu chen vào phía trước nó (Kyosoku Chương 5 Mục 3 điểm 8(1))."
+   },
+   "pt": {
+    "question": "Diz-se que não se deve ultrapassar um veículo comum que exibe o símbolo de motorista idoso.",
+    "explanation": "A ultrapassagem em si não é proibida. O que é proibido, salvo quando inevitável para evitar um perigo, é fechar espaço lateralmente para esse veículo ou cortá-lo abruptamente à sua frente (Kyosoku, Capítulo 5, Seção 3, item 8(1))."
+   }
   },
-  {
-    "id": "KS-079",
-    "category": "警戒標識",
-    "kp": "付3-1-182",
-    "group": "D",
-    "source": "教則 付表3（1）182",
-    "question_type": "sign",
-    "qf": "QF-付3-1-182-D-EI-01",
-    "image": {
-      "sign_no": "208",
-      "file": "208.svg",
-      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
-      "file_verified": true
-    },
-    "question_ja": "この標識のあるところでは、子供の姿が見えなければ速度を落とす必要はない。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第5章第3節4(3)により、このような場所では子供が突然飛び出してくることがあるので特に注意します。",
-    "i18n": {
-      "zh": {
-        "question": "在设有这个标识（立牌）的地方，只要看不到孩子的身影就不需要降低速度。",
-        "explanation": "错误。根据教则第5章第3节4(3)，这类场所有可能有孩子突然跑出来，要特别注意。"
-      },
-      "en": {
-        "question": "Where this sign stands you need not slow down as long as no children are in sight.",
-        "explanation": "This is wrong. Under Kyosoku Chapter 5 Section 3 item 4(3) children can dart out suddenly at such places, so take particular care."
-      },
-      "vi": {
-        "question": "Ở nơi có biển này, bạn không cần giảm tốc miễn là không thấy trẻ em nào.",
-        "explanation": "Sai. Theo Kyosoku Chương 5 Mục 3 điểm 4(3), ở những nơi như vậy trẻ có thể lao ra bất ngờ nên cần đặc biệt chú ý."
-      },
-      "pt": {
-        "question": "Onde está esta placa você não precisa reduzir enquanto não vir crianças.",
-        "explanation": "Está errado. Pelo Kyosoku, Capítulo 5, Seção 3, item 4(3), nesses locais crianças podem surgir de repente, exigindo atenção especial."
-      }
-    },
-    "trap_type": "EI",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免"
-  },
-  {
-    "id": "KS-080",
-    "category": "警戒標識",
-    "kp": "付3-1-181",
-    "group": "D",
-    "source": "教則 付表3（1）181",
-    "question_type": "sign",
-    "qf": "QF-付3-1-181-D-EX-01",
-    "image": {
-      "sign_no": "207-B",
-      "file": "207-B.svg",
-      "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
-      "file_verified": true
-    },
-    "question_ja": "この標識のあるところでは、信号機があっても一時停止をしなければならない。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第6章第1節1(1)により、踏切に信号機がある場合は、その信号に従って通過することができます。",
-    "i18n": {
-      "zh": {
-        "question": "在设有这个标识（立牌）的地方，即使有信号灯也必须暂停（一時停止）。",
-        "explanation": "错误。根据教则第6章第1节1(1)，铁路道口设有信号灯的，可以按该信号灯通过。"
-      },
-      "en": {
-        "question": "Where this sign stands you must come to a complete stop (一時停止) even if there is a traffic light.",
-        "explanation": "This is wrong. Under Kyosoku Chapter 6 Section 1 item 1(1), where a railway crossing has a traffic light you may cross in accordance with it."
-      },
-      "vi": {
-        "question": "Ở nơi có biển này, bạn phải tạm dừng (一時停止) ngay cả khi có đèn tín hiệu.",
-        "explanation": "Sai. Theo Kyosoku Chương 6 Mục 1 điểm 1(1), nơi đường ngang có đèn tín hiệu thì bạn được qua theo đèn đó."
-      },
-      "pt": {
-        "question": "Onde está esta placa você deve fazer parada obrigatória (一時停止) mesmo havendo semáforo.",
-        "explanation": "Está errado. Pelo Kyosoku, Capítulo 6, Seção 1, item 1(1), onde a passagem de nível tem semáforo, atravessa-se conforme ele."
-      }
-    },
-    "trap_type": "EX",
-    "difficulty": 3,
-    "exam_scope": "仮免|本免"
-  }
+  "trap_type": "EI",
+  "difficulty": 3,
+  "exam_scope": "仮免|本免|外免"
+ }
 ]

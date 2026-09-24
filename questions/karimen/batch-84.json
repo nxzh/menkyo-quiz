@@ -1,0 +1,206 @@
+[
+ {
+  "id": "K5-7-853",
+  "category": "交差点",
+  "kp": "5-7-3",
+  "group": "Q",
+  "source": "教則 第5章第7節3(2) / 道交法第36条第1項",
+  "question_type": "text",
+  "qf": "QF-5-7-A-N-11",
+  "question_ja": "道幅が同じような道路の交差点では、車は、左方から来る車や路面電車の進行を妨げてはならない。",
+  "answer": true,
+  "explanation_ja": "教則第5章第7節3(2)のとおりです。路面電車については、左方から来るものに限らずその進行を妨げてはいけません（道交法第36条第1項）。",
+  "i18n": {
+   "zh": {
+    "question": "在宽度大致相同的道路形成的交叉路口，车辆不得妨碍从左方驶来的车辆和路面电车通行。",
+    "explanation": "符合教则第5章第7节3(2)的规定。对于路面电车，不限于从左方驶来的，都不得妨碍其通行（道交法第36条第1款）。"
+   },
+   "en": {
+    "question": "At an intersection of roads of roughly the same width, a vehicle must not obstruct the progress of vehicles and streetcars (trams) coming from the left.",
+    "explanation": "This is Kyosoku Chapter 5 Section 7 item 3(2). For streetcars you must not obstruct their progress whether or not they come from the left (Road Traffic Act Article 36(1))."
+   },
+   "vi": {
+    "question": "Tại nút giao thông của những con đường có chiều rộng gần như nhau, xe không được cản trở xe và tàu điện mặt đất đi tới từ bên trái lưu thông.",
+    "explanation": "Đúng theo Kyosoku Chương 5 Mục 7 điểm 3(2). Với tàu điện mặt đất thì không được cản trở, dù chúng đi tới từ bên trái hay không (Luật Giao thông đường bộ Điều 36 khoản 1)."
+   },
+   "pt": {
+    "question": "Num cruzamento de vias de largura semelhante, o veículo não deve obstruir a passagem dos veículos e bondes que vêm da esquerda.",
+    "explanation": "É o Kyosoku, Capítulo 5, Seção 7, item 3(2). Quanto aos bondes, não se deve obstruir a passagem deles venham ou não da esquerda (Lei de Trânsito, artigo 36, parágrafo 1)."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-7-854",
+  "category": "交差点",
+  "kp": "5-7-3",
+  "group": "Q",
+  "source": "教則 第5章第7節3(2) / 道交法第36条第1項",
+  "question_type": "text",
+  "qf": "QF-5-7-D-SW-01",
+  "question_ja": "道幅が同じような道路の交差点では、右方から来る車が優先するので、左方から来る車はその進行を妨げてはならない。",
+  "answer": false,
+  "explanation_ja": "左右が逆です。道幅が同じような道路の交差点では、左方から来る車の進行を妨げてはいけません（教則第5章第7節3(2)、道交法第36条第1項）。",
+  "i18n": {
+   "zh": {
+    "question": "在宽度大致相同的道路形成的交叉路口，从右方驶来的车辆优先，因此从左方驶来的车辆不得妨碍其通行。",
+    "explanation": "左右弄反了。在宽度大致相同的道路形成的交叉路口，不得妨碍从左方驶来的车辆通行（教则第5章第7节3(2)、道交法第36条第1款）。"
+   },
+   "en": {
+    "question": "At an intersection of roads of roughly the same width, the vehicle coming from the right has priority, so the vehicle coming from the left must not obstruct its progress.",
+    "explanation": "Left and right are the wrong way round. At an intersection of roads of roughly the same width you must not obstruct the progress of the vehicle coming from the left (Kyosoku Chapter 5 Section 7 item 3(2), Road Traffic Act Article 36(1))."
+   },
+   "vi": {
+    "question": "Tại nút giao thông của những con đường có chiều rộng gần như nhau, xe đi tới từ bên phải được ưu tiên, nên xe đi tới từ bên trái không được cản trở xe đó lưu thông.",
+    "explanation": "Trái và phải bị đảo ngược. Tại nút giao của những con đường có chiều rộng gần như nhau, không được cản trở xe đi tới từ bên trái lưu thông (Kyosoku Chương 5 Mục 7 điểm 3(2), Luật Giao thông đường bộ Điều 36 khoản 1)."
+   },
+   "pt": {
+    "question": "Num cruzamento de vias de largura semelhante, o veículo que vem da direita tem prioridade, por isso o veículo que vem da esquerda não deve obstruir a passagem dele.",
+    "explanation": "Esquerda e direita estão trocadas. Num cruzamento de vias de largura semelhante, não se deve obstruir a passagem do veículo que vem da esquerda (Kyosoku, Capítulo 5, Seção 7, item 3(2), Lei de Trânsito, artigo 36, parágrafo 1)."
+   }
+  },
+  "trap_type": "SW",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-7-855",
+  "category": "交差点",
+  "kp": "5-7-3",
+  "group": "Q",
+  "source": "道交法第36条第2項 / 教則 第5章第7節3(1)",
+  "question_type": "text",
+  "qf": "QF-5-7-A-N-09",
+  "question_ja": "交差点の中まで中央線や車両通行帯が引かれている道路は、「優先道路」の標識がなくても優先道路である。",
+  "answer": true,
+  "explanation_ja": "道交法第36条第2項のとおりです。標識によって優先道路として指定されている道路のほか、その交差点でこれらの線が引かれている道路も優先道路になります。",
+  "i18n": {
+   "zh": {
+    "question": "中心线或车辆通行带一直画到交叉路口之中的道路，即使没有「优先道路」的标识（立牌），也是优先道路。",
+    "explanation": "符合道交法第36条第2款的规定。除由标识指定为优先道路的道路外，在该交叉路口画有这些线的道路也是优先道路。"
+   },
+   "en": {
+    "question": "A road on which the centre line or vehicle lanes are drawn right through the intersection is a priority road even without a priority road sign.",
+    "explanation": "This is Article 36(2) of the Road Traffic Act. Besides roads designated as priority roads by a sign, a road carrying those lines through the intersection is a priority road as well."
+   },
+   "vi": {
+    "question": "Đường có vạch giữa đường hoặc làn đường được kẻ xuyên vào trong nút giao thông là đường ưu tiên, ngay cả khi không có biển báo giao thông «Đường ưu tiên».",
+    "explanation": "Đúng theo Điều 36 khoản 2 Luật Giao thông đường bộ. Ngoài những đường được biển báo chỉ định là đường ưu tiên, đường có các vạch này kẻ xuyên qua nút giao cũng là đường ưu tiên."
+   },
+   "pt": {
+    "question": "A via em que a linha divisória central ou as faixas de rolamento estão traçadas atravessando o cruzamento é uma via preferencial, mesmo sem a placa de via preferencial.",
+    "explanation": "É o artigo 36, parágrafo 2, da Lei de Trânsito. Além das vias designadas como preferenciais por placa, a via que leva essas linhas através do cruzamento também é preferencial."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 3,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-7-856",
+  "category": "交差点",
+  "kp": "5-7-3",
+  "group": "Q",
+  "source": "道交法第36条第2項 / 教則 第5章第7節3(1)",
+  "question_type": "text",
+  "qf": "QF-5-7-D-SW-04",
+  "question_ja": "交通整理の行われていない交差点で、交差する道路に交差点の中まで中央線が引かれていても、「優先道路」の標識がなければその道路は優先道路ではない。",
+  "answer": false,
+  "explanation_ja": "標識で指定されている道路のほか、その交差点で中央線や車両通行帯が引かれている道路も優先道路です。この場合、徐行して交差する道路を通行する車の進行を妨げてはいけません（道交法第36条第2項）。",
+  "i18n": {
+   "zh": {
+    "question": "在未进行交通整理的交叉路口，即使交叉道路的中心线一直画到交叉路口之中，只要没有「优先道路」的标识（立牌），该道路就不是优先道路。",
+    "explanation": "除由标识指定的道路外，在该交叉路口画有中心线或车辆通行带的道路也是优先道路。这种情况下，必须缓行（徐行），并且不得妨碍在交叉道路上通行的车辆通行（道交法第36条第2款）。"
+   },
+   "en": {
+    "question": "At an intersection where no traffic control is in operation, even if the crossing road has its centre line drawn right through the intersection, that road is not a priority road unless there is a priority road sign.",
+    "explanation": "Besides roads designated by a sign, a road with a centre line or vehicle lanes drawn through the intersection is a priority road as well. In that case you must proceed slowly (徐行) and must not obstruct the progress of the vehicles travelling on the crossing road (Road Traffic Act Article 36(2))."
+   },
+   "vi": {
+    "question": "Tại nút giao thông không có điều khiển giao thông, dù đường giao cắt có vạch giữa đường kẻ xuyên vào trong nút giao, nếu không có biển báo giao thông «Đường ưu tiên» thì đường đó không phải là đường ưu tiên.",
+    "explanation": "Ngoài những đường được biển báo chỉ định, đường có vạch giữa đường hoặc làn đường kẻ xuyên qua nút giao cũng là đường ưu tiên. Khi đó phải lưu thông chậm (徐行) và không được cản trở xe đang đi trên đường giao cắt lưu thông (Luật Giao thông đường bộ Điều 36 khoản 2)."
+   },
+   "pt": {
+    "question": "Num cruzamento sem controle de trânsito, mesmo que a via transversal tenha a linha divisória central traçada através do cruzamento, essa via não é preferencial se não houver a placa de via preferencial.",
+    "explanation": "Além das vias designadas por placa, a via com linha divisória central ou faixas de rolamento traçadas através do cruzamento também é preferencial. Nesse caso deve-se prosseguir lentamente (徐行) e não obstruir a passagem dos veículos que circulam pela via transversal (Lei de Trânsito, artigo 36, parágrafo 2)."
+   }
+  },
+  "trap_type": "SW",
+  "difficulty": 3,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-7-857",
+  "category": "交差点",
+  "kp": "5-7-4",
+  "group": "Q",
+  "source": "教則 第5章第7節4(1)、4(3)",
+  "question_type": "text",
+  "qf": "QF-5-7-A-N-12",
+  "question_ja": "環状交差点では、右折や転回をする場合であっても、あらかじめできるだけ道路の左端に寄り、その側端に沿って徐行しながら通行しなければならない。",
+  "answer": true,
+  "explanation_ja": "教則第5章第7節4(1)のとおりです。環状交差点に入ろうとするときも徐行し、環状交差点内を通行する車や路面電車の進行を妨げてはいけません（同節4(3)）。",
+  "i18n": {
+   "zh": {
+    "question": "在环形交叉路口，即使是右拐弯或掉头的情形，也必须事先尽量靠向道路左端，沿着其侧边缓行（徐行）通过。",
+    "explanation": "符合教则第5章第7节4(1)的规定。想要进入环形交叉路口时也要缓行，并且不得妨碍在环形交叉路口内通行的车辆和路面电车通行（同节4(3)）。"
+   },
+   "en": {
+    "question": "At a roundabout, even when you are turning right or making a U-turn, you must move as close to the left edge of the road as you can beforehand and proceed slowly (徐行) along its edge.",
+    "explanation": "This is Kyosoku Chapter 5 Section 7 item 4(1). You must also proceed slowly when entering a roundabout and must not obstruct the progress of the vehicles and streetcars (trams) already travelling in it (same section, item 4(3))."
+   },
+   "vi": {
+    "question": "Tại giao lộ vòng xuyến, ngay cả khi rẽ phải hay quay đầu, vẫn phải nép sát vào mép trái của đường từ trước và lưu thông chậm (徐行) men theo mép của vòng xuyến.",
+    "explanation": "Đúng theo Kyosoku Chương 5 Mục 7 điểm 4(1). Khi sắp vào vòng xuyến cũng phải đi chậm và không được cản trở xe và tàu điện mặt đất đang lưu thông trong vòng xuyến (cùng mục, điểm 4(3))."
+   },
+   "pt": {
+    "question": "Numa rotatória, mesmo ao converter à direita ou fazer retorno, deve-se aproximar-se o máximo possível da borda esquerda da via com antecedência e prosseguir lentamente (徐行) ao longo da borda dela.",
+    "explanation": "É o Kyosoku, Capítulo 5, Seção 7, item 4(1). Ao entrar na rotatória também se deve seguir devagar e não obstruir a passagem dos veículos e bondes que já circulam nela (mesma seção, item 4(3))."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "KS-858",
+  "category": "標識",
+  "kp": "5-7-3",
+  "group": "Q",
+  "source": "教則 第5章第7節3(3) / 付表3（1）40",
+  "question_type": "sign",
+  "qf": "QF-5-7-D-EI-07",
+  "image": {
+   "sign_no": "330-A",
+   "file": "330-A.svg",
+   "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+   "file_verified": true
+  },
+  "question_ja": "この標識のある交差点では、左右の見通しがよく明らかに安全であれば、徐行して通過することができる。",
+  "answer": false,
+  "explanation_ja": "これは「一時停止」の標識です。停止線の直前（停止線がないときは交差点の直前）で一時停止をし、交差する道路を通行する車や路面電車の進行を妨げてはいけません（教則第5章第7節3(3)、付表3（1）40）。",
+  "i18n": {
+   "zh": {
+    "question": "在设有这个标识（立牌）的交叉路口，只要左右视野良好、明显安全，就可以缓行（徐行）通过。",
+    "explanation": "这是「暂停」标识。必须在停止线的紧前方（没有停止线时为交叉路口的紧前方）暂停（一時停止），并且不得妨碍在交叉道路上通行的车辆和路面电车通行（教则第5章第7节3(3)、附表3（1）40）。"
+   },
+   "en": {
+    "question": "At an intersection with this sign, you may go through proceeding slowly (徐行) if you can see clearly to left and right and it is obviously safe.",
+    "explanation": "This is the Stop sign. You must come to a complete stop (一時停止) just before the stop line, or just before the intersection where there is no stop line, and must not obstruct the progress of the vehicles and streetcars (trams) travelling on the crossing road (Kyosoku Chapter 5 Section 7 item 3(3), Appendix 3(1) item 40)."
+   },
+   "vi": {
+    "question": "Tại nút giao thông có biển báo giao thông này, nếu tầm nhìn sang trái và phải tốt và rõ ràng là an toàn thì được lưu thông chậm (徐行) đi qua.",
+    "explanation": "Đây là biển «Dừng lại». Phải tạm dừng (一時停止) ngay trước vạch dừng, hoặc ngay trước nút giao nếu không có vạch dừng, và không được cản trở xe và tàu điện mặt đất đang đi trên đường giao cắt lưu thông (Kyosoku Chương 5 Mục 7 điểm 3(3), Phụ lục 3(1) mục 40)."
+   },
+   "pt": {
+    "question": "Num cruzamento com esta placa, pode-se atravessar prosseguindo lentamente (徐行) se houver boa visibilidade à esquerda e à direita e for claramente seguro.",
+    "explanation": "Esta é a placa de Parada Obrigatória. Deve-se parar completamente (一時停止) logo antes da linha de parada, ou logo antes do cruzamento se não houver linha, e não obstruir a passagem dos veículos e bondes que circulam pela via transversal (Kyosoku, Capítulo 5, Seção 7, item 3(3), Anexo 3(1), item 40)."
+   }
+  },
+  "trap_type": "EI",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免"
+ }
+]

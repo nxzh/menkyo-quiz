@@ -1,662 +1,662 @@
 [
-  {
-    "id": "K4-1-001",
-    "category": "運転に当たっての注意",
-    "kp": "4-1-1",
-    "group": "E",
-    "source": "教則 第4章第1節1(1)ア",
-    "question_type": "text",
-    "qf": "QF-4-1-1-A-N-01",
-    "question_ja": "自動車を運転する前には、運転しようとする自動車に応じた運転免許証を持っていることを確かめなければならない。",
-    "answer": true,
-    "explanation_ja": "教則第4章第1節1(1)アのとおりです。免許の種類と運転する車が合っていなければ無免許運転になります。",
-    "i18n": {
-      "zh": {
-        "question": "驾驶汽车前，必须确认持有与所要驾驶的汽车相应的驾驶证。",
-        "explanation": "符合教则第4章第1节1(1)ア的规定。驾照种类与所驾车辆不相符就构成无证驾驶。"
-      },
-      "en": {
-        "question": "Before driving a car you must check that you hold a driver's licence that covers the car you are about to drive.",
-        "explanation": "This is Kyosoku Chapter 4 Section 1 item 1(1)(a). If the class of licence does not match the vehicle, you are driving unlicensed."
-      },
-      "vi": {
-        "question": "Trước khi lái ô tô, bạn phải kiểm tra rằng mình có bằng lái xe phù hợp với chiếc xe sắp lái.",
-        "explanation": "Đúng theo Kyosoku Chương 4 Mục 1 điểm 1(1)(a). Nếu hạng bằng không khớp với xe thì đó là lái xe không có bằng."
-      },
-      "pt": {
-        "question": "Antes de dirigir um automóvel você deve conferir que possui carteira de habilitação compatível com o veículo que vai conduzir.",
-        "explanation": "É o Kyosoku, Capítulo 4, Seção 1, item 1(1)(a). Se a categoria não corresponde ao veículo, você está dirigindo sem habilitação."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免|外免"
+ {
+  "id": "K5-2-101",
+  "category": "通行区分",
+  "kp": "5-2-1",
+  "group": "H",
+  "source": "教則 第5章第2節1(1)",
+  "question_type": "text",
+  "qf": "QF-5-2-A-N-06",
+  "question_ja": "一方通行となっている道路では、車は道路の中央から右の部分にはみ出して通行することができる。",
+  "answer": true,
+  "explanation_ja": "教則第5章第2節1(1)のとおりです。一方通行の道路では反対方向から車が来ないため、右の部分にはみ出して通行することができ、このときははみ出し方を少なくする必要もありません。",
+  "i18n": {
+   "zh": {
+    "question": "在单向通行的道路上，车辆可以越到道路右侧部分通行。",
+    "explanation": "符合教则第5章第2节1(1)的规定。单向通行的道路上不会有车辆从反方向驶来，因此可以越到右侧部分通行，而且此时也不需要尽量减少越出的幅度。"
+   },
+   "en": {
+    "question": "On a one-way road, a vehicle may move out onto the right-hand side of the road and drive there.",
+    "explanation": "This is Kyosoku Chapter 5 Section 2 item 1(1). On a one-way road no vehicle comes from the opposite direction, so you may move out onto the right-hand side, and in this case you do not have to keep how far you move out to a minimum."
+   },
+   "vi": {
+    "question": "Trên đường một chiều, xe có thể lấn sang phần đường bên phải để đi.",
+    "explanation": "Đúng theo Kyosoku Chương 5 Mục 2 điểm 1(1). Trên đường một chiều không có xe đi tới từ hướng ngược lại, nên xe được lấn sang phần đường bên phải, và khi đó cũng không cần giữ cho mức lấn ít nhất có thể."
+   },
+   "pt": {
+    "question": "Numa via de mão única, o veículo pode transpor para o lado direito da via e circular por ele.",
+    "explanation": "É o Kyosoku, Capítulo 5, Seção 2, item 1(1). Numa via de mão única não vêm veículos em sentido contrário, por isso é possível transpor para o lado direito, e nesse caso também não é preciso reduzir ao mínimo o quanto se avança."
+   }
   },
-  {
-    "id": "K4-1-002",
-    "category": "運転に当たっての注意",
-    "kp": "4-1-1",
-    "group": "E",
-    "source": "教則 第4章第1節1(1)イ",
-    "question_type": "text",
-    "qf": "QF-4-1-1-A-N-02",
-    "question_ja": "自動車を運転する前には、有効な自動車検査証と自動車損害賠償責任保険証明書などを自動車に備えていることを確かめる。",
-    "answer": true,
-    "explanation_ja": "教則第4章第1節1(1)イのとおりです。責任共済証明書でも差し支えありません。",
-    "i18n": {
-      "zh": {
-        "question": "驾驶汽车前，要确认车上备有有效的机动车检验证和机动车损害赔偿责任保险证明书等。",
-        "explanation": "符合教则第4章第1节1(1)イ的规定。责任共济证明书也可以。"
-      },
-      "en": {
-        "question": "Before driving you check that a valid vehicle inspection certificate and compulsory liability insurance certificate are carried in the car.",
-        "explanation": "This is Kyosoku Chapter 4 Section 1 item 1(1)(b). A mutual-aid liability certificate serves just as well."
-      },
-      "vi": {
-        "question": "Trước khi lái xe, bạn kiểm tra rằng trên xe có giấy kiểm định xe còn hiệu lực và giấy chứng nhận bảo hiểm trách nhiệm bắt buộc.",
-        "explanation": "Đúng theo Kyosoku Chương 4 Mục 1 điểm 1(1)(b). Giấy chứng nhận tương trợ trách nhiệm cũng được chấp nhận."
-      },
-      "pt": {
-        "question": "Antes de dirigir, confira que o certificado de inspeção veicular válido e o comprovante do seguro obrigatório de responsabilidade estão no carro.",
-        "explanation": "É o Kyosoku, Capítulo 4, Seção 1, item 1(1)(b). O certificado de mútua de responsabilidade também serve."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-2-102",
+  "category": "通行区分",
+  "kp": "5-2-1",
+  "group": "H",
+  "source": "教則 第5章第2節1 / 道交法第17条第4項",
+  "question_type": "text",
+  "qf": "QF-5-2-A-N-15",
+  "question_ja": "中央線は道路の中央からずれた位置に引かれていることもあり、このような道路では、車はその中央線から左の部分を通行しなければならない。",
+  "answer": true,
+  "explanation_ja": "教則第5章第2節1のとおりです。中央線があるときはその中央線の引かれた部分が道路の中央とされるので、道路の幅の真ん中とは限りません（道交法第17条第4項）。",
+  "i18n": {
+   "zh": {
+    "question": "中心线也有画在偏离道路正中位置的情况，在这样的道路上，车辆必须通行该中心线以左的部分。",
+    "explanation": "符合教则第5章第2节1的规定。有中心线时，画有该中心线的部分被视为道路的中央，因此并不一定是道路宽度的正中（道交法第17条第4款）。"
+   },
+   "en": {
+    "question": "A center line is sometimes drawn away from the middle of the road, and on such a road a vehicle must travel on the left of that center line.",
+    "explanation": "This is Kyosoku Chapter 5 Section 2 item 1. Where there is a center line, the part where that line is drawn counts as the middle of the road, so it is not necessarily the middle of the road's width (Road Traffic Act Article 17 paragraph 4)."
+   },
+   "vi": {
+    "question": "Vạch giữa đường đôi khi được kẻ lệch khỏi chính giữa mặt đường, và trên đường như vậy xe phải đi ở phần bên trái của vạch đó.",
+    "explanation": "Đúng theo Kyosoku Chương 5 Mục 2 điểm 1. Khi có vạch giữa đường, phần có vạch đó được coi là chính giữa đường, nên không nhất thiết trùng với chính giữa bề rộng mặt đường (Luật Giao thông Đường bộ Điều 17 khoản 4)."
+   },
+   "pt": {
+    "question": "A linha divisória central às vezes é traçada fora do meio da via e, numa via assim, o veículo deve circular do lado esquerdo dessa linha.",
+    "explanation": "É o Kyosoku, Capítulo 5, Seção 2, item 1. Quando há linha divisória central, a parte em que ela está traçada conta como o meio da via, e por isso não é necessariamente o meio da largura da via (Lei de Trânsito, Artigo 17, parágrafo 4)."
+   }
   },
-  {
-    "id": "K4-1-003",
-    "category": "運転に当たっての注意",
-    "kp": "4-1-1",
-    "group": "E",
-    "source": "教則 第4章第1節1(1)ウ",
-    "question_type": "text",
-    "qf": "QF-4-1-1-A-N-03",
-    "question_ja": "自動車を運転する前には、運転免許証に記載されている眼鏡等使用などの条件を守っていることを確かめる。",
-    "answer": true,
-    "explanation_ja": "教則第4章第1節1(1)ウのとおりです。条件に違反して運転すれば、免許条件違反になります。",
-    "i18n": {
-      "zh": {
-        "question": "驾驶汽车前，要确认遵守了驾驶证上记载的须佩戴眼镜等条件。",
-        "explanation": "符合教则第4章第1节1(1)ウ的规定。违反条件驾驶就构成违反驾照条件。"
-      },
-      "en": {
-        "question": "Before driving you check that you are meeting any conditions noted on your licence, such as the use of glasses.",
-        "explanation": "This is Kyosoku Chapter 4 Section 1 item 1(1)(c). Driving in breach of a condition is a licence-condition offence."
-      },
-      "vi": {
-        "question": "Trước khi lái xe, bạn kiểm tra rằng mình đang tuân thủ các điều kiện ghi trên bằng lái, chẳng hạn phải đeo kính.",
-        "explanation": "Đúng theo Kyosoku Chương 4 Mục 1 điểm 1(1)(c). Lái xe vi phạm điều kiện là vi phạm điều kiện của bằng lái."
-      },
-      "pt": {
-        "question": "Antes de dirigir, confira que está cumprindo as condições anotadas na habilitação, como o uso de óculos.",
-        "explanation": "É o Kyosoku, Capítulo 4, Seção 1, item 1(1)(c). Dirigir descumprindo uma condição é infração à condição da habilitação."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-2-103",
+  "category": "通行区分",
+  "kp": "5-2-1",
+  "group": "H",
+  "source": "教則 第5章第2節1",
+  "question_type": "text",
+  "qf": "QF-5-2-A-N-22",
+  "question_ja": "普通自動車を運転していて道路の中央から右の部分にはみ出して通行してよい場面に出会ったとき、その道路が一方通行になっている場合を除き、運転者ははみ出す量を必要な最小限にとどめなければならない。",
+  "answer": true,
+  "explanation_ja": "教則第5章第2節1のとおりです。道路工事などで左側部分だけでは幅が足りないときなど、はみ出して通行できる場合でも、はみ出し方は少なくします。",
+  "i18n": {
+   "zh": {
+    "question": "驾驶普通汽车时遇到可以越到道路中央右侧部分通行的场面，除该道路为单向通行的情形外，驾驶人必须把越出的量控制在必要的最小限度。",
+    "explanation": "符合教则第5章第2节1的规定。像道路施工使左侧部分宽度不够那样可以越出通行的情况下，越出的幅度也要尽量小。"
+   },
+   "en": {
+    "question": "When you are driving an ordinary motor vehicle and meet a situation in which you may move out onto the right-hand side of the road, the driver must keep the amount he moves out to the minimum needed, except where that road is one way.",
+    "explanation": "This is Kyosoku Chapter 5 Section 2 item 1. Even where moving out is allowed, such as when roadworks leave the left-hand side too narrow, you keep how far you move out small."
+   },
+   "vi": {
+    "question": "Khi đang lái xe ô tô thường và gặp tình huống được phép lấn sang phần đường bên phải, người lái phải giữ mức lấn ở mức tối thiểu cần thiết, trừ trường hợp đường đó là đường một chiều.",
+    "explanation": "Đúng theo Kyosoku Chương 5 Mục 2 điểm 1. Ngay cả khi được lấn, chẳng hạn khi công trình thi công làm phần đường bên trái không đủ rộng, mức lấn vẫn phải giữ cho nhỏ."
+   },
+   "pt": {
+    "question": "Ao dirigir um veículo comum e encontrar uma situação em que se pode transpor para o lado direito da via, o condutor deve limitar o quanto transpõe ao mínimo necessário, salvo quando essa via for de mão única.",
+    "explanation": "É o Kyosoku, Capítulo 5, Seção 2, item 1. Mesmo quando transpor é permitido, como quando obras na via deixam o lado esquerdo sem largura suficiente, avança-se o mínimo."
+   }
   },
-  {
-    "id": "K4-1-004",
-    "category": "運転に当たっての注意",
-    "kp": "4-1-1",
-    "group": "E",
-    "source": "教則 第4章第1節1(1)オ",
-    "question_type": "text",
-    "qf": "QF-4-1-1-A-N-04",
-    "question_ja": "準中型免許又は普通免許を受けて1年を経過していない初心運転者が普通自動車を運転するときは、その車の前と後ろの定められた位置に初心者マークを付けていなければならない。",
-    "answer": true,
-    "explanation_ja": "教則第4章第1節1(1)オのとおりです。前と後ろの両方に付けることが必要です。",
-    "i18n": {
-      "zh": {
-        "question": "取得准中型驾照或普通驾照未满1年的新手驾驶员驾驶普通汽车时，必须在车辆前后规定位置张贴新手标志。",
-        "explanation": "符合教则第4章第1节1(1)オ的规定。前后两处都必须张贴。"
-      },
-      "en": {
-        "question": "A novice driver within one year of obtaining a semi-medium or ordinary licence must display the beginner's mark at the set positions on the front and the rear of the car.",
-        "explanation": "This is Kyosoku Chapter 4 Section 1 item 1(1)(e). It has to be on both the front and the rear."
-      },
-      "vi": {
-        "question": "Người mới lái trong vòng một năm kể từ khi lấy bằng hạng bán trung hoặc hạng thường phải dán phù hiệu người mới ở vị trí quy định phía trước và phía sau xe.",
-        "explanation": "Đúng theo Kyosoku Chương 4 Mục 1 điểm 1(1)(e). Phải dán ở cả phía trước lẫn phía sau."
-      },
-      "pt": {
-        "question": "O condutor novato com menos de um ano de habilitação semimédia ou comum deve exibir o selo de iniciante nas posições determinadas à frente e atrás do carro.",
-        "explanation": "É o Kyosoku, Capítulo 4, Seção 1, item 1(1)(e). Tem de estar tanto na frente quanto na traseira."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-2-104",
+  "category": "通行区分",
+  "kp": "5-2-1",
+  "group": "H",
+  "source": "教則 第5章第2節1(1)",
+  "question_type": "text",
+  "qf": "QF-5-2-D-AB-01",
+  "question_ja": "車は、どんな場合でも道路の中央から右の部分にはみ出して通行してはいけないので、一方通行となっている道路でも右の部分を通行することはできない。",
+  "answer": false,
+  "explanation_ja": "どんな場合でも、ではありません。一方通行となっているときは、道路の中央から右の部分にはみ出して通行することができます（教則第5章第2節1(1)）。",
+  "i18n": {
+   "zh": {
+    "question": "车辆在任何情况下都不得越到道路右侧部分通行，因此即使是单向通行的道路也不能通行右侧部分。",
+    "explanation": "并非任何情况下都不可以。属于单向通行时，可以越到道路右侧部分通行（教则第5章第2节1(1)）。"
+   },
+   "en": {
+    "question": "A vehicle may never, in any circumstances, move out onto the right-hand side of the road, so it may not travel on the right-hand side even on a one-way road.",
+    "explanation": "It is not in any circumstances. Where the road is one way, a vehicle may move out onto the right-hand side of the road (Kyosoku Chapter 5 Section 2 item 1(1))."
+   },
+   "vi": {
+    "question": "Trong mọi trường hợp xe đều không được lấn sang phần đường bên phải, nên ngay cả trên đường một chiều xe cũng không được đi ở phần bên phải.",
+    "explanation": "Không phải là mọi trường hợp. Khi đường là đường một chiều, xe được lấn sang phần đường bên phải (Kyosoku Chương 5 Mục 2 điểm 1(1))."
+   },
+   "pt": {
+    "question": "O veículo nunca, em nenhuma circunstância, pode transpor para o lado direito da via, portanto nem numa via de mão única ele pode circular por esse lado.",
+    "explanation": "Não é em nenhuma circunstância. Quando a via é de mão única, o veículo pode transpor para o lado direito da via (Kyosoku, Capítulo 5, Seção 2, item 1(1))."
+   }
   },
-  {
-    "id": "K4-1-005",
-    "category": "運転に当たっての注意",
-    "kp": "4-1-1",
-    "group": "E",
-    "source": "教則 第4章第1節1(1)キ",
-    "question_type": "text",
-    "qf": "QF-4-1-1-A-N-05",
-    "question_ja": "自動車を運転する前には、非常信号用具や停止表示器材などを車に積んでいることを確かめる。",
-    "answer": true,
-    "explanation_ja": "教則第4章第1節1(1)キのとおりです。停止表示器材とは、停止表示板又は停止表示灯をいいます。",
-    "i18n": {
-      "zh": {
-        "question": "驾驶汽车前，要确认车上装有紧急信号用具和停车示警器材等。",
-        "explanation": "符合教则第4章第1节1(1)キ的规定。所谓停车示警器材，是指停车示警板或停车示警灯。"
-      },
-      "en": {
-        "question": "Before driving you check that emergency signalling equipment and warning devices are carried in the car.",
-        "explanation": "This is Kyosoku Chapter 4 Section 1 item 1(1)(g). A warning device means a warning triangle or a warning lamp."
-      },
-      "vi": {
-        "question": "Trước khi lái xe, bạn kiểm tra rằng trên xe có dụng cụ báo hiệu khẩn cấp và thiết bị cảnh báo dừng xe.",
-        "explanation": "Đúng theo Kyosoku Chương 4 Mục 1 điểm 1(1)(g). Thiết bị cảnh báo dừng xe nghĩa là biển tam giác phản quang hoặc đèn cảnh báo."
-      },
-      "pt": {
-        "question": "Antes de dirigir, confira que o veículo leva equipamento de sinalização de emergência e dispositivo de advertência de parada.",
-        "explanation": "É o Kyosoku, Capítulo 4, Seção 1, item 1(1)(g). Dispositivo de advertência significa triângulo ou lâmpada de sinalização."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "AB",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-2-105",
+  "category": "通行区分",
+  "kp": "5-2-1",
+  "group": "H",
+  "source": "教則 第5章第2節1(2)",
+  "question_type": "text",
+  "qf": "QF-5-2-D-AB-02",
+  "question_ja": "道路の状態やほかの交通の状況がどうであっても、車が道路の中央から右の部分にはみ出して通行することは一切認められていない。",
+  "answer": false,
+  "explanation_ja": "一切認められていないのではありません。道路工事などのため左側部分だけでは通行するのに十分な幅がないときは、はみ出して通行することができます（教則第5章第2節1(2)）。",
+  "i18n": {
+   "zh": {
+    "question": "无论道路状况和其他交通情况如何，车辆越到道路右侧部分通行都完全不被允许。",
+    "explanation": "并非完全不被允许。因道路施工等原因仅靠左侧部分宽度不足以通行时，可以越出通行（教则第5章第2节1(2)）。"
+   },
+   "en": {
+    "question": "Whatever the state of the road and whatever the other traffic, a vehicle is never allowed at all to move out onto the right-hand side of the road.",
+    "explanation": "It is not never allowed. When roadworks or the like leave the left-hand side too narrow to pass, a vehicle may move out onto the right-hand side (Kyosoku Chapter 5 Section 2 item 1(2))."
+   },
+   "vi": {
+    "question": "Bất kể tình trạng mặt đường và tình hình giao thông ra sao, xe hoàn toàn không được phép lấn sang phần đường bên phải.",
+    "explanation": "Không phải là hoàn toàn không được phép. Khi công trình thi công khiến phần đường bên trái không đủ rộng để đi, xe được lấn sang phần bên phải (Kyosoku Chương 5 Mục 2 điểm 1(2))."
+   },
+   "pt": {
+    "question": "Seja qual for o estado da via e o restante do trânsito, ao veículo não se permite de forma alguma transpor para o lado direito da via.",
+    "explanation": "Não é algo proibido de forma alguma. Quando obras na via deixam o lado esquerdo sem largura suficiente para passar, o veículo pode transpor para o lado direito (Kyosoku, Capítulo 5, Seção 2, item 1(2))."
+   }
   },
-  {
-    "id": "K4-1-006",
-    "category": "運転計画",
-    "kp": "4-1-2",
-    "group": "E",
-    "source": "教則 第4章第1節2",
-    "question_type": "text",
-    "qf": "QF-4-1-2-A-N-01",
-    "question_ja": "長時間にわたって運転するときは、2時間に1回は休息をとるようにする。",
-    "answer": true,
-    "explanation_ja": "教則第4章第1節2のとおりです。眠気を感じたら、速やかに休息をとって眠気を覚ましてから運転します。",
-    "i18n": {
-      "zh": {
-        "question": "长时间驾驶时，要每2小时休息1次。",
-        "explanation": "符合教则第4章第1节2的规定。感到困倦时要尽快休息，消除困意后再驾驶。"
-      },
-      "en": {
-        "question": "When you will be driving for a long time, take a rest once every two hours.",
-        "explanation": "This is Kyosoku Chapter 4 Section 1 item 2. If you feel drowsy, rest promptly and shake off the drowsiness before driving on."
-      },
-      "vi": {
-        "question": "Khi lái xe trong thời gian dài, hãy nghỉ một lần sau mỗi hai tiếng.",
-        "explanation": "Đúng theo Kyosoku Chương 4 Mục 1 điểm 2. Nếu thấy buồn ngủ, hãy nghỉ ngay và tỉnh táo lại rồi mới đi tiếp."
-      },
-      "pt": {
-        "question": "Quando for dirigir por muito tempo, faça uma pausa a cada duas horas.",
-        "explanation": "É o Kyosoku, Capítulo 4, Seção 1, item 2. Se sentir sono, descanse logo e só volte a dirigir depois de espantá-lo."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "AB",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-2-106",
+  "category": "通行区分",
+  "kp": "5-2-1",
+  "group": "H",
+  "source": "教則 第5章第2節1(1)",
+  "question_type": "text",
+  "qf": "QF-5-2-D-SW-01",
+  "question_ja": "一方通行となっている道路では、車は道路の中央から右の部分を通行しなければならない。",
+  "answer": false,
+  "explanation_ja": "通行しなければならないのではありません。一方通行の道路では、道路の中央から右の部分にはみ出して通行することもできる、ということです（教則第5章第2節1(1)）。",
+  "i18n": {
+   "zh": {
+    "question": "在单向通行的道路上，车辆必须通行道路右侧部分。",
+    "explanation": "并非必须通行。其含义是在单向通行的道路上也可以越到道路右侧部分通行（教则第5章第2节1(1)）。"
+   },
+   "en": {
+    "question": "On a one-way road, a vehicle must travel on the right-hand side of the road.",
+    "explanation": "It is not a duty. It means that on a one-way road a vehicle may also move out onto the right-hand side of the road (Kyosoku Chapter 5 Section 2 item 1(1))."
+   },
+   "vi": {
+    "question": "Trên đường một chiều, xe phải đi ở phần đường bên phải.",
+    "explanation": "Đó không phải là nghĩa vụ. Điều đó có nghĩa là trên đường một chiều xe cũng được lấn sang phần đường bên phải (Kyosoku Chương 5 Mục 2 điểm 1(1))."
+   },
+   "pt": {
+    "question": "Numa via de mão única, o veículo deve circular pelo lado direito da via.",
+    "explanation": "Não é uma obrigação. Significa que, numa via de mão única, o veículo também pode transpor para o lado direito da via (Kyosoku, Capítulo 5, Seção 2, item 1(1))."
+   }
   },
-  {
-    "id": "K4-1-007",
-    "category": "体調",
-    "kp": "4-1-3",
-    "group": "E",
-    "source": "教則 第4章第1節3",
-    "question_type": "text",
-    "qf": "QF-4-1-3-A-N-01",
-    "question_ja": "睡眠作用のある風邪薬や頭痛薬などを服用したときは、運転をしないようにする。",
-    "answer": true,
-    "explanation_ja": "教則第4章第1節3のとおりです。注意力が散漫になったり、判断力が衰えたりするためです。",
-    "i18n": {
-      "zh": {
-        "question": "服用了有催眠作用的感冒药或头痛药等时，不要驾驶。",
-        "explanation": "符合教则第4章第1节3的规定。因为这会使注意力涣散、判断力下降。"
-      },
-      "en": {
-        "question": "Do not drive after taking cold or headache medicine that causes drowsiness.",
-        "explanation": "This is Kyosoku Chapter 4 Section 1 item 3. Your attention scatters and your judgement weakens."
-      },
-      "vi": {
-        "question": "Đừng lái xe sau khi uống thuốc cảm hay thuốc đau đầu gây buồn ngủ.",
-        "explanation": "Đúng theo Kyosoku Chương 4 Mục 1 điểm 3. Sự chú ý của bạn bị phân tán và khả năng phán đoán suy giảm."
-      },
-      "pt": {
-        "question": "Não dirija depois de tomar remédio de gripe ou dor de cabeça que dê sono.",
-        "explanation": "É o Kyosoku, Capítulo 4, Seção 1, item 3. A atenção se dispersa e o julgamento fica prejudicado."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "SW",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-2-107",
+  "category": "通行区分",
+  "kp": "5-2-1",
+  "group": "H",
+  "source": "教則 第5章第2節1",
+  "question_type": "text",
+  "qf": "QF-5-2-D-SW-09",
+  "question_ja": "車が道路の中央から右の部分にはみ出して通行するときは、はみ出し方ができるだけ多くなるようにしなければならない。",
+  "answer": false,
+  "explanation_ja": "多くするのではありません。一方通行となっているときのほかは、はみ出し方ができるだけ少なくなるようにしなければなりません（教則第5章第2節1）。",
+  "i18n": {
+   "zh": {
+    "question": "车辆越到道路右侧部分通行时，必须使越出的幅度尽量大。",
+    "explanation": "不是要尽量大。除属于单向通行的情形外，必须使越出的幅度尽量小（教则第5章第2节1）。"
+   },
+   "en": {
+    "question": "When a vehicle moves out onto the right-hand side of the road, it must move out as far as it can.",
+    "explanation": "It is not as far as it can. Except where the road is one way, you must keep how far you move out to a minimum (Kyosoku Chapter 5 Section 2 item 1)."
+   },
+   "vi": {
+    "question": "Khi xe lấn sang phần đường bên phải, xe phải lấn càng nhiều càng tốt.",
+    "explanation": "Không phải càng nhiều càng tốt. Trừ khi đường là đường một chiều, phải lấn ít nhất có thể (Kyosoku Chương 5 Mục 2 điểm 1)."
+   },
+   "pt": {
+    "question": "Quando o veículo transpõe para o lado direito da via, deve avançar o máximo possível para esse lado.",
+    "explanation": "Não é o máximo possível. Salvo quando a via é de mão única, deve-se avançar o mínimo possível (Kyosoku, Capítulo 5, Seção 2, item 1)."
+   }
   },
-  {
-    "id": "K4-1-008",
-    "category": "体調",
-    "kp": "4-1-3",
-    "group": "E",
-    "source": "教則 第4章第1節3",
-    "question_type": "text",
-    "qf": "QF-4-1-3-A-N-02",
-    "question_ja": "過労のときは、運転してはいけない。",
-    "answer": true,
-    "explanation_ja": "教則第4章第1節3のとおりです。疲れているときや病気のときも、運転を控えるか体の調子を整えてから運転します。",
-    "i18n": {
-      "zh": {
-        "question": "过度疲劳时不得驾驶。",
-        "explanation": "符合教则第4章第1节3的规定。疲劳或生病时也要避免驾驶，或者调整好身体状况后再驾驶。"
-      },
-      "en": {
-        "question": "You must not drive when you are exhausted.",
-        "explanation": "This is Kyosoku Chapter 4 Section 1 item 3. When tired or ill you should also hold off driving, or get yourself in shape first."
-      },
-      "vi": {
-        "question": "Bạn không được lái xe khi quá mệt mỏi.",
-        "explanation": "Đúng theo Kyosoku Chương 4 Mục 1 điểm 3. Khi mệt hay ốm, bạn cũng nên hoãn lái xe hoặc chỉnh lại thể trạng trước đã."
-      },
-      "pt": {
-        "question": "Você não deve dirigir em estado de exaustão.",
-        "explanation": "É o Kyosoku, Capítulo 4, Seção 1, item 3. Cansado ou doente, você também deve evitar dirigir ou primeiro se recuperar."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "SW",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-2-108",
+  "category": "通行区分",
+  "kp": "5-2-1",
+  "group": "H",
+  "source": "教則 第5章第2節1",
+  "question_type": "text",
+  "qf": "QF-5-2-D-EI-11",
+  "question_ja": "道路の左側部分が混雑しているときは、車は道路の中央から右の部分に出て通行することができる。",
+  "answer": false,
+  "explanation_ja": "混雑は、右の部分にはみ出して通行できる場合には入っていません。一方通行のときや、道路工事などで左側部分の幅が足りないときなどに限られます（教則第5章第2節1）。",
+  "i18n": {
+   "zh": {
+    "question": "道路左侧部分交通拥挤时，车辆可以驶到道路右侧部分通行。",
+    "explanation": "交通拥挤并不属于可以越到右侧部分通行的情形。只限于单向通行，或因道路施工等原因左侧部分宽度不足等情况（教则第5章第2节1）。"
+   },
+   "en": {
+    "question": "When the left-hand side of the road is congested, a vehicle may move out onto the right-hand side of the road.",
+    "explanation": "Congested traffic is not one of the cases in which you may move out onto the right-hand side. They are limited to a one-way road, a left-hand side left too narrow by roadworks, and the like (Kyosoku Chapter 5 Section 2 item 1)."
+   },
+   "vi": {
+    "question": "Khi phần đường bên trái bị tắc nghẽn, xe được đi sang phần đường bên phải.",
+    "explanation": "Giao thông tắc nghẽn không nằm trong các trường hợp được lấn sang phần bên phải. Các trường hợp đó chỉ gồm đường một chiều, phần đường bên trái không đủ rộng do công trình thi công và những trường hợp tương tự (Kyosoku Chương 5 Mục 2 điểm 1)."
+   },
+   "pt": {
+    "question": "Quando o lado esquerdo da via está congestionado, o veículo pode passar a circular pelo lado direito da via.",
+    "explanation": "O trânsito congestionado não é um dos casos em que se pode transpor para o lado direito. Esses casos limitam-se à via de mão única, ao lado esquerdo estreitado por obras na via e semelhantes (Kyosoku, Capítulo 5, Seção 2, item 1)."
+   }
   },
-  {
-    "id": "K4-1-009",
-    "category": "酒気帯び運転の禁止",
-    "kp": "4-1-4",
-    "group": "E",
-    "source": "教則 第4章第1節4",
-    "question_type": "text",
-    "qf": "QF-4-1-4-A-N-01",
-    "question_ja": "酒気を帯びているときや麻薬、覚せい剤、シンナーなどの影響を受けているときは、運転してはいけない。",
-    "answer": true,
-    "explanation_ja": "教則第4章第1節4のとおりです。酒の量や運転する距離にかかわらず禁じられています。",
-    "i18n": {
-      "zh": {
-        "question": "带有酒气时，或者受麻药、兴奋剂、稀释剂等影响时，不得驾驶。",
-        "explanation": "符合教则第4章第1节4的规定。无论饮酒量多少、行驶距离长短都被禁止。"
-      },
-      "en": {
-        "question": "You must not drive while you have alcohol in you or while under the influence of narcotics, stimulants, thinner and the like.",
-        "explanation": "This is Kyosoku Chapter 4 Section 1 item 4. The ban holds whatever the amount drunk and however short the drive."
-      },
-      "vi": {
-        "question": "Bạn không được lái xe khi trong người có rượu bia hoặc khi chịu ảnh hưởng của ma túy, chất kích thích, dung môi pha sơn và những thứ tương tự.",
-        "explanation": "Đúng theo Kyosoku Chương 4 Mục 1 điểm 4. Lệnh cấm này áp dụng bất kể uống bao nhiêu và đi quãng đường ngắn thế nào."
-      },
-      "pt": {
-        "question": "Você não deve dirigir sob efeito de álcool nem sob influência de entorpecentes, estimulantes, solventes e semelhantes.",
-        "explanation": "É o Kyosoku, Capítulo 4, Seção 1, item 4. A proibição vale qualquer que seja a quantidade ingerida e por mais curto que seja o trajeto."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "EI",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-2-109",
+  "category": "通行区分",
+  "kp": "5-2-2",
+  "group": "H",
+  "source": "教則 第5章第2節2(1)",
+  "question_type": "text",
+  "qf": "QF-5-2-A-N-12",
+  "question_ja": "車両通行帯が設けられていない道路を走っているとき、運転者は、追越しなどのやむを得ない場合を除き、車を道路の左に寄せて通行させなければならない。",
+  "answer": true,
+  "explanation_ja": "教則第5章第2節2(1)のとおりです。車両通行帯は車線やレーンともいい、これがない道路では左に寄って通行します。",
+  "i18n": {
+   "zh": {
+    "question": "行驶在没有设置车辆通行带的道路上时，驾驶人除超车等不得已的情况外，必须让车辆靠道路左侧通行。",
+    "explanation": "符合教则第5章第2节2(1)的规定。车辆通行带也称车道，在没有车辆通行带的道路上要靠左通行。"
+   },
+   "en": {
+    "question": "When driving on a road where no vehicle lanes have been laid out, the driver must keep the vehicle to the left of the road, except where it cannot be helped, such as when overtaking.",
+    "explanation": "This is Kyosoku Chapter 5 Section 2 item 2(1). Vehicle lanes are also called traffic lanes, and on a road without them you keep to the left."
+   },
+   "vi": {
+    "question": "Khi chạy trên đường không có làn đường được kẻ, người lái phải cho xe đi sát về bên trái của đường, trừ những trường hợp bất đắc dĩ như khi vượt xe.",
+    "explanation": "Đúng theo Kyosoku Chương 5 Mục 2 điểm 2(1). Làn đường còn được gọi là làn xe, và trên đường không có làn đường thì phải đi sát bên trái."
+   },
+   "pt": {
+    "question": "Ao trafegar numa via onde não foram demarcadas faixas de rolamento, o condutor deve manter o veículo à esquerda da via, salvo quando não há alternativa, como ao ultrapassar.",
+    "explanation": "É o Kyosoku, Capítulo 5, Seção 2, item 2(1). As faixas de rolamento também são chamadas de pistas, e numa via sem elas mantém-se à esquerda."
+   }
   },
-  {
-    "id": "K4-1-010",
-    "category": "酒気帯び運転の禁止",
-    "kp": "4-1-4",
-    "group": "E",
-    "source": "教則 第4章第1節4",
-    "question_type": "text",
-    "qf": "QF-4-1-4-A-N-02",
-    "question_ja": "酒を飲んだのが前夜であっても、翌朝の運転時まで酒の影響を受けていることがある。",
-    "answer": true,
-    "explanation_ja": "教則第4章第1節4のとおりです。前夜の酒であっても、影響が残っていれば運転してはいけません。",
-    "i18n": {
-      "zh": {
-        "question": "即使是前一天晚上喝的酒，也有可能到第二天早上驾驶时仍受酒的影响。",
-        "explanation": "符合教则第4章第1节4的规定。即使是前夜的酒，只要影响还在就不得驾驶。"
-      },
-      "en": {
-        "question": "Even alcohol drunk the night before can still be affecting you when you drive the next morning.",
-        "explanation": "This is Kyosoku Chapter 4 Section 1 item 4. If the effect remains you must not drive, however long ago you drank."
-      },
-      "vi": {
-        "question": "Rượu bia uống từ tối hôm trước vẫn có thể còn ảnh hưởng tới bạn khi lái xe sáng hôm sau.",
-        "explanation": "Đúng theo Kyosoku Chương 4 Mục 1 điểm 4. Nếu ảnh hưởng vẫn còn thì bạn không được lái xe, dù đã uống từ lâu."
-      },
-      "pt": {
-        "question": "O álcool bebido na noite anterior ainda pode estar fazendo efeito quando você dirige na manhã seguinte.",
-        "explanation": "É o Kyosoku, Capítulo 4, Seção 1, item 4. Se o efeito persiste, você não deve dirigir, por mais tempo que tenha passado."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "N",
+  "difficulty": 1,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-2-110",
+  "category": "通行区分",
+  "kp": "5-2-2",
+  "group": "H",
+  "source": "教則 第5章第2節2(1)",
+  "question_type": "text",
+  "qf": "QF-5-2-D-SW-08",
+  "question_ja": "市街地で一般原動機付自転車を運転しているとき、車両通行帯のない道路では、道路の中央に寄って通行しなければならない。",
+  "answer": false,
+  "explanation_ja": "中央に寄るのではありません。追越しなどでやむを得ない場合のほかは、道路の左に寄って通行しなければなりません（教則第5章第2節2(1)）。",
+  "i18n": {
+   "zh": {
+    "question": "在市区驾驶一般轻型摩托车时，在没有车辆通行带的道路上必须靠道路中央通行。",
+    "explanation": "不是靠中央。除超车等不得已的情况外，必须靠道路左侧通行（教则第5章第2节2(1)）。"
+   },
+   "en": {
+    "question": "When riding a general motorized bicycle (moped) in a built-up area, on a road with no vehicle lanes you must keep to the middle of the road.",
+    "explanation": "It is not the middle. Except where it cannot be helped, such as when overtaking, you must keep to the left of the road (Kyosoku Chapter 5 Section 2 item 2(1))."
+   },
+   "vi": {
+    "question": "Khi lái xe gắn máy (原付) trong khu đô thị, trên đường không có làn đường thì phải đi sát về chính giữa đường.",
+    "explanation": "Không phải là chính giữa. Trừ những trường hợp bất đắc dĩ như khi vượt xe, xe phải đi sát về bên trái của đường (Kyosoku Chương 5 Mục 2 điểm 2(1))."
+   },
+   "pt": {
+    "question": "Ao conduzir um ciclomotor numa área urbana, numa via sem faixas de rolamento é preciso manter-se no meio da via.",
+    "explanation": "Não é no meio. Salvo quando não há alternativa, como ao ultrapassar, o veículo deve manter-se à esquerda da via (Kyosoku, Capítulo 5, Seção 2, item 2(1))."
+   }
   },
-  {
-    "id": "K4-1-011",
-    "category": "運転に当たっての注意",
-    "kp": "4-1-1",
-    "group": "E",
-    "source": "教則 第4章第1節1(2)",
-    "question_type": "text",
-    "qf": "QF-4-1-1-D-EX-01",
-    "question_ja": "70歳以上の高齢運転者が普通自動車を運転するときは、高齢者マークを付けなければ運転することができない。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第4章第1節1(2)は高齢者マークを付けるよう努めることを求めているもので、付けなければ運転できないとはされていません。",
-    "i18n": {
-      "zh": {
-        "question": "70岁以上的高龄驾驶员驾驶普通汽车时，不张贴高龄者标志就不能驾驶。",
-        "explanation": "错误。教则第4章第1节1(2)要求的是努力张贴高龄者标志，并未规定不贴就不能驾驶。"
-      },
-      "en": {
-        "question": "A driver aged 70 or over may not drive an ordinary car without displaying the older driver's mark.",
-        "explanation": "This is wrong. Kyosoku Chapter 4 Section 1 item 1(2) asks such drivers to make an effort to display the mark; it does not say they may not drive without it."
-      },
-      "vi": {
-        "question": "Người lái từ 70 tuổi trở lên không được lái ô tô thông thường nếu không dán phù hiệu người cao tuổi.",
-        "explanation": "Sai. Kyosoku Chương 4 Mục 1 điểm 1(2) yêu cầu những người lái này cố gắng dán phù hiệu; điều đó không có nghĩa là không dán thì không được lái."
-      },
-      "pt": {
-        "question": "O condutor com 70 anos ou mais não pode dirigir automóvel comum sem exibir o selo de condutor idoso.",
-        "explanation": "Está errado. O Kyosoku, Capítulo 4, Seção 1, item 1(2), pede que esses condutores se esforcem por exibir o selo; não diz que sem ele não podem dirigir."
-      }
-    },
-    "trap_type": "EX",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "SW",
+  "difficulty": 1,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-2-111",
+  "category": "通行区分",
+  "kp": "5-2-2",
+  "group": "H",
+  "source": "教則 第5章第2節2(2)",
+  "question_type": "text",
+  "qf": "QF-5-2-A-N-02",
+  "question_ja": "標識や標示によって通行区分が示されている場合を除き、同一の方向に二つの車両通行帯がある道路では、車は左側の車両通行帯を通行しなければならない。",
+  "answer": true,
+  "explanation_ja": "教則第5章第2節2(2)のとおりです。標識や標示で通行区分が示されているときは、その指定に従わなければなりません。",
+  "i18n": {
+   "zh": {
+    "question": "除标识（立牌）或标示（路面）指明了通行区分的情况外，在同一方向有两条车辆通行带的道路上，车辆必须通行左侧的车辆通行带。",
+    "explanation": "符合教则第5章第2节2(2)的规定。标识或标示指明通行区分时，必须服从该指定。"
+   },
+   "en": {
+    "question": "Except where a road sign or road marking shows a lane designation, a vehicle must travel in the left-hand vehicle lane on a road with two vehicle lanes in the same direction.",
+    "explanation": "This is Kyosoku Chapter 5 Section 2 item 2(2). Where a road sign or road marking shows a lane designation, you must follow it."
+   },
+   "vi": {
+    "question": "Trừ khi biển báo giao thông hoặc vạch kẻ đường (kí hiệu trên mặt đường) chỉ rõ cách phân làn, trên đường có hai làn đường cùng chiều, xe phải đi ở làn bên trái.",
+    "explanation": "Đúng theo Kyosoku Chương 5 Mục 2 điểm 2(2). Khi biển báo giao thông hoặc vạch kẻ đường chỉ rõ cách phân làn, phải tuân theo chỉ định đó."
+   },
+   "pt": {
+    "question": "Salvo quando uma sinalização vertical (placa) ou a sinalização horizontal indica a designação de faixas, numa via com duas faixas de rolamento no mesmo sentido o veículo deve circular pela faixa da esquerda.",
+    "explanation": "É o Kyosoku, Capítulo 5, Seção 2, item 2(2). Quando a sinalização vertical ou a horizontal indica a designação de faixas, é preciso obedecer a essa indicação."
+   }
   },
-  {
-    "id": "K4-1-012",
-    "category": "運転計画",
-    "kp": "4-1-2",
-    "group": "E",
-    "source": "教則 第4章第1節2",
-    "question_type": "text",
-    "qf": "QF-4-1-2-D-NU-01",
-    "question_ja": "長時間にわたって運転するときは、4時間に1回は休息をとるようにする。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第4章第1節2により、2時間に1回は休息をとるようにします。",
-    "i18n": {
-      "zh": {
-        "question": "长时间驾驶时，要每4小时休息1次。",
-        "explanation": "错误。根据教则第4章第1节2，要每2小时休息1次。"
-      },
-      "en": {
-        "question": "When you will be driving for a long time, take a rest once every four hours.",
-        "explanation": "This is wrong. Under Kyosoku Chapter 4 Section 1 item 2 you take a rest once every two hours."
-      },
-      "vi": {
-        "question": "Khi lái xe trong thời gian dài, hãy nghỉ một lần sau mỗi bốn tiếng.",
-        "explanation": "Sai. Theo Kyosoku Chương 4 Mục 1 điểm 2, bạn nghỉ một lần sau mỗi hai tiếng."
-      },
-      "pt": {
-        "question": "Quando for dirigir por muito tempo, faça uma pausa a cada quatro horas.",
-        "explanation": "Está errado. Pelo Kyosoku, Capítulo 4, Seção 1, item 2, a pausa é a cada duas horas."
-      }
-    },
-    "trap_type": "NU",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "N",
+  "difficulty": 1,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-2-112",
+  "category": "通行区分",
+  "kp": "5-2-2",
+  "group": "H",
+  "source": "教則 第5章第2節2(2)",
+  "question_type": "text",
+  "qf": "QF-5-2-D-SW-10",
+  "question_ja": "普通自動車を運転して、同じ方向に車両通行帯が二つある道路に入ったときは、右側の車両通行帯を選んで通行しなければならない。",
+  "answer": false,
+  "explanation_ja": "右側ではありません。二つの車両通行帯があるときは、左側の車両通行帯を通行しなければなりません（教則第5章第2節2(2)）。",
+  "i18n": {
+   "zh": {
+    "question": "驾驶普通汽车驶入同一方向有两条车辆通行带的道路时，必须选择右侧的车辆通行带通行。",
+    "explanation": "不是右侧。有两条车辆通行带时，必须通行左侧的车辆通行带（教则第5章第2节2(2)）。"
+   },
+   "en": {
+    "question": "When you drive an ordinary motor vehicle onto a road that has two vehicle lanes in the same direction, you must choose the right-hand vehicle lane to travel in.",
+    "explanation": "It is not the right-hand one. Where there are two vehicle lanes, you must travel in the left-hand lane (Kyosoku Chapter 5 Section 2 item 2(2))."
+   },
+   "vi": {
+    "question": "Khi lái xe ô tô thường vào một con đường có hai làn đường cùng chiều, phải chọn làn đường bên phải để đi.",
+    "explanation": "Không phải làn bên phải. Khi có hai làn đường, xe phải đi ở làn bên trái (Kyosoku Chương 5 Mục 2 điểm 2(2))."
+   },
+   "pt": {
+    "question": "Ao entrar com um veículo comum numa via que tem duas faixas de rolamento no mesmo sentido, deve-se escolher a faixa da direita para circular.",
+    "explanation": "Não é a da direita. Havendo duas faixas de rolamento, deve-se circular pela faixa da esquerda (Kyosoku, Capítulo 5, Seção 2, item 2(2))."
+   }
   },
-  {
-    "id": "K4-1-013",
-    "category": "酒気帯び運転の禁止",
-    "kp": "4-1-4",
-    "group": "E",
-    "source": "教則 第4章第1節4",
-    "question_type": "text",
-    "qf": "QF-4-1-4-D-EI-01",
-    "question_ja": "酒を飲んだのが前夜であれば、翌朝は酒の影響が残っていても運転してよい。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第4章第1節4により、酒気を帯びているときは運転してはならず、飲んだのがいつかは関係ありません。",
-    "i18n": {
-      "zh": {
-        "question": "只要是前一天晚上喝的酒，即使第二天早上仍残留酒的影响，也可以驾驶。",
-        "explanation": "错误。根据教则第4章第1节4，带有酒气时不得驾驶，与什么时候喝的无关。"
-      },
-      "en": {
-        "question": "If you drank the night before, you may drive the next morning even with the alcohol still affecting you.",
-        "explanation": "This is wrong. Under Kyosoku Chapter 4 Section 1 item 4 you must not drive while you have alcohol in you, and when you drank makes no difference."
-      },
-      "vi": {
-        "question": "Nếu bạn uống từ tối hôm trước thì sáng hôm sau vẫn được lái xe dù rượu còn ảnh hưởng.",
-        "explanation": "Sai. Theo Kyosoku Chương 4 Mục 1 điểm 4, bạn không được lái xe khi trong người còn rượu, và uống lúc nào không quan trọng."
-      },
-      "pt": {
-        "question": "Se você bebeu na noite anterior, pode dirigir na manhã seguinte mesmo com o álcool ainda fazendo efeito.",
-        "explanation": "Está errado. Pelo Kyosoku, Capítulo 4, Seção 1, item 4, você não deve dirigir sob efeito de álcool, e quando bebeu não importa."
-      }
-    },
-    "trap_type": "EI",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "SW",
+  "difficulty": 1,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-2-113",
+  "category": "通行区分",
+  "kp": "5-2-2",
+  "group": "H",
+  "source": "教則 第5章第2節2(2)",
+  "question_type": "text",
+  "qf": "QF-5-2-D-EI-02",
+  "question_ja": "交通量が少ない時間帯であれば、運転者は、同じ方向に車両通行帯が二つある道路のどちらの車両通行帯を通ってもよい。",
+  "answer": false,
+  "explanation_ja": "交通量が少なくても変わりません。二つの車両通行帯があるときは、左側の車両通行帯を通行しなければなりません（教則第5章第2節2(2)）。",
+  "i18n": {
+   "zh": {
+    "question": "只要是交通量少的时段，驾驶人在同一方向有两条车辆通行带的道路上，通行哪一条车辆通行带都可以。",
+    "explanation": "交通量少也不会改变。有两条车辆通行带时，必须通行左侧的车辆通行带（教则第5章第2节2(2)）。"
+   },
+   "en": {
+    "question": "As long as it is a time of day when there is little traffic, the driver may travel in either vehicle lane on a road that has two vehicle lanes in the same direction.",
+    "explanation": "Light traffic changes nothing. Where there are two vehicle lanes, you must travel in the left-hand lane (Kyosoku Chapter 5 Section 2 item 2(2))."
+   },
+   "vi": {
+    "question": "Chỉ cần là khung giờ có ít xe cộ, người lái có thể đi ở làn đường nào cũng được trên con đường có hai làn đường cùng chiều.",
+    "explanation": "Lưu lượng xe ít cũng không làm thay đổi điều đó. Khi có hai làn đường, xe phải đi ở làn bên trái (Kyosoku Chương 5 Mục 2 điểm 2(2))."
+   },
+   "pt": {
+    "question": "Desde que seja um horário de pouco movimento, o condutor pode circular por qualquer das faixas de rolamento numa via que tem duas faixas de rolamento no mesmo sentido.",
+    "explanation": "Pouco movimento não muda nada. Havendo duas faixas de rolamento, deve-se circular pela faixa da esquerda (Kyosoku, Capítulo 5, Seção 2, item 2(2))."
+   }
   },
-  {
-    "id": "K4-1-014",
-    "category": "体調",
-    "kp": "4-1-3",
-    "group": "E",
-    "source": "教則 第4章第1節3",
-    "question_type": "text",
-    "qf": "QF-4-1-3-D-EI-01",
-    "question_ja": "疲れているときや心配ごとのあるときでも、運転する距離が短ければ差し支えない。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第4章第1節3により、このようなときは運転を控えるか、体の調子を整えてから運転します。",
-    "i18n": {
-      "zh": {
-        "question": "即使在疲劳或有心事时，只要行驶距离短就没有关系。",
-        "explanation": "错误。根据教则第4章第1节3，这种时候要避免驾驶，或者调整好身体状况后再驾驶。"
-      },
-      "en": {
-        "question": "Being tired or preoccupied does not matter as long as the drive is short.",
-        "explanation": "This is wrong. Under Kyosoku Chapter 4 Section 1 item 3 you hold off driving at such times, or get yourself in shape first."
-      },
-      "vi": {
-        "question": "Mệt mỏi hay đang lo nghĩ cũng không sao miễn là quãng đường ngắn.",
-        "explanation": "Sai. Theo Kyosoku Chương 4 Mục 1 điểm 3, những lúc như vậy bạn nên hoãn lái xe hoặc chỉnh lại thể trạng trước."
-      },
-      "pt": {
-        "question": "Estar cansado ou preocupado não importa desde que o percurso seja curto.",
-        "explanation": "Está errado. Pelo Kyosoku, Capítulo 4, Seção 1, item 3, nesses momentos você evita dirigir ou primeiro se recupera."
-      }
-    },
-    "trap_type": "EI",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "EI",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-2-114",
+  "category": "通行区分",
+  "kp": "5-2-2",
+  "group": "H",
+  "source": "教則 第5章第2節2(2)",
+  "question_type": "text",
+  "qf": "QF-5-2-D-EI-10",
+  "question_ja": "同一の方向に二つの車両通行帯がある道路では、車は交通量の少ないほうの車両通行帯を選んで通行するのがよい。",
+  "answer": false,
+  "explanation_ja": "交通量で選ぶのではありません。二つの車両通行帯があるときは、左側の車両通行帯を通行しなければなりません（教則第5章第2節2(2)）。",
+  "i18n": {
+   "zh": {
+    "question": "在同一方向有两条车辆通行带的道路上，车辆最好选择交通量少的那一条车辆通行带通行。",
+    "explanation": "不是按交通量来选择。有两条车辆通行带时，必须通行左侧的车辆通行带（教则第5章第2节2(2)）。"
+   },
+   "en": {
+    "question": "On a road with two vehicle lanes in the same direction, it is best to pick the vehicle lane with less traffic.",
+    "explanation": "The choice is not made by how busy a lane is. Where there are two vehicle lanes, you must travel in the left-hand lane (Kyosoku Chapter 5 Section 2 item 2(2))."
+   },
+   "vi": {
+    "question": "Trên đường có hai làn đường cùng chiều, xe nên chọn làn có ít xe hơn để đi.",
+    "explanation": "Không phải chọn theo lưu lượng xe. Khi có hai làn đường, xe phải đi ở làn bên trái (Kyosoku Chương 5 Mục 2 điểm 2(2))."
+   },
+   "pt": {
+    "question": "Numa via com duas faixas de rolamento no mesmo sentido, o melhor é escolher a faixa com menos movimento.",
+    "explanation": "A escolha não se faz pelo movimento. Havendo duas faixas de rolamento, deve-se circular pela faixa da esquerda (Kyosoku, Capítulo 5, Seção 2, item 2(2))."
+   }
   },
-  {
-    "id": "K4-1-015",
-    "category": "運転に当たっての注意",
-    "kp": "4-1-1",
-    "group": "E",
-    "source": "教則 第4章第1節1(1)",
-    "question_type": "text",
-    "qf": "QF-4-1-1-D-NR-01",
-    "question_ja": "自動車を運転する前に確かめるのは、運転免許証を持っていることだけでよい。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第4章第1節1(1)により、自動車検査証や責任保険証明書、免許の条件、必要なマーク、非常信号用具なども確かめます。",
-    "i18n": {
-      "zh": {
-        "question": "驾驶汽车前要确认的，只有是否持有驾驶证就可以。",
-        "explanation": "错误。根据教则第4章第1节1(1)，还要确认机动车检验证、责任保险证明书、驾照条件、必要的标志以及紧急信号用具等。"
-      },
-      "en": {
-        "question": "The only thing to check before driving a car is that you have your licence with you.",
-        "explanation": "This is wrong. Under Kyosoku Chapter 4 Section 1 item 1(1) you also check the inspection certificate and liability insurance certificate, the licence conditions, any required marks and the emergency signalling equipment."
-      },
-      "vi": {
-        "question": "Điều duy nhất cần kiểm tra trước khi lái ô tô là bạn có mang bằng lái hay không.",
-        "explanation": "Sai. Theo Kyosoku Chương 4 Mục 1 điểm 1(1), bạn còn kiểm tra giấy kiểm định, giấy bảo hiểm trách nhiệm, điều kiện của bằng, các phù hiệu bắt buộc và dụng cụ báo hiệu khẩn cấp."
-      },
-      "pt": {
-        "question": "A única coisa a conferir antes de dirigir é se você está com a habilitação.",
-        "explanation": "Está errado. Pelo Kyosoku, Capítulo 4, Seção 1, item 1(1), você também confere o certificado de inspeção e o do seguro obrigatório, as condições da habilitação, os selos exigidos e o equipamento de sinalização de emergência."
-      }
-    },
-    "trap_type": "NR",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "EI",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-2-115",
+  "category": "通行区分",
+  "kp": "5-2-2",
+  "group": "H",
+  "source": "教則 第5章第2節2(2)",
+  "question_type": "text",
+  "qf": "QF-5-2-A-N-17",
+  "question_ja": "同一の方向に三つ以上の車両通行帯がある道路では、最も右側の車両通行帯は追越しのために空けておき、車はそれ以外の車両通行帯を通行することができる。",
+  "answer": true,
+  "explanation_ja": "教則第5章第2節2(2)のとおりです。追越しのため最も右側の車両通行帯を通行した場合でも、追い越し終わったときは速やかにそれ以外の車両通行帯に戻らなければなりません。",
+  "i18n": {
+   "zh": {
+    "question": "在同一方向有三条以上车辆通行带的道路上，最右侧的车辆通行带要空出来供超车使用，车辆可以通行其余的车辆通行带。",
+    "explanation": "符合教则第5章第2节2(2)的规定。即使为超车而通行了最右侧的车辆通行带，超车结束时也必须迅速返回其余的车辆通行带。"
+   },
+   "en": {
+    "question": "On a road with three or more vehicle lanes in the same direction, the rightmost vehicle lane is kept clear for overtaking and a vehicle may travel in any of the others.",
+    "explanation": "This is Kyosoku Chapter 5 Section 2 item 2(2). Even when you use the rightmost vehicle lane to overtake, you must return promptly to one of the other lanes once you have finished overtaking."
+   },
+   "vi": {
+    "question": "Trên đường có từ ba làn đường trở lên cùng chiều, làn ngoài cùng bên phải được để trống cho việc vượt xe, còn xe được đi ở các làn khác.",
+    "explanation": "Đúng theo Kyosoku Chương 5 Mục 2 điểm 2(2). Ngay cả khi đã dùng làn ngoài cùng bên phải để vượt xe, vượt xong thì phải nhanh chóng trở lại một trong các làn còn lại."
+   },
+   "pt": {
+    "question": "Numa via com três ou mais faixas de rolamento no mesmo sentido, a faixa mais à direita fica livre para ultrapassagem e o veículo pode circular pelas demais.",
+    "explanation": "É o Kyosoku, Capítulo 5, Seção 2, item 2(2). Mesmo quando se usa a faixa mais à direita para ultrapassar, é preciso voltar prontamente a uma das outras faixas assim que a ultrapassagem termina."
+   }
   },
-  {
-    "id": "K4-1-016",
-    "category": "運転に当たっての注意",
-    "kp": "4-1-1",
-    "group": "E",
-    "source": "教則 第4章第1節1(1)オ",
-    "question_type": "text",
-    "qf": "QF-4-1-1-D-NR-02",
-    "question_ja": "初心者マークは、普通免許を受けて1年を経過していない人が普通自動車を運転するとき、車の前の定められた位置に付ければよい。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第4章第1節1(1)オにより、車の前と後ろの定められた位置に付けなければなりません。",
-    "i18n": {
-      "zh": {
-        "question": "新手标志，在取得普通驾照未满1年的人驾驶普通汽车时，贴在车辆前部规定位置就可以。",
-        "explanation": "错误。根据教则第4章第1节1(1)オ，必须贴在车辆前后规定的位置。"
-      },
-      "en": {
-        "question": "The beginner's mark need only go at the set position on the front of the car when someone within a year of getting an ordinary licence drives it.",
-        "explanation": "This is wrong. Under Kyosoku Chapter 4 Section 1 item 1(1)(e) it must be displayed at the set positions on both the front and the rear."
-      },
-      "vi": {
-        "question": "Phù hiệu người mới chỉ cần dán ở vị trí quy định phía trước xe khi người có bằng hạng thường chưa đủ một năm lái xe.",
-        "explanation": "Sai. Theo Kyosoku Chương 4 Mục 1 điểm 1(1)(e), phải dán ở vị trí quy định cả phía trước lẫn phía sau."
-      },
-      "pt": {
-        "question": "O selo de iniciante basta ser colocado na posição determinada da frente do carro quando o conduz alguém com menos de um ano de habilitação comum.",
-        "explanation": "Está errado. Pelo Kyosoku, Capítulo 4, Seção 1, item 1(1)(e), ele deve ser exibido nas posições determinadas tanto na frente quanto na traseira."
-      }
-    },
-    "trap_type": "NR",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-2-116",
+  "category": "通行区分",
+  "kp": "5-2-2",
+  "group": "H",
+  "source": "教則 第5章第2節2(2)",
+  "question_type": "text",
+  "qf": "QF-5-2-A-N-24",
+  "question_ja": "同一の方向に三つ以上の車両通行帯がある道路では、最も右側の車両通行帯を除き、速度の遅い車が左側、速度が速くなるにつれて順次右側寄りの車両通行帯を通行するようにする。",
+  "answer": true,
+  "explanation_ja": "教則第5章第2節2(2)のとおりです。最も右側の車両通行帯は追越しのために空けておきます。",
+  "i18n": {
+   "zh": {
+    "question": "在同一方向有三条以上车辆通行带的道路上，除最右侧的车辆通行带外，速度慢的车辆通行左侧，速度越快越依次通行靠右侧的车辆通行带。",
+    "explanation": "符合教则第5章第2节2(2)的规定。最右侧的车辆通行带要空出来供超车使用。"
+   },
+   "en": {
+    "question": "On a road with three or more vehicle lanes in the same direction, leaving out the rightmost lane, slower vehicles travel in the lanes on the left and the faster a vehicle is the further right the lane it travels in.",
+    "explanation": "This is Kyosoku Chapter 5 Section 2 item 2(2). The rightmost vehicle lane is kept clear for overtaking."
+   },
+   "vi": {
+    "question": "Trên đường có từ ba làn đường trở lên cùng chiều, không kể làn ngoài cùng bên phải, xe chạy chậm đi ở các làn bên trái, còn xe càng nhanh thì đi ở làn càng lệch về bên phải.",
+    "explanation": "Đúng theo Kyosoku Chương 5 Mục 2 điểm 2(2). Làn ngoài cùng bên phải được để trống cho việc vượt xe."
+   },
+   "pt": {
+    "question": "Numa via com três ou mais faixas de rolamento no mesmo sentido, excluída a faixa mais à direita, os veículos mais lentos circulam pelas faixas da esquerda e, quanto mais rápido o veículo, mais à direita é a faixa em que circula.",
+    "explanation": "É o Kyosoku, Capítulo 5, Seção 2, item 2(2). A faixa mais à direita fica livre para ultrapassagem."
+   }
   },
-  {
-    "id": "K4-1-017",
-    "category": "運転に当たっての注意",
-    "kp": "4-1-1",
-    "group": "E",
-    "source": "教則 第4章第1節1(1)ウ",
-    "question_type": "text",
-    "qf": "QF-4-1-1-D-EI-01",
-    "question_ja": "運転免許証に眼鏡等使用の条件が記載されていても、昼間の運転であれば眼鏡を掛けなくてよい。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第4章第1節1(1)ウにより、免許証に記載されている条件は運転する時間帯にかかわらず守らなければなりません。",
-    "i18n": {
-      "zh": {
-        "question": "即使驾驶证上记载了须佩戴眼镜等条件，白天驾驶时也可以不戴眼镜。",
-        "explanation": "错误。根据教则第4章第1节1(1)ウ，驾驶证上记载的条件无论什么时间段驾驶都必须遵守。"
-      },
-      "en": {
-        "question": "Even if your licence carries a condition to use glasses, you need not wear them when driving in daylight.",
-        "explanation": "This is wrong. Under Kyosoku Chapter 4 Section 1 item 1(1)(c) a condition noted on the licence must be met whatever the time of day."
-      },
-      "vi": {
-        "question": "Dù bằng lái có ghi điều kiện phải đeo kính, bạn vẫn không cần đeo khi lái ban ngày.",
-        "explanation": "Sai. Theo Kyosoku Chương 4 Mục 1 điểm 1(1)(c), điều kiện ghi trên bằng phải được tuân thủ bất kể thời điểm nào trong ngày."
-      },
-      "pt": {
-        "question": "Mesmo que a habilitação traga a condição de usar óculos, não é preciso usá-los ao dirigir de dia.",
-        "explanation": "Está errado. Pelo Kyosoku, Capítulo 4, Seção 1, item 1(1)(c), a condição anotada na habilitação deve ser cumprida em qualquer horário."
-      }
-    },
-    "trap_type": "EI",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-2-117",
+  "category": "通行区分",
+  "kp": "5-2-2",
+  "group": "H",
+  "source": "教則 第5章第2節2(2)",
+  "question_type": "text",
+  "qf": "QF-5-2-D-EI-04",
+  "question_ja": "同一の方向に三つ以上の車両通行帯がある道路では、最も右側の車両通行帯を除き、車体の大きい車ほど左側の車両通行帯を通行することになっている。",
+  "answer": false,
+  "explanation_ja": "車体の大きさで決まるのではありません。最も右側の車両通行帯を除き、速度の遅い車が左側、速度が速くなるにつれて順次右側寄りの車両通行帯を通行します（教則第5章第2節2(2)）。",
+  "i18n": {
+   "zh": {
+    "question": "在同一方向有三条以上车辆通行带的道路上，除最右侧的车辆通行带外，车身越大的车辆越要通行左侧的车辆通行带。",
+    "explanation": "并非按车身大小决定。除最右侧的车辆通行带外，速度慢的车辆通行左侧，速度越快越依次通行靠右侧的车辆通行带（教则第5章第2节2(2)）。"
+   },
+   "en": {
+    "question": "On a road with three or more vehicle lanes in the same direction, leaving out the rightmost lane, the larger a vehicle is the further left the lane it is supposed to travel in.",
+    "explanation": "It is not decided by size. Leaving out the rightmost lane, slower vehicles travel in the lanes on the left and the faster a vehicle is the further right the lane it travels in (Kyosoku Chapter 5 Section 2 item 2(2))."
+   },
+   "vi": {
+    "question": "Trên đường có từ ba làn đường trở lên cùng chiều, không kể làn ngoài cùng bên phải, xe có thân xe càng lớn thì càng phải đi ở làn bên trái.",
+    "explanation": "Không phải do kích thước xe quyết định. Không kể làn ngoài cùng bên phải, xe chạy chậm đi ở các làn bên trái, còn xe càng nhanh thì đi ở làn càng lệch về bên phải (Kyosoku Chương 5 Mục 2 điểm 2(2))."
+   },
+   "pt": {
+    "question": "Numa via com três ou mais faixas de rolamento no mesmo sentido, excluída a faixa mais à direita, quanto maior o veículo mais à esquerda deve ser a faixa em que ele circula.",
+    "explanation": "Não é o tamanho que decide. Excluída a faixa mais à direita, os veículos mais lentos circulam pelas faixas da esquerda e, quanto mais rápido o veículo, mais à direita é a faixa em que circula (Kyosoku, Capítulo 5, Seção 2, item 2(2))."
+   }
   },
-  {
-    "id": "K4-1-018",
-    "category": "運転に当たっての注意",
-    "kp": "4-1-1",
-    "group": "E",
-    "source": "教則 第4章第1節1(1)イ",
-    "question_type": "text",
-    "qf": "QF-4-1-1-D-EI-02",
-    "question_ja": "自動車検査証は大切な書類なので、自宅で保管し、車には備えなくてよい。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第4章第1節1(1)イにより、有効な自動車検査証は自動車に備えていなければなりません。",
-    "i18n": {
-      "zh": {
-        "question": "机动车检验证是重要文件，所以可以在家保管，不必备在车上。",
-        "explanation": "错误。根据教则第4章第1节1(1)イ，有效的机动车检验证必须备在车上。"
-      },
-      "en": {
-        "question": "Because the vehicle inspection certificate is an important document, you may keep it at home rather than in the car.",
-        "explanation": "This is wrong. Under Kyosoku Chapter 4 Section 1 item 1(1)(b) a valid inspection certificate must be carried in the vehicle."
-      },
-      "vi": {
-        "question": "Vì giấy kiểm định xe là giấy tờ quan trọng nên bạn có thể giữ ở nhà thay vì để trên xe.",
-        "explanation": "Sai. Theo Kyosoku Chương 4 Mục 1 điểm 1(1)(b), giấy kiểm định còn hiệu lực phải được để trên xe."
-      },
-      "pt": {
-        "question": "Como o certificado de inspeção é um documento importante, você pode guardá-lo em casa em vez de deixá-lo no carro.",
-        "explanation": "Está errado. Pelo Kyosoku, Capítulo 4, Seção 1, item 1(1)(b), o certificado válido deve ser mantido no veículo."
-      }
-    },
-    "trap_type": "EI",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "EI",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-2-118",
+  "category": "通行区分",
+  "kp": "5-2-3",
+  "group": "H",
+  "source": "教則 第5章第2節3",
+  "question_type": "text",
+  "qf": "QF-5-2-A-N-20",
+  "question_ja": "車両通行帯のある道路では、車は、追越しなどでやむを得ない場合のほかは、二つの車両通行帯にまたがって通行してはいけない。",
+  "answer": true,
+  "explanation_ja": "教則第5章第2節3のとおりです。車両通行帯からはみ出して通行することも同じで、同一の車両通行帯を通行しなければなりません。",
+  "i18n": {
+   "zh": {
+    "question": "在设有车辆通行带的道路上，车辆除超车等不得已的情况外，不得跨在两条车辆通行带上通行。",
+    "explanation": "符合教则第5章第2节3的规定。驶出车辆通行带通行也一样，必须通行同一条车辆通行带。"
+   },
+   "en": {
+    "question": "On a road with vehicle lanes, a vehicle must not straddle two vehicle lanes, except where it cannot be helped, such as when overtaking.",
+    "explanation": "This is Kyosoku Chapter 5 Section 2 item 3. The same goes for drifting out of a vehicle lane, and you must stay in the same lane."
+   },
+   "vi": {
+    "question": "Trên đường có làn đường, xe không được đi đè lên hai làn cùng lúc, trừ những trường hợp bất đắc dĩ như khi vượt xe.",
+    "explanation": "Đúng theo Kyosoku Chương 5 Mục 2 điểm 3. Việc đi lệch ra khỏi làn cũng vậy, xe phải đi trong cùng một làn."
+   },
+   "pt": {
+    "question": "Numa via com faixas de rolamento, o veículo não deve circular montado sobre duas faixas, salvo quando não há alternativa, como ao ultrapassar.",
+    "explanation": "É o Kyosoku, Capítulo 5, Seção 2, item 3. O mesmo vale para sair da faixa, e deve-se permanecer na mesma faixa."
+   }
   },
-  {
-    "id": "K4-1-019",
-    "category": "運転計画",
-    "kp": "4-1-2",
-    "group": "E",
-    "source": "教則 第4章第1節2",
-    "question_type": "text",
-    "qf": "QF-4-1-2-D-SC-01",
-    "question_ja": "運転中に眠気を感じたが、目的地まであと少しだったので、そのまま運転を続けた。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第4章第1節2により、眠気を感じたら速やかに休息をとり、眠気を覚ましてから運転します。",
-    "i18n": {
-      "zh": {
-        "question": "驾驶中感到困倦，但因为离目的地只剩一点路程，就继续驾驶了。",
-        "explanation": "错误。根据教则第4章第1节2，感到困倦时要尽快休息，消除困意后再驾驶。"
-      },
-      "en": {
-        "question": "You felt drowsy while driving but carried on because you were nearly at your destination.",
-        "explanation": "This is wrong. Under Kyosoku Chapter 4 Section 1 item 2 you rest promptly when drowsiness sets in and shake it off before driving on."
-      },
-      "vi": {
-        "question": "Bạn thấy buồn ngủ khi đang lái nhưng vẫn đi tiếp vì gần tới nơi rồi.",
-        "explanation": "Sai. Theo Kyosoku Chương 4 Mục 1 điểm 2, khi thấy buồn ngủ bạn phải nghỉ ngay và tỉnh táo lại rồi mới đi tiếp."
-      },
-      "pt": {
-        "question": "Você sentiu sono dirigindo, mas seguiu em frente porque faltava pouco para o destino.",
-        "explanation": "Está errado. Pelo Kyosoku, Capítulo 4, Seção 1, item 2, ao sentir sono você descansa logo e só continua depois de espantá-lo."
-      }
-    },
-    "trap_type": "SC",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-2-119",
+  "category": "通行区分",
+  "kp": "5-2-3",
+  "group": "H",
+  "source": "教則 第5章第2節3",
+  "question_type": "text",
+  "qf": "QF-5-2-D-SC-01",
+  "question_ja": "車両通行帯のある道路では、少しでも早く進むために、空いている車両通行帯へ次々と移りながら通行するのがよい。",
+  "answer": false,
+  "explanation_ja": "そのような通行の仕方はいけません。車両通行帯をみだりに変えると後続車の迷惑となり、事故の原因にもなるので、同一の車両通行帯を通行しなければなりません（教則第5章第2節3）。",
+  "i18n": {
+   "zh": {
+    "question": "在设有车辆通行带的道路上，为了哪怕快一点前进，最好不断地换到空着的车辆通行带上通行。",
+    "explanation": "不可以这样通行。随意变更车辆通行带会给后车带来麻烦，也会成为事故的原因，因此必须通行同一条车辆通行带（教则第5章第2节3）。"
+   },
+   "en": {
+    "question": "On a road with vehicle lanes, it is best to keep moving into whichever lane is clear so as to get along a little faster.",
+    "explanation": "Driving that way is not allowed. Changing lanes at will is a nuisance to the vehicles behind and a cause of accidents, so you must stay in the same vehicle lane (Kyosoku Chapter 5 Section 2 item 3)."
+   },
+   "vi": {
+    "question": "Trên đường có làn đường, để đi nhanh hơn dù chỉ một chút, nên liên tục chuyển sang làn nào đang trống.",
+    "explanation": "Không được đi như vậy. Đổi làn tùy tiện gây phiền cho xe phía sau và là nguyên nhân gây tai nạn, nên xe phải đi trong cùng một làn (Kyosoku Chương 5 Mục 2 điểm 3)."
+   },
+   "pt": {
+    "question": "Numa via com faixas de rolamento, o melhor é ir mudando para a faixa que estiver livre, para avançar um pouco mais depressa.",
+    "explanation": "Não se deve dirigir assim. Mudar de faixa a esmo atrapalha os veículos de trás e causa acidentes, por isso deve-se permanecer na mesma faixa (Kyosoku, Capítulo 5, Seção 2, item 3)."
+   }
   },
-  {
-    "id": "K4-1-020",
-    "category": "運転に当たっての注意",
-    "kp": "4-1-1",
-    "group": "E",
-    "source": "教則 第4章第1節1(1)キ",
-    "question_type": "text",
-    "qf": "QF-4-1-1-D-EX-02",
-    "question_ja": "停止表示器材は、高速道路を走る予定があるときだけ車に積んでいればよい。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第4章第1節1(1)キは、走る道路を問わず、非常信号用具や停止表示器材などを積んでいることを確かめるよう求めています。",
-    "i18n": {
-      "zh": {
-        "question": "停车示警器材只要在计划走高速公路时装在车上就可以。",
-        "explanation": "错误。教则第4章第1节1(1)キ要求不论行驶什么道路，都要确认车上装有紧急信号用具和停车示警器材等。"
-      },
-      "en": {
-        "question": "A warning device only needs to be in the car when you plan to use an expressway.",
-        "explanation": "This is wrong. Kyosoku Chapter 4 Section 1 item 1(1)(g) asks you to check that emergency signalling equipment and warning devices are aboard whatever road you will use."
-      },
-      "vi": {
-        "question": "Thiết bị cảnh báo dừng xe chỉ cần có trên xe khi bạn định đi đường cao tốc.",
-        "explanation": "Sai. Kyosoku Chương 4 Mục 1 điểm 1(1)(g) yêu cầu kiểm tra có dụng cụ báo hiệu khẩn cấp và thiết bị cảnh báo trên xe, bất kể bạn đi đường nào."
-      },
-      "pt": {
-        "question": "O dispositivo de advertência só precisa estar no carro quando se pretende usar uma via expressa.",
-        "explanation": "Está errado. O Kyosoku, Capítulo 4, Seção 1, item 1(1)(g), pede que se confira o equipamento de sinalização de emergência e o dispositivo de advertência a bordo, seja qual for a via."
-      }
-    },
-    "trap_type": "EX",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
-  }
+  "trap_type": "SC",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-2-120",
+  "category": "通行区分",
+  "kp": "5-2-7",
+  "group": "H",
+  "source": "教則 第5章第2節7(2)",
+  "question_type": "text",
+  "qf": "QF-5-2-A-N-19",
+  "question_ja": "車は、道路に面した場所に出入りするために横切る場合などのほかは、歩道や路側帯を通行してはいけない。",
+  "answer": true,
+  "explanation_ja": "教則第5章第2節7(2)のとおりです。歩道や路側帯、自転車道は、車が通行してはいけないところです。",
+  "i18n": {
+   "zh": {
+    "question": "车辆除为出入面向道路的场所而横穿等情况外，不得通行人行道和路侧带（路側帯）。",
+    "explanation": "符合教则第5章第2节7(2)的规定。人行道、路侧带和自行车道是车辆不得通行的地方。"
+   },
+   "en": {
+    "question": "Except when crossing it to get in or out of a roadside facility (shop, garage, etc.), a vehicle must not travel along a sidewalk or a side strip (路側帯).",
+    "explanation": "This is Kyosoku Chapter 5 Section 2 item 7(2). A sidewalk, a side strip and a bicycle path are places where vehicles must not travel."
+   },
+   "vi": {
+    "question": "Trừ khi đi cắt ngang để ra vào nơi ven đường (cửa hàng, gara, v.v.), xe không được đi trên vỉa hè hoặc lề đường (路側帯).",
+    "explanation": "Đúng theo Kyosoku Chương 5 Mục 2 điểm 7(2). Vỉa hè, lề đường và đường dành cho xe đạp là những nơi xe không được đi vào."
+   },
+   "pt": {
+    "question": "Salvo ao atravessá-los para entrar ou sair de um estabelecimento à beira da via (loja, garagem etc.), o veículo não deve circular pela calçada nem pela faixa lateral (路側帯).",
+    "explanation": "É o Kyosoku, Capítulo 5, Seção 2, item 7(2). A calçada, a faixa lateral e a ciclovia são lugares por onde os veículos não devem circular."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 1,
+  "exam_scope": "仮免|本免|外免"
+ }
 ]

@@ -1,662 +1,602 @@
 [
-  {
-    "id": "K5-7-001",
-    "category": "環状交差点",
-    "kp": "5-7-4",
-    "group": "Q",
-    "source": "教則 第5章第7節4(3) / 道交法第37条の2第1項・第2項",
-    "question_type": "text",
-    "qf": "QF-5-7-4-A-N-01",
-    "question_ja": "環状交差点に入ろうとするときは、徐行するとともに、環状交差点内を通行している車の進行を妨げてはいけない。",
-    "answer": true,
-    "explanation_ja": "道交法第37条の2第1項・第2項のとおりです。環状交差点に入ろうとするときは徐行しなければならず、環状交差点内を通行している車が優先します。",
-    "i18n": {
-      "zh": {
-        "question": "准备驶入环形交叉路口时，必须缓行（徐行），并且不得妨碍正在环形交叉路口内通行的车辆通行。",
-        "explanation": "符合道交法第37条之2第1款、第2款的规定。准备驶入环形交叉路口时必须缓行，正在环形交叉路口内通行的车辆优先。"
-      },
-      "en": {
-        "question": "When you are about to enter a roundabout you must proceed slowly (徐行) and must not obstruct the progress of a vehicle already travelling inside the roundabout.",
-        "explanation": "This is Article 37-2 paragraphs 1 and 2 of the Road Traffic Act. You must proceed slowly when entering, and vehicles already travelling inside the roundabout have priority."
-      },
-      "vi": {
-        "question": "Khi sắp đi vào giao lộ vòng xuyến, bạn phải lưu thông chậm (徐行) và không được cản trở xe đang lưu thông bên trong giao lộ vòng xuyến.",
-        "explanation": "Đúng theo Điều 37-2 khoản 1 và khoản 2 Luật Giao thông đường bộ. Khi sắp đi vào bạn phải lưu thông chậm, và xe đang lưu thông bên trong giao lộ vòng xuyến được ưu tiên."
-      },
-      "pt": {
-        "question": "Ao entrar em uma rotatória, você deve prosseguir lentamente (徐行) e não deve obstruir a passagem dos veículos que já circulam dentro da rotatória.",
-        "explanation": "É o Artigo 37-2, parágrafos 1 e 2, da Lei de Trânsito. Ao entrar você deve prosseguir lentamente, e os veículos que já circulam dentro da rotatória têm preferência."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免|外免"
+ {
+  "id": "K1-2-001",
+  "category": "信号",
+  "kp": "1-2-1",
+  "group": "A",
+  "source": "教則 付表1（1）",
+  "question_type": "text",
+  "qf": "QF-1-2-A-N-01",
+  "question_ja": "信号機が赤色の灯火の点滅を示している交差点で、横断しようとする歩行者は、周りの安全を確かめたうえで横断してよい。",
+  "answer": true,
+  "explanation_ja": "教則付表1（1）のとおりです。赤色の灯火の点滅で停止位置に止まらなければならないのは車と路面電車で、歩行者は他の交通に注意して進むことができます。",
+  "i18n": {
+   "zh": {
+    "question": "在信号灯显示红灯闪烁的交叉路口，想要横穿的步行者，确认周围安全后可以横穿。",
+    "explanation": "符合教则附表1（1）的规定。红灯闪烁时必须在停止位置暂停（一時停止）的是车辆和路面电车，步行者注意其他交通即可通行。"
+   },
+   "en": {
+    "question": "At an intersection where the traffic light is showing a flashing red light, a pedestrian who wants to cross may do so after checking that it is safe.",
+    "explanation": "This is Kyosoku Appendix 1(1). On a flashing red light it is vehicles and streetcars (trams) that must come to a complete stop (一時停止) at the stopping position; a pedestrian may proceed while paying attention to other traffic."
+   },
+   "vi": {
+    "question": "Tại nút giao thông nơi đèn tín hiệu đang là đèn đỏ nhấp nháy, người đi bộ muốn sang đường có thể sang sau khi đã xác nhận an toàn xung quanh.",
+    "explanation": "Đúng theo Kyosoku Phụ lục 1(1). Khi đèn đỏ nhấp nháy, chỉ xe và tàu điện mặt đất mới phải tạm dừng (一時停止) tại vị trí dừng; người đi bộ có thể đi tiếp trong khi chú ý đến các phương tiện khác."
+   },
+   "pt": {
+    "question": "Num cruzamento onde o semáforo mostra luz vermelha intermitente, o pedestre que quer atravessar pode fazê-lo depois de verificar que é seguro.",
+    "explanation": "É o Kyosoku, Anexo 1(1). Na luz vermelha intermitente, quem deve fazer parada obrigatória (一時停止) na posição de parada são os veículos e os bondes; o pedestre pode prosseguir com atenção ao restante do trânsito."
+   }
   },
-  {
-    "id": "K5-7-002",
-    "category": "環状交差点",
-    "kp": "5-7-4",
-    "group": "Q",
-    "source": "教則 第5章第7節4(1) / 道交法第35条の2第1項",
-    "question_type": "text",
-    "qf": "QF-5-7-4-A-N-02",
-    "question_ja": "環状交差点で右折するときは、あらかじめできるだけ道路の左端に寄り、環状交差点の側端に沿って徐行しながら通行しなければならない。",
-    "answer": true,
-    "explanation_ja": "道交法第35条の2第1項のとおりです。環状交差点では右折の場合も左折の場合も、道路の左端に寄り、側端に沿って徐行します。",
-    "i18n": {
-      "zh": {
-        "question": "在环形交叉路口右拐弯时，必须事先尽量靠道路左端，沿着环形交叉路口的外侧边缘缓行（徐行）通过。",
-        "explanation": "符合道交法第35条之2第1款的规定。在环形交叉路口，无论右拐弯还是左拐弯，都要靠道路左端、沿外侧边缘缓行。"
-      },
-      "en": {
-        "question": "When you turn right at a roundabout you must first keep as far to the left of the road as you can and proceed slowly (徐行) along the outer edge of the roundabout.",
-        "explanation": "This is Article 35-2 paragraph 1 of the Road Traffic Act. At a roundabout you keep to the left of the road and proceed slowly along the outer edge whether you are turning right or left."
-      },
-      "vi": {
-        "question": "Khi rẽ phải tại giao lộ vòng xuyến, bạn phải đi sát mép trái của đường từ trước và lưu thông chậm (徐行) dọc theo mép ngoài của giao lộ vòng xuyến.",
-        "explanation": "Đúng theo Điều 35-2 khoản 1 Luật Giao thông đường bộ. Tại giao lộ vòng xuyến, dù rẽ phải hay rẽ trái bạn đều đi sát mép trái của đường và lưu thông chậm dọc theo mép ngoài."
-      },
-      "pt": {
-        "question": "Ao converter à direita em uma rotatória, você deve antes manter-se o mais à esquerda possível da via e prosseguir lentamente (徐行) ao longo da borda externa da rotatória.",
-        "explanation": "É o Artigo 35-2, parágrafo 1, da Lei de Trânsito. Na rotatória você se mantém à esquerda da via e prossegue lentamente ao longo da borda externa, tanto para converter à direita quanto à esquerda."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K1-2-002",
+  "category": "信号",
+  "kp": "1-2-1",
+  "group": "A",
+  "source": "教則 付表1（1）",
+  "question_type": "text",
+  "qf": "QF-1-2-D-SW-04",
+  "question_ja": "赤色の灯火の点滅を示す信号機のあるところでは、車は徐行して進めばよい。",
+  "answer": false,
+  "explanation_ja": "徐行では足りません。車は停止位置でいったん停止し、安全を確かめてから進まなければなりません（教則付表1（1））。",
+  "i18n": {
+   "zh": {
+    "question": "在设有显示红灯闪烁的信号灯的地方，车辆缓行（徐行）通过即可。",
+    "explanation": "仅缓行是不够的。车辆必须在停止位置暂停（一時停止），确认安全后才能前进（教则附表1（1））。"
+   },
+   "en": {
+    "question": "Where a traffic light is showing a flashing red light, a vehicle may simply proceed slowly (徐行) past it.",
+    "explanation": "Proceeding slowly is not enough. The vehicle must come to a complete stop (一時停止) at the stopping position and check that it is safe before going on (Kyosoku Appendix 1(1))."
+   },
+   "vi": {
+    "question": "Ở nơi có đèn tín hiệu đang là đèn đỏ nhấp nháy, xe chỉ cần lưu thông chậm (徐行) là đủ.",
+    "explanation": "Lưu thông chậm là chưa đủ. Xe phải tạm dừng (一時停止) tại vị trí dừng và xác nhận an toàn rồi mới được đi tiếp (Kyosoku Phụ lục 1(1))."
+   },
+   "pt": {
+    "question": "Onde o semáforo mostra luz vermelha intermitente, basta que o veículo prossiga lentamente (徐行).",
+    "explanation": "Prosseguir lentamente não basta. O veículo deve fazer parada obrigatória (一時停止) na posição de parada e verificar que é seguro antes de seguir (Kyosoku, Anexo 1(1))."
+   }
   },
-  {
-    "id": "K5-7-003",
-    "category": "環状交差点",
-    "kp": "5-7-4",
-    "group": "Q",
-    "source": "教則 第5章第7節4(2)",
-    "question_type": "text",
-    "qf": "QF-5-7-4-A-N-03",
-    "question_ja": "環状交差点を通行するときに、矢印などの標示によって通行方法が指定されているときは、その指定に従わなければならない。",
-    "answer": true,
-    "explanation_ja": "教則第5章第7節4(2)のとおりです。指定があるときは、標示が示す部分を通行します。",
-    "i18n": {
-      "zh": {
-        "question": "通行环形交叉路口时，如果箭头等路面标示指定了通行方法，必须按照指定通行。",
-        "explanation": "符合教则第5章第7节4(2)的规定。有指定时，按标示所示的部分通行。"
-      },
-      "en": {
-        "question": "When arrows or other road markings (標示) specify how to travel through a roundabout, you must follow what they specify.",
-        "explanation": "This is Kyosoku Chapter 5 Section 7 item 4(2). Where such a specification exists, you travel on the part the marking shows."
-      },
-      "vi": {
-        "question": "Khi đi qua giao lộ vòng xuyến, nếu mũi tên hoặc vạch kẻ đường (kí hiệu trên mặt đường) chỉ định cách lưu thông thì bạn phải tuân theo chỉ định đó.",
-        "explanation": "Đúng theo Kyosoku Chương 5 Mục 7 điểm 4(2). Khi có chỉ định, bạn đi trên phần mà vạch kẻ đường chỉ ra."
-      },
-      "pt": {
-        "question": "Ao transitar por uma rotatória, se setas ou outra sinalização horizontal indicarem a forma de circular, você deve seguir essa indicação.",
-        "explanation": "É o Kyosoku, Capítulo 5, Seção 7, item 4(2). Havendo indicação, você circula pela parte que a sinalização horizontal mostra."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "SW",
+  "difficulty": 1,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K1-2-003",
+  "category": "信号",
+  "kp": "1-2-1",
+  "group": "A",
+  "source": "教則 付表1（1）",
+  "question_type": "text",
+  "qf": "QF-1-2-A-N-09",
+  "question_ja": "車は、赤色の灯火の点滅を示す信号機のあるところでは、停止位置でいったん停止し、安全を確かめてから進まなければならない。",
+  "answer": true,
+  "explanation_ja": "教則付表1（1）のとおりです。歩行者は他の交通に注意して進むことができますが、車と路面電車にはいったん停止する義務があります。",
+  "i18n": {
+   "zh": {
+    "question": "车辆在设有显示红灯闪烁的信号灯的地方，必须在停止位置暂停（一時停止），确认安全后才能前进。",
+    "explanation": "符合教则附表1（1）的规定。步行者注意其他交通即可通行，但车辆和路面电车有暂停的义务。"
+   },
+   "en": {
+    "question": "Where a traffic light is showing a flashing red light, a vehicle must come to a complete stop (一時停止) at the stopping position and check that it is safe before going on.",
+    "explanation": "This is Kyosoku Appendix 1(1). A pedestrian may proceed while paying attention to other traffic, but vehicles and streetcars (trams) have a duty to stop."
+   },
+   "vi": {
+    "question": "Ở nơi có đèn tín hiệu đang là đèn đỏ nhấp nháy, xe phải tạm dừng (一時停止) tại vị trí dừng và xác nhận an toàn rồi mới được đi tiếp.",
+    "explanation": "Đúng theo Kyosoku Phụ lục 1(1). Người đi bộ có thể đi tiếp trong khi chú ý đến các phương tiện khác, nhưng xe và tàu điện mặt đất có nghĩa vụ phải dừng lại."
+   },
+   "pt": {
+    "question": "Onde o semáforo mostra luz vermelha intermitente, o veículo deve fazer parada obrigatória (一時停止) na posição de parada e verificar que é seguro antes de seguir.",
+    "explanation": "É o Kyosoku, Anexo 1(1). O pedestre pode prosseguir com atenção ao restante do trânsito, mas os veículos e os bondes têm o dever de parar."
+   }
   },
-  {
-    "id": "K5-5-001",
-    "category": "環状交差点",
-    "kp": "5-5-1",
-    "group": "N",
-    "source": "教則 第5章第5節1(2) / 道交法第53条第2項",
-    "question_type": "text",
-    "qf": "QF-5-5-1-A-N-01",
-    "question_ja": "環状交差点を出るときの合図は、出ようとする地点の直前の出口の側方を通過したときに行う。",
-    "answer": true,
-    "explanation_ja": "教則第5章第5節1(2)のとおりです。左側の方向指示器を操作するか、右腕の肘を垂直に上に曲げるなどの手による合図を行います。",
-    "i18n": {
-      "zh": {
-        "question": "驶出环形交叉路口时的打信号（转向灯或手势），在通过准备驶出地点前一个出口的侧方时进行。",
-        "explanation": "符合教则第5章第5节1(2)的规定。操作左侧方向指示器，或者将右臂肘部垂直上举等，用手势打信号。"
-      },
-      "en": {
-        "question": "The signal for leaving a roundabout is given when you have passed the side of the exit immediately before the one you intend to take.",
-        "explanation": "This is Kyosoku Chapter 5 Section 5 item 1(2). You either operate the left turn indicator or give a hand signal, such as raising the right forearm vertically at the elbow."
-      },
-      "vi": {
-        "question": "Báo hiệu (bằng xi nhan hoặc tay) khi ra khỏi giao lộ vòng xuyến được thực hiện khi bạn đã đi qua bên cạnh lối ra ngay trước lối ra mà bạn định đi.",
-        "explanation": "Đúng theo Kyosoku Chương 5 Mục 5 điểm 1(2). Bạn bật đèn xi nhan bên trái hoặc ra hiệu bằng tay, chẳng hạn gập cẳng tay phải dựng thẳng lên."
-      },
-      "pt": {
-        "question": "O sinal para sair de uma rotatória é dado quando você passa ao lado da saída imediatamente anterior àquela que pretende tomar.",
-        "explanation": "É o Kyosoku, Capítulo 5, Seção 5, item 1(2). Você aciona a seta esquerda ou sinaliza com a mão, por exemplo dobrando o antebraço direito verticalmente."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 3,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "N",
+  "difficulty": 1,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K1-2-004",
+  "category": "信号",
+  "kp": "1-2-1",
+  "group": "A",
+  "source": "教則 付表1（1）",
+  "question_type": "text",
+  "qf": "QF-1-2-D-EX-01",
+  "question_ja": "赤色の灯火の点滅を示す信号機のあるところでは、車だけでなく歩行者も停止位置でいったん停止しなければならない。",
+  "answer": false,
+  "explanation_ja": "いったん停止する義務があるのは車と路面電車だけです。歩行者は他の交通に注意して進むことができます（教則付表1（1））。",
+  "i18n": {
+   "zh": {
+    "question": "在设有显示红灯闪烁的信号灯的地方，不只是车辆，步行者也必须在停止位置暂停（一時停止）。",
+    "explanation": "有暂停义务的只有车辆和路面电车。步行者注意其他交通即可通行（教则附表1（1））。"
+   },
+   "en": {
+    "question": "Where a traffic light is showing a flashing red light, pedestrians as well as vehicles must come to a complete stop (一時停止) at the stopping position.",
+    "explanation": "Only vehicles and streetcars (trams) have a duty to stop. A pedestrian may proceed while paying attention to other traffic (Kyosoku Appendix 1(1))."
+   },
+   "vi": {
+    "question": "Ở nơi có đèn tín hiệu đang là đèn đỏ nhấp nháy, không chỉ xe mà cả người đi bộ cũng phải tạm dừng (一時停止) tại vị trí dừng.",
+    "explanation": "Chỉ xe và tàu điện mặt đất mới có nghĩa vụ dừng lại. Người đi bộ có thể đi tiếp trong khi chú ý đến các phương tiện khác (Kyosoku Phụ lục 1(1))."
+   },
+   "pt": {
+    "question": "Onde o semáforo mostra luz vermelha intermitente, não só os veículos mas também os pedestres devem fazer parada obrigatória (一時停止) na posição de parada.",
+    "explanation": "O dever de parar é só dos veículos e dos bondes. O pedestre pode prosseguir com atenção ao restante do trânsito (Kyosoku, Anexo 1(1))."
+   }
   },
-  {
-    "id": "K5-5-002",
-    "category": "環状交差点",
-    "kp": "5-5-1",
-    "group": "N",
-    "source": "教則 第5章第5節1(2)",
-    "question_type": "text",
-    "qf": "QF-5-5-1-A-N-02",
-    "question_ja": "環状交差点に入った直後の出口を出る場合は、その環状交差点に入ったときに合図を行う。",
-    "answer": true,
-    "explanation_ja": "教則第5章第5節1(2)のとおりです。それ以外の場合は、出ようとする地点の直前の出口の側方を通過したときに合図を行います。",
-    "i18n": {
-      "zh": {
-        "question": "从驶入环形交叉路口后紧接着的第一个出口驶出时，在驶入该环形交叉路口时就打信号（转向灯或手势）。",
-        "explanation": "符合教则第5章第5节1(2)的规定。其他情况下，在通过准备驶出地点前一个出口的侧方时打信号。"
-      },
-      "en": {
-        "question": "If you are taking the exit immediately after entering a roundabout, you give the signal at the moment you enter that roundabout.",
-        "explanation": "This is Kyosoku Chapter 5 Section 5 item 1(2). In every other case you signal when you have passed the side of the exit immediately before the one you intend to take."
-      },
-      "vi": {
-        "question": "Nếu bạn ra ở lối ra ngay sau khi vào giao lộ vòng xuyến, bạn báo hiệu (bằng xi nhan hoặc tay) ngay lúc đi vào giao lộ vòng xuyến đó.",
-        "explanation": "Đúng theo Kyosoku Chương 5 Mục 5 điểm 1(2). Trong các trường hợp khác, bạn báo hiệu khi đã đi qua bên cạnh lối ra ngay trước lối ra mà bạn định đi."
-      },
-      "pt": {
-        "question": "Se você vai tomar a saída imediatamente seguinte à entrada na rotatória, o sinal é dado no momento em que você entra nessa rotatória.",
-        "explanation": "É o Kyosoku, Capítulo 5, Seção 5, item 1(2). Nos demais casos você sinaliza ao passar ao lado da saída imediatamente anterior àquela que pretende tomar."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 3,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "EX",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K1-2-005",
+  "category": "信号",
+  "kp": "1-2-1",
+  "group": "A",
+  "source": "教則 付表1（1）",
+  "question_type": "text",
+  "qf": "QF-1-2-A-N-06",
+  "question_ja": "信号機が黄色の灯火の点滅を示しているところでは、車は周りの交通に気を配りながら進むことができる。",
+  "answer": true,
+  "explanation_ja": "教則付表1（1）のとおりです。黄色の灯火の点滅は、歩行者も車も路面電車も、他の交通に注意して進むことができるという意味です。",
+  "i18n": {
+   "zh": {
+    "question": "在信号灯显示黄灯闪烁的地方，车辆可以一边留意周围交通一边前进。",
+    "explanation": "符合教则附表1（1）的规定。黄灯闪烁的意思是步行者、车辆和路面电车都可以在注意其他交通的情况下通行。"
+   },
+   "en": {
+    "question": "Where a traffic light is showing a flashing yellow light, a vehicle may proceed while paying attention to the traffic around it.",
+    "explanation": "This is Kyosoku Appendix 1(1). A flashing yellow light means that pedestrians, vehicles and streetcars (trams) alike may proceed while paying attention to other traffic."
+   },
+   "vi": {
+    "question": "Ở nơi đèn tín hiệu đang là đèn vàng nhấp nháy, xe có thể đi tiếp trong khi chú ý đến các phương tiện xung quanh.",
+    "explanation": "Đúng theo Kyosoku Phụ lục 1(1). Đèn vàng nhấp nháy có nghĩa là người đi bộ, xe và tàu điện mặt đất đều có thể đi tiếp trong khi chú ý đến các phương tiện khác."
+   },
+   "pt": {
+    "question": "Onde o semáforo mostra luz amarela intermitente, o veículo pode prosseguir com atenção ao trânsito à sua volta.",
+    "explanation": "É o Kyosoku, Anexo 1(1). A luz amarela intermitente significa que pedestres, veículos e bondes podem prosseguir com atenção ao restante do trânsito."
+   }
   },
-  {
-    "id": "K5-5-003",
-    "category": "環状交差点",
-    "kp": "5-5-1",
-    "group": "N",
-    "source": "道交法第53条第2項 / 教則 第5章第5節1(2)",
-    "question_type": "text",
-    "qf": "QF-5-5-1-A-N-03",
-    "question_ja": "環状交差点の中で徐行したり停止したり後退したりしようとするときは、合図をしなければならない。",
-    "answer": true,
-    "explanation_ja": "道交法第53条第2項のとおりです。環状交差点では、出るときとこれらの行為をするときに合図が必要です。",
-    "i18n": {
-      "zh": {
-        "question": "在环形交叉路口内准备缓行（徐行）、停止或后退时，必须打信号（转向灯或手势）。",
-        "explanation": "符合道交法第53条第2款的规定。在环形交叉路口，驶出时和做这些动作时需要打信号。"
-      },
-      "en": {
-        "question": "You must signal when you are about to proceed slowly (徐行), stop or reverse inside a roundabout.",
-        "explanation": "This is Article 53 paragraph 2 of the Road Traffic Act. At a roundabout a signal is required when leaving and when performing these actions."
-      },
-      "vi": {
-        "question": "Bạn phải báo hiệu (bằng xi nhan hoặc tay) khi sắp lưu thông chậm (徐行), dừng lại hoặc lùi xe bên trong giao lộ vòng xuyến.",
-        "explanation": "Đúng theo Điều 53 khoản 2 Luật Giao thông đường bộ. Tại giao lộ vòng xuyến, cần báo hiệu khi ra khỏi và khi thực hiện những hành vi này."
-      },
-      "pt": {
-        "question": "Você deve sinalizar quando for prosseguir lentamente (徐行), parar ou dar marcha à ré dentro de uma rotatória.",
-        "explanation": "É o Artigo 53, parágrafo 2, da Lei de Trânsito. Na rotatória o sinal é exigido ao sair e ao executar esses atos."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "N",
+  "difficulty": 1,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K1-2-006",
+  "category": "信号",
+  "kp": "1-2-1",
+  "group": "A",
+  "source": "教則 付表1（1）",
+  "question_type": "text",
+  "qf": "QF-1-2-D-SW-02",
+  "question_ja": "黄色の灯火の点滅を示す信号機のあるところでは、車は停止位置でいったん停止しなければならない。",
+  "answer": false,
+  "explanation_ja": "いったん停止しなければならないのは赤色の灯火の点滅の場合です。黄色の灯火の点滅は、他の交通に注意して進むことができるという意味です（教則付表1（1））。",
+  "i18n": {
+   "zh": {
+    "question": "在设有显示黄灯闪烁的信号灯的地方，车辆必须在停止位置暂停（一時停止）。",
+    "explanation": "必须暂停的是红灯闪烁的情况。黄灯闪烁的意思是可以在注意其他交通的情况下通行（教则附表1（1））。"
+   },
+   "en": {
+    "question": "Where a traffic light is showing a flashing yellow light, a vehicle must come to a complete stop (一時停止) at the stopping position.",
+    "explanation": "It is the flashing red light that requires a stop. A flashing yellow light means you may proceed while paying attention to other traffic (Kyosoku Appendix 1(1))."
+   },
+   "vi": {
+    "question": "Ở nơi có đèn tín hiệu đang là đèn vàng nhấp nháy, xe phải tạm dừng (一時停止) tại vị trí dừng.",
+    "explanation": "Phải dừng lại là trường hợp đèn đỏ nhấp nháy. Đèn vàng nhấp nháy có nghĩa là có thể đi tiếp trong khi chú ý đến các phương tiện khác (Kyosoku Phụ lục 1(1))."
+   },
+   "pt": {
+    "question": "Onde o semáforo mostra luz amarela intermitente, o veículo deve fazer parada obrigatória (一時停止) na posição de parada.",
+    "explanation": "Quem exige a parada é a luz vermelha intermitente. A luz amarela intermitente significa que se pode prosseguir com atenção ao restante do trânsito (Kyosoku, Anexo 1(1))."
+   }
   },
-  {
-    "id": "K5-7-004",
-    "category": "環状交差点",
-    "kp": "5-7-1",
-    "group": "Q",
-    "source": "教則 第5章第7節1(2) / 道交法第37条の2第3項",
-    "question_type": "text",
-    "qf": "QF-5-7-1-A-N-01",
-    "question_ja": "環状交差点に入ろうとするときや環状交差点内を通行するときは、環状交差点内を通行する車のほか、環状交差点に入ろうとする車や、環状交差点やその直近で道路を横断する歩行者にも特に注意しなければならない。",
-    "answer": true,
-    "explanation_ja": "道交法第37条の2第3項のとおりです。そのうえで、環状交差点の状況に応じ、できる限り安全な速度と方法で進行します。",
-    "i18n": {
-      "zh": {
-        "question": "准备驶入环形交叉路口或在环形交叉路口内通行时，除了环形交叉路口内通行的车辆以外，对准备驶入的车辆以及在环形交叉路口或其紧邻处横穿道路的步行者也必须特别注意。",
-        "explanation": "符合道交法第37条之2第3款的规定。在此基础上，还要根据环形交叉路口的状况，以尽可能安全的速度和方法行驶。"
-      },
-      "en": {
-        "question": "When you are about to enter a roundabout or are travelling inside one, you must pay particular attention not only to vehicles travelling inside it but also to vehicles about to enter it and to pedestrians crossing the road at or immediately beside it.",
-        "explanation": "This is Article 37-2 paragraph 3 of the Road Traffic Act. On top of that you must proceed at the safest possible speed and in the safest possible manner for the state of the roundabout."
-      },
-      "vi": {
-        "question": "Khi sắp đi vào giao lộ vòng xuyến hoặc khi đang lưu thông bên trong, bạn phải đặc biệt chú ý không chỉ tới xe đang lưu thông bên trong mà còn tới xe sắp đi vào và người đi bộ đang băng qua đường tại hoặc ngay sát giao lộ vòng xuyến.",
-        "explanation": "Đúng theo Điều 37-2 khoản 3 Luật Giao thông đường bộ. Ngoài ra, bạn phải đi với tốc độ và cách thức an toàn nhất có thể tùy theo tình hình của giao lộ vòng xuyến."
-      },
-      "pt": {
-        "question": "Ao entrar em uma rotatória ou ao circular dentro dela, você deve prestar atenção especial não só aos veículos que circulam dentro dela, mas também aos que estão prestes a entrar e aos pedestres que atravessam a via na rotatória ou logo ao lado dela.",
-        "explanation": "É o Artigo 37-2, parágrafo 3, da Lei de Trânsito. Além disso, você deve seguir na velocidade e da maneira mais seguras possíveis conforme a situação da rotatória."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "SW",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K1-2-007",
+  "category": "信号",
+  "kp": "1-2-1",
+  "group": "A",
+  "source": "教則 付表1（1）",
+  "question_type": "text",
+  "qf": "QF-1-2-A-N-02",
+  "question_ja": "信号が黄色の灯火に変わったとき、すでに停止位置に近づいていて急ブレーキをかけなければ止まれない状態だったので、そのまま進んだ。",
+  "answer": true,
+  "explanation_ja": "教則付表1（1）のとおりです。黄色の灯火では停止位置から先へ進めないのが原則ですが、停止位置に近づいていて安全に停止できない場合は、そのまま進むことができます。",
+  "i18n": {
+   "zh": {
+    "question": "信号灯变为黄灯时，已经接近停止位置，不急刹车就停不下来，于是照原样继续前进了。",
+    "explanation": "符合教则附表1（1）的规定。黄灯时原则上不得越过停止位置前进，但在已接近停止位置、无法安全停车的情况下可以继续前进。"
+   },
+   "en": {
+    "question": "When the light changed to yellow you were already so close to the stopping position that you could not have stopped without braking hard, so you went on.",
+    "explanation": "This is Kyosoku Appendix 1(1). As a rule a vehicle may not go past the stopping position on a yellow light, but if you are already close to it and cannot stop safely, you may go on."
+   },
+   "vi": {
+    "question": "Khi đèn chuyển sang đèn vàng, bạn đã ở quá gần vị trí dừng đến mức không phanh gấp thì không dừng được, nên bạn đã đi tiếp.",
+    "explanation": "Đúng theo Kyosoku Phụ lục 1(1). Về nguyên tắc, khi đèn vàng xe không được đi quá vị trí dừng, nhưng nếu đã đến gần và không thể dừng an toàn thì được đi tiếp."
+   },
+   "pt": {
+    "question": "Quando o sinal mudou para luz amarela você já estava tão perto da posição de parada que só pararia freando bruscamente, por isso seguiu em frente.",
+    "explanation": "É o Kyosoku, Anexo 1(1). Em regra o veículo não pode passar da posição de parada na luz amarela, mas se já está perto dela e não consegue parar com segurança, pode seguir."
+   }
   },
-  {
-    "id": "K5-7-005",
-    "category": "環状交差点",
-    "kp": "5-7-4",
-    "group": "Q",
-    "source": "道交法第4条第3項 / 教則 第3章第3節(2)イ",
-    "question_type": "text",
-    "qf": "QF-5-7-4-A-N-04",
-    "question_ja": "環状交差点とは、車の通行の用に供する部分が環状の交差点のうち、「環状の交差点における右回り通行」の標識によって、車がその部分を右回りに通行すべきことが指定されているものをいう。",
-    "answer": true,
-    "explanation_ja": "道交法第4条第3項の定義のとおりです。環状の形をしていても、この指定がなければ環状交差点ではありません。",
-    "i18n": {
-      "zh": {
-        "question": "所谓环形交叉路口，是指供车辆通行的部分呈环状的交叉路口中，由「环形交叉路口内右回りに通行」的标识（立牌）指定车辆应在该部分顺时针通行者。",
-        "explanation": "符合道交法第4条第3款的定义。即使形状是环形，没有这一指定也不是环形交叉路口。"
-      },
-      "en": {
-        "question": "A roundabout is an intersection whose vehicle carriageway is circular and on which a road sign specifies that vehicles are to travel around that part clockwise.",
-        "explanation": "This is the definition in Article 4 paragraph 3 of the Road Traffic Act. A circular layout without that specification is not a roundabout."
-      },
-      "vi": {
-        "question": "Giao lộ vòng xuyến là nút giao thông có phần đường dành cho xe chạy hình vòng tròn và được biển báo giao thông chỉ định rằng xe phải đi vòng phần đó theo chiều kim đồng hồ.",
-        "explanation": "Đúng theo định nghĩa tại Điều 4 khoản 3 Luật Giao thông đường bộ. Chỉ có hình dạng vòng tròn mà không có chỉ định đó thì không phải là giao lộ vòng xuyến."
-      },
-      "pt": {
-        "question": "Rotatória é o cruzamento cuja parte destinada à circulação de veículos é circular e no qual uma sinalização vertical determina que os veículos devem percorrer essa parte no sentido horário.",
-        "explanation": "É a definição do Artigo 4, parágrafo 3, da Lei de Trânsito. Um traçado circular sem essa determinação não é uma rotatória."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K1-2-008",
+  "category": "信号",
+  "kp": "1-2-1",
+  "group": "A",
+  "source": "教則 付表1（1）",
+  "question_type": "text",
+  "qf": "QF-1-2-D-EI-05",
+  "question_ja": "信号が黄色の灯火に変わったとき、安全に止まれる状態であっても、交差する道路に車がいなければそのまま進んでよい。",
+  "answer": false,
+  "explanation_ja": "そのまま進めるのは、停止位置に近づいていて安全に停止することができない場合だけです。交差する道路の交通量は関係ありません（教則付表1（1））。",
+  "i18n": {
+   "zh": {
+    "question": "信号灯变为黄灯时，即使处于能够安全停车的状态，只要交叉道路上没有车辆就可以照原样前进。",
+    "explanation": "可以继续前进的只有已接近停止位置、无法安全停车的情况。与交叉道路的交通量无关（教则附表1（1））。"
+   },
+   "en": {
+    "question": "When the light changes to yellow you may go on regardless, as long as there is no vehicle on the crossing road, even if you could stop safely.",
+    "explanation": "You may go on only when you are already close to the stopping position and cannot stop safely. How much traffic there is on the crossing road makes no difference (Kyosoku Appendix 1(1))."
+   },
+   "vi": {
+    "question": "Khi đèn chuyển sang đèn vàng, dù đang ở trạng thái có thể dừng an toàn, chỉ cần đường giao cắt không có xe thì vẫn được đi tiếp.",
+    "explanation": "Chỉ được đi tiếp khi đã đến gần vị trí dừng và không thể dừng an toàn. Lưu lượng xe trên đường giao cắt không liên quan (Kyosoku Phụ lục 1(1))."
+   },
+   "pt": {
+    "question": "Quando o sinal muda para luz amarela, mesmo podendo parar com segurança, basta não haver veículo na via transversal para seguir em frente.",
+    "explanation": "Só se pode seguir quando já se está perto da posição de parada e não é possível parar com segurança. O volume de trânsito na via transversal não tem relação (Kyosoku, Anexo 1(1))."
+   }
   },
-  {
-    "id": "K5-7-006",
-    "category": "環状交差点",
-    "kp": "5-7-4",
-    "group": "Q",
-    "source": "道交法第35条の2第1項（第34条第5項にかかわらず）",
-    "question_type": "text",
-    "qf": "QF-5-7-4-A-N-05",
-    "question_ja": "一般原動機付自転車が環状交差点で右折するときは、二段階の右折方法によらず、あらかじめできるだけ道路の左端に寄り、環状交差点の側端に沿って徐行しながら通行する。",
-    "answer": true,
-    "explanation_ja": "道交法第35条の2第1項のとおりです。同項は二段階右折を定めた第34条第5項にかかわらず適用されるので、環状交差点では二段階右折を行いません。",
-    "i18n": {
-      "zh": {
-        "question": "一般轻型摩托车在环形交叉路口右拐弯时，不采用二阶段右拐弯的方法，而是事先尽量靠道路左端，沿着环形交叉路口的外侧边缘缓行（徐行）通过。",
-        "explanation": "符合道交法第35条之2第1款的规定。该款不受规定二阶段右拐弯的第34条第5款约束，因此在环形交叉路口不进行二阶段右拐弯。"
-      },
-      "en": {
-        "question": "When a general motorized bicycle (moped) turns right at a roundabout it does not use the two-step right turn; it keeps as far to the left of the road as it can and proceeds slowly (徐行) along the outer edge of the roundabout.",
-        "explanation": "This is Article 35-2 paragraph 1 of the Road Traffic Act. That paragraph applies notwithstanding Article 34 paragraph 5, which sets out the two-step right turn, so no two-step right turn is made at a roundabout."
-      },
-      "vi": {
-        "question": "Khi xe gắn máy (原付) rẽ phải tại giao lộ vòng xuyến, xe không dùng cách rẽ phải hai bước mà đi sát mép trái của đường từ trước và lưu thông chậm (徐行) dọc theo mép ngoài của giao lộ vòng xuyến.",
-        "explanation": "Đúng theo Điều 35-2 khoản 1 Luật Giao thông đường bộ. Khoản này được áp dụng bất kể Điều 34 khoản 5 quy định cách rẽ phải hai bước, nên tại giao lộ vòng xuyến không rẽ phải hai bước."
-      },
-      "pt": {
-        "question": "Quando um ciclomotor converte à direita em uma rotatória, ele não usa a conversão à direita em duas etapas; mantém-se o mais à esquerda possível da via e prossegue lentamente (徐行) ao longo da borda externa da rotatória.",
-        "explanation": "É o Artigo 35-2, parágrafo 1, da Lei de Trânsito. Esse parágrafo se aplica não obstante o Artigo 34, parágrafo 5, que trata da conversão em duas etapas, de modo que ela não é feita na rotatória."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 3,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "EI",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K1-2-009",
+  "category": "信号",
+  "kp": "1-2-1",
+  "group": "A",
+  "source": "教則 付表1（1）",
+  "question_type": "text",
+  "qf": "QF-1-2-D-EI-03",
+  "question_ja": "前方の信号が黄色の灯火のときは、車は周りの交通に注意すればそのまま進むことができる。",
+  "answer": false,
+  "explanation_ja": "他の交通に注意して進めるのは黄色の灯火の点滅の場合です。黄色の灯火では、車は停止位置から先へ進んではいけません（教則付表1（1））。",
+  "i18n": {
+   "zh": {
+    "question": "前方信号灯为黄灯时，车辆只要注意周围交通就可以照原样前进。",
+    "explanation": "注意其他交通即可通行的是黄灯闪烁的情况。黄灯时车辆不得越过停止位置前进（教则附表1（1））。"
+   },
+   "en": {
+    "question": "When the light ahead is yellow, a vehicle may go on as long as it pays attention to the traffic around it.",
+    "explanation": "Proceeding while paying attention to other traffic is what a flashing yellow light allows. On a yellow light a vehicle must not go past the stopping position (Kyosoku Appendix 1(1))."
+   },
+   "vi": {
+    "question": "Khi đèn phía trước là đèn vàng, xe chỉ cần chú ý đến các phương tiện xung quanh là được đi tiếp.",
+    "explanation": "Được đi tiếp khi chú ý đến các phương tiện khác là trường hợp đèn vàng nhấp nháy. Khi đèn vàng, xe không được đi quá vị trí dừng (Kyosoku Phụ lục 1(1))."
+   },
+   "pt": {
+    "question": "Quando o sinal à frente está na luz amarela, o veículo pode seguir desde que preste atenção ao trânsito à sua volta.",
+    "explanation": "Prosseguir com atenção ao restante do trânsito é o que a luz amarela intermitente permite. Na luz amarela o veículo não pode passar da posição de parada (Kyosoku, Anexo 1(1))."
+   }
   },
-  {
-    "id": "K5-5-004",
-    "category": "環状交差点",
-    "kp": "5-5-1",
-    "group": "N",
-    "source": "道交法第53条第2項・第4項 / 教則 第5章第5節1(3)",
-    "question_type": "text",
-    "qf": "QF-5-5-1-A-N-04",
-    "question_ja": "環状交差点で行う合図は、その行為が終わるまで続け、終わったときは速やかにやめなければならない。",
-    "answer": true,
-    "explanation_ja": "道交法第53条第2項・第4項のとおりです。また、その行為をしないのに合図をしてはいけません。",
-    "i18n": {
-      "zh": {
-        "question": "在环形交叉路口打的信号（转向灯或手势），要持续到该动作结束为止，动作结束后必须立即停止打信号。",
-        "explanation": "符合道交法第53条第2款、第4款的规定。此外，不做该动作时不得打信号。"
-      },
-      "en": {
-        "question": "A signal given at a roundabout must be kept up until the action is finished, and stopped promptly once it is.",
-        "explanation": "This is Article 53 paragraphs 2 and 4 of the Road Traffic Act. You must also not signal when you are not going to perform the action."
-      },
-      "vi": {
-        "question": "Báo hiệu (bằng xi nhan hoặc tay) tại giao lộ vòng xuyến phải được duy trì cho đến khi hành vi kết thúc, và phải tắt ngay khi hành vi đã xong.",
-        "explanation": "Đúng theo Điều 53 khoản 2 và khoản 4 Luật Giao thông đường bộ. Ngoài ra, không được báo hiệu khi bạn không thực hiện hành vi đó."
-      },
-      "pt": {
-        "question": "O sinal dado na rotatória deve ser mantido até que o ato termine e desligado imediatamente depois disso.",
-        "explanation": "É o Artigo 53, parágrafos 2 e 4, da Lei de Trânsito. Também não se deve sinalizar quando não se vai executar o ato."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "EI",
+  "difficulty": 3,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K1-2-010",
+  "category": "信号",
+  "kp": "1-2-1",
+  "group": "A",
+  "source": "教則 付表1（1）備考",
+  "question_type": "text",
+  "qf": "QF-1-2-A-N-05",
+  "question_ja": "信号が赤色の灯火のとき、交差点で車が止まる位置は、停止線があればその直前、停止線がなければ交差点の直前である。",
+  "answer": true,
+  "explanation_ja": "教則付表1（1）の備考のとおりです。交差点のすぐ近くに横断歩道や自転車横断帯があるところでは、その直前が停止位置になります。",
+  "i18n": {
+   "zh": {
+    "question": "信号灯为红灯时，车辆在交叉路口停车的位置是：有停止线时为其正前方，没有停止线时为交叉路口的正前方。",
+    "explanation": "符合教则附表1（1）备注的规定。交叉路口附近设有人行横道或自行车横穿带时，其正前方即为停止位置。"
+   },
+   "en": {
+    "question": "On a red light, the place a vehicle stops at an intersection is just before the stop line, or, where there is no stop line, just before the intersection.",
+    "explanation": "This is the note to Kyosoku Appendix 1(1). Where there is a pedestrian crossing or a bicycle crossing zone close to the intersection, the stopping position is just before that."
+   },
+   "vi": {
+    "question": "Khi đèn đỏ, vị trí xe dừng tại nút giao thông là ngay trước vạch dừng, còn nếu không có vạch dừng thì ngay trước nút giao thông.",
+    "explanation": "Đúng theo ghi chú của Kyosoku Phụ lục 1(1). Ở nơi có vạch sang đường hoặc vạch sang đường cho xe đạp ngay gần nút giao, vị trí dừng là ngay trước chúng."
+   },
+   "pt": {
+    "question": "Na luz vermelha, o lugar em que o veículo para no cruzamento é logo antes da linha de parada ou, se não houver linha de parada, logo antes do cruzamento.",
+    "explanation": "É a observação do Kyosoku, Anexo 1(1). Onde houver faixa de pedestres ou faixa para ciclistas junto ao cruzamento, a posição de parada é logo antes delas."
+   }
   },
-  {
-    "id": "K5-7-007",
-    "category": "環状交差点",
-    "kp": "5-7-4",
-    "group": "Q",
-    "source": "道交法第37条の2第1項",
-    "question_type": "text",
-    "qf": "QF-5-7-4-D-EI-01",
-    "question_ja": "環状交差点内を通行している車があっても、自分の車のほうが先に環状交差点の入口に近づいていたときは、そのまま環状交差点に入ってよい。",
-    "answer": false,
-    "explanation_ja": "誤りです。道交法第37条の2第1項により、環状交差点内を通行している車の進行を妨げてはならず、入口に近づいた順序は関係ありません。",
-    "i18n": {
-      "zh": {
-        "question": "即使有车辆正在环形交叉路口内通行，只要自己的车先接近环形交叉路口入口，就可以直接驶入。",
-        "explanation": "错误。根据道交法第37条之2第1款，不得妨碍正在环形交叉路口内通行的车辆通行，接近入口的先后顺序与此无关。"
-      },
-      "en": {
-        "question": "Even if a vehicle is travelling inside the roundabout, you may go straight in as long as your own vehicle reached the entrance first.",
-        "explanation": "This is wrong. Under Article 37-2 paragraph 1 of the Road Traffic Act you must not obstruct the progress of a vehicle already travelling inside the roundabout, and the order in which vehicles reached the entrance makes no difference."
-      },
-      "vi": {
-        "question": "Dù có xe đang lưu thông bên trong giao lộ vòng xuyến, nếu xe của bạn đến lối vào trước thì bạn vẫn được đi thẳng vào.",
-        "explanation": "Sai. Theo Điều 37-2 khoản 1 Luật Giao thông đường bộ, bạn không được cản trở xe đang lưu thông bên trong giao lộ vòng xuyến, và thứ tự đến lối vào không có ý nghĩa gì."
-      },
-      "pt": {
-        "question": "Mesmo que haja um veículo circulando dentro da rotatória, você pode entrar direto desde que o seu veículo tenha chegado antes à entrada.",
-        "explanation": "Está errado. Pelo Artigo 37-2, parágrafo 1, da Lei de Trânsito, você não deve obstruir a passagem do veículo que já circula dentro da rotatória, e a ordem de chegada à entrada não importa."
-      }
-    },
-    "trap_type": "EI",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K1-2-011",
+  "category": "信号",
+  "kp": "1-2-1",
+  "group": "A",
+  "source": "教則 付表1（1）",
+  "question_type": "text",
+  "qf": "QF-1-2-A-N-07",
+  "question_ja": "青色の灯火の信号は、車に対して「進みなさい」と命じているのではなく、「進むことができる」ことを示している。",
+  "answer": true,
+  "explanation_ja": "教則付表1（1）のとおりです。進めば交差点の中で止まってしまうおそれがあるときなどは、青色の灯火でも進んではいけません。",
+  "i18n": {
+   "zh": {
+    "question": "绿灯信号并不是命令车辆「必须前进」，而是表示「可以前进」。",
+    "explanation": "符合教则附表1（1）的规定。当前进有可能停在交叉路口之中时，即使是绿灯也不得前进。"
+   },
+   "en": {
+    "question": "A green light does not order a vehicle to go; it shows that the vehicle may go.",
+    "explanation": "This is Kyosoku Appendix 1(1). Where going on would risk leaving you stopped inside the intersection, you must not go even on a green light."
+   },
+   "vi": {
+    "question": "Đèn xanh không ra lệnh cho xe «phải đi», mà cho biết rằng xe «được phép đi».",
+    "explanation": "Đúng theo Kyosoku Phụ lục 1(1). Khi đi tiếp có nguy cơ khiến xe dừng lại trong nút giao thông thì dù đèn xanh cũng không được đi."
+   },
+   "pt": {
+    "question": "A luz verde não ordena que o veículo siga; ela indica que o veículo pode seguir.",
+    "explanation": "É o Kyosoku, Anexo 1(1). Quando seguir em frente pode deixar o veículo parado dentro do cruzamento, não se deve avançar nem com a luz verde."
+   }
   },
-  {
-    "id": "K5-7-008",
-    "category": "環状交差点",
-    "kp": "5-7-4",
-    "group": "Q",
-    "source": "道交法第37条の2第2項",
-    "question_type": "text",
-    "qf": "QF-5-7-4-D-SW-01",
-    "question_ja": "環状交差点に入ろうとするときは、入口の停止線の直前で一時停止しなければならない。",
-    "answer": false,
-    "explanation_ja": "誤りです。道交法第37条の2第2項が求めているのは徐行であって、一時停止ではありません。",
-    "i18n": {
-      "zh": {
-        "question": "准备驶入环形交叉路口时，必须在入口停止线的正前方暂停（一時停止）。",
-        "explanation": "错误。道交法第37条之2第2款要求的是缓行（徐行），不是暂停。"
-      },
-      "en": {
-        "question": "When you are about to enter a roundabout you must come to a complete stop (一時停止) just before the stop line at the entrance.",
-        "explanation": "This is wrong. Article 37-2 paragraph 2 of the Road Traffic Act requires you to proceed slowly, not to come to a complete stop."
-      },
-      "vi": {
-        "question": "Khi sắp đi vào giao lộ vòng xuyến, bạn phải tạm dừng (一時停止) ngay trước vạch dừng ở lối vào.",
-        "explanation": "Sai. Điều 37-2 khoản 2 Luật Giao thông đường bộ yêu cầu lưu thông chậm, không phải tạm dừng."
-      },
-      "pt": {
-        "question": "Ao entrar em uma rotatória, você deve fazer parada obrigatória (一時停止) logo antes da linha de parada da entrada.",
-        "explanation": "Está errado. O Artigo 37-2, parágrafo 2, da Lei de Trânsito exige prosseguir lentamente, não parar completamente."
-      }
-    },
-    "trap_type": "SW",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K1-2-012",
+  "category": "信号",
+  "kp": "1-2-1",
+  "group": "A",
+  "source": "教則 付表1（1）",
+  "question_type": "text",
+  "qf": "QF-1-2-D-EX-04",
+  "question_ja": "青色の灯火の信号では、どの種類の車も直進、左折、右折のいずれもすることができる。",
+  "answer": false,
+  "explanation_ja": "軽車両と特定小型原動機付自転車は直進と左折はできますが、右折するときは、右折する地点まで直進してその地点で向きを変えるまでしかできません（教則付表1（1））。",
+  "i18n": {
+   "zh": {
+    "question": "在绿灯信号下，任何种类的车辆都可以直行、左拐弯和右拐弯。",
+    "explanation": "轻车辆（自行车、人力车等）和特定小型轻型摩托车（电动滑板车等）可以直行和左拐弯，但右拐弯时只能直行到右拐弯地点并在该处改变方向（教则附表1（1））。"
+   },
+   "en": {
+    "question": "On a green light every kind of vehicle may go straight on, turn left or turn right.",
+    "explanation": "A light road vehicle (bicycle, cart, etc.) and a specified small motorized bicycle (e-scooter, etc.) may go straight on and turn left, but to turn right they may only go straight to the turning point and change direction there (Kyosoku Appendix 1(1))."
+   },
+   "vi": {
+    "question": "Khi đèn xanh, mọi loại xe đều có thể đi thẳng, rẽ trái và rẽ phải.",
+    "explanation": "Xe thô sơ (xe đạp, xe kéo, v.v.) và xe gắn máy cỡ nhỏ đặc định (xe scooter điện, v.v.) được đi thẳng và rẽ trái, nhưng khi rẽ phải thì chỉ được đi thẳng đến điểm rẽ rồi đổi hướng tại đó (Kyosoku Phụ lục 1(1))."
+   },
+   "pt": {
+    "question": "Na luz verde, qualquer tipo de veículo pode seguir em frente, virar à esquerda e virar à direita.",
+    "explanation": "O veículo leve (bicicleta, carroça etc.) e o ciclomotor pequeno especificado (patinete elétrico etc.) podem seguir em frente e virar à esquerda, mas para virar à direita só podem seguir reto até o ponto da conversão e mudar de direção ali (Kyosoku, Anexo 1(1))."
+   }
   },
-  {
-    "id": "K5-7-009",
-    "category": "環状交差点",
-    "kp": "5-7-4",
-    "group": "Q",
-    "source": "道交法第35条の2第1項",
-    "question_type": "text",
-    "qf": "QF-5-7-4-D-SW-02",
-    "question_ja": "環状交差点で右折するときは、あらかじめできるだけ道路の中央に寄り、交差点の中心のすぐ内側を徐行しながら通行する。",
-    "answer": false,
-    "explanation_ja": "誤りです。それは環状交差点以外の交差点での右折方法で、環状交差点では道路の左端に寄り、側端に沿って徐行します。",
-    "i18n": {
-      "zh": {
-        "question": "在环形交叉路口右拐弯时，事先尽量靠道路中央，沿交叉路口中心的紧内侧缓行（徐行）通过。",
-        "explanation": "错误。那是环形交叉路口以外的交叉路口的右拐弯方法，在环形交叉路口要靠道路左端、沿外侧边缘缓行。"
-      },
-      "en": {
-        "question": "When you turn right at a roundabout you first keep as close to the centre of the road as you can and proceed slowly (徐行) just inside the centre of the intersection.",
-        "explanation": "This is wrong. That is how you turn right at an intersection other than a roundabout; at a roundabout you keep to the left of the road and proceed slowly along the outer edge."
-      },
-      "vi": {
-        "question": "Khi rẽ phải tại giao lộ vòng xuyến, bạn đi sát tim đường từ trước và lưu thông chậm (徐行) ngay phía trong tâm của nút giao thông.",
-        "explanation": "Sai. Đó là cách rẽ phải tại nút giao thông không phải vòng xuyến; tại giao lộ vòng xuyến bạn đi sát mép trái của đường và lưu thông chậm dọc theo mép ngoài."
-      },
-      "pt": {
-        "question": "Ao converter à direita em uma rotatória, você se aproxima o máximo possível do centro da via e prossegue lentamente (徐行) logo por dentro do centro do cruzamento.",
-        "explanation": "Está errado. Essa é a forma de converter à direita em um cruzamento que não seja rotatória; na rotatória você se mantém à esquerda da via e prossegue lentamente pela borda externa."
-      }
-    },
-    "trap_type": "SW",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "EX",
+  "difficulty": 3,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K1-2-013",
+  "category": "信号",
+  "kp": "1-2-1",
+  "group": "A",
+  "source": "教則 第1章第2節1(2)",
+  "question_type": "text",
+  "qf": "QF-1-2-A-N-08",
+  "question_ja": "交差する道路の信号が赤色の灯火を示していても、自分の前方の信号が青色の灯火であるとは限らない。",
+  "answer": true,
+  "explanation_ja": "教則第1章第2節1(2)のとおりです。全方向がいったん赤になる信号や、方向ごとに赤に変わる時間をずらした時差式の信号機もあるので、必ず前方の信号を見ます。",
+  "i18n": {
+   "zh": {
+    "question": "即使交叉道路的信号灯显示红灯，自己前方的信号灯也未必是绿灯。",
+    "explanation": "符合教则第1章第2节1(2)的规定。有的信号灯全方向会暂时变红，也有按方向错开变红时间的时差式信号灯，所以务必查看前方的信号灯。"
+   },
+   "en": {
+    "question": "Even if the light on the crossing road is red, the light ahead of you is not necessarily green.",
+    "explanation": "This is Kyosoku Chapter 1 Section 2 item 1(2). Some signals turn red in every direction for a moment, and time-offset signals change to red at different times for different directions, so always look at the light ahead of you."
+   },
+   "vi": {
+    "question": "Dù đèn tín hiệu của đường giao cắt đang là đèn đỏ, đèn phía trước bạn cũng chưa chắc đã là đèn xanh.",
+    "explanation": "Đúng theo Kyosoku Chương 1 Mục 2 điểm 1(2). Có loại đèn chuyển đỏ tạm thời ở mọi hướng và có loại đèn lệch giờ chuyển đỏ theo từng hướng, nên luôn phải nhìn đèn ở phía trước mình."
+   },
+   "pt": {
+    "question": "Mesmo que o semáforo da via transversal esteja na luz vermelha, o sinal à sua frente não está necessariamente na luz verde.",
+    "explanation": "É o Kyosoku, Capítulo 1, Seção 2, item 1(2). Há semáforos que ficam vermelhos em todas as direções por um instante e há os de tempo defasado, que mudam para vermelho em momentos diferentes conforme a direção; por isso olhe sempre o sinal à sua frente."
+   }
   },
-  {
-    "id": "K5-7-010",
-    "category": "環状交差点",
-    "kp": "5-7-4",
-    "group": "Q",
-    "source": "道交法第37条の2第1項（第36条第1項は適用されない）",
-    "question_type": "text",
-    "qf": "QF-5-7-4-D-EI-02",
-    "question_ja": "環状交差点内では、左方から進行してくる車があるときは、その車の進行を妨げてはならない。",
-    "answer": false,
-    "explanation_ja": "誤りです。左方優先を定めた道交法第36条第1項は環状交差点には適用されず、優先するのは環状交差点内を通行している車です。",
-    "i18n": {
-      "zh": {
-        "question": "在环形交叉路口内，有从左方驶来的车辆时，不得妨碍该车辆通行。",
-        "explanation": "错误。规定左方优先的道交法第36条第1款不适用于环形交叉路口，优先的是正在环形交叉路口内通行的车辆。"
-      },
-      "en": {
-        "question": "Inside a roundabout you must not obstruct the progress of a vehicle coming from your left.",
-        "explanation": "This is wrong. Article 36 paragraph 1 of the Road Traffic Act, which gives priority to traffic from the left, does not apply at a roundabout; priority belongs to vehicles already travelling inside it."
-      },
-      "vi": {
-        "question": "Bên trong giao lộ vòng xuyến, khi có xe đi tới từ bên trái thì bạn không được cản trở xe đó lưu thông.",
-        "explanation": "Sai. Điều 36 khoản 1 Luật Giao thông đường bộ quy định ưu tiên xe từ bên trái không áp dụng cho giao lộ vòng xuyến; xe đang lưu thông bên trong mới là xe được ưu tiên."
-      },
-      "pt": {
-        "question": "Dentro de uma rotatória você não deve obstruir a passagem de um veículo que vem da sua esquerda.",
-        "explanation": "Está errado. O Artigo 36, parágrafo 1, da Lei de Trânsito, que dá preferência a quem vem da esquerda, não se aplica à rotatória; a preferência é dos veículos que já circulam dentro dela."
-      }
-    },
-    "trap_type": "EI",
-    "difficulty": 3,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K1-2-014",
+  "category": "信号",
+  "kp": "1-2-1",
+  "group": "A",
+  "source": "教則 付表1（1）",
+  "question_type": "signal",
+  "qf": "QF-1-2-A-N-11",
+  "image": {
+   "sign_no": "S-信号-青矢印右",
+   "file": "S-信号-青矢印右.svg",
+   "license": "CC BY-NC-SA 4.0 (menkyo-quiz original drawing)",
+   "file_verified": true
   },
-  {
-    "id": "K5-5-005",
-    "category": "環状交差点",
-    "kp": "5-5-1",
-    "group": "N",
-    "source": "道交法第53条第2項",
-    "question_type": "text",
-    "qf": "QF-5-5-1-D-EX-01",
-    "question_ja": "環状交差点に入ろうとするときは、左側の方向指示器を操作して合図をしなければならない。",
-    "answer": false,
-    "explanation_ja": "誤りです。道交法第53条第2項により、環状交差点で合図が必要なのは出るときと徐行・停止・後退をするときで、入るときの合図は必要ありません。",
-    "i18n": {
-      "zh": {
-        "question": "准备驶入环形交叉路口时，必须操作左侧方向指示器打信号（转向灯或手势）。",
-        "explanation": "错误。根据道交法第53条第2款，在环形交叉路口需要打信号的是驶出时以及缓行（徐行）、停止、后退时，驶入时不需要打信号。"
-      },
-      "en": {
-        "question": "When you are about to enter a roundabout you must signal with the left turn indicator.",
-        "explanation": "This is wrong. Under Article 53 paragraph 2 of the Road Traffic Act a signal is required at a roundabout when leaving and when proceeding slowly (徐行), stopping or reversing, and no signal is required on entry."
-      },
-      "vi": {
-        "question": "Khi sắp đi vào giao lộ vòng xuyến, bạn phải bật đèn xi nhan bên trái để báo hiệu.",
-        "explanation": "Sai. Theo Điều 53 khoản 2 Luật Giao thông đường bộ, tại giao lộ vòng xuyến chỉ cần báo hiệu khi ra khỏi và khi lưu thông chậm (徐行), dừng lại hoặc lùi xe, còn khi đi vào thì không cần."
-      },
-      "pt": {
-        "question": "Ao entrar em uma rotatória você deve sinalizar com a seta esquerda.",
-        "explanation": "Está errado. Pelo Artigo 53, parágrafo 2, da Lei de Trânsito, na rotatória o sinal é exigido ao sair e ao prosseguir lentamente (徐行), parar ou dar marcha à ré, e não é exigido na entrada."
-      }
-    },
-    "trap_type": "EX",
-    "difficulty": 3,
-    "exam_scope": "仮免|本免|外免"
+  "question_ja": "この信号が出ているとき、普通自動車は前方の信号が赤色の灯火であっても矢印の方向に進むことができるが、二段階の右折方法によって右折する一般原動機付自転車は進むことができない。",
+  "answer": true,
+  "explanation_ja": "教則付表1（1）のとおりです。右向きの青色の灯火の矢印では、軽車両、特定小型原動機付自転車、二段階の右折方法による一般原動機付自転車は進めません。",
+  "i18n": {
+   "zh": {
+    "question": "出现这个信号时，普通汽车即使前方信号灯为红灯也可以朝箭头方向前进，但以二阶段右拐弯方法右拐弯的一般轻型摩托车不能前进。",
+    "explanation": "符合教则附表1（1）的规定。在向右的绿色灯光箭头下，轻车辆（自行车、人力车等）、特定小型轻型摩托车和以二阶段方法右拐弯的一般轻型摩托车都不能前进。"
+   },
+   "en": {
+    "question": "While this signal is shown, an ordinary motor vehicle may proceed in the direction of the arrow even though the light ahead is red, but a general motorized bicycle (moped) that turns right by the two-step method may not.",
+    "explanation": "This is Kyosoku Appendix 1(1). On a green arrow light pointing right, a light road vehicle (bicycle, cart, etc.), a specified small motorized bicycle and a moped turning right by the two-step method may not proceed."
+   },
+   "vi": {
+    "question": "Khi tín hiệu này đang hiển thị, xe ô tô thường được đi theo hướng mũi tên dù đèn phía trước là đèn đỏ, nhưng xe gắn máy (原付) rẽ phải theo cách hai bước thì không được đi.",
+    "explanation": "Đúng theo Kyosoku Phụ lục 1(1). Với đèn mũi tên xanh hướng phải, xe thô sơ (xe đạp, xe kéo, v.v.), xe gắn máy cỡ nhỏ đặc định và xe gắn máy rẽ phải theo cách hai bước đều không được đi."
+   },
+   "pt": {
+    "question": "Enquanto este sinal está aceso, o veículo comum pode seguir no sentido da seta mesmo com a luz vermelha à frente, mas o ciclomotor que converte à direita em duas etapas não pode.",
+    "explanation": "É o Kyosoku, Anexo 1(1). Com a seta verde apontando para a direita, o veículo leve (bicicleta, carroça etc.), o ciclomotor pequeno especificado e o ciclomotor que converte à direita em duas etapas não podem prosseguir."
+   }
   },
-  {
-    "id": "K5-5-006",
-    "category": "環状交差点",
-    "kp": "5-5-1",
-    "group": "N",
-    "source": "教則 第5章第5節1(2)",
-    "question_type": "text",
-    "qf": "QF-5-5-1-D-EO-01",
-    "question_ja": "環状交差点を出るときの合図は、どの出口から出る場合であっても、出ようとする地点の直前の出口の側方を通過したときに行う。",
-    "answer": false,
-    "explanation_ja": "誤りです。環状交差点に入った直後の出口を出る場合は、その環状交差点に入ったときに合図を行います。",
-    "i18n": {
-      "zh": {
-        "question": "驶出环形交叉路口时的打信号（转向灯或手势），无论从哪个出口驶出，都在通过准备驶出地点前一个出口的侧方时进行。",
-        "explanation": "错误。从驶入环形交叉路口后紧接着的第一个出口驶出时，在驶入该环形交叉路口时就打信号。"
-      },
-      "en": {
-        "question": "The signal for leaving a roundabout is given when you have passed the side of the exit immediately before the one you intend to take, whichever exit that is.",
-        "explanation": "This is wrong. If you are taking the exit immediately after entering the roundabout, you signal at the moment you enter it."
-      },
-      "vi": {
-        "question": "Báo hiệu (bằng xi nhan hoặc tay) khi ra khỏi giao lộ vòng xuyến được thực hiện khi đã đi qua bên cạnh lối ra ngay trước lối ra định đi, bất kể đó là lối ra nào.",
-        "explanation": "Sai. Nếu bạn ra ở lối ra ngay sau khi vào giao lộ vòng xuyến, bạn báo hiệu ngay lúc đi vào giao lộ vòng xuyến đó."
-      },
-      "pt": {
-        "question": "O sinal para sair de uma rotatória é dado ao passar ao lado da saída imediatamente anterior à pretendida, seja qual for essa saída.",
-        "explanation": "Está errado. Se você vai tomar a saída imediatamente seguinte à entrada, o sinal é dado no momento em que você entra na rotatória."
-      }
-    },
-    "trap_type": "EO",
-    "difficulty": 3,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "N",
+  "difficulty": 3,
+  "exam_scope": "仮免|本免"
+ },
+ {
+  "id": "K1-2-015",
+  "category": "信号",
+  "kp": "1-2-1",
+  "group": "A",
+  "source": "教則 付表1（1）",
+  "question_type": "text",
+  "qf": "QF-1-2-D-EX-02",
+  "question_ja": "一般原動機付自転車は、右向きの青色の灯火の矢印が出ていれば、どの交差点でも右折することができる。",
+  "answer": false,
+  "explanation_ja": "二段階の右折方法によって右折しなければならない交差点では、右向きの青色の灯火の矢印が出ていても一般原動機付自転車は進めません。軽車両と特定小型原動機付自転車も同じです（教則付表1（1））。",
+  "i18n": {
+   "zh": {
+    "question": "一般轻型摩托车只要出现向右的绿色灯光箭头，在任何交叉路口都可以右拐弯。",
+    "explanation": "在必须以二阶段右拐弯方法右拐弯的交叉路口，即使出现向右的绿色灯光箭头，一般轻型摩托车也不能前进。轻车辆（自行车、人力车等）和特定小型轻型摩托车也一样（教则附表1（1））。"
+   },
+   "en": {
+    "question": "A general motorized bicycle (moped) may turn right at any intersection as long as a green arrow light pointing right is shown.",
+    "explanation": "At an intersection where the two-step method must be used, a moped may not proceed even on a green arrow light pointing right. The same goes for a light road vehicle (bicycle, cart, etc.) and a specified small motorized bicycle (Kyosoku Appendix 1(1))."
+   },
+   "vi": {
+    "question": "Xe gắn máy (原付) chỉ cần có đèn mũi tên xanh hướng phải là được rẽ phải ở bất kỳ nút giao thông nào.",
+    "explanation": "Tại nút giao thông bắt buộc rẽ phải theo cách hai bước, dù có đèn mũi tên xanh hướng phải thì xe gắn máy vẫn không được đi. Xe thô sơ (xe đạp, xe kéo, v.v.) và xe gắn máy cỡ nhỏ đặc định cũng vậy (Kyosoku Phụ lục 1(1))."
+   },
+   "pt": {
+    "question": "O ciclomotor pode converter à direita em qualquer cruzamento, desde que esteja acesa a seta verde apontando para a direita.",
+    "explanation": "No cruzamento em que a conversão deve ser feita em duas etapas, o ciclomotor não pode prosseguir nem com a seta verde para a direita. O mesmo vale para o veículo leve (bicicleta, carroça etc.) e o ciclomotor pequeno especificado (Kyosoku, Anexo 1(1))."
+   }
   },
-  {
-    "id": "K5-7-011",
-    "category": "環状交差点",
-    "kp": "5-7-4",
-    "group": "Q",
-    "source": "道交法第37条の2第2項",
-    "question_type": "text",
-    "qf": "QF-5-7-4-D-EI-03",
-    "question_ja": "環状交差点に入ろうとするときでも、環状交差点内に車がいないことが確かめられたときは、徐行しなくてもよい。",
-    "answer": false,
-    "explanation_ja": "誤りです。道交法第37条の2第2項の徐行の義務に、環状交差点内に車がいない場合の例外はありません。",
-    "i18n": {
-      "zh": {
-        "question": "即使是准备驶入环形交叉路口时，只要确认环形交叉路口内没有车辆，也可以不缓行（徐行）。",
-        "explanation": "错误。道交法第37条之2第2款的缓行义务，没有「环形交叉路口内无车时」这一例外。"
-      },
-      "en": {
-        "question": "Even when you are about to enter a roundabout, you need not proceed slowly (徐行) once you have confirmed that there is no vehicle inside it.",
-        "explanation": "This is wrong. The duty to proceed slowly in Article 37-2 paragraph 2 of the Road Traffic Act has no exception for a roundabout that happens to be empty."
-      },
-      "vi": {
-        "question": "Ngay cả khi sắp đi vào giao lộ vòng xuyến, nếu đã xác nhận bên trong không có xe nào thì bạn không cần lưu thông chậm (徐行).",
-        "explanation": "Sai. Nghĩa vụ lưu thông chậm tại Điều 37-2 khoản 2 Luật Giao thông đường bộ không có ngoại lệ cho trường hợp bên trong giao lộ vòng xuyến không có xe."
-      },
-      "pt": {
-        "question": "Mesmo ao entrar em uma rotatória, você não precisa prosseguir lentamente (徐行) se confirmar que não há nenhum veículo dentro dela.",
-        "explanation": "Está errado. O dever de prosseguir lentamente do Artigo 37-2, parágrafo 2, da Lei de Trânsito não tem exceção para a rotatória vazia."
-      }
-    },
-    "trap_type": "EI",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "EX",
+  "difficulty": 3,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K1-2-016",
+  "category": "信号",
+  "kp": "1-2-1",
+  "group": "A",
+  "source": "教則 付表1（1）",
+  "question_type": "text",
+  "qf": "QF-1-2-D-EI-04",
+  "question_ja": "前方の信号が赤色の灯火でも、黄色の灯火の矢印が出ているときは、車はその矢印の方向に進むことができる。",
+  "answer": false,
+  "explanation_ja": "黄色の灯火の矢印は路面電車に対する信号です。歩行者や車は、この矢印が出ていても進んではいけません（教則付表1（1））。",
+  "i18n": {
+   "zh": {
+    "question": "即使前方信号灯为红灯，只要出现黄色灯光箭头，车辆就可以朝该箭头方向前进。",
+    "explanation": "黄色灯光箭头是针对路面电车的信号。步行者和车辆即使看到这个箭头也不得前进（教则附表1（1））。"
+   },
+   "en": {
+    "question": "Even when the light ahead is red, a vehicle may proceed in the direction of a yellow arrow light while it is shown.",
+    "explanation": "A yellow arrow light is a signal for streetcars (trams). Pedestrians and vehicles must not proceed while it is shown (Kyosoku Appendix 1(1))."
+   },
+   "vi": {
+    "question": "Dù đèn phía trước là đèn đỏ, khi có đèn mũi tên vàng thì xe vẫn được đi theo hướng mũi tên đó.",
+    "explanation": "Đèn mũi tên vàng là tín hiệu dành cho tàu điện mặt đất. Người đi bộ và xe không được đi khi đèn này đang hiển thị (Kyosoku Phụ lục 1(1))."
+   },
+   "pt": {
+    "question": "Mesmo com a luz vermelha à frente, o veículo pode seguir no sentido da seta amarela enquanto ela estiver acesa.",
+    "explanation": "A seta amarela é um sinal para os bondes. Pedestres e veículos não podem prosseguir enquanto ela estiver acesa (Kyosoku, Anexo 1(1))."
+   }
   },
-  {
-    "id": "K5-7-012",
-    "category": "環状交差点",
-    "kp": "5-7-1",
-    "group": "Q",
-    "source": "道交法第37条の2第3項",
-    "question_type": "text",
-    "qf": "QF-5-7-1-D-NR-01",
-    "question_ja": "環状交差点を通行するときに特に注意しなければならないのは、環状交差点内を通行している車だけである。",
-    "answer": false,
-    "explanation_ja": "誤りです。道交法第37条の2第3項は、環状交差点に入ろうとする車や、環状交差点やその直近で道路を横断する歩行者にも特に注意することを求めています。",
-    "i18n": {
-      "zh": {
-        "question": "通行环形交叉路口时必须特别注意的，只有正在环形交叉路口内通行的车辆。",
-        "explanation": "错误。道交法第37条之2第3款要求对准备驶入环形交叉路口的车辆，以及在环形交叉路口或其紧邻处横穿道路的步行者也特别注意。"
-      },
-      "en": {
-        "question": "The only traffic you have to pay particular attention to when travelling through a roundabout is the vehicles already inside it.",
-        "explanation": "This is wrong. Article 37-2 paragraph 3 of the Road Traffic Act also requires particular attention to vehicles about to enter and to pedestrians crossing the road at or immediately beside the roundabout."
-      },
-      "vi": {
-        "question": "Khi đi qua giao lộ vòng xuyến, đối tượng duy nhất bạn phải đặc biệt chú ý là xe đang lưu thông bên trong.",
-        "explanation": "Sai. Điều 37-2 khoản 3 Luật Giao thông đường bộ còn yêu cầu đặc biệt chú ý tới xe sắp đi vào và người đi bộ đang băng qua đường tại hoặc ngay sát giao lộ vòng xuyến."
-      },
-      "pt": {
-        "question": "Ao circular por uma rotatória, os únicos a quem você precisa dar atenção especial são os veículos que já estão dentro dela.",
-        "explanation": "Está errado. O Artigo 37-2, parágrafo 3, da Lei de Trânsito também exige atenção especial aos veículos prestes a entrar e aos pedestres que atravessam a via na rotatória ou logo ao lado dela."
-      }
-    },
-    "trap_type": "NR",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "EI",
+  "difficulty": 3,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K1-2-017",
+  "category": "信号",
+  "kp": "1-2-1",
+  "group": "A",
+  "source": "教則 付表1（1）",
+  "question_type": "text",
+  "qf": "QF-1-2-D-EX-03",
+  "question_ja": "交差点の手前で信号が赤色の灯火になっていても、黄色の灯火の矢印が示されていれば、その方向へは路面電車と軽車両が進んでよい。",
+  "answer": false,
+  "explanation_ja": "黄色の灯火の矢印で進めるのは路面電車だけです。軽車両を含め、車は進んではいけません（教則付表1（1））。",
+  "i18n": {
+   "zh": {
+    "question": "即使交叉路口前方的信号灯已变为红灯，只要显示了黄色灯光箭头，路面电车和轻车辆（自行车、人力车等）就都可以朝该方向前进。",
+    "explanation": "凭黄色灯光箭头可以前进的只有路面电车。包括轻车辆在内，车辆都不得前进（教则附表1（1））。"
+   },
+   "en": {
+    "question": "Even when the light at the intersection ahead has turned red, if a yellow arrow light is shown, a streetcar (tram) and light road vehicles (bicycle, cart, etc.) may both proceed in that direction.",
+    "explanation": "Only a streetcar may proceed on a yellow arrow light. Vehicles, light road vehicles included, must not (Kyosoku Appendix 1(1))."
+   },
+   "vi": {
+    "question": "Dù đèn tín hiệu ở nút giao thông phía trước đã chuyển sang đèn đỏ, nếu có đèn mũi tên vàng thì tàu điện mặt đất và xe thô sơ (xe đạp, xe kéo, v.v.) đều được đi theo hướng đó.",
+    "explanation": "Chỉ tàu điện mặt đất mới được đi theo đèn mũi tên vàng. Xe, kể cả xe thô sơ, đều không được đi (Kyosoku Phụ lục 1(1))."
+   },
+   "pt": {
+    "question": "Mesmo que o semáforo do cruzamento à frente esteja na luz vermelha, se houver uma seta amarela, tanto o bonde quanto os veículos leves (bicicleta, carroça etc.) podem seguir nesse sentido.",
+    "explanation": "Só o bonde pode seguir com a seta amarela. Os veículos, inclusive os veículos leves, não podem (Kyosoku, Anexo 1(1))."
+   }
   },
-  {
-    "id": "K5-5-007",
-    "category": "環状交差点",
-    "kp": "5-5-1",
-    "group": "N",
-    "source": "教則 第5章第5節1(2)",
-    "question_type": "text",
-    "qf": "QF-5-5-1-D-OR-01",
-    "question_ja": "環状交差点を出ようとするときは、先に合図をしてから、バックミラーなどで後方の安全を確かめる。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第5章第5節1(2)では、あらかじめバックミラーなどで安全を確かめてから合図をすることになっています。",
-    "i18n": {
-      "zh": {
-        "question": "准备驶出环形交叉路口时，先打信号（转向灯或手势），然后再用后视镜等确认后方安全。",
-        "explanation": "错误。教则第5章第5节1(2)规定，要先用后视镜等确认安全，然后再打信号。"
-      },
-      "en": {
-        "question": "When you are about to leave a roundabout you signal first and then check behind you in the rear-view mirror and so on.",
-        "explanation": "This is wrong. Kyosoku Chapter 5 Section 5 item 1(2) has you check that it is safe in the rear-view mirror and so on first, and signal after that."
-      },
-      "vi": {
-        "question": "Khi sắp ra khỏi giao lộ vòng xuyến, bạn báo hiệu (bằng xi nhan hoặc tay) trước rồi mới kiểm tra an toàn phía sau bằng gương chiếu hậu.",
-        "explanation": "Sai. Kyosoku Chương 5 Mục 5 điểm 1(2) quy định trước hết phải kiểm tra an toàn bằng gương chiếu hậu rồi mới báo hiệu."
-      },
-      "pt": {
-        "question": "Ao sair de uma rotatória você sinaliza primeiro e depois verifica a segurança atrás pelo espelho retrovisor.",
-        "explanation": "Está errado. O Kyosoku, Capítulo 5, Seção 5, item 1(2), manda verificar antes a segurança pelo espelho retrovisor e só então sinalizar."
-      }
-    },
-    "trap_type": "OR",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "EX",
+  "difficulty": 3,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K1-2-018",
+  "category": "信号",
+  "kp": "1-2-1",
+  "group": "A",
+  "source": "教則 第1章第2節1(3) / 付表2（1）",
+  "question_type": "text",
+  "qf": "QF-付2-A-N-01",
+  "question_ja": "信号機に「歩行者・自転車専用」と示されているときは、自転車や特定小型原動機付自転車も、人の形の記号がある信号に従って通行しなければならない。",
+  "answer": true,
+  "explanation_ja": "教則第1章第2節1(3)のとおりです。この場合の信号の意味は付表1（2）によります。",
+  "i18n": {
+   "zh": {
+    "question": "信号灯上标有「步行者・自行车专用」时，自行车和特定小型轻型摩托车也必须按照带人形记号的信号灯通行。",
+    "explanation": "符合教则第1章第2节1(3)的规定。此时信号的含义依照附表1（2）。"
+   },
+   "en": {
+    "question": "Where a traffic light is marked \"Pedestrians and bicycles only\", bicycles and specified small motorized bicycles must also follow the signal with the figure of a person.",
+    "explanation": "This is Kyosoku Chapter 1 Section 2 item 1(3). What that signal means is set out in Appendix 1(2)."
+   },
+   "vi": {
+    "question": "Khi trên đèn tín hiệu có ghi «Dành riêng cho người đi bộ và xe đạp», xe đạp và xe gắn máy cỡ nhỏ đặc định cũng phải đi theo đèn có hình người.",
+    "explanation": "Đúng theo Kyosoku Chương 1 Mục 2 điểm 1(3). Ý nghĩa của đèn trong trường hợp này theo Phụ lục 1(2)."
+   },
+   "pt": {
+    "question": "Quando o semáforo traz a indicação \"Exclusivo para pedestres e bicicletas\", as bicicletas e os ciclomotores pequenos especificados também devem obedecer ao sinal com a figura de uma pessoa.",
+    "explanation": "É o Kyosoku, Capítulo 1, Seção 2, item 1(3). O significado desse sinal está no Anexo 1(2)."
+   }
   },
-  {
-    "id": "K5-7-013",
-    "category": "環状交差点",
-    "kp": "5-7-4",
-    "group": "Q",
-    "source": "道交法第37条の2第1項（第36条第2項は適用されない）",
-    "question_type": "text",
-    "qf": "QF-5-7-4-D-EI-04",
-    "question_ja": "環状交差点は交通整理の行われていない交差点であるから、道幅の広い道路から入る車が優先する。",
-    "answer": false,
-    "explanation_ja": "誤りです。道幅による優先を定めた道交法第36条第2項は環状交差点には適用されず、道幅にかかわらず環状交差点内を通行している車が優先します。",
-    "i18n": {
-      "zh": {
-        "question": "环形交叉路口属于未进行交通整理的交叉路口，因此从路面较宽的道路驶入的车辆优先。",
-        "explanation": "错误。规定按路宽定优先的道交法第36条第2款不适用于环形交叉路口，无论路宽如何，正在环形交叉路口内通行的车辆优先。"
-      },
-      "en": {
-        "question": "A roundabout is an intersection without traffic control, so a vehicle entering from the wider road has priority.",
-        "explanation": "This is wrong. Article 36 paragraph 2 of the Road Traffic Act, which gives priority by road width, does not apply at a roundabout; whatever the widths, priority belongs to vehicles already travelling inside it."
-      },
-      "vi": {
-        "question": "Giao lộ vòng xuyến là nút giao thông không có điều khiển giao thông, nên xe đi vào từ đường rộng hơn được ưu tiên.",
-        "explanation": "Sai. Điều 36 khoản 2 Luật Giao thông đường bộ quy định ưu tiên theo bề rộng đường không áp dụng cho giao lộ vòng xuyến; bất kể bề rộng, xe đang lưu thông bên trong mới được ưu tiên."
-      },
-      "pt": {
-        "question": "A rotatória é um cruzamento sem controle de trânsito, então o veículo que entra pela via mais larga tem preferência.",
-        "explanation": "Está errado. O Artigo 36, parágrafo 2, da Lei de Trânsito, que dá preferência pela largura da via, não se aplica à rotatória; independentemente da largura, a preferência é dos veículos que já circulam dentro dela."
-      }
-    },
-    "trap_type": "EI",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
-  }
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ }
 ]

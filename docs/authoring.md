@@ -1,7 +1,14 @@
 # 出题规范 — how a question in this bank is written
 
 Operative rules for `questions/`. Derived from the Menkyo project's
-`题型分析与出题规范 v7`; where this file and that spec disagree, the spec wins.
+`题型分析与出题规范 v8`; where this file and that spec disagree, the spec wins.
+
+**Which questions exist is not decided here.** The bank is the deduplicated
+fingerprint set of the reference source sets: one question per fingerprint, and a
+knowledge point no reference bank asks is recorded rather than written. The set is
+`data/fingerprints.json`, readable as [`coverage.md`](coverage.md), and spec v8 §9
+is the rule. This file decides how a question is written once the fingerprint says
+it should exist.
 
 ## 1. Sources
 
@@ -15,7 +22,10 @@ Operative rules for `questions/`. Derived from the Menkyo project's
 
 ## 2. Shape
 
-One JSON object per question, batches of 20 in `questions/{scope}/batch-NN.json`.
+One JSON object per question, in `questions/{scope}/batch-NN.json`. One batch holds
+one knowledge-point group, up to 20 questions; a group larger than 20 runs over
+several batches. The validator warns on a batch that is not 20 — that warning is
+expected on the batch that closes a group.
 
 ```json
 {
@@ -89,10 +99,16 @@ P 超车·让行 / Q 交叉路口 / R AT车 / S 道口 / T 二轮车 / U 其他
   questions only, and an × question has exactly one reason for being wrong.
 - Explanations cite the provision first; an × explanation then states what is correct.
 - At most one affirmative/negative mirror pair per KP per batch.
-- Trap mix across × questions, from the reference-bank trend analysis:
-  EI 35–45%, SW 15–25%, NU under 5%, AB and OR 1–2% each.
-  Image questions 12–20% of the bank, of which hand-signal and traffic-light
-  images together stay under 1%.
+- **The trap mix is an observation, not a quota.** It falls out of the fingerprint
+  set: each question's trap is the one its fingerprint carries, so the finished bank
+  reproduces what the reference banks actually ask (spec v8 §4.3 measured EI 30%,
+  SW 18%, SS 15% of the × questions). `tools/stats.py` prints the running mix
+  against the old v7 target bands; a band it flags on a part-built bank is
+  information, not a defect to author around.
+- Image questions are 109 of the 507 fingerprints, 108 of them authored. Every sign
+  and marking maps to a 標識令 catalogue number in `signs/index.csv`; the three
+  signal questions use drawings made for this project, with no lettering, so the
+  image is the same in every language.
 
 ## 5. Translation
 
@@ -107,16 +123,23 @@ P 超车·让行 / Q 交叉路口 / R AT车 / S 道口 / T 二轮车 / U 其他
   sentence.** A translation may not widen or narrow the statement: if the Japanese
   has an exception the translation keeps it; if the Japanese has no absolute wording
   the translation does not add any.
-- A term missing from the glossary is translated and listed in the batch's
-  `New terms to add` note in `docs/new-terms.md`.
+- A term missing from the glossary is translated and listed in
+  [`new-terms.md`](new-terms.md), with the question it was first used in.
 - Image captions are identical across languages; the image itself is not localised.
 
 ## 6. Checking
 
 ```
-python3 tools/validate.py     # structure, trap/answer pairing, scope, glossary bans
-python3 tools/stats.py        # KP coverage, trap mix, ○× balance
+python3 tools/validate.py            # structure, trap/answer pairing, scope, glossary bans, ledger
+python3 tools/validate.py --complete # the above, and fail while any fingerprint is unwritten
+python3 tools/link_ledger.py         # point the ledger at the questions that now cover it
+python3 tools/coverage.py            # regenerate docs/coverage.md from the ledger
+python3 tools/stats.py               # KP coverage, trap mix, ○× balance
 ```
+
+After adding or editing questions, run `link_ledger.py` and then `coverage.py`:
+`validate.py` fails while the ledger and the bank disagree, and CI checks that both
+generated files are current.
 
 `validate.py` fails the build on an error. Warnings — absolute wording outside an
 `AB` trap, sentence-count drift between languages — are for a human to read.

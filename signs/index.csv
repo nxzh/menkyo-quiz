@@ -59,6 +59,7 @@ file,sign_no,name_ja,variant,category,source,source_file,license,source_url
 311-F-左.svg,311-F,指定方向外進行禁止,左,規制標識,commons,Japan_road_sign_311-F-L.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_311-F-L.svg
 312.svg,312,車両横断禁止,,規制標識,commons,Japan_road_sign_312.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_312.svg
 313.svg,313,転回禁止,,規制標識,commons,Japan_road_sign_313.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_313.svg
+314+508-2.svg,314+508-2,追越しのための右側部分はみ出し通行禁止＋補助標識「追越し禁止」,,その他,self-drawn,314.svg と 508-2.svg を実際の設置どおり組み合わせたもの,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
 314.svg,314,追越しのための右側部分はみ出し通行禁止,,規制標識,commons,Japan_road_sign_314.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_314.svg
 315.svg,315,駐停車禁止,,規制標識,commons,Japan_road_sign_315.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_315.svg
 316.svg,316,駐車禁止,,規制標識,commons,Japan_road_sign_316.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_316.svg
@@ -131,6 +132,9 @@ file,sign_no,name_ja,variant,category,source,source_file,license,source_url
 408.svg,408,安全地帯,,指示標識,commons,Japan_road_sign_408.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_408.svg
 409-A.svg,409-A,規制予告,,指示標識,commons,Japanese_road_sign_409-A.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japanese_road_sign_409-A.svg
 409-B.svg,409-B,規制予告,,指示標識,commons,Japanese_road_sign_409-B.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japanese_road_sign_409-B.svg
+505-A.svg,505-A,始まり,,補助標識,commons,Japan_road_sign_505-A.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_505-A.svg
+507-A.svg,507-A,終わり,,補助標識,commons,Japan_road_sign_507-A.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_507-A.svg
+508-2.svg,508-2,追越し禁止,,補助標識,commons,Japan_road_sign_508-2.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japan_road_sign_508-2.svg
 M101.svg,101,転回禁止,,規制標示,self-drawn,R101_転回禁止.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
 M102-2-A_黄実線.svg,102-2,進路変更禁止,A_黄実線,規制標示,self-drawn,R102-2-A_進路変更禁止_黄実線.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
 M102-2-B_黄実線と白破線.svg,102-2,進路変更禁止,B_黄実線と白破線,規制標示,self-drawn,R102-2-B_進路変更禁止_黄実線と白破線.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
@@ -189,3 +193,7 @@ M211.svg,211,前方優先道路,,指示標示,self-drawn,S211_前方優先道路
 O.svg,,総重量・高さ限度緩和指定道路_A,,その他,commons,Japanese_Road_sign_118-4_and_5-A.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japanese_Road_sign_118-4_and_5-A.svg
 O503-D-白地（参考）.svg,503-D,車両の種類,白地（参考）,その他,self-drawn,503-D_標章車専用_white-variant.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz
 O_2.svg,,総重量・高さ限度緩和指定道路_B,,その他,commons,Japanese_Road_sign_118-4_and_5-B.svg,PD-Japan-exempt (標識令 catalogue reproduction),https://commons.wikimedia.org/wiki/File:Japanese_Road_sign_118-4_and_5-B.svg
+S-信号-青矢印右.svg,S-信号-青矢印右,車両用信号機（赤色の灯火＋右向きの青色の灯火の矢印）,,その他,self-drawn,,CC BY-NC-SA 4.0 (menkyo-quiz original drawing),https://github.com/nxzh/menkyo-quiz
+S-手による合図-ひじ垂直.svg,S-手による合図-ひじ垂直,手による合図（腕を車の外に出してひじを垂直に上に曲げる）,,その他,self-drawn,—（教則第5章第5節1(1)の表より作図）,CC BY-NC-SA 4.0 (menkyo-quiz original drawing),https://github.com/nxzh/menkyo-quiz
+S-手信号-警察官.svg,S-手信号-警察官,警察官の手信号（腕を横に水平／腕を垂直）,,その他,self-drawn,,CC BY-NC-SA 4.0 (menkyo-quiz original drawing),https://github.com/nxzh/menkyo-quiz
+付2-2.svg,付2-2,左折可,,その他,self-drawn,—（教則付表2(2)より作図）,PD-Japan-exempt (標識令 catalogue reproduction),https://github.com/nxzh/menkyo-quiz

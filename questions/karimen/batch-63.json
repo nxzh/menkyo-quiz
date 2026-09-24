@@ -1,0 +1,533 @@
+[
+ {
+  "id": "K5-3-636",
+  "category": "初心運転者などの保護",
+  "kp": "5-3-8",
+  "group": "F",
+  "source": "教則 第5章第3節8(1) / 道交法第71条第5号の4",
+  "question_type": "text",
+  "qf": "QF-4-2-A-N-11",
+  "question_ja": "危険を避けるためやむを得ない場合のほかは、初心者マークを付けた普通自動車や、仮免許で練習中の人が運転している自動車の側方に幅寄せをしたり、その前方に無理に割り込んだりしてはならない。",
+  "answer": true,
+  "explanation_ja": "教則第5章第3節8(1)のとおりです（道交法第71条第5号の4）。高齢者マークや聴覚障害者マーク、身体障害者マークを付けた車についても同じです。",
+  "i18n": {
+   "zh": {
+    "question": "除为避免危险而不得已的情况外，不得对贴有新手标识的普通汽车、或正在用临时驾照（仮免）练习的人所驾驶的汽车进行挤车，也不得强行插队到其前方。",
+    "explanation": "符合教则第5章第3节8(1)的规定（道交法第71条第5号之4）。对贴有高龄者标识、听觉残障者标识、身体残障者标识的车辆也是一样。"
+   },
+   "en": {
+    "question": "Except where it cannot be avoided in order to prevent danger, you must not squeeze (force aside) an ordinary motor vehicle displaying the new driver mark (初心者マーク) or a vehicle driven by someone practising on a learner's permit (仮免), nor cut in ahead of it.",
+    "explanation": "This is Kyosoku Chapter 5 Section 3 item 8(1) (Road Traffic Act Article 71 item 5-4). The same applies to vehicles displaying the elderly driver mark, the hearing-impaired driver mark or the disabled driver mark."
+   },
+   "vi": {
+    "question": "Trừ trường hợp bất đắc dĩ để tránh nguy hiểm, bạn không được ép xe đối với xe ô tô thường có gắn dấu hiệu người mới lái hoặc xe do người đang tập lái bằng bằng lái tạm thời (仮免) điều khiển, cũng không được tạt đầu xe đó.",
+    "explanation": "Đúng theo Kyosoku Chương 5 Mục 3 điểm 8(1) (Luật Giao thông Đường bộ Điều 71 điểm 5-4). Điều này cũng áp dụng với xe có gắn dấu hiệu người lái cao tuổi, người khiếm thính hoặc người khuyết tật vận động."
+   },
+   "pt": {
+    "question": "Salvo quando for inevitável para evitar um perigo, não se deve fechar espaço contra um veículo comum que exibe o símbolo de condutor novato nem contra um veículo conduzido por quem treina com habilitação provisória (仮免), nem cortar abruptamente à frente dele.",
+    "explanation": "É o Kyosoku, Capítulo 5, Seção 3, item 8(1) (Lei de Trânsito Rodoviário, Artigo 71, item 5-4). O mesmo vale para veículos que exibem o símbolo de motorista idoso, de deficiente auditivo ou de deficiente físico."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K4-2-637",
+  "category": "運転免許",
+  "kp": "4-2-2",
+  "group": "F",
+  "source": "教則 第4章第2節2 / 道交法第3条",
+  "question_type": "text",
+  "qf": "QF-4-2-A-N-12",
+  "question_ja": "乗車定員が10人の乗用自動車を運転するのに中型免許は必要なく、普通免許があれば運転することができる。",
+  "answer": true,
+  "explanation_ja": "普通免許で運転できるのは、普通自動車、小型特殊自動車、一般原動機付自転車です（教則第4章第2節2）。乗車定員10人以下の乗用自動車は普通自動車に含まれます。",
+  "i18n": {
+   "zh": {
+    "question": "驾驶乘车定员为10人的乘用汽车不需要中型驾照，有普通驾照就可以驾驶。",
+    "explanation": "普通驾照可以驾驶的是普通汽车、小型特殊汽车和一般轻型摩托车（教则第4章第2节2）。乘车定员10人以下的乘用汽车包含在普通汽车之内。"
+   },
+   "en": {
+    "question": "Driving a passenger vehicle with a seating capacity of 10 does not need a middle-sized motor vehicle license; a regular motor vehicle license is enough.",
+    "explanation": "A regular motor vehicle license covers ordinary motor vehicles, small-sized special motor vehicles and general motorized bicycles (mopeds) (Kyosoku Chapter 4 Section 2 item 2). A passenger vehicle whose seating capacity is 10 or fewer falls within ordinary motor vehicles."
+   },
+   "vi": {
+    "question": "Để lái xe chở khách có số người tối đa là 10 thì không cần bằng lái xe cỡ vừa, chỉ cần bằng lái xe thường là đủ.",
+    "explanation": "Bằng lái xe thường cho phép lái xe ô tô thường, xe chuyên dùng cỡ nhỏ và xe gắn máy (原付) (Kyosoku Chương 4 Mục 2 điểm 2). Xe chở khách có số người tối đa từ 10 trở xuống nằm trong nhóm xe ô tô thường."
+   },
+   "pt": {
+    "question": "Para dirigir um veículo de passageiros com capacidade de 10 pessoas não é preciso a habilitação para veículos médios; basta a habilitação para veículos comuns.",
+    "explanation": "A habilitação para veículos comuns abrange veículos comuns, veículos especiais pequenos e ciclomotores (Kyosoku, Capítulo 4, Seção 2, item 2). Um veículo de passageiros com capacidade de até 10 pessoas está dentro dos veículos comuns."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免",
+  "verify": true
+ },
+ {
+  "id": "K4-1-638",
+  "category": "運転免許",
+  "kp": "4-1-1",
+  "group": "F",
+  "source": "教則 第4章第1節1(1)オ / 道交法第71条の5第2項",
+  "question_type": "text",
+  "qf": "QF-4-2-A-N-13",
+  "question_ja": "普通免許を受けて1年を経過していない人は、友人から借りた普通自動車を運転するときも、その車の前と後ろの定められた位置に初心者マークを付けなければならない。",
+  "answer": true,
+  "explanation_ja": "教則第4章第1節1(1)オのとおりです（道交法第71条の5第2項）。この義務は車の持ち主ではなく、運転する人にかかります。",
+  "i18n": {
+   "zh": {
+    "question": "取得普通驾照未满1年的人，驾驶向朋友借来的普通汽车时，同样必须在该车前后的规定位置贴上新手标识。",
+    "explanation": "符合教则第4章第1节1(1)オ的规定（道交法第71条之5第2款）。这项义务针对的不是车主，而是驾驶的人。"
+   },
+   "en": {
+    "question": "A person who has held a regular motor vehicle license for less than a year must fit the new driver mark (初心者マーク) at the prescribed positions on the front and rear even when driving an ordinary motor vehicle borrowed from a friend.",
+    "explanation": "This is Kyosoku Chapter 4 Section 1 item 1(1)(e) (Road Traffic Act Article 71-5(2)). The duty falls on the person driving, not on the owner of the vehicle."
+   },
+   "vi": {
+    "question": "Người có bằng lái xe thường chưa đủ một năm, ngay cả khi lái chiếc xe ô tô thường mượn của bạn bè, cũng phải gắn dấu hiệu người mới lái ở vị trí quy định phía trước và phía sau xe.",
+    "explanation": "Đúng theo Kyosoku Chương 4 Mục 1 điểm 1(1)(e) (Luật Giao thông Đường bộ Điều 71-5 khoản 2). Nghĩa vụ này thuộc về người lái xe, không phải chủ xe."
+   },
+   "pt": {
+    "question": "Quem tem habilitação para veículos comuns há menos de um ano deve fixar o símbolo de condutor novato nas posições determinadas na frente e na traseira mesmo ao dirigir um veículo comum emprestado de um amigo.",
+    "explanation": "É o Kyosoku, Capítulo 4, Seção 1, item 1(1)(e) (Lei de Trânsito Rodoviário, Artigo 71-5(2)). O dever recai sobre quem dirige, não sobre o dono do veículo."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-3-639",
+  "category": "初心運転者などの保護",
+  "kp": "5-3-8",
+  "group": "F",
+  "source": "教則 第5章第3節8(1)エ、(2) / 道交法第71条第5号の4",
+  "question_type": "text",
+  "qf": "QF-4-2-A-N-14",
+  "question_ja": "危険を避けるためやむを得ない場合のほかは、聴覚障害者マークを付けた準中型自動車や普通自動車の側方に幅寄せをしたり、その前方に無理に割り込んだりしてはならない。",
+  "answer": true,
+  "explanation_ja": "教則第5章第3節8(1)エのとおりです（道交法第71条第5号の4）。これらの車の運転者は警音器の音が聞こえないことがあるので、安全に通行できるように配慮します。",
+  "i18n": {
+   "zh": {
+    "question": "除为避免危险而不得已的情况外，不得对贴有听觉残障者标识的准中型汽车或普通汽车进行挤车，也不得强行插队到其前方。",
+    "explanation": "符合教则第5章第3节8(1)エ的规定（道交法第71条第5号之4）。这些车的驾驶员有时听不到喇叭声，所以要为其安全通行加以照顾。"
+   },
+   "en": {
+    "question": "Except where it cannot be avoided in order to prevent danger, you must not squeeze (force aside) a semi-medium-sized or ordinary motor vehicle displaying the hearing-impaired driver mark, nor cut in ahead of it.",
+    "explanation": "This is Kyosoku Chapter 5 Section 3 item 8(1)(d) (Road Traffic Act Article 71 item 5-4). The drivers of these vehicles may not hear the horn, so give them room to travel safely."
+   },
+   "vi": {
+    "question": "Trừ trường hợp bất đắc dĩ để tránh nguy hiểm, bạn không được ép xe đối với xe ô tô cỡ bán trung hoặc xe ô tô thường có gắn dấu hiệu người khiếm thính, cũng không được tạt đầu xe đó.",
+    "explanation": "Đúng theo Kyosoku Chương 5 Mục 3 điểm 8(1)(d) (Luật Giao thông Đường bộ Điều 71 điểm 5-4). Người lái những xe này có thể không nghe được tiếng còi, nên hãy nhường chỗ để họ đi lại an toàn."
+   },
+   "pt": {
+    "question": "Salvo quando for inevitável para evitar um perigo, não se deve fechar espaço contra um veículo semi-médio ou comum que exibe o símbolo de deficiente auditivo, nem cortar abruptamente à frente dele.",
+    "explanation": "É o Kyosoku, Capítulo 5, Seção 3, item 8(1)(d) (Lei de Trânsito Rodoviário, Artigo 71, item 5-4). Os condutores desses veículos podem não ouvir a buzina, por isso dê espaço para que circulem com segurança."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K11-1-640",
+  "category": "運転免許",
+  "kp": "11-1-4",
+  "group": "F",
+  "source": "教則 第11章第1節4",
+  "question_type": "text",
+  "qf": "QF-4-2-A-N-15",
+  "question_ja": "自賠責保険か責任共済に加入したうえで、万一の場合に備えて一般の任意保険にも加入しておくのがよい。",
+  "answer": true,
+  "explanation_ja": "教則第11章第1節4のとおりです。教則第1章第1節2(3)も、万一の場合に備えて自動車保険に加入しておくことを心構えの一つに挙げています。",
+  "i18n": {
+   "zh": {
+    "question": "在加入交通事故责任强制保险或责任共济的基础上，为防万一，最好也加入一般的任意保险。",
+    "explanation": "符合教则第11章第1节4的规定。教则第1章第1节2(3)也把为防万一加入汽车保险列为心理准备之一。"
+   },
+   "en": {
+    "question": "On top of the compulsory liability insurance or the mutual-aid scheme, it is wise to take out ordinary voluntary insurance as well, in case the worst happens.",
+    "explanation": "This is Kyosoku Chapter 11 Section 1 item 4. Kyosoku Chapter 1 Section 1 item 2(3) likewise lists taking out motor insurance against the worst as one of the attitudes a road user should hold."
+   },
+   "vi": {
+    "question": "Ngoài bảo hiểm trách nhiệm bồi thường bắt buộc hoặc chương trình tương trợ trách nhiệm, nên tham gia thêm bảo hiểm tự nguyện thông thường để phòng khi bất trắc.",
+    "explanation": "Đúng theo Kyosoku Chương 11 Mục 1 điểm 4. Kyosoku Chương 1 Mục 1 điểm 2(3) cũng nêu việc tham gia bảo hiểm ô tô để phòng bất trắc là một trong những điều người đi đường nên chuẩn bị."
+   },
+   "pt": {
+    "question": "Além do seguro obrigatório de responsabilidade civil ou da mutualidade, convém contratar também um seguro facultativo comum, para o caso de algo dar errado.",
+    "explanation": "É o Kyosoku, Capítulo 11, Seção 1, item 4. O Kyosoku, Capítulo 1, Seção 1, item 2(3) também aponta contratar seguro de automóvel como uma das atitudes de quem circula na via."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 1,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K4-1-641",
+  "category": "運転免許",
+  "kp": "4-1-1",
+  "group": "F",
+  "source": "教則 第4章第1節1(1)オ / 道交法第71条の5第2項",
+  "question_type": "text",
+  "qf": "QF-4-2-D-EX-02",
+  "question_ja": "初心者マークは、車の前後左右の4か所に付けなければならない。",
+  "answer": false,
+  "explanation_ja": "4か所ではありません。初心者マークは、車の前面と後面の定められた位置に付けます（教則第4章第1節1(1)オ、道交法第71条の5第2項）。",
+  "i18n": {
+   "zh": {
+    "question": "新手标识必须贴在车的前后左右4处。",
+    "explanation": "不是4处。新手标识贴在车前面和后面的规定位置（教则第4章第1节1(1)オ、道交法第71条之5第2款）。"
+   },
+   "en": {
+    "question": "The new driver mark (初心者マーク) must be displayed at four places on the vehicle: front, rear, left and right.",
+    "explanation": "It is not four places. The mark goes at the prescribed positions on the front and the rear of the vehicle (Kyosoku Chapter 4 Section 1 item 1(1)(e); Road Traffic Act Article 71-5(2))."
+   },
+   "vi": {
+    "question": "Dấu hiệu người mới lái phải được gắn ở bốn vị trí trên xe: trước, sau, trái và phải.",
+    "explanation": "Không phải bốn vị trí. Dấu hiệu này được gắn ở vị trí quy định trên mặt trước và mặt sau của xe (Kyosoku Chương 4 Mục 1 điểm 1(1)(e); Luật Giao thông Đường bộ Điều 71-5 khoản 2)."
+   },
+   "pt": {
+    "question": "O símbolo de condutor novato deve ser exibido em quatro pontos do veículo: frente, traseira, lado esquerdo e lado direito.",
+    "explanation": "Não são quatro pontos. O símbolo vai nas posições determinadas na frente e na traseira do veículo (Kyosoku, Capítulo 4, Seção 1, item 1(1)(e); Lei de Trânsito Rodoviário, Artigo 71-5(2))."
+   }
+  },
+  "trap_type": "EX",
+  "difficulty": 1,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K4-2-642",
+  "category": "運転免許",
+  "kp": "4-2-2",
+  "group": "F",
+  "source": "教則 第4章第2節2",
+  "question_type": "text",
+  "qf": "QF-4-2-D-EX-03",
+  "question_ja": "普通免許を受けていれば、普通自動二輪車を運転することができる。",
+  "answer": false,
+  "explanation_ja": "運転できません。普通自動二輪車を運転するには、普通二輪免許か大型二輪免許が必要です（教則第4章第2節2）。",
+  "i18n": {
+   "zh": {
+    "question": "只要取得普通驾照，就可以驾驶普通二轮汽车。",
+    "explanation": "不能驾驶。要驾驶普通二轮汽车，需要普通二轮驾照或大型二轮驾照（教则第4章第2节2）。"
+   },
+   "en": {
+    "question": "If you hold a regular motor vehicle license you may ride a regular motorcycle.",
+    "explanation": "You may not. Riding a regular motorcycle requires a regular motorcycle license or a large motorcycle license (Kyosoku Chapter 4 Section 2 item 2)."
+   },
+   "vi": {
+    "question": "Chỉ cần có bằng lái xe thường là có thể lái xe mô tô thường.",
+    "explanation": "Không được lái. Để lái xe mô tô thường thì cần bằng lái xe mô tô thường hoặc bằng lái xe mô tô cỡ lớn (Kyosoku Chương 4 Mục 2 điểm 2)."
+   },
+   "pt": {
+    "question": "Quem tem habilitação para veículos comuns pode pilotar uma motocicleta comum.",
+    "explanation": "Não pode. Pilotar motocicleta comum exige habilitação para motocicletas comuns ou para motocicletas grandes (Kyosoku, Capítulo 4, Seção 2, item 2)."
+   }
+  },
+  "trap_type": "EX",
+  "difficulty": 1,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-3-643",
+  "category": "初心運転者などの保護",
+  "kp": "5-3-8",
+  "group": "F",
+  "source": "教則 第5章第3節8(1) / 道交法第71条第5号の4",
+  "question_type": "text",
+  "qf": "QF-4-2-D-EX-04",
+  "question_ja": "初心者マークや仮免許練習標識を付けた車を追い越すことは、禁止されている。",
+  "answer": false,
+  "explanation_ja": "追越しは禁止されていません。禁止されているのは、危険を避けるためやむを得ない場合のほかに、これらの車の側方に幅寄せをしたり前方に無理に割り込んだりすることです（教則第5章第3節8(1)）。",
+  "i18n": {
+   "zh": {
+    "question": "对贴有新手标识或临时驾照练习标识的车辆，禁止超车。",
+    "explanation": "超车并没有被禁止。被禁止的是，除为避免危险而不得已的情况外，对这些车进行挤车或强行插队到其前方（教则第5章第3节8(1)）。"
+   },
+   "en": {
+    "question": "Overtaking a vehicle that displays the new driver mark (初心者マーク) or the learner's permit practice sign is prohibited.",
+    "explanation": "Overtaking is not prohibited. What is prohibited, except where unavoidable to prevent danger, is squeezing (forcing aside) such a vehicle or cutting in ahead of it (Kyosoku Chapter 5 Section 3 item 8(1))."
+   },
+   "vi": {
+    "question": "Việc vượt xe có gắn dấu hiệu người mới lái hoặc biển tập lái bằng tạm thời là bị cấm.",
+    "explanation": "Vượt xe không bị cấm. Điều bị cấm, trừ khi bất đắc dĩ để tránh nguy hiểm, là ép xe hoặc tạt đầu những chiếc xe đó (Kyosoku Chương 5 Mục 3 điểm 8(1))."
+   },
+   "pt": {
+    "question": "É proibido ultrapassar um veículo que exibe o símbolo de condutor novato ou a placa de treino com habilitação provisória.",
+    "explanation": "A ultrapassagem não é proibida. O que é proibido, salvo quando inevitável para evitar um perigo, é fechar espaço contra esse veículo ou cortar abruptamente à sua frente (Kyosoku, Capítulo 5, Seção 3, item 8(1))."
+   }
+  },
+  "trap_type": "EX",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K4-1-644",
+  "category": "運転免許",
+  "kp": "4-1-1",
+  "group": "F",
+  "source": "教則 第4章第1節1(1)オ / 道交法第71条の5第2項",
+  "question_type": "text",
+  "qf": "QF-4-2-D-NR-01",
+  "question_ja": "初心者マークは、車の前か後ろのどちらか見やすいほうに付けておけばよい。",
+  "answer": false,
+  "explanation_ja": "どちらか一方では足りません。初心者マークは、車の前と後ろの両方の定められた位置に付けなければなりません（教則第4章第1節1(1)オ）。",
+  "i18n": {
+   "zh": {
+    "question": "新手标识只要贴在车前面或后面中比较显眼的一侧即可。",
+    "explanation": "只贴一侧是不够的。新手标识必须贴在车前面和后面两处的规定位置（教则第4章第1节1(1)オ）。"
+   },
+   "en": {
+    "question": "The new driver mark (初心者マーク) only has to go on whichever of the front or the rear of the vehicle is easier to see.",
+    "explanation": "One of the two is not enough. The mark must be fitted at the prescribed positions on both the front and the rear of the vehicle (Kyosoku Chapter 4 Section 1 item 1(1)(e))."
+   },
+   "vi": {
+    "question": "Dấu hiệu người mới lái chỉ cần gắn ở phía trước hoặc phía sau xe, bên nào dễ nhìn hơn thì gắn bên đó.",
+    "explanation": "Chỉ một bên là chưa đủ. Dấu hiệu này phải được gắn ở vị trí quy định trên cả mặt trước lẫn mặt sau của xe (Kyosoku Chương 4 Mục 1 điểm 1(1)(e))."
+   },
+   "pt": {
+    "question": "O símbolo de condutor novato só precisa ser colocado na frente ou na traseira do veículo, no lado que for mais visível.",
+    "explanation": "Apenas um dos dois não basta. O símbolo deve ser fixado nas posições determinadas tanto na frente como na traseira do veículo (Kyosoku, Capítulo 4, Seção 1, item 1(1)(e))."
+   }
+  },
+  "trap_type": "NR",
+  "difficulty": 1,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K4-2-645",
+  "category": "運転免許",
+  "kp": "4-2-1",
+  "group": "F",
+  "source": "道交法第84条第5項",
+  "question_type": "text",
+  "qf": "QF-4-2-D-NU-01",
+  "question_ja": "仮運転免許は、大型仮免許、中型仮免許、普通仮免許の3種類である。",
+  "answer": false,
+  "explanation_ja": "3種類ではなく4種類です。仮免許は、大型仮免許、中型仮免許、準中型仮免許、普通仮免許に分けられます（道交法第84条第5項）。",
+  "i18n": {
+   "zh": {
+    "question": "临时驾照（仮免）分为大型临时驾照、中型临时驾照、普通临时驾照3种。",
+    "explanation": "不是3种而是4种。临时驾照分为大型临时驾照、中型临时驾照、准中型临时驾照和普通临时驾照（道交法第84条第5款）。"
+   },
+   "en": {
+    "question": "The learner's permit (仮免) comes in three kinds: large-vehicle, medium-vehicle and ordinary-vehicle.",
+    "explanation": "There are four kinds, not three. The permit is divided into large-vehicle, medium-vehicle, semi-medium-vehicle and ordinary-vehicle learner's permits (Road Traffic Act Article 84(5))."
+   },
+   "vi": {
+    "question": "Bằng lái tạm thời (仮免) có ba loại: cho xe cỡ lớn, cho xe cỡ vừa và cho xe thường.",
+    "explanation": "Có bốn loại chứ không phải ba. Bằng lái tạm thời được chia thành loại cho xe cỡ lớn, xe cỡ vừa, xe cỡ bán trung và xe thường (Luật Giao thông Đường bộ Điều 84 khoản 5)."
+   },
+   "pt": {
+    "question": "A habilitação provisória (仮免) tem três tipos: para veículos de grande porte, para médios e para comuns.",
+    "explanation": "São quatro tipos, não três. A habilitação provisória divide-se em provisória para veículos de grande porte, para médios, para semi-médios e para comuns (Lei de Trânsito Rodoviário, Artigo 84(5))."
+   }
+  },
+  "trap_type": "NU",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K4-2-646",
+  "category": "運転免許",
+  "kp": "4-2-2",
+  "group": "F",
+  "source": "教則 第4章第2節2 / 道交法第3条",
+  "question_type": "text",
+  "qf": "QF-4-2-D-NU-02",
+  "question_ja": "普通免許しか受けていない人でも、乗車定員が11人のマイクロバスであれば運転してよい。",
+  "answer": false,
+  "explanation_ja": "運転できません。普通免許で運転できる乗用自動車は乗車定員10人以下のものまでで、乗車定員11人の車を運転するには中型免許などが必要です（教則第4章第2節2）。",
+  "i18n": {
+   "zh": {
+    "question": "只取得了普通驾照的人，如果是乘车定员11人的微型巴士，也可以驾驶。",
+    "explanation": "不能驾驶。普通驾照可以驾驶的乘用汽车，乘车定员在10人以下，要驾驶乘车定员11人的车，需要中型驾照等（教则第4章第2节2）。"
+   },
+   "en": {
+    "question": "Even a person who holds only a regular motor vehicle license may drive a microbus if its seating capacity is 11.",
+    "explanation": "It may not. The passenger vehicles a regular motor vehicle license covers go up to a seating capacity of 10, and driving a vehicle with a seating capacity of 11 needs a middle-sized motor vehicle license or higher (Kyosoku Chapter 4 Section 2 item 2)."
+   },
+   "vi": {
+    "question": "Ngay cả người chỉ có bằng lái xe thường cũng được lái xe buýt nhỏ nếu số người tối đa của xe là 11.",
+    "explanation": "Không lái được. Xe chở khách mà bằng lái xe thường cho phép lái chỉ đến số người tối đa là 10, còn xe có số người tối đa 11 thì cần bằng lái xe cỡ vừa trở lên (Kyosoku Chương 4 Mục 2 điểm 2)."
+   },
+   "pt": {
+    "question": "Mesmo quem tem apenas a habilitação para veículos comuns pode dirigir um micro-ônibus se a capacidade for de 11 pessoas.",
+    "explanation": "Não pode. Os veículos de passageiros abrangidos pela habilitação para veículos comuns vão até a capacidade de 10 pessoas, e dirigir um veículo com capacidade para 11 exige a habilitação para veículos médios ou superior (Kyosoku, Capítulo 4, Seção 2, item 2)."
+   }
+  },
+  "trap_type": "NU",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免",
+  "verify": true
+ },
+ {
+  "id": "K4-1-647",
+  "category": "運転免許",
+  "kp": "4-1-1",
+  "group": "F",
+  "source": "教則 第4章第1節1(1)ウ / 道交法第91条",
+  "question_type": "text",
+  "qf": "QF-4-2-D-SC-01",
+  "question_ja": "免許証に眼鏡等使用の条件が記載されているが、近くの店まで行くだけだったので、眼鏡をかけずに運転した。",
+  "answer": false,
+  "explanation_ja": "距離に関係なく条件違反です。免許証に記載されている条件は、運転する間は守らなければなりません（教則第4章第1節1(1)ウ、道交法第91条）。",
+  "i18n": {
+   "zh": {
+    "question": "驾照上记载着必须使用眼镜等的条件，但因为只是去附近的店，就没戴眼镜驾驶了。",
+    "explanation": "与距离无关，这属于违反条件。驾照上记载的条件，在驾驶期间必须遵守（教则第4章第1节1(1)ウ、道交法第91条）。"
+   },
+   "en": {
+    "question": "The licence carried a condition requiring glasses, but as the trip was only to a nearby shop, the driver drove without them.",
+    "explanation": "The distance makes no difference; this breaks the condition. The conditions written on the licence must be observed the whole time you are driving (Kyosoku Chapter 4 Section 1 item 1(1)(c); Road Traffic Act Article 91)."
+   },
+   "vi": {
+    "question": "Trên bằng lái có ghi điều kiện phải đeo kính, nhưng vì chỉ đi đến cửa hàng gần nhà nên người lái đã lái xe mà không đeo kính.",
+    "explanation": "Quãng đường dài hay ngắn không quan trọng, đây là vi phạm điều kiện. Các điều kiện ghi trên bằng lái phải được tuân thủ trong suốt thời gian lái xe (Kyosoku Chương 4 Mục 1 điểm 1(1)(c); Luật Giao thông Đường bộ Điều 91)."
+   },
+   "pt": {
+    "question": "A carteira trazia a condição de usar óculos, mas como o trajeto era só até uma loja próxima, o condutor dirigiu sem eles.",
+    "explanation": "A distância não faz diferença, isso descumpre a condição. As condições escritas na carteira devem ser respeitadas durante todo o tempo em que se dirige (Kyosoku, Capítulo 4, Seção 1, item 1(1)(c); Lei de Trânsito Rodoviário, Artigo 91)."
+   }
+  },
+  "trap_type": "SC",
+  "difficulty": 1,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K4-2-648",
+  "category": "運転免許",
+  "kp": "4-2-1",
+  "group": "F",
+  "source": "道交法第84条第2項・第3項 / 教則 第4章第2節1",
+  "question_type": "text",
+  "qf": "QF-4-2-D-SW-01",
+  "question_ja": "運転免許の区分は大きく3つに分かれており、第一種運転免許、第二種運転免許、原付免許がこれにあたる。",
+  "answer": false,
+  "explanation_ja": "原付免許ではなく仮運転免許です。免許は第一種運転免許、第二種運転免許、仮運転免許に区分され、原付免許は第一種運転免許の中の一つです（道交法第84条第2項、第3項）。",
+  "i18n": {
+   "zh": {
+    "question": "驾照的区分大体分为3类，即第一种驾照、第二种驾照和轻型摩托车驾照。",
+    "explanation": "不是轻型摩托车驾照，而是临时驾照（仮免）。驾照分为第一种驾照、第二种驾照和临时驾照，轻型摩托车驾照是第一种驾照里面的一种（道交法第84条第2款、第3款）。"
+   },
+   "en": {
+    "question": "Driver's licences fall into three broad classes, namely the Class 1 driver's license, the Class 2 driver's license and the moped license.",
+    "explanation": "The third is not the moped license but the learner's permit (仮免). Licences are divided into the Class 1 driver's license, the Class 2 driver's license and the learner's permit, and the moped license is one type within the Class 1 driver's license (Road Traffic Act Article 84(2) and (3))."
+   },
+   "vi": {
+    "question": "Bằng lái xe được chia thành ba nhóm lớn, đó là bằng lái hạng 1, bằng lái hạng 2 và bằng lái xe gắn máy.",
+    "explanation": "Hạng thứ ba không phải bằng lái xe gắn máy mà là bằng lái tạm thời (仮免). Bằng lái được chia thành bằng lái hạng 1, bằng lái hạng 2 và bằng lái tạm thời, còn bằng lái xe gắn máy là một loại nằm trong bằng lái hạng 1 (Luật Giao thông Đường bộ Điều 84 khoản 2 và khoản 3)."
+   },
+   "pt": {
+    "question": "As carteiras de habilitação dividem-se em três grandes classes, a saber, a habilitação de Classe 1, a habilitação de Classe 2 e a habilitação para ciclomotores.",
+    "explanation": "A terceira não é a habilitação para ciclomotores, e sim a habilitação provisória (仮免). As habilitações dividem-se em Classe 1, Classe 2 e provisória, e a habilitação para ciclomotores é um tipo dentro da Classe 1 (Lei de Trânsito Rodoviário, Artigo 84(2) e (3))."
+   }
+  },
+  "trap_type": "SW",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "KL-649",
+  "category": "運転免許",
+  "kp": "法103-1",
+  "group": "F",
+  "source": "道交法第103条第1項・第2項",
+  "question_type": "text",
+  "qf": "QF-教則外-A-N-01",
+  "question_ja": "交通違反をしたり交通事故を起こしたりした運転者は、刑事上の責任、行政上の責任、民事上の責任の三つを負うことがある。",
+  "answer": true,
+  "explanation_ja": "違反や事故には、罰金や懲役などの刑事上の責任と、免許の取消しや停止という行政上の責任があります（道交法第103条第1項、第2項）。さらに、人にけがをさせたり物を壊したりしたときは、被害者に対する損害賠償という民事上の責任も負います。",
+  "i18n": {
+   "zh": {
+    "question": "发生交通违章或交通事故的驾驶员，可能要承担刑事责任、行政责任、民事责任这三种责任。",
+    "explanation": "违章和事故会带来罚金、徒刑等刑事责任，以及吊销驾照或驾照停止（暂扣）这样的行政责任（道交法第103条第1款、第2款）。此外，造成他人受伤或财物损坏时，还要承担向受害人赔偿损失的民事责任。"
+   },
+   "en": {
+    "question": "A driver who commits a traffic offence or causes a traffic accident may bear three kinds of liability: criminal, administrative and civil liability.",
+    "explanation": "An offence or an accident brings criminal liability such as a fine or imprisonment, and administrative liability in the form of licence revocation or licence suspension (Road Traffic Act Article 103(1) and (2)). If someone is injured or property is damaged, there is also civil liability, namely compensating the victim for the loss."
+   },
+   "vi": {
+    "question": "Người lái xe vi phạm giao thông hoặc gây tai nạn giao thông có thể phải chịu ba loại trách nhiệm: trách nhiệm hình sự, hành chính và dân sự.",
+    "explanation": "Vi phạm hay tai nạn kéo theo trách nhiệm hình sự như phạt tiền hoặc phạt tù, và trách nhiệm hành chính dưới dạng tước bằng lái xe hoặc đình chỉ bằng lái (Luật Giao thông Đường bộ Điều 103 khoản 1 và khoản 2). Ngoài ra, nếu làm người khác bị thương hoặc làm hỏng tài sản thì còn phải chịu trách nhiệm dân sự là bồi thường thiệt hại cho nạn nhân."
+   },
+   "pt": {
+    "question": "O condutor que comete uma infração de trânsito ou causa um acidente pode responder por três tipos de responsabilidade: penal, administrativa e civil.",
+    "explanation": "A infração ou o acidente acarretam responsabilidade penal, como multa ou prisão, e responsabilidade administrativa, na forma de cassação ou suspensão da habilitação (Lei de Trânsito Rodoviário, Artigo 103(1) e (2)). Além disso, se alguém se ferir ou houver dano material, há ainda a responsabilidade civil de indenizar a vítima."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免",
+  "verify": true
+ },
+ {
+  "id": "KL-650",
+  "category": "運転免許",
+  "kp": "法64-1",
+  "group": "F",
+  "source": "道交法第64条第1項 / 教則 第4章第2節前文",
+  "question_type": "text",
+  "qf": "QF-教則外-A-N-02",
+  "question_ja": "免許を受けていても、免許の効力が停止されている期間中に車を運転すれば、無免許運転になる。",
+  "answer": true,
+  "explanation_ja": "道交法第64条第1項は、免許の効力が停止されている場合を含めて運転を禁じています。教則第4章第2節の前文も、免許の停止処分中の者はその期間運転することができないとしています。",
+  "i18n": {
+   "zh": {
+    "question": "即使已经取得驾照，在驾照效力被停止的期间内开车，也构成无照驾驶。",
+    "explanation": "道交法第64条第1款把驾照效力被停止的情况也包括在禁止驾驶之内。教则第4章第2节的前言也写明，处于驾照停止（暂扣）处分中的人，在该期间内不能驾驶。"
+   },
+   "en": {
+    "question": "Even if you hold a licence, driving during a period when that licence is suspended counts as driving without a license.",
+    "explanation": "Road Traffic Act Article 64(1) forbids driving and says this includes the case where the licence has been suspended. The opening passage of Kyosoku Chapter 4 Section 2 likewise states that a person under a licence suspension may not drive during that period."
+   },
+   "vi": {
+    "question": "Dù đã có bằng lái, nếu lái xe trong thời gian bằng lái bị đình chỉ thì vẫn bị coi là lái xe không có bằng lái.",
+    "explanation": "Luật Giao thông Đường bộ Điều 64 khoản 1 cấm lái xe và nêu rõ điều này bao gồm cả trường hợp bằng lái đang bị đình chỉ. Phần mở đầu Kyosoku Chương 4 Mục 2 cũng ghi rằng người đang bị đình chỉ bằng lái không được lái xe trong thời gian đó."
+   },
+   "pt": {
+    "question": "Mesmo tendo habilitação, dirigir durante o período em que ela está suspensa equivale a dirigir sem habilitação.",
+    "explanation": "A Lei de Trânsito Rodoviário, Artigo 64(1), proíbe dirigir e diz que isso inclui o caso de a habilitação estar suspensa. O texto de abertura do Kyosoku, Capítulo 4, Seção 2, também afirma que quem está com a habilitação suspensa não pode dirigir durante esse período."
+   }
+  },
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "KL-651",
+  "category": "運転免許",
+  "kp": "法64-1",
+  "group": "F",
+  "source": "道交法第64条第1項 / 教則 第4章第2節前文",
+  "question_type": "text",
+  "qf": "QF-教則外-D-EI-01",
+  "question_ja": "免許の停止処分を受けている人でも、免許証を取り上げられていなければ、その期間中に車を運転してよい。",
+  "answer": false,
+  "explanation_ja": "運転できません。免許の効力が停止されている期間中の運転は、免許証が手元にあるかどうかにかかわらず無免許運転になります（道交法第64条第1項、教則第4章第2節前文）。",
+  "i18n": {
+   "zh": {
+    "question": "受到驾照停止（暂扣）处分的人，只要驾照没有被收走，在该期间内也可以开车。",
+    "explanation": "不能驾驶。在驾照效力被停止的期间内驾驶，无论驾照是否还在手上，都构成无照驾驶（道交法第64条第1款、教则第4章第2节前言）。"
+   },
+   "en": {
+    "question": "A person under a licence suspension may drive during that period as long as the licence card has not been taken away.",
+    "explanation": "They may not. Driving during a period when the licence is suspended counts as driving without a license, whether or not the licence card is still in hand (Road Traffic Act Article 64(1); Kyosoku Chapter 4 Section 2 opening passage)."
+   },
+   "vi": {
+    "question": "Người đang bị đình chỉ bằng lái, nếu chưa bị thu giữ tấm bằng, thì vẫn được lái xe trong thời gian đó.",
+    "explanation": "Không được lái. Lái xe trong thời gian bằng lái bị đình chỉ bị coi là lái xe không có bằng lái, bất kể tấm bằng còn trong tay hay không (Luật Giao thông Đường bộ Điều 64 khoản 1; phần mở đầu Kyosoku Chương 4 Mục 2)."
+   },
+   "pt": {
+    "question": "Quem está com a habilitação suspensa pode dirigir durante esse período desde que a carteira não tenha sido recolhida.",
+    "explanation": "Não pode. Dirigir no período em que a habilitação está suspensa equivale a dirigir sem habilitação, esteja ou não a carteira em mãos (Lei de Trânsito Rodoviário, Artigo 64(1); Kyosoku, Capítulo 4, Seção 2, texto de abertura)."
+   }
+  },
+  "trap_type": "EI",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ }
+]

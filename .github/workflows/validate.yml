@@ -16,6 +16,10 @@ jobs:
         run: python3 tools/validate.py
       - name: Coverage report
         run: python3 tools/stats.py
+      - name: Ledger matches the question bank
+        run: python3 tools/link_ledger.py --check
+      - name: Coverage document matches the ledger
+        run: python3 tools/coverage.py --check
       - name: Pack generator tests
         run: python3 -m unittest discover -s tools -p 'test_*.py' -v
       - name: dist/ matches the question bank

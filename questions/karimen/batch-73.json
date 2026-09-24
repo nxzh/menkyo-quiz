@@ -1,0 +1,154 @@
+[
+ {
+  "id": "K5-9-723",
+  "category": "オートマチック車",
+  "kp": "5-9-1",
+  "group": "R",
+  "source": "教則 第5章第9節1(2)ア",
+  "question_type": "text",
+  "qf": "QF-5-9-A-N-07",
+  "question_ja": "オートマチック車では、エンジンを始動する前に、ブレーキペダルを踏んでその位置を確認し、アクセルペダルの位置を目で見て確認する。",
+  "answer": true,
+  "explanation_ja": "教則第5章第9節1(2)アのとおりです。ペダルの位置を体と目で確かめてから始動します。",
+  "i18n": {
+   "zh": {"question": "自动挡车（AT车）在启动发动机之前，要踩刹车踏板确认其位置，并用眼睛确认油门踏板的位置。", "explanation": "符合教则第5章第9节1(2)ア的规定。用身体和眼睛确认踏板的位置之后再启动。"},
+   "en": {"question": "In an automatic transmission vehicle (AT), before starting the engine you press the brake pedal to confirm where it is and look at the accelerator pedal to confirm its position.", "explanation": "This is Kyosoku Chapter 5 Section 9 item 1(2)(i). You confirm where the pedals are by feel and by eye before starting."},
+   "vi": {"question": "Trên xe số tự động (AT), trước khi khởi động động cơ, hãy đạp bàn đạp phanh để xác nhận vị trí của nó và nhìn bằng mắt để xác nhận vị trí chân ga.", "explanation": "Đúng theo Kyosoku Chương 5 Mục 9 điểm 1(2)(i). Hãy xác nhận vị trí các bàn đạp bằng cảm giác và bằng mắt rồi mới khởi động."},
+   "pt": {"question": "Em um veículo de transmissão automática (AT), antes de dar a partida você pisa no pedal do freio para confirmar onde ele está e olha o pedal do acelerador para confirmar sua posição.", "explanation": "É o Kyosoku, Capítulo 5, Seção 9, item 1(2)(i). Confirme a posição dos pedais pelo tato e pela vista antes de dar a partida."}
+  },
+  "trap_type": "N", "difficulty": 2, "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-9-724",
+  "category": "オートマチック車",
+  "kp": "5-9-1",
+  "group": "R",
+  "source": "教則 第5章第9節1(2)イ",
+  "question_type": "text",
+  "qf": "QF-5-9-A-N-01",
+  "question_ja": "オートマチック車のエンジンを始動するときは、ハンドブレーキが掛かっており、チェンジレバーがPの位置にあることを確認したうえで、ブレーキペダルを踏んで始動する。",
+  "answer": true,
+  "explanation_ja": "教則第5章第9節1(2)イのとおりです。ハンドブレーキとチェンジレバーのPを確かめてから始動します。",
+  "i18n": {
+   "zh": {"question": "启动自动挡车（AT车）的发动机时，要在确认手刹已拉起、转换杆处于P位置之后，踩下刹车踏板启动。", "explanation": "符合教则第5章第9节1(2)イ的规定。确认手刹和转换杆的P之后再启动。"},
+   "en": {"question": "When you start the engine of an automatic transmission vehicle (AT), you first check that the hand brake is on and the change lever is in P, then press the brake pedal and start it.", "explanation": "This is Kyosoku Chapter 5 Section 9 item 1(2)(ii). Check the hand brake and the P position of the change lever before starting."},
+   "vi": {"question": "Khi khởi động động cơ xe số tự động (AT), trước hết hãy kiểm tra phanh tay đã kéo và cần số đang ở vị trí P, rồi đạp bàn đạp phanh và khởi động.", "explanation": "Đúng theo Kyosoku Chương 5 Mục 9 điểm 1(2)(ii). Hãy kiểm tra phanh tay và vị trí P của cần số rồi mới khởi động."},
+   "pt": {"question": "Ao dar a partida em um veículo de transmissão automática (AT), primeiro confirme que o freio de mão está acionado e que a alavanca de câmbio está em P, depois pise no pedal do freio e ligue o motor.", "explanation": "É o Kyosoku, Capítulo 5, Seção 9, item 1(2)(ii). Confirme o freio de mão e a posição P da alavanca de câmbio antes de dar a partida."}
+  },
+  "trap_type": "N", "difficulty": 2, "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-9-725",
+  "category": "オートマチック車",
+  "kp": "5-9-1",
+  "group": "R",
+  "source": "教則 第5章第9節1(2)イ",
+  "question_type": "text",
+  "qf": "QF-5-9-D-SW-01",
+  "question_ja": "オートマチック車では、ハンドブレーキが掛かっていてチェンジレバーがNの位置にある状態でなければ、エンジンを始動してはならない。",
+  "answer": false,
+  "explanation_ja": "Nではありません。ハンドブレーキが掛かっており、チェンジレバーがPの位置にあることを確認してから始動します（教則第5章第9節1(2)イ）。",
+  "i18n": {
+   "zh": {"question": "自动挡车（AT车）只有在手刹已拉起、转换杆处于N位置的状态下，才可以启动发动机。", "explanation": "不是N。要确认手刹已拉起、转换杆处于P位置后再启动（教则第5章第9节1(2)イ）。"},
+   "en": {"question": "In an automatic transmission vehicle (AT) you may start the engine only when the hand brake is on and the change lever is in the N position.", "explanation": "Not N. You check that the hand brake is on and the change lever is in P, and then start the engine (Kyosoku Chapter 5 Section 9 item 1(2)(ii))."},
+   "vi": {"question": "Với xe số tự động (AT), chỉ được khởi động động cơ khi phanh tay đã kéo và cần số ở vị trí N.", "explanation": "Không phải N. Hãy kiểm tra phanh tay đã kéo và cần số ở vị trí P rồi mới khởi động (Kyosoku Chương 5 Mục 9 điểm 1(2)(ii))."},
+   "pt": {"question": "Num veículo de transmissão automática (AT), só se pode dar a partida no motor quando o freio de mão está acionado e a alavanca de câmbio está na posição N.", "explanation": "Não é N. Confirme que o freio de mão está acionado e que a alavanca está em P, e então dê a partida (Kyosoku, Capítulo 5, Seção 9, item 1(2)(ii))."}
+  },
+  "trap_type": "SW", "difficulty": 2, "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-9-726",
+  "category": "オートマチック車",
+  "kp": "5-9-1",
+  "group": "R",
+  "source": "教則 第5章第9節1(3)",
+  "question_type": "text",
+  "qf": "QF-5-9-A-N-06",
+  "question_ja": "オートマチック車の運転者は、ブレーキペダルをしっかり踏んだままチェンジレバーを入れ、その位置が前進のDか後退のRかを目で見て確かめてから発進する。",
+  "answer": true,
+  "explanation_ja": "教則第5章第9節1(3)のとおりです。ブレーキペダルをしっかり踏んでチェンジレバーを操作しないと、急発進したり突然後退したりすることがあります。",
+  "i18n": {
+   "zh": {"question": "自动挡车（AT车）的驾驶人，要在牢牢踩住刹车踏板的状态下拨动转换杆，用眼睛确认它是在前进的D还是后退的R之后再起步。", "explanation": "符合教则第5章第9节1(3)的规定。如果不牢牢踩住刹车踏板就操作转换杆，有可能突然急速起步或突然后退。"},
+   "en": {"question": "The driver of an automatic transmission vehicle (AT) moves the change lever while keeping the brake pedal pressed firmly, checks with the eyes whether it is in D for forward or R for reverse, and only then moves off.", "explanation": "This is Kyosoku Chapter 5 Section 9 item 1(3). If you move the change lever without pressing the brake pedal firmly, the car may leap forward or suddenly reverse."},
+   "vi": {"question": "Người lái xe số tự động (AT) gạt cần số trong khi vẫn đạp chắc bàn đạp phanh, nhìn bằng mắt xác nhận cần số đang ở D để tiến hay R để lùi, rồi mới khởi hành.", "explanation": "Đúng theo Kyosoku Chương 5 Mục 9 điểm 1(3). Nếu gạt cần số mà không đạp chắc bàn đạp phanh, xe có thể vọt lên hoặc đột ngột lùi."},
+   "pt": {"question": "O condutor de um veículo de transmissão automática (AT) move a alavanca de câmbio mantendo o pedal do freio bem pisado, confirma com os olhos se ela está em D para frente ou em R para ré, e só então arranca.", "explanation": "É o Kyosoku, Capítulo 5, Seção 9, item 1(3). Se a alavanca for movida sem o pedal do freio bem pisado, o carro pode arrancar bruscamente ou dar ré de repente."}
+  },
+  "trap_type": "N", "difficulty": 2, "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-9-727",
+  "category": "オートマチック車",
+  "kp": "5-9-1",
+  "group": "R",
+  "source": "教則 第5章第9節1(3)",
+  "question_type": "text",
+  "qf": "QF-5-9-A-N-03",
+  "question_ja": "オートマチック車で発進するときは、ハンドブレーキを戻し、ブレーキペダルを徐々に放して、アクセルペダルを静かに踏む。",
+  "answer": true,
+  "explanation_ja": "教則第5章第9節1(3)のとおりです。チェンジレバーは、前進のときはD、後退のときはRに入れます。",
+  "i18n": {
+   "zh": {"question": "自动挡车（AT车）起步时，要放下手刹，逐渐松开刹车踏板，轻轻踩下油门踏板。", "explanation": "符合教则第5章第9节1(3)的规定。转换杆前进时放在D，后退时放在R。"},
+   "en": {"question": "To move off in an automatic transmission vehicle (AT), release the hand brake, let the brake pedal up gradually and press the accelerator pedal gently.", "explanation": "This is Kyosoku Chapter 5 Section 9 item 1(3). The change lever goes to D to go forward and to R to reverse."},
+   "vi": {"question": "Để khởi hành bằng xe số tự động (AT), hãy hạ phanh tay, nhả dần bàn đạp phanh và đạp nhẹ chân ga.", "explanation": "Đúng theo Kyosoku Chương 5 Mục 9 điểm 1(3). Cần số để ở D khi tiến và ở R khi lùi."},
+   "pt": {"question": "Para arrancar com um veículo de transmissão automática (AT), solte o freio de mão, libere o pedal do freio aos poucos e pise suavemente no pedal do acelerador.", "explanation": "É o Kyosoku, Capítulo 5, Seção 9, item 1(3). A alavanca de câmbio vai para D para seguir à frente e para R para dar marcha à ré."}
+  },
+  "trap_type": "N", "difficulty": 1, "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-9-728",
+  "category": "オートマチック車",
+  "kp": "5-9-1",
+  "group": "R",
+  "source": "教則 第5章第9節1(3)、1(5)",
+  "question_type": "text",
+  "qf": "QF-5-9-D-SW-02",
+  "question_ja": "オートマチック車で後退するときは、チェンジレバーをPに入れる。",
+  "answer": false,
+  "explanation_ja": "Pではありません。後退のときはRに入れ、Pは駐車のときに入れます（教則第5章第9節1(3)、1(5)）。",
+  "i18n": {
+   "zh": {"question": "自动挡车（AT车）后退时，要把转换杆放到P。", "explanation": "不是P。后退时放到R，P是驻车（停放）时使用（教则第5章第9节1(3)、1(5)）。"},
+   "en": {"question": "To reverse an automatic transmission vehicle (AT), you put the change lever in P.", "explanation": "Not P. R is for reversing, and P is for parking (Kyosoku Chapter 5 Section 9 items 1(3) and 1(5))."},
+   "vi": {"question": "Khi lùi xe số tự động (AT), hãy để cần số ở P.", "explanation": "Không phải P. R dùng để lùi xe, còn P dùng khi đỗ xe (Kyosoku Chương 5 Mục 9 điểm 1(3) và 1(5))."},
+   "pt": {"question": "Para dar marcha à ré em um veículo de transmissão automática (AT), coloque a alavanca de câmbio em P.", "explanation": "Não é P. R serve para a marcha à ré e P serve para estacionar (Kyosoku, Capítulo 5, Seção 9, itens 1(3) e 1(5))."}
+  },
+  "trap_type": "SW", "difficulty": 1, "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-9-729",
+  "category": "オートマチック車",
+  "kp": "5-9-1",
+  "group": "R",
+  "source": "教則 第5章第9節1(3)",
+  "question_type": "text",
+  "qf": "QF-5-9-A-N-04",
+  "question_ja": "エンジンをかけた直後やエアコンを使っているときのオートマチック車は、エンジンの回転数が高くなって急発進しやすいので、ブレーキペダルをいつもより強く踏んでおく。",
+  "answer": true,
+  "explanation_ja": "教則第5章第9節1(3)のとおりです。回転数が高いときほど、チェンジレバーを操作する前のブレーキが大切です。",
+  "i18n": {
+   "zh": {"question": "刚启动发动机后或正在使用空调时的自动挡车（AT车），发动机转速会升高而容易急速起步，因此要比平时更用力地踩住刹车踏板。", "explanation": "符合教则第5章第9节1(3)的规定。转速越高，操作转换杆之前踩刹车就越重要。"},
+   "en": {"question": "Just after the engine is started, and while the air conditioner is in use, an automatic transmission vehicle (AT) runs at a high engine speed and leaps forward easily, so keep the brake pedal pressed harder than usual.", "explanation": "This is Kyosoku Chapter 5 Section 9 item 1(3). The higher the engine speed, the more the brake matters before you touch the change lever."},
+   "vi": {"question": "Ngay sau khi nổ máy và khi đang dùng điều hòa, xe số tự động (AT) có vòng tua máy cao nên dễ vọt lên, vì vậy hãy đạp bàn đạp phanh mạnh hơn bình thường.", "explanation": "Đúng theo Kyosoku Chương 5 Mục 9 điểm 1(3). Vòng tua càng cao thì việc đạp phanh trước khi gạt cần số càng quan trọng."},
+   "pt": {"question": "Logo depois de dar a partida e enquanto o ar-condicionado está em uso, o veículo de transmissão automática (AT) fica com rotação alta e arranca bruscamente com facilidade, por isso mantenha o pedal do freio pisado com mais força que o normal.", "explanation": "É o Kyosoku, Capítulo 5, Seção 9, item 1(3). Quanto maior a rotação, mais importante é o freio antes de mexer na alavanca de câmbio."}
+  },
+  "trap_type": "N", "difficulty": 2, "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-9-730",
+  "category": "オートマチック車",
+  "kp": "5-9-1",
+  "group": "R",
+  "source": "教則 第5章第9節1(4)",
+  "question_type": "text",
+  "qf": "QF-5-9-D-EI-01",
+  "question_ja": "オートマチック車で交差点などに停止しているときは、アクセルペダルを少し踏んでおくとエンジンが安定してよい。",
+  "answer": false,
+  "explanation_ja": "アクセルペダルを踏んでおくのではありません。停止中はブレーキペダルをしっかり踏んでおき、念のためハンドブレーキも掛けておきます（教則第5章第9節1(4)）。",
+  "i18n": {
+   "zh": {"question": "自动挡车（AT车）在交叉路口等处停止时，稍微踩一点油门踏板可以让发动机稳定，是好的做法。", "explanation": "并不是要踩住油门踏板。停止期间要牢牢踩住刹车踏板，并为慎重起见也拉上手刹（教则第5章第9节1(4)）。"},
+   "en": {"question": "While an automatic transmission vehicle (AT) is stopped at an intersection, keeping the accelerator pedal pressed a little steadies the engine and is a good idea.", "explanation": "You do not keep the accelerator pedal pressed. While stopped, keep the brake pedal pressed firmly and put the hand brake on as well to be safe (Kyosoku Chapter 5 Section 9 item 1(4))."},
+   "vi": {"question": "Khi xe số tự động (AT) đang dừng ở nút giao thông, việc giữ chân ga hơi nhấn xuống sẽ giúp động cơ ổn định nên là điều nên làm.", "explanation": "Không được giữ chân ga nhấn xuống. Khi dừng, hãy giữ bàn đạp phanh đạp chắc và kéo cả phanh tay cho chắc chắn (Kyosoku Chương 5 Mục 9 điểm 1(4))."},
+   "pt": {"question": "Com o veículo de transmissão automática (AT) parado num cruzamento, manter o pedal do acelerador levemente pisado estabiliza o motor e é uma boa prática.", "explanation": "Não se mantém o pedal do acelerador pisado. Enquanto estiver parado, mantenha o pedal do freio bem pisado e acione também o freio de mão por precaução (Kyosoku, Capítulo 5, Seção 9, item 1(4))."}
+  },
+  "trap_type": "EI", "difficulty": 2, "exam_scope": "仮免|本免|外免"
+ }
+]

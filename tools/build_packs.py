@@ -166,11 +166,19 @@ def assign_tiers(questions: list[dict], section_order: list[str]) -> dict[str, s
     for q in questions:
         by_section[section_of(q["kp"])].append(q)
 
+    # an image-bearing section contributes its artwork to the free tier first,
+    # and that one question is then held back from the ○/× balancing swap: a
+    # section whose only picked artwork got swapped out would leave the free
+    # tier showing no picture at all for a chapter that has them.
+    artwork_anchors: set[str] = set()
     for code, items in by_section.items():
         with_image = sorted((q for q in items if "image" in q), key=lambda q: q["id"])
         without = sorted((q for q in items if "image" not in q), key=lambda q: q["id"])
-        # an image-bearing section contributes its artwork to the free tier first
-        by_section[code] = ([with_image[0]] + without + with_image[1:]) if with_image else without
+        if with_image:
+            artwork_anchors.add(with_image[0]["id"])
+            by_section[code] = [with_image[0]] + without + with_image[1:]
+        else:
+            by_section[code] = without
 
     picked: list[dict] = []
     cursor = {code: 0 for code in section_order}
@@ -203,6 +211,8 @@ def assign_tiers(questions: list[dict], section_order: list[str]) -> dict[str, s
         swapped = False
         for idx, q in enumerate(picked):
             if q["answer"] is not over:
+                continue
+            if q["id"] in artwork_anchors:
                 continue
             code = section_of(q["kp"])
             for cand in by_section[code]:
@@ -394,8 +404,28 @@ def build(dest: Path) -> dict:
             bodies[f"{lang}-{tier}"] = ("lang", tier,
                                         dumps({"license": LICENSE, "lang": lang,
                                                "questions": items}))
+    # The published taxonomy carries only what the bank uses. data/taxonomy.*
+    # holds every 教則 chapter and section so a question can cite any of them,
+    # but shipping a chapter with no questions would put an empty row on Study
+    # home — a chapter the reader can open and find nothing in.
+    used_sections = {section_of(q["kp"]) for q in questions}
+    used_chapters = {section_to_chapter[code] for code in used_sections}
+    shipped = {
+        lang: {
+            "chapters": [
+                {**chapter,
+                 "sections": [s for s in chapter["sections"] if s["code"] in used_sections]}
+                for chapter in doc["chapters"] if chapter["code"] in used_chapters
+            ]
+        }
+        for lang, doc in tax.items()
+    }
+    for lang, doc in shipped.items():
+        empty = [c["code"] for c in doc["chapters"] if not c["sections"]]
+        if empty:
+            raise BuildError(f"taxonomy.{lang}: chapter(s) {empty} would ship with no sections")
     bodies["taxonomy"] = ("taxonomy", "free",
-                          dumps({"license": LICENSE, "languages": tax}))
+                          dumps({"license": LICENSE, "languages": shipped}))
 
     # ---- content_version advances only when some pack's bytes changed
     changed = {

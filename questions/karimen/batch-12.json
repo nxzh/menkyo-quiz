@@ -1,662 +1,371 @@
 [
-  {
-    "id": "K4-2-001",
-    "category": "運転免許の仕組み",
-    "kp": "4-2",
-    "group": "F",
-    "source": "教則 第4章第2節",
-    "question_type": "text",
-    "qf": "QF-4-2-A-N-01",
-    "question_ja": "道路で自動車や一般原動機付自転車を運転するときは、その車種や牽引などの状態に応じた免許を受け、その免許証を携帯しなければならない。",
-    "answer": true,
-    "explanation_ja": "教則第4章第2節のとおりです。免許を受けているだけでなく、免許証を携帯していることが必要です。",
-    "i18n": {
-      "zh": {
-        "question": "在道路上驾驶汽车或一般轻型摩托车时，必须取得与该车种及牵引等状态相应的驾照，并随身携带驾驶证。",
-        "explanation": "符合教则第4章第2节的规定。不仅要取得驾照，还必须随身携带驾驶证。"
-      },
-      "en": {
-        "question": "To drive a car or a general motorized bicycle (moped) on the road you must hold a licence matching the class of vehicle and how it is being towed or used, and carry that licence with you.",
-        "explanation": "This is Kyosoku Chapter 4 Section 2. Holding the licence is not enough; you must have it on you."
-      },
-      "vi": {
-        "question": "Để lái ô tô hay xe gắn máy (原付) trên đường, bạn phải có bằng lái phù hợp với loại xe và tình trạng kéo xe, và phải mang theo bằng đó.",
-        "explanation": "Đúng theo Kyosoku Chương 4 Mục 2. Chỉ có bằng thôi là chưa đủ; bạn phải mang nó theo người."
-      },
-      "pt": {
-        "question": "Para conduzir um automóvel ou um ciclomotor na via você deve ter habilitação compatível com a categoria do veículo e com a condição de reboque, e portar essa habilitação.",
-        "explanation": "É o Kyosoku, Capítulo 4, Seção 2. Não basta ser habilitado; é preciso estar com o documento."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免|外免"
+ {
+  "id": "K5-2-121",
+  "category": "通行区分",
+  "kp": "5-2-7",
+  "group": "H",
+  "source": "教則 第5章第2節7(2)",
+  "question_type": "text",
+  "qf": "QF-5-2-D-EI-08",
+  "question_ja": "道路が混雑しているときは、二輪車は路側帯を通行することができる。",
+  "answer": false,
+  "explanation_ja": "混雑していても路側帯を通行することはできません。車が歩道や路側帯を通行できるのは、道路に面した場所に出入りするために横切る場合などだけです（教則第5章第2節7(2)）。",
+  "i18n": {
+   "zh": {
+    "question": "道路交通拥挤时，二轮车（摩托车及轻型摩托车）可以通行路侧带（路側帯）。",
+    "explanation": "即使拥挤也不能通行路侧带。车辆可以通行人行道或路侧带的情况，只有为出入面向道路的场所而横穿等（教则第5章第2节7(2)）。"
+   },
+   "en": {
+    "question": "When the road is congested, a two-wheeled vehicle (motorcycles and general motorized bicycles) may travel along the side strip (路側帯).",
+    "explanation": "Congestion does not let it travel along the side strip. A vehicle may use a sidewalk or a side strip only when crossing it to get in or out of a roadside facility (shop, garage, etc.) and the like (Kyosoku Chapter 5 Section 2 item 7(2))."
+   },
+   "vi": {
+    "question": "Khi đường bị tắc nghẽn, xe hai bánh (xe mô tô và xe gắn máy) được đi trên lề đường (路側帯).",
+    "explanation": "Dù tắc nghẽn cũng không được đi trên lề đường. Xe chỉ được đi vào vỉa hè hay lề đường khi cắt ngang để ra vào nơi ven đường (cửa hàng, gara, v.v.) và những trường hợp tương tự (Kyosoku Chương 5 Mục 2 điểm 7(2))."
+   },
+   "pt": {
+    "question": "Quando a via está congestionada, o veículo de duas rodas (motocicletas e bicicletas motorizadas) pode circular pela faixa lateral (路側帯).",
+    "explanation": "O congestionamento não permite circular pela faixa lateral. O veículo só pode usar a calçada ou a faixa lateral ao atravessá-las para entrar ou sair de um estabelecimento à beira da via (loja, garagem etc.) e situações semelhantes (Kyosoku, Capítulo 5, Seção 2, item 7(2))."
+   }
   },
-  {
-    "id": "K4-2-002",
-    "category": "運転免許の仕組み",
-    "kp": "4-2",
-    "group": "F",
-    "source": "教則 第4章第2節",
-    "question_type": "text",
-    "qf": "QF-4-2-A-N-02",
-    "question_ja": "違反行為をしたり交通事故を起こしたりした際に警察官から提示を求められた場合には、免許証を提示しなければならない。",
-    "answer": true,
-    "explanation_ja": "教則第4章第2節のとおりです。携帯の義務とは別に、提示の義務が定められています。",
-    "i18n": {
-      "zh": {
-        "question": "在发生违章行为或交通事故时，被警察官要求出示驾驶证的，必须出示。",
-        "explanation": "符合教则第4章第2节的规定。除携带义务外，还另行规定了出示义务。"
-      },
-      "en": {
-        "question": "If a police officer asks to see your licence after an offence or a traffic accident, you must produce it.",
-        "explanation": "This is Kyosoku Chapter 4 Section 2. The duty to produce it is set out separately from the duty to carry it."
-      },
-      "vi": {
-        "question": "Nếu cảnh sát yêu cầu xuất trình bằng lái sau một vi phạm hoặc tai nạn giao thông, bạn phải xuất trình.",
-        "explanation": "Đúng theo Kyosoku Chương 4 Mục 2. Nghĩa vụ xuất trình được quy định riêng, tách khỏi nghĩa vụ mang theo."
-      },
-      "pt": {
-        "question": "Se um policial pedir para ver a sua habilitação após uma infração ou um acidente de trânsito, você deve apresentá-la.",
-        "explanation": "É o Kyosoku, Capítulo 4, Seção 2. O dever de apresentar é previsto à parte do dever de portar."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "EI",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-2-122",
+  "category": "通行区分",
+  "kp": "5-2-7",
+  "group": "H",
+  "source": "教則 第5章第2節7(2)",
+  "question_type": "text",
+  "qf": "QF-5-2-D-EX-04",
+  "question_ja": "車は、道路の左側部分を通行してさえいれば、歩道や路側帯の中を通行してもかまわない。",
+  "answer": false,
+  "explanation_ja": "左側部分であっても、歩道や路側帯を通行してはいけません。通行できるのは、道路に面した場所に出入りするために横切る場合などだけです（教則第5章第2節7(2)）。",
+  "i18n": {
+   "zh": {
+    "question": "车辆只要是在道路左侧部分通行，通行人行道或路侧带（路側帯）之中也无妨。",
+    "explanation": "即使在左侧部分，也不得通行人行道或路侧带。可以进入的只有为出入面向道路的场所而横穿等情况（教则第5章第2节7(2)）。"
+   },
+   "en": {
+    "question": "As long as it stays on the left-hand side of the road, a vehicle may travel along a sidewalk or inside a side strip (路側帯).",
+    "explanation": "Even on the left-hand side, a vehicle must not travel along a sidewalk or a side strip. It may only cross one to get in or out of a roadside facility (shop, garage, etc.) and the like (Kyosoku Chapter 5 Section 2 item 7(2))."
+   },
+   "vi": {
+    "question": "Miễn là đang đi ở phần đường bên trái, xe có thể đi trên vỉa hè hay trong lề đường (路側帯).",
+    "explanation": "Dù ở phần đường bên trái, xe cũng không được đi trên vỉa hè hay lề đường. Xe chỉ được cắt ngang chúng để ra vào nơi ven đường (cửa hàng, gara, v.v.) và những trường hợp tương tự (Kyosoku Chương 5 Mục 2 điểm 7(2))."
+   },
+   "pt": {
+    "question": "Desde que esteja no lado esquerdo da via, o veículo pode circular pela calçada ou dentro da faixa lateral (路側帯).",
+    "explanation": "Mesmo no lado esquerdo, o veículo não deve circular pela calçada nem pela faixa lateral. Só pode atravessá-las para entrar ou sair de um estabelecimento à beira da via (loja, garagem etc.) e situações semelhantes (Kyosoku, Capítulo 5, Seção 2, item 7(2))."
+   }
   },
-  {
-    "id": "K4-2-003",
-    "category": "運転免許の仕組み",
-    "kp": "4-2",
-    "group": "F",
-    "source": "教則 第4章第2節",
-    "question_type": "text",
-    "qf": "QF-4-2-A-N-03",
-    "question_ja": "免許を受けていても、免許の停止処分を受けている者は、その期間中は運転することができない。",
-    "answer": true,
-    "explanation_ja": "教則第4章第2節のとおりです。停止期間中の運転は無免許運転として扱われます。",
-    "i18n": {
-      "zh": {
-        "question": "即使取得了驾照，受到驾照停止处分的人在该期间内也不能驾驶。",
-        "explanation": "符合教则第4章第2节的规定。停止期间内驾驶被视为无证驾驶。"
-      },
-      "en": {
-        "question": "Even someone who holds a licence may not drive while it is suspended.",
-        "explanation": "This is Kyosoku Chapter 4 Section 2. Driving during a suspension is treated as unlicensed driving."
-      },
-      "vi": {
-        "question": "Ngay cả người có bằng lái cũng không được lái xe trong thời gian bằng bị đình chỉ.",
-        "explanation": "Đúng theo Kyosoku Chương 4 Mục 2. Lái xe trong thời gian đình chỉ bị coi là lái xe không có bằng."
-      },
-      "pt": {
-        "question": "Mesmo quem tem habilitação não pode dirigir enquanto ela está suspensa.",
-        "explanation": "É o Kyosoku, Capítulo 4, Seção 2. Dirigir durante a suspensão é tratado como dirigir sem habilitação."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "EX",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-2-123",
+  "category": "通行区分",
+  "kp": "5-2-7",
+  "group": "H",
+  "source": "教則 第5章第2節7(3)",
+  "question_type": "text",
+  "qf": "QF-5-2-D-EI-09",
+  "question_ja": "安全地帯は、歩行者がいるときだけ車の進入が禁止され、歩行者がいないときは車が入ってもよい。",
+  "answer": false,
+  "explanation_ja": "歩行者がいるときだけではありません。歩行者がいるかどうかに関係なく、車は安全地帯に入ってはいけません（教則第5章第2節7(3)）。",
+  "i18n": {
+   "zh": {
+    "question": "安全地带只在有步行者时禁止车辆进入，没有步行者时车辆可以进入。",
+    "explanation": "不只是有步行者的时候。无论有无步行者，车辆都不得进入安全地带（教则第5章第2节7(3)）。"
+   },
+   "en": {
+    "question": "A safety zone is closed to vehicles only while there are pedestrians on it, and a vehicle may enter when there are none.",
+    "explanation": "It is not only while there are pedestrians. Whether or not there are pedestrians, a vehicle must not enter a safety zone (Kyosoku Chapter 5 Section 2 item 7(3))."
+   },
+   "vi": {
+    "question": "Khu vực an toàn chỉ cấm xe đi vào khi có người đi bộ, còn khi không có người đi bộ thì xe được vào.",
+    "explanation": "Không chỉ khi có người đi bộ. Dù có hay không có người đi bộ, xe cũng không được đi vào khu vực an toàn (Kyosoku Chương 5 Mục 2 điểm 7(3))."
+   },
+   "pt": {
+    "question": "A zona de segurança só é proibida aos veículos enquanto há pedestres nela, e o veículo pode entrar quando não há nenhum.",
+    "explanation": "Não é apenas enquanto há pedestres. Havendo ou não pedestres, o veículo não deve entrar na zona de segurança (Kyosoku, Capítulo 5, Seção 2, item 7(3))."
+   }
   },
-  {
-    "id": "K4-2-004",
-    "category": "運転免許の仕組み",
-    "kp": "4-2-1",
-    "group": "F",
-    "source": "教則 第4章第2節1",
-    "question_type": "text",
-    "qf": "QF-4-2-1-A-N-01",
-    "question_ja": "運転免許には、第一種運転免許、第二種運転免許、仮運転免許の三種のものがある。",
-    "answer": true,
-    "explanation_ja": "教則第4章第2節1のとおりです。この三つの区分は、運転する目的と場面によって分かれています。",
-    "i18n": {
-      "zh": {
-        "question": "驾驶证分为第一种驾驶证、第二种驾驶证、临时驾驶证三种。",
-        "explanation": "符合教则第4章第2节1的规定。这三种区分是按驾驶的目的和场合划分的。"
-      },
-      "en": {
-        "question": "There are three kinds of driver's licence: Class 1, Class 2 and the provisional licence.",
-        "explanation": "This is Kyosoku Chapter 4 Section 2 item 1. The three are divided by the purpose and setting of the driving."
-      },
-      "vi": {
-        "question": "Có ba loại bằng lái xe: hạng 1, hạng 2 và bằng tạm.",
-        "explanation": "Đúng theo Kyosoku Chương 4 Mục 2 điểm 1. Ba loại này được chia theo mục đích và hoàn cảnh lái xe."
-      },
-      "pt": {
-        "question": "Há três espécies de habilitação: a Classe 1, a Classe 2 e a provisória.",
-        "explanation": "É o Kyosoku, Capítulo 4, Seção 2, item 1. As três se dividem pela finalidade e pelo contexto da condução."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "EI",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-3-124",
+  "category": "歩行者の保護",
+  "kp": "5-3-1",
+  "group": "H",
+  "source": "教則 第5章第3節1(2)",
+  "question_type": "text",
+  "qf": "QF-5-2-A-N-18",
+  "question_ja": "車は、歩行者がいない安全地帯のそばを通るときは、徐行しないで通行することができる。",
+  "answer": true,
+  "explanation_ja": "教則第5章第3節1(2)のとおりです。徐行しなければならないのは、歩行者がいる安全地帯のそばを通るときです。",
+  "i18n": {
+   "zh": {
+    "question": "车辆通过没有步行者的安全地带旁边时，可以不缓行（徐行）通过。",
+    "explanation": "符合教则第5章第3节1(2)的规定。必须缓行的是通过有步行者的安全地带旁边的时候。"
+   },
+   "en": {
+    "question": "When passing alongside a safety zone with no pedestrians on it, a vehicle may go by without proceeding slowly (徐行).",
+    "explanation": "This is Kyosoku Chapter 5 Section 3 item 1(2). What you must proceed slowly for is passing alongside a safety zone that has pedestrians on it."
+   },
+   "vi": {
+    "question": "Khi đi qua bên cạnh khu vực an toàn không có người đi bộ, xe có thể đi qua mà không cần lưu thông chậm (徐行).",
+    "explanation": "Đúng theo Kyosoku Chương 5 Mục 3 điểm 1(2). Trường hợp phải lưu thông chậm là khi đi qua bên cạnh khu vực an toàn có người đi bộ."
+   },
+   "pt": {
+    "question": "Ao passar ao lado de uma zona de segurança sem pedestres, o veículo pode seguir sem prosseguir lentamente (徐行).",
+    "explanation": "É o Kyosoku, Capítulo 5, Seção 3, item 1(2). O que exige prosseguir lentamente é passar ao lado de uma zona de segurança onde há pedestres."
+   }
   },
-  {
-    "id": "K4-2-005",
-    "category": "運転免許の仕組み",
-    "kp": "4-2-1",
-    "group": "F",
-    "source": "教則 第4章第2節1(2)",
-    "question_type": "text",
-    "qf": "QF-4-2-1-A-N-02",
-    "question_ja": "第二種運転免許は、乗合バスやタクシーなどの旅客自動車を旅客運送のために運転しようとする場合の免許である。",
-    "answer": true,
-    "explanation_ja": "教則第4章第2節1(2)のとおりです。代行運転自動車である普通自動車を運転しようとする場合も同じです。",
-    "i18n": {
-      "zh": {
-        "question": "第二种驾驶证是为旅客运送而驾驶公交车、出租车等旅客汽车时所需的驾照。",
-        "explanation": "符合教则第4章第2节1(2)的规定。驾驶属于代驾用车的普通汽车时也一样。"
-      },
-      "en": {
-        "question": "A Class 2 driver's licence is the licence for driving a passenger vehicle such as a bus or a taxi in order to carry passengers.",
-        "explanation": "This is Kyosoku Chapter 4 Section 2 item 1(2). The same goes for driving an ordinary car used as a substitute-driving vehicle."
-      },
-      "vi": {
-        "question": "Bằng lái xe hạng 2 là bằng dùng để lái phương tiện chở khách như xe buýt hay taxi nhằm vận chuyển hành khách.",
-        "explanation": "Đúng theo Kyosoku Chương 4 Mục 2 điểm 1(2). Điều tương tự áp dụng khi lái ô tô thông thường dùng làm xe lái thay."
-      },
-      "pt": {
-        "question": "A habilitação de Classe 2 é a exigida para conduzir veículo de passageiros, como ônibus ou táxi, no transporte de passageiros.",
-        "explanation": "É o Kyosoku, Capítulo 4, Seção 2, item 1(2). O mesmo vale para conduzir automóvel comum usado como veículo de condução por terceiros."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-3-125",
+  "category": "歩行者の保護",
+  "kp": "5-3-1",
+  "group": "H",
+  "source": "教則 第5章第3節1(2)",
+  "question_type": "text",
+  "qf": "QF-5-3-D-EX-02",
+  "question_ja": "安全地帯に人がひとりも立っていない場合でも、そのそばを通る車は徐行しなければならない。",
+  "answer": false,
+  "explanation_ja": "歩行者がいないときは徐行しなくてもかまいません。徐行しなければならないのは、歩行者がいる安全地帯のそばを通るときです（教則第5章第3節1(2)）。",
+  "i18n": {
+   "zh": {
+    "question": "即使安全地带上一个人也没有站着，从其旁边通过的车辆也必须缓行（徐行）。",
+    "explanation": "没有步行者时可以不缓行。必须缓行的是通过有步行者的安全地带旁边的时候（教则第5章第3节1(2)）。"
+   },
+   "en": {
+    "question": "Even when there is not a single person standing on a safety zone, a vehicle passing alongside it must proceed slowly (徐行).",
+    "explanation": "When there are no pedestrians you need not proceed slowly. What you must proceed slowly for is passing alongside a safety zone that has pedestrians on it (Kyosoku Chapter 5 Section 3 item 1(2))."
+   },
+   "vi": {
+    "question": "Ngay cả khi không có một người nào đứng trên khu vực an toàn, xe đi qua bên cạnh nó vẫn phải lưu thông chậm (徐行).",
+    "explanation": "Khi không có người đi bộ thì không cần lưu thông chậm. Trường hợp phải lưu thông chậm là khi đi qua bên cạnh khu vực an toàn có người đi bộ (Kyosoku Chương 5 Mục 3 điểm 1(2))."
+   },
+   "pt": {
+    "question": "Mesmo quando não há uma única pessoa na zona de segurança, o veículo que passa ao lado dela deve prosseguir lentamente (徐行).",
+    "explanation": "Quando não há pedestres não é preciso prosseguir lentamente. O que exige prosseguir lentamente é passar ao lado de uma zona de segurança onde há pedestres (Kyosoku, Capítulo 5, Seção 3, item 1(2))."
+   }
   },
-  {
-    "id": "K4-2-006",
-    "category": "運転免許の仕組み",
-    "kp": "4-2-1",
-    "group": "F",
-    "source": "教則 第4章第2節1(1)",
-    "question_type": "text",
-    "qf": "QF-4-2-1-A-N-03",
-    "question_ja": "第一種運転免許は、第二種運転免許が必要な場合を除き、自動車や一般原動機付自転車を運転しようとする場合の免許である。",
-    "answer": true,
-    "explanation_ja": "教則第4章第2節1(1)のとおりです。ふだん自分の車を運転するのは第一種免許で足ります。",
-    "i18n": {
-      "zh": {
-        "question": "第一种驾驶证是除需要第二种驾驶证的情况以外，驾驶汽车或一般轻型摩托车时所需的驾照。",
-        "explanation": "符合教则第4章第2节1(1)的规定。平时驾驶自己的车有第一种驾照即可。"
-      },
-      "en": {
-        "question": "A Class 1 driver's licence is the licence for driving a car or a general motorized bicycle (moped), except where a Class 2 licence is required.",
-        "explanation": "This is Kyosoku Chapter 4 Section 2 item 1(1). Driving your own car day to day needs only a Class 1 licence."
-      },
-      "vi": {
-        "question": "Bằng lái xe hạng 1 là bằng dùng để lái ô tô hoặc xe gắn máy (原付), trừ những trường hợp cần bằng hạng 2.",
-        "explanation": "Đúng theo Kyosoku Chương 4 Mục 2 điểm 1(1). Lái xe riêng hằng ngày chỉ cần bằng hạng 1."
-      },
-      "pt": {
-        "question": "A habilitação de Classe 1 é a exigida para conduzir automóvel ou ciclomotor, salvo nos casos em que a de Classe 2 é necessária.",
-        "explanation": "É o Kyosoku, Capítulo 4, Seção 2, item 1(1). Dirigir o próprio carro no dia a dia exige apenas a Classe 1."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "EX",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-3-126",
+  "category": "歩行者の保護",
+  "kp": "5-3-1",
+  "group": "H",
+  "source": "教則 第5章第3節1(3)",
+  "question_type": "text",
+  "qf": "QF-5-2-A-N-04",
+  "question_ja": "停留所で止まっている路面電車のそばを通るときでも、安全地帯があるときは、車は徐行して進むことができる。",
+  "answer": true,
+  "explanation_ja": "教則第5章第3節1(3)のとおりです。乗り降りする人がいないときで、路面電車との間に1.5メートル以上あるときも、徐行して進むことができます。",
+  "i18n": {
+   "zh": {
+    "question": "即使通过在公交站停着的路面电车旁边时，只要有安全地带，车辆就可以缓行（徐行）前进。",
+    "explanation": "符合教则第5章第3节1(3)的规定。在没有上下车的人、并且与路面电车之间有1.5米以上间隔时，也可以缓行前进。"
+   },
+   "en": {
+    "question": "Even when passing a streetcar (tram) standing at a stop (bus stop, tram stop), a vehicle may proceed slowly (徐行) past it if there is a safety zone.",
+    "explanation": "This is Kyosoku Chapter 5 Section 3 item 1(3). You may also proceed slowly past it when nobody is getting on or off and there is 1.5 metres or more between you and the streetcar."
+   },
+   "vi": {
+    "question": "Ngay cả khi đi qua bên cạnh tàu điện mặt đất đang dừng ở trạm dừng (xe buýt, tàu điện), nếu có khu vực an toàn thì xe được lưu thông chậm (徐行) đi qua.",
+    "explanation": "Đúng theo Kyosoku Chương 5 Mục 3 điểm 1(3). Khi không có ai lên xuống và khoảng cách với tàu điện từ 1,5 mét trở lên thì cũng được lưu thông chậm đi qua."
+   },
+   "pt": {
+    "question": "Mesmo ao passar por um bonde parado num ponto de parada (ônibus, bonde), se houver zona de segurança o veículo pode prosseguir lentamente (徐行) por ali.",
+    "explanation": "É o Kyosoku, Capítulo 5, Seção 3, item 1(3). Também se pode passar prosseguindo lentamente quando ninguém está embarcando ou desembarcando e há 1,5 metro ou mais entre o veículo e o bonde."
+   }
   },
-  {
-    "id": "K4-2-007",
-    "category": "仮運転免許",
-    "kp": "4-2-1",
-    "group": "F",
-    "source": "教則 第4章第2節1(3)",
-    "question_type": "text",
-    "qf": "QF-4-2-1-A-N-04",
-    "question_ja": "仮運転免許は、第一種免許を受けようとする者が、練習などのために大型自動車、中型自動車、準中型自動車又は普通自動車を運転しようとする場合の免許である。",
-    "answer": true,
-    "explanation_ja": "教則第4章第2節1(3)のとおりです。二輪車や原動機付自転車には仮運転免許はありません。",
-    "i18n": {
-      "zh": {
-        "question": "临时驾驶证是准备取得第一种驾照的人为练习等目的驾驶大型汽车、中型汽车、准中型汽车或普通汽车时所需的驾照。",
-        "explanation": "符合教则第4章第2节1(3)的规定。摩托车和轻型摩托车没有临时驾驶证。"
-      },
-      "en": {
-        "question": "A provisional licence is the licence for someone seeking a Class 1 licence to drive a large, medium, semi-medium or ordinary car for practice and similar purposes.",
-        "explanation": "This is Kyosoku Chapter 4 Section 2 item 1(3). There is no provisional licence for motorcycles or mopeds."
-      },
-      "vi": {
-        "question": "Bằng tạm là bằng dành cho người đang xin bằng hạng 1 để lái xe cỡ lớn, cỡ trung, cỡ bán trung hoặc xe thông thường nhằm mục đích tập lái và tương tự.",
-        "explanation": "Đúng theo Kyosoku Chương 4 Mục 2 điểm 1(3). Không có bằng tạm cho xe mô tô hay xe gắn máy."
-      },
-      "pt": {
-        "question": "A habilitação provisória é a de quem busca a Classe 1 para conduzir veículo grande, médio, semimédio ou comum em treinamento e situações semelhantes.",
-        "explanation": "É o Kyosoku, Capítulo 4, Seção 2, item 1(3). Não existe habilitação provisória para motocicletas ou ciclomotores."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-3-127",
+  "category": "歩行者の保護",
+  "kp": "5-3-1",
+  "group": "H",
+  "source": "教則 第5章第3節1(3)",
+  "question_type": "text",
+  "qf": "QF-5-2-D-SW-07",
+  "question_ja": "安全地帯のある停留所で路面電車が止まっているときは、車はその後方で停止し、乗り降りする人がいなくなるまで待たなければならない。",
+  "answer": false,
+  "explanation_ja": "待たなければならないのではありません。安全地帯があるときは、徐行して進むことができます（教則第5章第3節1(3)）。",
+  "i18n": {
+   "zh": {
+    "question": "在有安全地带的公交站，路面电车停着时，车辆必须在其后方停止，等到上下车的人没有了为止。",
+    "explanation": "并非必须等待。有安全地带时，可以缓行（徐行）前进（教则第5章第3节1(3)）。"
+   },
+   "en": {
+    "question": "Where a streetcar (tram) is standing at a stop (bus stop, tram stop) that has a safety zone, a vehicle must stop behind it and wait until nobody is getting on or off any more.",
+    "explanation": "There is no duty to wait. Where there is a safety zone, you may proceed slowly (徐行) past it (Kyosoku Chapter 5 Section 3 item 1(3))."
+   },
+   "vi": {
+    "question": "Khi tàu điện mặt đất đang dừng ở trạm dừng (xe buýt, tàu điện) có khu vực an toàn, xe phải dừng lại phía sau và chờ cho đến khi không còn ai lên xuống.",
+    "explanation": "Không có nghĩa vụ phải chờ. Khi có khu vực an toàn, xe được lưu thông chậm (徐行) đi qua (Kyosoku Chương 5 Mục 3 điểm 1(3))."
+   },
+   "pt": {
+    "question": "Quando um bonde está parado num ponto de parada (ônibus, bonde) que tem zona de segurança, o veículo deve parar atrás dele e esperar até que ninguém mais esteja embarcando ou desembarcando.",
+    "explanation": "Não há dever de esperar. Havendo zona de segurança, pode-se passar prosseguindo lentamente (徐行) (Kyosoku, Capítulo 5, Seção 3, item 1(3))."
+   }
   },
-  {
-    "id": "K4-2-008",
-    "category": "仮運転免許",
-    "kp": "4-2-1",
-    "group": "F",
-    "source": "教則 第4章第2節1(3)",
-    "question_type": "text",
-    "qf": "QF-4-2-1-A-N-05",
-    "question_ja": "仮運転免許を受けた者が練習のため普通自動車を運転するときは、その車を運転することのできる第一種免許を3年以上受けている者や第二種免許を受けている者などを横に乗せ、その指導を受けながら運転しなければならない。",
-    "answer": true,
-    "explanation_ja": "教則第4章第2節1(3)のとおりです。指導者の資格は、免許の種類と年数で決まります。",
-    "i18n": {
-      "zh": {
-        "question": "取得临时驾驶证的人为练习而驾驶普通汽车时，必须让持有能驾驶该车的第一种驾照满3年以上的人或持有第二种驾照的人等坐在旁边，在其指导下驾驶。",
-        "explanation": "符合教则第4章第2节1(3)的规定。指导者的资格由驾照种类和年数决定。"
-      },
-      "en": {
-        "question": "Someone with a provisional licence practising in an ordinary car must have beside them a person who has held a Class 1 licence for that vehicle for three years or more, or who holds a Class 2 licence, and drive under their instruction.",
-        "explanation": "This is Kyosoku Chapter 4 Section 2 item 1(3). The instructor's standing is set by the class of licence and the number of years held."
-      },
-      "vi": {
-        "question": "Người có bằng tạm khi tập lái ô tô thông thường phải có bên cạnh một người đã giữ bằng hạng 1 cho loại xe đó từ ba năm trở lên, hoặc có bằng hạng 2, và lái dưới sự hướng dẫn của người đó.",
-        "explanation": "Đúng theo Kyosoku Chương 4 Mục 2 điểm 1(3). Tư cách người hướng dẫn được xác định theo hạng bằng và số năm giữ bằng."
-      },
-      "pt": {
-        "question": "Quem tem habilitação provisória e treina em automóvel comum deve levar ao lado alguém com Classe 1 daquele veículo há três anos ou mais, ou com Classe 2, e dirigir sob sua orientação.",
-        "explanation": "É o Kyosoku, Capítulo 4, Seção 2, item 1(3). A qualificação do instrutor é definida pela categoria e pelo tempo de habilitação."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 3,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "SW",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-3-128",
+  "category": "歩行者の保護",
+  "kp": "5-3-6",
+  "group": "H",
+  "source": "教則 第5章第3節6(2)",
+  "question_type": "text",
+  "qf": "QF-5-2-A-N-10",
+  "question_ja": "運転者は、道路沿いの店に入ろうとして路側帯を横切る場合、歩行者が見当たらないときであっても、横切る直前で一時停止をしなければならない。",
+  "answer": true,
+  "explanation_ja": "教則第5章第3節6(2)のとおりです。一時停止をするとともに、歩行者の通行を妨げないようにしなければなりません。",
+  "i18n": {
+   "zh": {
+    "question": "驾驶人为进入道路沿线的店铺而横穿路侧带（路側帯）时，即使看不到步行者，也必须在横穿前的正前方暂停（一時停止）。",
+    "explanation": "符合教则第5章第3节6(2)的规定。在暂停的同时，还不得妨碍步行者通行。"
+   },
+   "en": {
+    "question": "When a driver crosses a side strip (路側帯) to enter a shop along the road, he must come to a complete stop (一時停止) just before crossing, even when no pedestrians are in sight.",
+    "explanation": "This is Kyosoku Chapter 5 Section 3 item 6(2). As well as stopping, you must not obstruct the progress of pedestrians."
+   },
+   "vi": {
+    "question": "Khi người lái cắt ngang lề đường (路側帯) để vào một cửa hàng ven đường, phải tạm dừng (一時停止) ngay trước khi cắt ngang, ngay cả khi không thấy người đi bộ nào.",
+    "explanation": "Đúng theo Kyosoku Chương 5 Mục 3 điểm 6(2). Cùng với việc tạm dừng, không được cản trở người đi bộ lưu thông."
+   },
+   "pt": {
+    "question": "Quando o condutor atravessa uma faixa lateral (路側帯) para entrar numa loja à beira da via, deve fazer parada obrigatória (一時停止) logo antes de atravessar, mesmo que não haja pedestres à vista.",
+    "explanation": "É o Kyosoku, Capítulo 5, Seção 3, item 6(2). Além de parar, não se deve obstruir a passagem dos pedestres."
+   }
   },
-  {
-    "id": "K4-2-009",
-    "category": "仮運転免許",
-    "kp": "4-2-1",
-    "group": "F",
-    "source": "教則 第4章第2節1(3)",
-    "question_type": "text",
-    "qf": "QF-4-2-1-A-N-06",
-    "question_ja": "仮運転免許で練習のため運転するときは、車の前と後ろの定められた位置に仮免許練習標識を付けなければならない。",
-    "answer": true,
-    "explanation_ja": "教則第4章第2節1(3)のとおりです。指導者を横に乗せることと合わせて、両方が必要です。",
-    "i18n": {
-      "zh": {
-        "question": "持临时驾驶证为练习而驾驶时，必须在车辆前后规定位置张贴临时驾照练习标志。",
-        "explanation": "符合教则第4章第2节1(3)的规定。这与让指导者坐在旁边是两项都必须满足的要求。"
-      },
-      "en": {
-        "question": "When practising on a provisional licence you must display the provisional-licence practice sign at the set positions on the front and the rear of the car.",
-        "explanation": "This is Kyosoku Chapter 4 Section 2 item 1(3). Both this and having an instructor beside you are required."
-      },
-      "vi": {
-        "question": "Khi tập lái với bằng tạm, bạn phải gắn biển tập lái bằng tạm ở vị trí quy định phía trước và phía sau xe.",
-        "explanation": "Đúng theo Kyosoku Chương 4 Mục 2 điểm 1(3). Cả việc này lẫn việc có người hướng dẫn ngồi cạnh đều bắt buộc."
-      },
-      "pt": {
-        "question": "Ao treinar com habilitação provisória você deve exibir a placa de treinamento nas posições determinadas à frente e atrás do carro.",
-        "explanation": "É o Kyosoku, Capítulo 4, Seção 2, item 1(3). Tanto isso quanto levar um instrutor ao lado são exigidos."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "N",
+  "difficulty": 1,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-3-129",
+  "category": "歩行者の保護",
+  "kp": "5-3-6",
+  "group": "H",
+  "source": "教則 第5章第3節6(2)",
+  "question_type": "text",
+  "qf": "QF-5-2-D-SW-02",
+  "question_ja": "道路に面した場所に出入りするため歩道を横切るときは、歩行者がいれば一時停止しなければならないが、歩行者がいなければ徐行して通ればよい。",
+  "answer": false,
+  "explanation_ja": "歩行者の有無で変わるものではありません。歩道や路側帯を横切るときは、歩行者がいない場合でもその直前で一時停止しなければなりません（教則第5章第3節6(2)）。",
+  "i18n": {
+   "zh": {
+    "question": "为出入面向道路的场所而横穿人行道时，有步行者就必须暂停（一時停止），没有步行者则缓行（徐行）通过即可。",
+    "explanation": "并不因有无步行者而改变。横穿人行道或路侧带（路側帯）时，即使没有步行者也必须在其正前方暂停（教则第5章第3节6(2)）。"
+   },
+   "en": {
+    "question": "When crossing a sidewalk to get in or out of a roadside facility (shop, garage, etc.), you must come to a complete stop (一時停止) if pedestrians are there, but if there are none it is enough to proceed slowly (徐行).",
+    "explanation": "It does not change with whether pedestrians are there. When crossing a sidewalk or a side strip (路側帯) you must come to a complete stop just before it even if there are no pedestrians (Kyosoku Chapter 5 Section 3 item 6(2))."
+   },
+   "vi": {
+    "question": "Khi cắt ngang vỉa hè để ra vào nơi ven đường (cửa hàng, gara, v.v.), nếu có người đi bộ thì phải tạm dừng (一時停止), còn nếu không có thì chỉ cần lưu thông chậm (徐行) đi qua.",
+    "explanation": "Điều đó không thay đổi theo việc có hay không có người đi bộ. Khi cắt ngang vỉa hè hay lề đường (路側帯), dù không có người đi bộ cũng phải tạm dừng ngay trước đó (Kyosoku Chương 5 Mục 3 điểm 6(2))."
+   },
+   "pt": {
+    "question": "Ao atravessar uma calçada para entrar ou sair de um estabelecimento à beira da via (loja, garagem etc.), é preciso fazer parada obrigatória (一時停止) se houver pedestres, mas se não houver basta prosseguir lentamente (徐行).",
+    "explanation": "Isso não muda conforme haja ou não pedestres. Ao atravessar uma calçada ou uma faixa lateral (路側帯), é preciso fazer parada obrigatória logo antes dela mesmo que não haja pedestres (Kyosoku, Capítulo 5, Seção 3, item 6(2))."
+   }
   },
-  {
-    "id": "K4-2-010",
-    "category": "運転免許の仕組み",
-    "kp": "4-2-1",
-    "group": "F",
-    "source": "教則 第4章第2節1(2)",
-    "question_type": "text",
-    "qf": "QF-4-2-1-A-N-07",
-    "question_ja": "自動車運転代行業に従事する運転者が客に代わって運転する普通自動車を運転しようとする場合には、第二種運転免許が必要である。",
-    "answer": true,
-    "explanation_ja": "教則第4章第2節1(2)のとおりです。旅客自動車でなくても、代行運転自動車は第二種免許の対象です。",
-    "i18n": {
-      "zh": {
-        "question": "从事汽车代驾业的驾驶员代替客人驾驶普通汽车时，需要第二种驾驶证。",
-        "explanation": "符合教则第4章第2节1(2)的规定。即使不是旅客汽车，代驾用车也属于第二种驾照的对象。"
-      },
-      "en": {
-        "question": "A driver working in the substitute-driving business who drives a customer's ordinary car on their behalf needs a Class 2 driver's licence.",
-        "explanation": "This is Kyosoku Chapter 4 Section 2 item 1(2). A substitute-driving vehicle falls under Class 2 even though it is not a passenger vehicle."
-      },
-      "vi": {
-        "question": "Người lái thuộc dịch vụ lái xe thay, khi lái ô tô thông thường thay cho khách, cần có bằng lái hạng 2.",
-        "explanation": "Đúng theo Kyosoku Chương 4 Mục 2 điểm 1(2). Xe lái thay thuộc diện bằng hạng 2 dù không phải xe chở khách."
-      },
-      "pt": {
-        "question": "O motorista do serviço de condução por terceiros que dirige o automóvel comum do cliente em seu lugar precisa de habilitação de Classe 2.",
-        "explanation": "É o Kyosoku, Capítulo 4, Seção 2, item 1(2). O veículo de condução por terceiros entra na Classe 2 embora não seja veículo de passageiros."
-      }
-    },
-    "trap_type": "N",
-    "difficulty": 3,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "SW",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "K5-6-130",
+  "category": "通行区分",
+  "kp": "5-6-5",
+  "group": "H",
+  "source": "教則 第5章第6節5(2)",
+  "question_type": "text",
+  "qf": "QF-5-2-D-SC-03",
+  "question_ja": "進路の前方に止まっている工事の車があり、対向車も近づいてきたときは、対向車より先に通過できるよう速度を上げて進むのがよい。",
+  "answer": false,
+  "explanation_ja": "速度を上げて先に通過するのではありません。進路の前方に障害物があるときは、あらかじめ一時停止か減速をして、反対方向からの車に道を譲ります（教則第5章第6節5(2)）。",
+  "i18n": {
+   "zh": {
+    "question": "前方路线上停着施工车辆、对向车也正在接近时，最好加速前进以便比对向车先通过。",
+    "explanation": "不是加速先通过。前方路线上有障碍物时，要事先暂停（一時停止）或减速，把道路让给从反方向驶来的车辆（教则第5章第6节5(2)）。"
+   },
+   "en": {
+    "question": "When a works vehicle is standing in your path and an oncoming vehicle is approaching as well, it is best to speed up so as to get past before the oncoming vehicle.",
+    "explanation": "You do not speed up to get past first. When there is an obstacle in your path, you come to a complete stop (一時停止) or slow down beforehand and give way to the vehicle coming the other way (Kyosoku Chapter 5 Section 6 item 5(2))."
+   },
+   "vi": {
+    "question": "Khi phía trước có xe công trình đang đỗ và xe đi ngược chiều cũng đang tới gần, nên tăng tốc để đi qua trước xe đi ngược chiều.",
+    "explanation": "Không được tăng tốc để đi qua trước. Khi phía trước có chướng ngại vật, phải tạm dừng (一時停止) hoặc giảm tốc từ trước và nhường đường cho xe đi ngược chiều (Kyosoku Chương 5 Mục 6 điểm 5(2))."
+   },
+   "pt": {
+    "question": "Quando um veículo de obras está parado no seu caminho e um veículo em sentido contrário também se aproxima, o melhor é acelerar para passar antes dele.",
+    "explanation": "Não se acelera para passar primeiro. Quando há um obstáculo no caminho, faz-se parada obrigatória (一時停止) ou reduz-se a velocidade de antemão e dá-se passagem ao veículo que vem em sentido contrário (Kyosoku, Capítulo 5, Seção 6, item 5(2))."
+   }
   },
-  {
-    "id": "K4-2-011",
-    "category": "運転免許の仕組み",
-    "kp": "4-2",
-    "group": "F",
-    "source": "教則 第4章第2節",
-    "question_type": "text",
-    "qf": "QF-4-2-D-EI-01",
-    "question_ja": "免許証を自宅に保管していても、免許を受けてさえいれば自動車を運転することができる。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第4章第2節により、運転するときは免許証を携帯しなければなりません。",
-    "i18n": {
-      "zh": {
-        "question": "即使把驾驶证保管在家，只要取得了驾照就可以驾驶汽车。",
-        "explanation": "错误。根据教则第4章第2节，驾驶时必须随身携带驾驶证。"
-      },
-      "en": {
-        "question": "As long as you hold a licence you may drive even with the licence itself left at home.",
-        "explanation": "This is wrong. Under Kyosoku Chapter 4 Section 2 you must carry the licence with you when driving."
-      },
-      "vi": {
-        "question": "Chỉ cần bạn có bằng lái là được lái xe, dù để bằng ở nhà.",
-        "explanation": "Sai. Theo Kyosoku Chương 4 Mục 2, khi lái xe bạn phải mang bằng theo người."
-      },
-      "pt": {
-        "question": "Desde que você seja habilitado, pode dirigir mesmo com a habilitação deixada em casa.",
-        "explanation": "Está errado. Pelo Kyosoku, Capítulo 4, Seção 2, você deve portar a habilitação ao dirigir."
-      }
-    },
-    "trap_type": "EI",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免|外免"
+  "trap_type": "SC",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免|外免"
+ },
+ {
+  "id": "KM-101",
+  "category": "標示",
+  "kp": "付3-2-9",
+  "group": "H",
+  "source": "教則 付表3（2）9 / 道交法第17条の3",
+  "question_type": "marking",
+  "qf": "QF-付3-A-N-11",
+  "image": {
+   "sign_no": "108",
+   "file": "M108.svg",
+   "license": "PD-Japan-exempt (標識令 catalogue reproduction)",
+   "file_verified": true
   },
-  {
-    "id": "K4-2-012",
-    "category": "仮運転免許",
-    "kp": "4-2-1",
-    "group": "F",
-    "source": "教則 第4章第2節1(3)",
-    "question_type": "text",
-    "qf": "QF-4-2-1-D-NU-01",
-    "question_ja": "仮運転免許で練習のため普通自動車を運転するときに横に乗せる指導者は、その車を運転することのできる第一種免許を1年以上受けている者でよい。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第4章第2節1(3)により、第一種免許であれば3年以上受けている者でなければなりません。",
-    "i18n": {
-      "zh": {
-        "question": "持临时驾驶证为练习而驾驶普通汽车时，坐在旁边的指导者只要持有能驾驶该车的第一种驾照满1年以上即可。",
-        "explanation": "错误。根据教则第4章第2节1(3)，若是第一种驾照，必须持有满3年以上。"
-      },
-      "en": {
-        "question": "The instructor sitting beside a provisional-licence holder practising in an ordinary car need only have held a Class 1 licence for that vehicle for one year or more.",
-        "explanation": "This is wrong. Under Kyosoku Chapter 4 Section 2 item 1(3) a Class 1 holder must have held it for three years or more."
-      },
-      "vi": {
-        "question": "Người hướng dẫn ngồi cạnh người tập lái bằng tạm trên ô tô thông thường chỉ cần giữ bằng hạng 1 cho loại xe đó từ một năm trở lên.",
-        "explanation": "Sai. Theo Kyosoku Chương 4 Mục 2 điểm 1(3), nếu là bằng hạng 1 thì phải giữ từ ba năm trở lên."
-      },
-      "pt": {
-        "question": "O instrutor ao lado de quem treina com habilitação provisória em automóvel comum basta ter Classe 1 daquele veículo há um ano ou mais.",
-        "explanation": "Está errado. Pelo Kyosoku, Capítulo 4, Seção 2, item 1(3), no caso da Classe 1 são exigidos três anos ou mais."
-      }
-    },
-    "trap_type": "NU",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
+  "question_ja": "この標示のある路側帯は、歩行者のほか、著しく歩行者の通行を妨げることとなる場合を除いて軽車両も通行することができる。",
+  "answer": true,
+  "explanation_ja": "教則付表3（2）9のとおりです。白の実線1本で示されるふつうの路側帯では、軽車両は歩行者の通行を妨げない速度と方法で通行することができます（道交法第17条の3）。",
+  "i18n": {
+   "zh": {
+    "question": "有这个标示（路面）的路侧带（路側帯），步行者可以通行；除会显著妨碍步行者通行的情况外，轻车辆（自行车、人力车等）也可以通行。",
+    "explanation": "符合教则附表3（2）9的规定。在以一条白色实线表示的普通路侧带上，轻车辆可以以不妨碍步行者通行的速度和方法通行（道交法第17条之3）。"
+   },
+   "en": {
+    "question": "On the side strip (路側帯) with this road marking, pedestrians may walk, and light road vehicles (bicycles, carts, etc.) may also pass along it except where doing so would seriously obstruct pedestrians.",
+    "explanation": "This is Kyosoku Appendix 3(2) item 9. On an ordinary side strip, shown by a single solid white line, a light road vehicle may pass at a speed and in a manner that does not obstruct the progress of pedestrians (Road Traffic Act Article 17-3)."
+   },
+   "vi": {
+    "question": "Ở lề đường (路側帯) có vạch kẻ đường (kí hiệu trên mặt đường) này, người đi bộ được đi, và xe thô sơ (xe đạp, xe kéo, v.v.) cũng được đi trừ khi việc đó cản trở nghiêm trọng người đi bộ.",
+    "explanation": "Đúng theo Kyosoku Phụ lục 3(2) mục 9. Ở lề đường thông thường, thể hiện bằng một vạch trắng liền, xe thô sơ được đi với tốc độ và cách đi không cản trở người đi bộ lưu thông (Luật Giao thông Đường bộ Điều 17-3)."
+   },
+   "pt": {
+    "question": "Na faixa lateral (路側帯) com esta sinalização horizontal, os pedestres podem andar e os veículos leves (bicicleta, carroça etc.) também podem circular, salvo quando isso atrapalhar seriamente os pedestres.",
+    "explanation": "É o Kyosoku, Anexo 3(2), item 9. Numa faixa lateral comum, indicada por uma única linha branca contínua, o veículo leve pode circular em velocidade e de modo que não obstrua a passagem dos pedestres (Lei de Trânsito, Artigo 17-3)."
+   }
   },
-  {
-    "id": "K4-2-013",
-    "category": "運転免許の仕組み",
-    "kp": "4-2",
-    "group": "F",
-    "source": "教則 第4章第2節",
-    "question_type": "text",
-    "qf": "QF-4-2-D-EI-02",
-    "question_ja": "免許の停止処分を受けている期間中でも、買い物など日常生活に必要な範囲であれば運転してよい。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第4章第2節により、免許の停止処分中の者はその期間運転することができません。",
-    "i18n": {
-      "zh": {
-        "question": "即使在受到驾照停止处分的期间内，只要是购物等日常生活所需的范围，也可以驾驶。",
-        "explanation": "错误。根据教则第4章第2节，受驾照停止处分的人在该期间内不能驾驶。"
-      },
-      "en": {
-        "question": "Even while your licence is suspended you may drive for everyday needs such as shopping.",
-        "explanation": "This is wrong. Under Kyosoku Chapter 4 Section 2 a person under suspension may not drive during that period."
-      },
-      "vi": {
-        "question": "Ngay trong thời gian bằng bị đình chỉ, bạn vẫn được lái xe cho những nhu cầu hằng ngày như đi mua sắm.",
-        "explanation": "Sai. Theo Kyosoku Chương 4 Mục 2, người đang bị đình chỉ không được lái xe trong thời gian đó."
-      },
-      "pt": {
-        "question": "Mesmo com a habilitação suspensa você pode dirigir para necessidades do dia a dia, como fazer compras.",
-        "explanation": "Está errado. Pelo Kyosoku, Capítulo 4, Seção 2, quem está com a habilitação suspensa não pode dirigir nesse período."
-      }
-    },
-    "trap_type": "EI",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免|外免"
-  },
-  {
-    "id": "K4-2-014",
-    "category": "運転免許の仕組み",
-    "kp": "4-2-1",
-    "group": "F",
-    "source": "教則 第4章第2節1(2)",
-    "question_type": "text",
-    "qf": "QF-4-2-1-D-SW-01",
-    "question_ja": "タクシーを旅客運送のために運転するには、第一種運転免許があればよい。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第4章第2節1(2)により、旅客自動車を旅客運送のために運転する場合は第二種運転免許が必要です。",
-    "i18n": {
-      "zh": {
-        "question": "为旅客运送而驾驶出租车，有第一种驾驶证就可以。",
-        "explanation": "错误。根据教则第4章第2节1(2)，为旅客运送而驾驶旅客汽车时需要第二种驾驶证。"
-      },
-      "en": {
-        "question": "A Class 1 driver's licence is enough to drive a taxi carrying passengers.",
-        "explanation": "This is wrong. Under Kyosoku Chapter 4 Section 2 item 1(2) driving a passenger vehicle to carry passengers requires a Class 2 licence."
-      },
-      "vi": {
-        "question": "Bằng lái hạng 1 là đủ để lái taxi chở khách.",
-        "explanation": "Sai. Theo Kyosoku Chương 4 Mục 2 điểm 1(2), lái phương tiện chở khách để vận chuyển hành khách cần bằng hạng 2."
-      },
-      "pt": {
-        "question": "A habilitação de Classe 1 basta para dirigir um táxi transportando passageiros.",
-        "explanation": "Está errado. Pelo Kyosoku, Capítulo 4, Seção 2, item 1(2), conduzir veículo de passageiros no transporte de passageiros exige a Classe 2."
-      }
-    },
-    "trap_type": "SW",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免|外免"
-  },
-  {
-    "id": "K4-2-015",
-    "category": "仮運転免許",
-    "kp": "4-2-1",
-    "group": "F",
-    "source": "教則 第4章第2節1(3)",
-    "question_type": "text",
-    "qf": "QF-4-2-1-D-NR-01",
-    "question_ja": "仮運転免許で練習するときは、資格のある指導者を横に乗せていれば、仮免許練習標識は付けなくてよい。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第4章第2節1(3)により、車の前と後ろの定められた位置に仮免許練習標識を付けなければなりません。",
-    "i18n": {
-      "zh": {
-        "question": "持临时驾驶证练习时，只要让有资格的指导者坐在旁边，就可以不贴临时驾照练习标志。",
-        "explanation": "错误。根据教则第4章第2节1(3)，必须在车辆前后规定位置张贴临时驾照练习标志。"
-      },
-      "en": {
-        "question": "When practising on a provisional licence you need not display the practice sign as long as a qualified instructor is sitting beside you.",
-        "explanation": "This is wrong. Under Kyosoku Chapter 4 Section 2 item 1(3) the practice sign must be displayed at the set positions on the front and the rear."
-      },
-      "vi": {
-        "question": "Khi tập lái với bằng tạm, bạn không cần gắn biển tập lái miễn là có người hướng dẫn đủ tư cách ngồi cạnh.",
-        "explanation": "Sai. Theo Kyosoku Chương 4 Mục 2 điểm 1(3), biển tập lái phải được gắn ở vị trí quy định phía trước và phía sau."
-      },
-      "pt": {
-        "question": "Ao treinar com habilitação provisória não é preciso exibir a placa de treinamento desde que um instrutor qualificado esteja ao seu lado.",
-        "explanation": "Está errado. Pelo Kyosoku, Capítulo 4, Seção 2, item 1(3), a placa deve ser exibida nas posições determinadas à frente e atrás."
-      }
-    },
-    "trap_type": "NR",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
-  },
-  {
-    "id": "K4-2-016",
-    "category": "運転免許の仕組み",
-    "kp": "4-2-1",
-    "group": "F",
-    "source": "教則 第4章第2節1(2)",
-    "question_type": "text",
-    "qf": "QF-4-2-1-D-EI-01",
-    "question_ja": "代行運転自動車である普通自動車は、普通免許だけで運転することができる。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第4章第2節1(2)により、代行運転自動車である普通自動車を運転しようとする場合は第二種運転免許が必要です。",
-    "i18n": {
-      "zh": {
-        "question": "属于代驾用车的普通汽车，只用普通驾照就可以驾驶。",
-        "explanation": "错误。根据教则第4章第2节1(2)，驾驶属于代驾用车的普通汽车时需要第二种驾驶证。"
-      },
-      "en": {
-        "question": "An ordinary car used as a substitute-driving vehicle may be driven on an ordinary licence alone.",
-        "explanation": "This is wrong. Under Kyosoku Chapter 4 Section 2 item 1(2) driving an ordinary car as a substitute-driving vehicle requires a Class 2 licence."
-      },
-      "vi": {
-        "question": "Ô tô thông thường dùng làm xe lái thay có thể được lái chỉ với bằng hạng thường.",
-        "explanation": "Sai. Theo Kyosoku Chương 4 Mục 2 điểm 1(2), lái ô tô thông thường làm xe lái thay cần bằng hạng 2."
-      },
-      "pt": {
-        "question": "O automóvel comum usado como veículo de condução por terceiros pode ser dirigido apenas com habilitação comum.",
-        "explanation": "Está errado. Pelo Kyosoku, Capítulo 4, Seção 2, item 1(2), conduzir automóvel comum como veículo de condução por terceiros exige a Classe 2."
-      }
-    },
-    "trap_type": "EI",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
-  },
-  {
-    "id": "K4-2-017",
-    "category": "仮運転免許",
-    "kp": "4-2-1",
-    "group": "F",
-    "source": "教則 第4章第2節1(3)",
-    "question_type": "text",
-    "qf": "QF-4-2-1-D-SW-02",
-    "question_ja": "仮運転免許は、第二種運転免許を受けようとする者が練習のために受ける免許である。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第4章第2節1(3)により、仮運転免許は第一種免許を受けようとする者のための免許です。",
-    "i18n": {
-      "zh": {
-        "question": "临时驾驶证是准备取得第二种驾驶证的人为练习而取得的驾照。",
-        "explanation": "错误。根据教则第4章第2节1(3)，临时驾驶证是为准备取得第一种驾照的人设立的。"
-      },
-      "en": {
-        "question": "A provisional licence is what someone seeking a Class 2 driver's licence obtains in order to practise.",
-        "explanation": "This is wrong. Under Kyosoku Chapter 4 Section 2 item 1(3) the provisional licence is for someone seeking a Class 1 licence."
-      },
-      "vi": {
-        "question": "Bằng tạm là bằng mà người đang xin bằng hạng 2 lấy để tập lái.",
-        "explanation": "Sai. Theo Kyosoku Chương 4 Mục 2 điểm 1(3), bằng tạm dành cho người đang xin bằng hạng 1."
-      },
-      "pt": {
-        "question": "A habilitação provisória é a que obtém quem busca a Classe 2 para poder treinar.",
-        "explanation": "Está errado. Pelo Kyosoku, Capítulo 4, Seção 2, item 1(3), a provisória é para quem busca a Classe 1."
-      }
-    },
-    "trap_type": "SW",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
-  },
-  {
-    "id": "K4-2-018",
-    "category": "仮運転免許",
-    "kp": "4-2-1",
-    "group": "F",
-    "source": "教則 第4章第2節1(3)",
-    "question_type": "text",
-    "qf": "QF-4-2-1-D-EI-02",
-    "question_ja": "仮運転免許での練習中、横に乗っている指導者は、同乗してさえいれば眠っていても差し支えない。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第4章第2節1(3)は、指導者を横に乗せてその指導を受けながら運転することを求めています。",
-    "i18n": {
-      "zh": {
-        "question": "持临时驾驶证练习期间，坐在旁边的指导者只要同乘着，即使睡着了也没有关系。",
-        "explanation": "错误。教则第4章第2节1(3)要求让指导者坐在旁边并在其指导下驾驶。"
-      },
-      "en": {
-        "question": "While practising on a provisional licence it does not matter if the instructor beside you is asleep, so long as they are in the car.",
-        "explanation": "This is wrong. Kyosoku Chapter 4 Section 2 item 1(3) requires you to drive under the instruction of the person sitting beside you."
-      },
-      "vi": {
-        "question": "Khi tập lái với bằng tạm, người hướng dẫn ngồi cạnh có ngủ cũng không sao, miễn là họ có mặt trên xe.",
-        "explanation": "Sai. Kyosoku Chương 4 Mục 2 điểm 1(3) yêu cầu bạn lái dưới sự hướng dẫn của người ngồi bên cạnh."
-      },
-      "pt": {
-        "question": "Durante o treinamento com habilitação provisória não importa se o instrutor ao lado estiver dormindo, desde que esteja no carro.",
-        "explanation": "Está errado. O Kyosoku, Capítulo 4, Seção 2, item 1(3), exige que você dirija sob a orientação de quem está ao seu lado."
-      }
-    },
-    "trap_type": "EI",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
-  },
-  {
-    "id": "K4-2-019",
-    "category": "運転免許の仕組み",
-    "kp": "4-2",
-    "group": "F",
-    "source": "教則 第4章第2節",
-    "question_type": "text",
-    "qf": "QF-4-2-D-SC-01",
-    "question_ja": "出掛けてから免許証を家に忘れたことに気づいたが、近所を走るだけだったので、そのまま運転を続けた。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第4章第2節により、運転するときは免許証を携帯しなければなりません。",
-    "i18n": {
-      "zh": {
-        "question": "出门后发现把驾驶证忘在家里了，但因为只是在附近行驶，就继续驾驶了。",
-        "explanation": "错误。根据教则第4章第2节，驾驶时必须随身携带驾驶证。"
-      },
-      "en": {
-        "question": "After setting off you realised you had left your licence at home, but carried on because you were only driving locally.",
-        "explanation": "This is wrong. Under Kyosoku Chapter 4 Section 2 you must carry your licence with you when driving."
-      },
-      "vi": {
-        "question": "Sau khi khởi hành bạn nhận ra đã để quên bằng lái ở nhà, nhưng vẫn đi tiếp vì chỉ chạy quanh khu vực gần.",
-        "explanation": "Sai. Theo Kyosoku Chương 4 Mục 2, khi lái xe bạn phải mang bằng theo người."
-      },
-      "pt": {
-        "question": "Depois de sair você percebeu que esquecera a habilitação em casa, mas seguiu dirigindo porque era só nas redondezas.",
-        "explanation": "Está errado. Pelo Kyosoku, Capítulo 4, Seção 2, você deve portar a habilitação ao dirigir."
-      }
-    },
-    "trap_type": "SC",
-    "difficulty": 1,
-    "exam_scope": "仮免|本免|外免"
-  },
-  {
-    "id": "K4-2-020",
-    "category": "運転免許の仕組み",
-    "kp": "4-2-1",
-    "group": "F",
-    "source": "教則 第4章第2節1",
-    "question_type": "text",
-    "qf": "QF-4-2-1-D-NR-02",
-    "question_ja": "運転免許の区分は、第一種運転免許と第二種運転免許の二種である。",
-    "answer": false,
-    "explanation_ja": "誤りです。教則第4章第2節1により、このほかに仮運転免許があり、三種に分かれます。",
-    "i18n": {
-      "zh": {
-        "question": "驾驶证的区分是第一种驾驶证和第二种驾驶证两种。",
-        "explanation": "错误。根据教则第4章第2节1，除此之外还有临时驾驶证，共分三种。"
-      },
-      "en": {
-        "question": "Driver's licences fall into two kinds, Class 1 and Class 2.",
-        "explanation": "This is wrong. Under Kyosoku Chapter 4 Section 2 item 1 there is also the provisional licence, making three kinds."
-      },
-      "vi": {
-        "question": "Bằng lái xe chia thành hai loại: hạng 1 và hạng 2.",
-        "explanation": "Sai. Theo Kyosoku Chương 4 Mục 2 điểm 1, còn có bằng tạm nữa, thành ba loại."
-      },
-      "pt": {
-        "question": "As habilitações se dividem em duas espécies: Classe 1 e Classe 2.",
-        "explanation": "Está errado. Pelo Kyosoku, Capítulo 4, Seção 2, item 1, existe ainda a provisória, totalizando três."
-      }
-    },
-    "trap_type": "NR",
-    "difficulty": 2,
-    "exam_scope": "仮免|本免|外免"
-  }
+  "trap_type": "N",
+  "difficulty": 2,
+  "exam_scope": "仮免|本免"
+ }
 ]

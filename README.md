@@ -3,20 +3,32 @@
 Original practice questions for the Japanese driver's licence knowledge tests, in
 five languages: 日本語 · 简体中文 · English · Tiếng Việt · Português.
 
-**仮免許 (provisional licence, first stage): 1000 questions, complete.** Every one is
-written from the official sources and carried in all five languages: 500 true and 500
-false, 160 of them with a road-sign or road-marking image, spread over about 190
-knowledge points of the 教則 and the 道路交通法.
+**仮免許 (provisional licence, first stage): 498 questions, complete.** Every one is
+written from the official sources and carried in all five languages: 247 true and 251
+false, 108 of them with a road-sign, road-marking or signal image, spread over 28
+sections of the 教則 and the 道路交通法.
+
+Which questions exist is not a judgement call. The bank is the deduplicated set of
+question fingerprints that the reference exam material actually asks — a knowledge
+point, a direction, a trap and a tested condition — with one question per fingerprint
+and nothing added for syllabus symmetry. `data/fingerprints.json` lists all 507 of
+them, the source sets that attest each one, and the 9 that may not be asked, with the
+reason. `docs/coverage.md` is the readable version.
 
 ```
-questions/karimen/batch-01.json …   50 batches of 20, Japanese master + i18n
-data/taxonomy.<lang>.json           9 教則 chapters and 32 sections, five languages
+questions/karimen/batch-01.json …   35 batches, one knowledge-point group each
+data/taxonomy.<lang>.json           10 chapters and 39 sections, five languages
 docs/authoring.md                   how a question is written — read this first
 docs/glossary-v7.md                 the binding terminology glossary, 203 terms
-docs/coverage-plan.md               what the 1000 cover, and in what order
+docs/originality.md                 how the bank is checked against the reference material
+data/fingerprints.json             every fingerprint the bank covers, and who attests it
+docs/coverage.md                    the readable version of it, generated
 schema/question.schema.json         the question object
 tools/validate.py                   structure, trap/answer pairing, glossary bans
 tools/stats.py                      coverage, trap mix, ○× balance
+tools/check_glossary.py             where the bank renders one term two ways
+tools/link_ledger.py                points the ledger at the questions covering it
+tools/coverage.py                   regenerates docs/coverage.md from the ledger
 tools/build_packs.py                builds dist/ — the packs the app downloads
 signs/                              road-sign SVGs used by image questions
 dist/                               generated content packs + manifest.json
@@ -39,7 +51,7 @@ exists only in the core pack, so a language pack can be read by anyone without
 giving the answers away.
 
 The free/full split is one half of what the app's one purchase buys: 120 questions
-to study for free, all 1000 with the purchase, which also unlocks the app's timed
+to study for free, all 498 with the purchase, which also unlocks the app's timed
 mock exams. It is a visibility limit and nothing more: every pack is published in
 the clear, because these questions are public and a cipher over a plaintext
 published beside it would protect nothing. Reading the bank here is free, under the
@@ -72,7 +84,8 @@ Questions derive only from:
 
 Driving-school textbooks and commercial question banks are **not** sources. They were
 read only to see what the real exams emphasise; no wording, sentence structure, number
-combination or illustration from them appears here.
+combination or illustration from them appears here. That is checked rather than merely
+asserted — `docs/originality.md` records how, and what the check found.
 
 English, Vietnamese and Portuguese terminology follows the official multilingual
 traffic materials published by the 警察庁 / 警視庁 / prefectural police, as recorded in
@@ -81,7 +94,7 @@ traffic materials published by the 警察庁 / 警視庁 / prefectural police, a
 ## Statutory currency
 
 Traffic law moves. These questions are written against the state of the law recorded
-in `docs/coverage-plan.md`, including the 30 km/h default speed limit on residential
+in `docs/coverage.md`, including the 30 km/h default speed limit on residential
 roads in force since 2026-09-01 and the 2026-04-01 amendments. A question whose exact
 figure or condition could not be confirmed against a primary source carries
 `"verify": true` and is not shipped until it has been.
