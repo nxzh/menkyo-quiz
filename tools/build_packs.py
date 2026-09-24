@@ -7,6 +7,7 @@ Reads questions/karimen/*.json and data/taxonomy.*.json, writes dist/:
     core-<tier>.json        language-neutral: answers, chapter, citation, trap
     <lang>-<tier>.json      question + explanation only, no answers
     taxonomy.json           chapter and section names in five languages
+    terms.json              the search vocabulary, five languages in one file
 
 Nothing here is encrypted. The questions are public, so a cipher over a
 plaintext published beside it protects nothing; the purchase buys how much of
@@ -36,6 +37,8 @@ import shutil
 import sys
 from datetime import date
 from pathlib import Path
+
+import build_search_terms
 
 ROOT = Path(__file__).resolve().parent.parent
 QUESTIONS = ROOT / "questions"
@@ -304,29 +307,41 @@ def release_notes(previous_manifest, content_version, counts, changed,
     old_counts = (previous_manifest or {}).get("counts", {})
     added = counts["total"] - old_counts.get("total", 0)
     withdrawn = len(hidden_ids) - len(((previous_manifest or {}).get("hidden_ids", [])))
+    # Only the language packs carry a language in their id. `terms` is one
+    # file for all five, so it is reported on its own line, not as a list of
+    # languages whose translations moved.
     langs = sorted({pid.rsplit("-", 1)[0] for pid in text_changed
-                    if not pid.startswith("core") and pid != "taxonomy"})
+                    if not pid.startswith("core") and pid not in ("taxonomy", "terms")})
+    # `text_changed`, not `changed`: a licence edit rewrites every pack's bytes
+    # without moving a word of the vocabulary, and the note must not claim it
+    # did — the same distinction the translation line already makes. A terms
+    # pack the previous manifest did not carry counts too, or the release that
+    # first publishes the vocabulary would have nothing to say for itself.
+    terms_is_new = previous_manifest is not None and not any(
+        p["id"] == "terms" for p in previous_manifest.get("packs", []))
+    terms_changed = previous_manifest is not None and (
+        "terms" in text_changed or terms_is_new)
     law_changed = (previous_manifest or {}).get("law_revision_date") != law_revision_date
 
     templates = {
         "ja": {"added": "問題を{n}問追加", "withdrawn": "問題を{n}問取り下げ",
                "translations": "訳文を修正（{langs}）", "law": "{date}時点の法令に対応",
-               "license": "ライセンス表記を更新", "first": "最初のリリース"},
+               "license": "ライセンス表記を更新", "first": "最初のリリース", "terms": "検索の語彙を更新"},
         "en": {"added": "{n} questions added", "withdrawn": "{n} questions withdrawn",
                "translations": "Translations corrected ({langs})",
                "law": "Reflects the law as of {date}",
-               "license": "Licence statement updated", "first": "First release"},
+               "license": "Licence statement updated", "first": "First release", "terms": "Search vocabulary updated"},
         "zh-Hans": {"added": "新增 {n} 道题", "withdrawn": "撤回 {n} 道题",
                     "translations": "修正译文（{langs}）", "law": "对应 {date} 的法令",
-                    "license": "更新许可证声明", "first": "首次发布"},
+                    "license": "更新许可证声明", "first": "首次发布", "terms": "更新搜索词表"},
         "vi": {"added": "Thêm {n} câu hỏi", "withdrawn": "Rút {n} câu hỏi",
                "translations": "Sửa bản dịch ({langs})",
                "law": "Theo luật tính đến {date}",
-               "license": "Cập nhật thông tin giấy phép", "first": "Phát hành lần đầu"},
+               "license": "Cập nhật thông tin giấy phép", "first": "Phát hành lần đầu", "terms": "Cập nhật từ vựng tìm kiếm"},
         "pt-BR": {"added": "{n} questões adicionadas", "withdrawn": "{n} questões retiradas",
                   "translations": "Traduções corrigidas ({langs})",
                   "law": "Reflete a lei em {date}",
-                  "license": "Declaração de licença atualizada", "first": "Primeira versão"},
+                  "license": "Declaração de licença atualizada", "first": "Primeira versão", "terms": "Vocabulário de busca atualizado"},
     }
     names = {"ja": {"ja": "日本語", "en": "英語", "zh-Hans": "中国語", "vi": "ベトナム語",
                     "pt-BR": "ポルトガル語"},
@@ -354,6 +369,8 @@ def release_notes(previous_manifest, content_version, counts, changed,
             lines.append(words["translations"].format(langs=readable))
         if law_changed:
             lines.append(words["law"].format(date=law_revision_date))
+        if terms_changed:
+            lines.append(words["terms"])
         if license_changed and previous_manifest is not None:
             lines.append(words["license"])
         items[lang] = lines
@@ -426,6 +443,18 @@ def build(dest: Path) -> dict:
             raise BuildError(f"taxonomy.{lang}: chapter(s) {empty} would ship with no sections")
     bodies["taxonomy"] = ("taxonomy", "free",
                           dumps({"license": LICENSE, "languages": shipped}))
+
+    # The search vocabulary: one multilingual file, free tier, generated from
+    # docs/glossary-v7.md and docs/search-aliases-v1.md. Position 0 of every
+    # language is the glossary's bound translation, and the generator fails
+    # rather than publish a pack where it has drifted — the app's matched-term
+    # line names position 0, so a drifted one would teach a wording the
+    # glossary does not use.
+    try:
+        terms = build_search_terms.groups(LICENSE)
+    except build_search_terms.BuildError as error:
+        raise BuildError(f"terms: {error}") from error
+    bodies["terms"] = ("terms", "free", dumps(terms))
 
     # ---- content_version advances only when some pack's bytes changed
     changed = {

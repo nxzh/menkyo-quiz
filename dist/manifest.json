@@ -1,5 +1,5 @@
 {
-  "content_version": 6,
+  "content_version": 7,
   "counts": {
     "free": 120,
     "full": 378,
@@ -35,6 +35,27 @@
   },
   "min_app_version": "1.0.0",
   "notes": [
+    {
+      "date": "2026-09-25",
+      "items": {
+        "en": [
+          "Search vocabulary updated"
+        ],
+        "ja": [
+          "検索の語彙を更新"
+        ],
+        "pt-BR": [
+          "Vocabulário de busca atualizado"
+        ],
+        "vi": [
+          "Cập nhật từ vựng tìm kiếm"
+        ],
+        "zh-Hans": [
+          "更新搜索词表"
+        ]
+      },
+      "version": 7
+    },
     {
       "date": "2026-09-25",
       "items": {
@@ -270,6 +291,18 @@
       "tier": "free",
       "url": "https://raw.githubusercontent.com/nxzh/menkyo-quiz/main/dist/taxonomy.json",
       "version": 5
+    },
+    {
+      "bytes": 46466,
+      "id": "terms",
+      "kind": "terms",
+      "lang": null,
+      "payload_sha256": "8900597e2307ba427b9fabbb2c548e61ce9087fc4adcfef02817edd6cbc04556",
+      "sha256": "8900597e2307ba427b9fabbb2c548e61ce9087fc4adcfef02817edd6cbc04556",
+      "text_sha256": "baedc8db7e503dbc4d70f7bb478b706603e973ccec8a79740a759fda205fc01a",
+      "tier": "free",
+      "url": "https://raw.githubusercontent.com/nxzh/menkyo-quiz/main/dist/terms.json",
+      "version": 7
     },
     {
       "bytes": 52741,

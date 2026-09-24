@@ -295,3 +295,64 @@ class TestTaxonomy(BuildTestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class TestTermsPack(BuildTestCase):
+    """The search vocabulary: one multilingual file, free tier, generated from
+    the glossary rather than authored twice."""
+
+    LANGS = ("ja", "zh-Hans", "en", "vi", "pt-BR")
+
+    def test_it_is_one_free_multilingual_pack(self):
+        entry = self.pack("terms")
+        self.assertEqual(entry["kind"], "terms")
+        self.assertEqual(entry["tier"], "free")
+        self.assertIsNone(entry["lang"])
+        self.assertTrue(entry["url"].endswith("/terms.json"))
+
+    def test_every_group_writes_every_language(self):
+        groups = self.payload("terms")["groups"]
+        self.assertGreater(len(groups), 100)
+        for group in groups:
+            for lang in self.LANGS:
+                self.assertTrue(group["forms"].get(lang),
+                                f"{group['id']} has no {lang} writing")
+
+    def test_position_zero_is_what_the_glossary_binds(self):
+        import build_search_terms as bst
+        problems = bst.validate(self.payload("terms"),
+                                bst.inputs()[0].read_text(encoding="utf-8"))
+        self.assertEqual(problems, [])
+
+    def test_it_carries_no_question_content(self):
+        raw = json.dumps(self.payload("terms"), ensure_ascii=False)
+        for field in ('"answer"', '"question"', '"explanation"', '"questions"'):
+            self.assertNotIn(field, raw)
+
+    def test_it_carries_the_licence_every_pack_carries(self):
+        self.assertEqual(self.payload("terms")["license"], bp.LICENSE)
+
+    def test_unchanged_input_leaves_its_version_alone(self):
+        again = bp.build(self.tmp)["manifest"]
+        mine = next(p for p in again["packs"] if p["id"] == "terms")
+        self.assertEqual(mine["version"], self.pack("terms")["version"])
+        self.assertEqual(mine["sha256"], self.pack("terms")["sha256"])
+
+    def test_the_fixed_distinctions_are_never_merged(self):
+        """Glossary rule 5. Search joining two of these into one group would
+        tell the reader they are the same word, which is the one way this
+        feature can teach something false."""
+        import build_search_terms as bst
+        groups = {g["id"]: g for g in self.payload("terms")["groups"]}
+
+        def writings(term):
+            return {bst.fold(w) for forms in groups[term]["forms"].values() for w in forms}
+
+        for left, right in (("標識", "標示"), ("停車", "駐車"), ("停車", "一時停止"),
+                            ("駐車", "一時停止"), ("追越し", "追抜き（追い抜く）")):
+            self.assertEqual(writings(left) & writings(right), set(),
+                             f"{left} and {right} share a writing")
+
+    def test_a_banned_wording_is_in_no_group(self):
+        raw = json.dumps(self.payload("terms"), ensure_ascii=False)
+        self.assertNotIn("超越", raw)
